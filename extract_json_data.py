@@ -163,14 +163,14 @@ async def main():
                     enhanced_clients.append(result)
             
             # Save intermediate results after each batch
-            with open('enhanced_clients_partial.json', 'w', encoding='utf-8') as outfile:
+            with open('processed_data_with_llm_augmentation/enhanced_clients_partial.json', 'w', encoding='utf-8') as outfile:
                 json.dump(enhanced_clients, outfile, indent=2, ensure_ascii=False)
             
     except KeyboardInterrupt:
         print("\nProcess interrupted by user. Saving progress...")
     finally:
         # Save final results
-        with open('enhanced_clients.json', 'w', encoding='utf-8') as outfile:
+        with open('processed_data_with_llm_augmentation/enhanced_clients.json', 'w', encoding='utf-8') as outfile:
             json.dump(enhanced_clients, outfile, indent=2, ensure_ascii=False)
         
         elapsed_time = time.time() - start_time
