@@ -12,7 +12,7 @@ import os
 
 CLIENT_ID_START = 0
 CLIENT_ID_END = 3333
-MAX_CONCURRENT_REQUESTS = 10  # Adjust based on API rate limits
+MAX_CONCURRENT_REQUESTS = 20  # Adjust based on API rate limits
 
 # Load API keys
 with open('keys.json') as f:
