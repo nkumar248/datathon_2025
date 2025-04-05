@@ -93,18 +93,15 @@ total_clients = len(clients)
 print(f"Found {total_clients} clients to process")
 
 # Load existing processed clients
-existing_results = load_existing_results()
+existing_results = load_existing_results() # map
 
 # Load prompt
 print("Loading prompt...")
 with open('prompts/base_prompt.txt', 'r') as f:
     prompt_template = f.read()
 
-# Add specific JSON instructions to the prompt
-prompt_template += "\n\nIMPORTANT: Your response must be ONLY a valid JSON object. Do not include any explanatory text, markdown formatting, or code blocks."
-
 # Maximum concurrent requests
-MAX_CONCURRENT = 75
+MAX_CONCURRENT = 25
 
 async def process_client(client_data, semaphore, existing_results):
     """Process a single client with rate limiting via semaphore"""
@@ -129,7 +126,7 @@ async def process_client(client_data, semaphore, existing_results):
         client_summary=client_data.get("client_description_Client_Summary", "")
     )
     
-    max_attempts = 3
+    max_attempts = 5
     success = False
     extracted_info = None
     
@@ -142,7 +139,7 @@ async def process_client(client_data, semaphore, existing_results):
                         model="gpt-4o-mini",
                         messages=[{"role": "user", "content": filled_prompt}],
                         response_format={"type": "json_object"},
-                        timeout=30  # Increased timeout from 5 to 30 seconds
+                        timeout=7  # Increased timeout from 5 to 30 seconds
                     )
                 
                 # Execute the API call in a thread pool to avoid blocking the event loop
@@ -157,6 +154,7 @@ async def process_client(client_data, semaphore, existing_results):
                     success = True
                     break
                 except json.JSONDecodeError:
+                    print(f"Raw response: {raw_response}")  # Print the faulty JSON
                     print(f"\nFailed to parse JSON for client {client_id} on attempt {attempt}")
                     
             except Exception as e:
@@ -170,7 +168,8 @@ async def process_client(client_data, semaphore, existing_results):
         print(f"\nFailed after {max_attempts} attempts for client {client_id}")
         enhanced_client["extracted_info"] = {
             "error": f"Failed after {max_attempts} attempts",
-            "status": "failed"
+            "status": "failed",
+            "faulty_response": raw_response if 'raw_response' in locals() else "No response received"
         }
         failed_clients += 1
     
