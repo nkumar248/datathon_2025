@@ -1,0 +1,47 @@
+Extract client information from the following descriptive text fields into a standardized format that matches the existing client profile structure:
+
+1. Summary Note: {summary_note}
+2. Family Background: {family_background}
+3. Education Background: {education_background}
+4. Occupation History: {occupation_history}
+5. Wealth Summary: {wealth_summary}
+6. Client Summary: {client_summary}
+
+Extract only the following fields and prefix each key with "llm_" (use "not_specified" if information is not found):
+
+PERSONAL INFORMATION:
+- llm_first_name: Client's first name
+- llm_middle_name: Client's middle name
+- llm_last_name: Client's last name
+- llm_full_name: Complete name as mentioned
+- llm_gender: "F" for female, "M" for male
+- llm_nationality: Country of citizenship
+- llm_country_of_residence: Country where client lives
+- llm_birth_date: In YYYY-MM-DD format if available, otherwise approximate from age
+- llm_age: Numerical age only
+- llm_marital_status: "single", "married", "divorced", or "widowed"
+
+ADDRESS:
+- llm_address_city: City of residence
+- llm_address_street_name: Street name if mentioned
+- llm_address_street_number: Street number if mentioned
+- llm_address_postal_code: Postal/zip code if mentioned
+
+EDUCATION:
+- llm_secondary_school_name: Name of secondary/high school
+- llm_secondary_school_graduation_year: Year as number
+
+FINANCIAL:
+- llm_aum_savings: Savings amount in numbers only
+- llm_savings_currency: Currency code (EUR, CHF, USD, DKK, etc.)
+- llm_aum_inheritance: Inheritance amount in numbers only
+- llm_inheritance_currency: Currency code of inheritance
+- llm_aum_real_estate_value: Total value of real estate properties
+- llm_real_estate_currency: Currency code of real estate values
+- llm_inheritance_details_relationship: Relationship to inheritance source (e.g., grandmother, father)
+- llm_inheritance_details_inheritance_year: Year inheritance was received
+- llm_inheritance_details_profession: Profession of inheritance source
+
+Extract only the facts explicitly stated in the text. Do not infer or assume information not directly mentioned. Format all numerical values without currency symbols or commas. 
+
+IMPORTANT: Your response must be a valid JSON object with exactly these field names (all prefixed with "llm_") to distinguish them from the existing client data. The JSON should be structured so it can be directly merged with the existing client data. Ensure all property names use double quotes and follow standard JSON syntax.
