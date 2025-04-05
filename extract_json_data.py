@@ -8,6 +8,7 @@ import aiohttp
 from concurrent.futures import ThreadPoolExecutor
 import sys
 import datetime
+import os
 
 # Load API keys
 with open('keys.json') as f:
@@ -22,6 +23,7 @@ total_clients = 0
 processed_clients = 0
 successful_clients = 0
 failed_clients = 0
+skipped_clients = 0
 start_time = time.time()
 
 def print_progress():
@@ -29,7 +31,7 @@ def print_progress():
     elapsed = time.time() - start_time
     if processed_clients > 0:
         avg_time_per_client = elapsed / processed_clients
-        estimated_remaining = avg_time_per_client * (total_clients - processed_clients)
+        estimated_remaining = avg_time_per_client * (total_clients - processed_clients - skipped_clients)
         eta = datetime.timedelta(seconds=int(estimated_remaining))
     else:
         eta = "N/A"
@@ -38,12 +40,46 @@ def print_progress():
     
     # Clear previous line and print updated progress
     sys.stdout.write("\r\033[K")  # Clear the current line
-    sys.stdout.write(f"Progress: {processed_clients}/{total_clients} clients " +
-                    f"({processed_clients/total_clients*100:.1f}%) | " +
+    sys.stdout.write(f"Progress: {processed_clients+skipped_clients}/{total_clients} clients " +
+                    f"({(processed_clients+skipped_clients)/total_clients*100:.1f}%) | " +
+                    f"Processed: {processed_clients} | Skipped: {skipped_clients} | " +
                     f"Success rate: {success_rate:.1f}% | " +
                     f"Elapsed: {datetime.timedelta(seconds=int(elapsed))} | " +
                     f"ETA: {eta}")
     sys.stdout.flush()
+
+# Load existing processed clients if available
+def load_existing_results():
+    """Load existing processed clients from the partial results file if it exists"""
+    processed_client_map = {}
+    partial_file = 'processed_data_with_llm_augmentation/enhanced_clients_partial.json'
+    
+    if os.path.exists(partial_file):
+        try:
+            with open(partial_file, 'r', encoding='utf-8') as f:
+                existing_data = json.load(f)
+                
+            print(f"Found existing results file with {len(existing_data)} entries")
+            
+            # Create a map of client_id -> processed result
+            for client_data in existing_data:
+                client_id = client_data.get('client_id')
+                if client_id:
+                    # Check if the result is valid (not an error)
+                    extracted_info = client_data.get('extracted_info', {})
+                    has_error = extracted_info.get('error') is not None or extracted_info.get('status') == 'failed'
+                    
+                    # Only consider valid responses
+                    if not has_error:
+                        processed_client_map[client_id] = client_data
+            
+            print(f"Loaded {len(processed_client_map)} valid processed clients")
+            
+        except Exception as e:
+            print(f"Error loading existing results: {str(e)}")
+            processed_client_map = {}
+    
+    return processed_client_map
 
 # Load the JSONL file
 print("Parsing clients jsonl file...")
@@ -56,6 +92,9 @@ with open('processed_data/all_clients.jsonl', 'r') as file:
 total_clients = len(clients)
 print(f"Found {total_clients} clients to process")
 
+# Load existing processed clients
+existing_results = load_existing_results()
+
 # Load prompt
 print("Loading prompt...")
 with open('prompts/base_prompt.txt', 'r') as f:
@@ -65,13 +104,20 @@ with open('prompts/base_prompt.txt', 'r') as f:
 prompt_template += "\n\nIMPORTANT: Your response must be ONLY a valid JSON object. Do not include any explanatory text, markdown formatting, or code blocks."
 
 # Maximum concurrent requests
-MAX_CONCURRENT = 100
+MAX_CONCURRENT = 75
 
-async def process_client(client_data, semaphore):
+async def process_client(client_data, semaphore, existing_results):
     """Process a single client with rate limiting via semaphore"""
-    global processed_clients, successful_clients, failed_clients
+    global processed_clients, successful_clients, failed_clients, skipped_clients
     
     client_id = client_data.get('client_id', 'unknown')
+    
+    # Check if this client has already been successfully processed
+    if client_id in existing_results:
+        skipped_clients += 1
+        print_progress()
+        return existing_results[client_id]
+    
     enhanced_client = copy.deepcopy(client_data)
     
     filled_prompt = prompt_template.format(
@@ -134,9 +180,14 @@ async def process_client(client_data, semaphore):
     return enhanced_client
 
 async def main():
+    # Create output directory if it doesn't exist
+    os.makedirs('processed_data_with_llm_augmentation', exist_ok=True)
+    
     clients_to_process = clients
+    existing_results = load_existing_results()
     
     print(f"Starting processing of {len(clients_to_process)} clients with {MAX_CONCURRENT} concurrent connections")
+    print(f"Already processed: {len(existing_results)} clients")
     print("Press Ctrl+C to stop (progress will be saved)")
     print_progress()
     
@@ -144,7 +195,7 @@ async def main():
     semaphore = asyncio.Semaphore(MAX_CONCURRENT)
     
     # Create tasks for all clients
-    tasks = [process_client(client, semaphore) for client in clients_to_process]
+    tasks = [process_client(client, semaphore, existing_results) for client in clients_to_process]
     
     # Process in batches to show progress
     enhanced_clients = []
@@ -177,10 +228,12 @@ async def main():
         print(f"\n\nProcessing summary:")
         print(f"Total clients: {total_clients}")
         print(f"Processed: {processed_clients} ({processed_clients/total_clients*100:.1f}%)")
+        print(f"Skipped: {skipped_clients} ({skipped_clients/total_clients*100:.1f}%)")
         print(f"Successful: {successful_clients} ({successful_clients/processed_clients*100:.1f}% of processed)")
         print(f"Failed: {failed_clients}")
         print(f"Total processing time: {datetime.timedelta(seconds=int(elapsed_time))}")
-        print(f"Average time per client: {elapsed_time/processed_clients:.2f} seconds")
+        if processed_clients > 0:
+            print(f"Average time per processed client: {elapsed_time/processed_clients:.2f} seconds")
         print(f"Enhanced data saved to 'enhanced_clients.json'")
 
 # Run the async main function
