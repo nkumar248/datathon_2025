@@ -65,7 +65,7 @@ with open('prompts/base_prompt.txt', 'r') as f:
 prompt_template += "\n\nIMPORTANT: Your response must be ONLY a valid JSON object. Do not include any explanatory text, markdown formatting, or code blocks."
 
 # Maximum concurrent requests
-MAX_CONCURRENT = 5  # Adjust based on your OpenAI rate limits
+MAX_CONCURRENT = 25
 
 async def process_client(client_data, semaphore):
     """Process a single client with rate limiting via semaphore"""
@@ -93,7 +93,7 @@ async def process_client(client_data, semaphore):
                 # Use a thread to run the OpenAI API call (which is blocking)
                 def make_api_call():
                     return client.chat.completions.create(
-                        model="gpt-4o",
+                        model="gpt-4o-mini",
                         messages=[{"role": "user", "content": filled_prompt}],
                         response_format={"type": "json_object"},
                         timeout=30  # Increased timeout from 5 to 30 seconds
@@ -134,7 +134,6 @@ async def process_client(client_data, semaphore):
     return enhanced_client
 
 async def main():
-    # Process all clients, not just the first 11
     clients_to_process = clients
     
     print(f"Starting processing of {len(clients_to_process)} clients with {MAX_CONCURRENT} concurrent connections")
@@ -149,7 +148,7 @@ async def main():
     
     # Process in batches to show progress
     enhanced_clients = []
-    batch_size = 10
+    batch_size = 50
     
     try:
         for i in range(0, len(tasks), batch_size):
