@@ -65,7 +65,7 @@ with open('prompts/base_prompt.txt', 'r') as f:
 prompt_template += "\n\nIMPORTANT: Your response must be ONLY a valid JSON object. Do not include any explanatory text, markdown formatting, or code blocks."
 
 # Maximum concurrent requests
-MAX_CONCURRENT = 25
+MAX_CONCURRENT = 100
 
 async def process_client(client_data, semaphore):
     """Process a single client with rate limiting via semaphore"""
