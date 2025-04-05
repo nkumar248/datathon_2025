@@ -29,6 +29,7 @@ Return a VALID JSON object with ONLY the following keys (use "not_specified" if 
 - "llm_university2_name": Name of second university attended
 - "llm_university2_graduation_year": Graduation year from second university
 - "llm_university2_degree": Degree obtained from second university
+- "llm_total_years_of_employment": The total number of years in employment (now is april 2025)
 - "llm_employment1_start_year": Start year of first employment
 - "llm_employment1_end_year": End year of first employment (or "present" if current)
 - "llm_employment1_company": Company name of first employment
