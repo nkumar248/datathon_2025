@@ -1,5 +1,5 @@
 *.zip
 extracted_data/*
-processed_data/*.json
+processed_data/*
 datathon_env/*
 keys.json
