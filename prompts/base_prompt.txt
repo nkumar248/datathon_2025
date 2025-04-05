@@ -23,6 +23,12 @@ Return a VALID JSON object with ONLY the following keys (use "not_specified" if 
 - "llm_address_postal_code": Postal/zip code if mentioned
 - "llm_secondary_school_name": Name of secondary/high school
 - "llm_secondary_school_graduation_year": Year as number
+- "llm_university1_name": Name of first university attended
+- "llm_university1_graduation_year": Graduation year from first university
+- "llm_university1_degree": Degree obtained from first university
+- "llm_university2_name": Name of second university attended
+- "llm_university2_graduation_year": Graduation year from second university
+- "llm_university2_degree": Degree obtained from second university
 - "llm_aum_savings": Savings amount in numbers only
 - "llm_savings_currency": Currency code (EUR, CHF, USD, DKK, etc.)
 - "llm_aum_inheritance": Inheritance amount in numbers only
