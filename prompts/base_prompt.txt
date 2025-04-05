@@ -29,6 +29,46 @@ Return a VALID JSON object with ONLY the following keys (use "not_specified" if 
 - "llm_university2_name": Name of second university attended
 - "llm_university2_graduation_year": Graduation year from second university
 - "llm_university2_degree": Degree obtained from second university
+- "llm_employment1_start_year": Start year of first employment
+- "llm_employment1_end_year": End year of first employment (or "present" if current)
+- "llm_employment1_company": Company name of first employment
+- "llm_employment1_position": Position/title at first employment
+- "llm_employment1_salary": Annual salary at first employment (numbers only)
+- "llm_employment2_start_year": Start year of second employment
+- "llm_employment2_end_year": End year of second employment (or "present" if current)
+- "llm_employment2_company": Company name of second employment
+- "llm_employment2_position": Position/title at second employment
+- "llm_employment2_salary": Annual salary at second employment (numbers only)
+- "llm_employment3_start_year": Start year of third employment
+- "llm_employment3_end_year": End year of third employment (or "present" if current)
+- "llm_employment3_company": Company name of third employment
+- "llm_employment3_position": Position/title at third employment
+- "llm_employment3_salary": Annual salary at third employment (numbers only)
+- "llm_employment4_start_year": Start year of fourth employment
+- "llm_employment4_end_year": End year of fourth employment (or "present" if current)
+- "llm_employment4_company": Company name of fourth employment
+- "llm_employment4_position": Position/title at fourth employment
+- "llm_employment4_salary": Annual salary at fourth employment (numbers only)
+- "llm_employment5_start_year": Start year of fifth employment
+- "llm_employment5_end_year": End year of fifth employment (or "present" if current)
+- "llm_employment5_company": Company name of fifth employment
+- "llm_employment5_position": Position/title at fifth employment
+- "llm_employment5_salary": Annual salary at fifth employment (numbers only)
+- "llm_property1_type": Type of first property (e.g., apartment, house, villa)
+- "llm_property1_value": Value of first property (numbers only)
+- "llm_property1_location": Location of first property (city/country)
+- "llm_property2_type": Type of second property
+- "llm_property2_value": Value of second property (numbers only)
+- "llm_property2_location": Location of second property
+- "llm_property3_type": Type of third property
+- "llm_property3_value": Value of third property (numbers only)
+- "llm_property3_location": Location of third property
+- "llm_property4_type": Type of fourth property
+- "llm_property4_value": Value of fourth property (numbers only)
+- "llm_property4_location": Location of fourth property
+- "llm_property5_type": Type of fifth property
+- "llm_property5_value": Value of fifth property (numbers only)
+- "llm_property5_location": Location of fifth property
 - "llm_aum_savings": Savings amount in numbers only
 - "llm_savings_currency": Currency code (EUR, CHF, USD, DKK, etc.)
 - "llm_aum_inheritance": Inheritance amount in numbers only
