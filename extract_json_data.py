@@ -10,13 +10,17 @@ import sys
 import datetime
 import os
 
+CLIENT_ID_START = 0
+CLIENT_ID_END = 15
+MAX_CONCURRENT_REQUESTS = 20  # Adjust based on API rate limits
+
 # Load API keys
 with open('keys.json') as f:
     keys = json.load(f)
     api_key = keys['gpt_api_key']
 
 # Initialize OpenAI client
-client = openai.Client(api_key=api_key)
+openai_client = openai.Client(api_key=api_key)
 
 # Progress tracking variables
 total_clients = 0
@@ -37,7 +41,7 @@ def print_progress():
         eta = "N/A"
         
     success_rate = (successful_clients / processed_clients * 100) if processed_clients > 0 else 0
-    
+
     # Clear previous line and print updated progress
     sys.stdout.write("\r\033[K")  # Clear the current line
     sys.stdout.write(f"Progress: {processed_clients+skipped_clients}/{total_clients} clients " +
@@ -48,193 +52,119 @@ def print_progress():
                     f"ETA: {eta}")
     sys.stdout.flush()
 
-# Load existing processed clients if available
-def load_existing_results():
-    """Load existing processed clients from the partial results file if it exists"""
-    processed_client_map = {}
-    partial_file = 'processed_data_with_llm_augmentation/enhanced_clients_partial.json'
-    
-    if os.path.exists(partial_file):
-        try:
-            with open(partial_file, 'r', encoding='utf-8') as f:
-                existing_data = json.load(f)
-                
-            print(f"Found existing results file with {len(existing_data)} entries")
-            
-            # Create a map of client_id -> processed result
-            for client_data in existing_data:
-                client_id = client_data.get('client_id')
-                if client_id:
-                    # Check if the result is valid (not an error)
-                    extracted_info = client_data.get('extracted_info', {})
-                    has_error = extracted_info.get('error') is not None or extracted_info.get('status') == 'failed'
-                    
-                    # Only consider valid responses
-                    if not has_error:
-                        processed_client_map[client_id] = client_data
-            
-            print(f"Loaded {len(processed_client_map)} valid processed clients")
-            
-        except Exception as e:
-            print(f"Error loading existing results: {str(e)}")
-            processed_client_map = {}
-    
-    return processed_client_map
-
-# Load the JSONL file
-print("Parsing clients jsonl file...")
-clients = []
-with open('processed_data/all_clients.jsonl', 'r') as file:
-    for line in file:
-        if line.strip():  # Skip empty lines
-            clients.append(json.loads(line))
-
-total_clients = len(clients)
-print(f"Found {total_clients} clients to process")
-
-# Load existing processed clients
-existing_results = load_existing_results() # map
-
-# Load prompt
-print("Loading prompt...")
-with open('prompts/base_prompt.txt', 'r') as f:
-    prompt_template = f.read()
-
-# Maximum concurrent requests
-MAX_CONCURRENT = 25
-
-async def process_client(client_data, semaphore, existing_results):
-    """Process a single client with rate limiting via semaphore"""
+async def process_client(client, template, semaphore):
+    """Process a single client with rate limiting"""
     global processed_clients, successful_clients, failed_clients, skipped_clients
     
-    client_id = client_data.get('client_id', 'unknown')
-    
-    # Check if this client has already been successfully processed
-    if client_id in existing_results:
-        skipped_clients += 1
-        print_progress()
-        return existing_results[client_id]
-    
-    enhanced_client = copy.deepcopy(client_data)
-    
-    filled_prompt = prompt_template.format(
-        summary_note=client_data.get("client_description_Summary_Note", ""),
-        family_background=client_data.get("client_description_Family_Background", ""),
-        education_background=client_data.get("client_description_Education_Background", ""),
-        occupation_history=client_data.get("client_description_Occupation_History", ""),
-        wealth_summary=client_data.get("client_description_Wealth_Summary", ""),
-        client_summary=client_data.get("client_description_Client_Summary", "")
-    )
-    
-    max_attempts = 5
-    success = False
-    extracted_info = None
-    
-    async with semaphore:  # This limits concurrent API calls
-        for attempt in range(1, max_attempts + 1):
-            try:
-                # Use a thread to run the OpenAI API call (which is blocking)
-                def make_api_call():
-                    return client.chat.completions.create(
-                        model="gpt-4o-mini",
-                        messages=[{"role": "user", "content": filled_prompt}],
-                        response_format={"type": "json_object"},
-                        timeout=7  # Increased timeout from 5 to 30 seconds
-                    )
+    async with semaphore:
+        formatted_prompt = template.format(
+            summary_note=client.get("client_description_Summary_Note", ""),
+            family_background=client.get("client_description_Family_Background", ""),
+            education_background=client.get("client_description_Education_Background", ""),
+            occupation_history=client.get("client_description_Occupation_History", ""),
+            wealth_summary=client.get("client_description_Wealth_Summary", ""),
+            client_summary=client.get("client_description_Client_Summary", "")
+        )
+
+        try:
+            # Call the OpenAI API with gpt-4o-mini model
+            response = await asyncio.to_thread(
+                openai_client.chat.completions.create,
+                model="gpt-4o-mini",
+                messages=[
+                    {"role": "system", "content": "You are a helpful assistant that extracts structured information from text."},
+                    {"role": "user", "content": formatted_prompt}
+                ],
+                temperature=0.0,
+                max_tokens=2000,
+            )
+            
+            # Extract the response text
+            extracted_text = response.choices[0].message.content
+            
+            # Extract JSON from the response text
+            json_match = re.search(r'```json\s*(.*?)\s*```', extracted_text, re.DOTALL)
+            if json_match:
+                extracted_text = json_match.group(1)
+            
+            # Try to parse the extracted JSON
+            extracted_data = json.loads(extracted_text)
+            
+            # Add the extracted data to the client object
+            client_copy = copy.deepcopy(client)
+            client_copy["extracted_data"] = extracted_data
+            
+            # Write successful extraction to output file
+            async with asyncio.Lock():
+                with open(output_file, "a", encoding="utf-8") as f:
+                    f.write(json.dumps(client_copy) + "\n")
                 
-                # Execute the API call in a thread pool to avoid blocking the event loop
-                with ThreadPoolExecutor() as executor:
-                    response_future = asyncio.get_event_loop().run_in_executor(executor, make_api_call)
-                    response = await response_future
+                successful_clients += 1
+            
+        except Exception as e:
+            # Log the error
+            print(f"\nError processing client {client.get('client_id', 'UNKNOWN')}: {str(e)}")
+            
+            # Write failed extraction to error file
+            async with asyncio.Lock():
+                with open(error_file, "a", encoding="utf-8") as f:
+                    error_record = {
+                        "client_id": client.get("client_id", "UNKNOWN"),
+                        "error": str(e),
+                        "client_data": client
+                    }
+                    f.write(json.dumps(error_record) + "\n")
                 
-                raw_response = response.choices[0].message.content.strip()
-                
-                try:
-                    extracted_info = json.loads(raw_response)
-                    success = True
-                    break
-                except json.JSONDecodeError:
-                    print(f"Raw response: {raw_response}")  # Print the faulty JSON
-                    print(f"\nFailed to parse JSON for client {client_id} on attempt {attempt}")
-                    
-            except Exception as e:
-                print(f"\nError processing client {client_id} on attempt {attempt}: {str(e)}")
-                await asyncio.sleep(1)  # Short backoff before retry
-    
-    if success and extracted_info:
-        enhanced_client["extracted_info"] = extracted_info
-        successful_clients += 1
-    else:
-        print(f"\nFailed after {max_attempts} attempts for client {client_id}")
-        enhanced_client["extracted_info"] = {
-            "error": f"Failed after {max_attempts} attempts",
-            "status": "failed",
-            "faulty_response": raw_response if 'raw_response' in locals() else "No response received"
-        }
-        failed_clients += 1
-    
-    processed_clients += 1
-    print_progress()
-    
-    return enhanced_client
+                failed_clients += 1
+        
+        # Update progress tracking
+        async with asyncio.Lock():
+            global processed_clients
+            processed_clients += 1
+            print_progress()
 
 async def main():
-    # Create output directory if it doesn't exist
-    os.makedirs('processed_data_with_llm_augmentation', exist_ok=True)
-    
-    clients_to_process = clients
-    existing_results = load_existing_results()
-    
-    print(f"Starting processing of {len(clients_to_process)} clients with {MAX_CONCURRENT} concurrent connections")
-    print(f"Already processed: {len(existing_results)} clients")
-    print("Press Ctrl+C to stop (progress will be saved)")
-    print_progress()
-    
-    # Create a semaphore to limit concurrent API calls
-    semaphore = asyncio.Semaphore(MAX_CONCURRENT)
-    
-    # Create tasks for all clients
-    tasks = [process_client(client, semaphore, existing_results) for client in clients_to_process]
-    
-    # Process in batches to show progress
-    enhanced_clients = []
-    batch_size = 50
-    
-    try:
-        for i in range(0, len(tasks), batch_size):
-            batch = tasks[i:i+batch_size]
-            batch_results = await asyncio.gather(*batch, return_exceptions=True)
-            
-            for result in batch_results:
-                if isinstance(result, Exception):
-                    print(f"\nTask failed with error: {result}")
-                    failed_clients += 1
-                else:
-                    enhanced_clients.append(result)
-            
-            # Save intermediate results after each batch
-            with open('processed_data_with_llm_augmentation/enhanced_clients_partial.json', 'w', encoding='utf-8') as outfile:
-                json.dump(enhanced_clients, outfile, indent=2, ensure_ascii=False)
-            
-    except KeyboardInterrupt:
-        print("\nProcess interrupted by user. Saving progress...")
-    finally:
-        # Save final results
-        with open('processed_data_with_llm_augmentation/enhanced_clients.json', 'w', encoding='utf-8') as outfile:
-            json.dump(enhanced_clients, outfile, indent=2, ensure_ascii=False)
-        
-        elapsed_time = time.time() - start_time
-        print(f"\n\nProcessing summary:")
-        print(f"Total clients: {total_clients}")
-        print(f"Processed: {processed_clients} ({processed_clients/total_clients*100:.1f}%)")
-        print(f"Skipped: {skipped_clients} ({skipped_clients/total_clients*100:.1f}%)")
-        print(f"Successful: {successful_clients} ({successful_clients/processed_clients*100:.1f}% of processed)")
-        print(f"Failed: {failed_clients}")
-        print(f"Total processing time: {datetime.timedelta(seconds=int(elapsed_time))}")
-        if processed_clients > 0:
-            print(f"Average time per processed client: {elapsed_time/processed_clients:.2f} seconds")
-        print(f"Enhanced data saved to 'enhanced_clients.json'")
+    # load jsonl
+    jsonl_path = "test/processed_data/all_clients.jsonl"
+    client_data = []
+    with open(jsonl_path, "r", encoding="utf-8") as jsonlfile:
+        for line in jsonlfile:
+            if line.strip():
+                client_data.append(json.loads(line))
 
-# Run the async main function
+    # for each client call open ai api with formatted prompt
+    clients_of_interest = client_data[CLIENT_ID_START:CLIENT_ID_END]
+
+    # Update total_clients to the actual number
+    global total_clients
+    total_clients = len(clients_of_interest)
+
+    # load prompt template
+    prompt_path = "prompts/base_prompt.txt"
+    with open(prompt_path, "r", encoding="utf-8") as promptfile:
+        template = promptfile.read()
+
+    global output_file, error_file
+    output_file = "test/processed_data_with_llm_augmentation/enhanced_client_data_test.jsonl"
+    error_file = "test/error_file.txt"
+    
+    # Create output directory if it doesn't exist
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
+    
+    # Rate limiter
+    semaphore = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)
+    
+    # Process all clients concurrently
+    tasks = [process_client(client, template, semaphore) for client in clients_of_interest]
+    await asyncio.gather(*tasks)
+    
+    # Print final statistics
+    print("\n\nExtraction Complete!")
+    print(f"Total clients: {total_clients}")
+    print(f"Successfully processed: {successful_clients}")
+    print(f"Failed: {failed_clients}")
+    print(f"Skipped: {skipped_clients}")
+    print(f"Total time: {datetime.timedelta(seconds=int(time.time() - start_time))}")
+
 if __name__ == "__main__":
     asyncio.run(main())

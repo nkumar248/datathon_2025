@@ -4,10 +4,12 @@ import json
 from pathlib import Path
 import re
 
+# this directory should contain the client data zip files (of the form datathon_partX/client_0)
+BASE_DIR = "/Users/nishanthkumar/Desktop/Coding_Projects/datathon_2025/"
+
 def flatten_json(nested_json, prefix=''):
     """
     Flatten a nested json structure into a single level dictionary
-    with keys like "level1_level2_level3", replacing spaces with underscores
     """
     flattened = {}
     
@@ -28,7 +30,6 @@ def flatten_json(nested_json, prefix=''):
         if isinstance(value, dict):
             flattened.update(flatten_json(value, new_key))
         elif isinstance(value, list):
-            # Handle lists by creating keys with array indices
             for i, item in enumerate(value):
                 if isinstance(item, dict):
                     flattened.update(flatten_json(item, f"{new_key}_{i}"))
@@ -39,27 +40,29 @@ def flatten_json(nested_json, prefix=''):
             
     return flattened
 
-# Extract client ID from filename
+
 def extract_client_id(filename):
+    """
+    Extracts client id from filename
+    """
     # Extract client ID using regex pattern
     match = re.search(r'client_(\d+)', filename)
     if match:
-        return match.group(1)  # Return just the numeric part
-    return filename.replace('.zip', '')  # Fallback to the filename without extension
+        return match.group(1)  
+    return filename.replace('.zip', '')  
 
-# Base directory and output directory
-base_dir = Path("/Users/nishanthkumar/Desktop/Coding_Projects/datathon_2025/")
-data_dir = base_dir / "extracted_data"
-output_dir = base_dir / "processed_data"
+# Directory setup
+base_dir = Path(BASE_DIR)
+data_dir = base_dir / "test/extracted_data"
+output_dir = base_dir / "test/processed_data"
 os.makedirs(data_dir, exist_ok=True)
 os.makedirs(output_dir, exist_ok=True)
 
 # Dictionary to track client zip files and their IDs
 client_zip_mapping = {}
 
-# Step 1: Extract the main data zip files
 print("Extracting main data zip files...")
-main_zip_files = list(base_dir.glob("datathon_part*.zip"))
+main_zip_files = list(base_dir.glob("datathon_part*.zip"))  # RENAME THIS FOR TEST CASE
 print(f"Found {len(main_zip_files)} main data zip files")
 
 for main_zip in main_zip_files:
@@ -70,7 +73,6 @@ for main_zip in main_zip_files:
     with zipfile.ZipFile(main_zip, 'r') as zip_ref:
         zip_ref.extractall(part_dir)
 
-# Step 2: Process client zip files within the extracted directories
 print("\nProcessing client zip files...")
 for part_dir in data_dir.iterdir():
     if not part_dir.is_dir():
@@ -92,7 +94,7 @@ for part_dir in data_dir.iterdir():
             with zipfile.ZipFile(client_zip, 'r') as zip_ref:
                 zip_ref.extractall(extract_dir)
 
-# Step 3: Process the JSON files in each client directory
+# Process the JSON files in each client directory
 print("\nProcessing JSON files...")
 all_clients = []
 client_count = 0
@@ -149,7 +151,7 @@ for extract_dir_path in client_zip_mapping.keys():
 print(f"\nProcessed {client_count} clients")
 print(f"Combined JSON files saved to {output_dir}")
 
-# Create a JSONL file with all clients (one JSON object per line)
+# Create a JSONL file with all clients
 jsonl_path = output_dir / "all_clients.jsonl"
 with open(jsonl_path, 'w') as f:
     for client_data in all_clients:

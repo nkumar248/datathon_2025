@@ -3,3 +3,8 @@ extracted_data/*
 processed_data/*.json
 datathon_env/*
 keys.json
+
+*2.jsonl
+extracted_data_2
+processed_data_2
+processed_data_with_llm_augmentation_2
