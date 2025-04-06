@@ -1,0 +1,102 @@
+{
+    "name": "Mertens Peeters",
+    "address": {
+        "city": "Herstal",
+        "street name": "Rue de la Madeleine",
+        "street number": 37,
+        "postal code": "9124"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1970-04-26",
+    "nationality": "Belgian",
+    "passport_number": "ED4939276",
+    "passport_issue_date": "2023-07-17",
+    "passport_expiry_date": "2030-07-16",
+    "gender": "M",
+    "phone_number": "+32 0488 033 450",
+    "email_address": "mertens.peeters@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Atheneum Antwerpen Linkeroever",
+        "graduation_year": 1990
+    },
+    "higher_education": [
+        {
+            "university": "University of Namur",
+            "graduation_year": 1995
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1995,
+            "end_year": 1998,
+            "company": "Linklaters LLP",
+            "position": "Associate Attorney",
+            "salary": 36000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2002,
+            "company": "Liedekerke Wolters Waelbroeck Kirkpatrick",
+            "position": "Senior Associate",
+            "salary": 56000
+        },
+        {
+            "start_year": 2002,
+            "end_year": 2003,
+            "company": "Linklaters LLP",
+            "position": "Partner",
+            "salary": 72000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2010,
+            "company": "Clifford Chance LLP",
+            "position": "Managing Partner",
+            "salary": 214000
+        },
+        {
+            "start_year": 2010,
+            "end_year": null,
+            "company": "Liedekerke Wolters Waelbroeck Kirkpatrick",
+            "position": "Law Firm Chairman",
+            "salary": 563000
+        }
+    ],
+    "aum": {
+        "savings": 950000,
+        "inheritance": 530000,
+        "real_estate_value": 3128000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2009,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1091000,
+            "property location": "Herstal"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1157000,
+            "property location": "Brussels"
+        },
+        {
+            "property type": "flat",
+            "property value": 880000,
+            "property location": "Turnhout"
+        }
+    ],
+    "investment_risk_profile": "Balanced",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

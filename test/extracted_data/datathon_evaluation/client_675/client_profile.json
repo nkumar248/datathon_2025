@@ -1,0 +1,74 @@
+{
+    "name": "Isabella Alma Nørregaard",
+    "address": {
+        "city": "Skanderborg",
+        "street name": "Sølvgade",
+        "street number": 20,
+        "postal code": "3040"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1991-03-22",
+    "nationality": "Danish",
+    "passport_number": "SE8343694",
+    "passport_issue_date": "2031-01-25",
+    "passport_expiry_date": "2021-01-26",
+    "gender": "F",
+    "phone_number": "+45 65 42 22 41",
+    "email_address": "isabella.nrregaard@webspace.dk",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Herning Gymnasium",
+        "graduation_year": 2009
+    },
+    "higher_education": [
+        {
+            "university": "Zealand Institute of Business and Technology",
+            "graduation_year": 2015
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "PKA A/S",
+            "position": "Stockbroker",
+            "salary": 674000
+        }
+    ],
+    "aum": {
+        "savings": 820000,
+        "inheritance": 5000000,
+        "real_estate_value": 4965000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2020,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1105000,
+            "property location": "Skanderborg"
+        },
+        {
+            "property type": "villa",
+            "property value": 2770000,
+            "property location": "Esbjerg Ø"
+        },
+        {
+            "property type": "flat",
+            "property value": 1090000,
+            "property location": "Silkeborg"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

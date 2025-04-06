@@ -1,0 +1,17 @@
+{
+    "name": "De Smet Michiels Dupont",
+    "first_name": "De Smet",
+    "middle_name": "Michiels",
+    "last_name": "Dupont",
+    "passport_number": "ZJ0230334",
+    "currency": "EUR",
+    "address": {
+        "city": "Maaseik",
+        "street name": "Rue de l'Hôtel des Monnaies",
+        "street number": 60,
+        "postal code": "7959"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0427 472 215",
+    "email_address": "desmet.dupont@yahoo.com"
+}

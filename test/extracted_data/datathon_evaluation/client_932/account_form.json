@@ -1,0 +1,17 @@
+{
+    "name": "Beatrice Gabriella Marini",
+    "first_name": "Beatrice",
+    "middle_name": "Gabriella",
+    "last_name": "Marini",
+    "passport_number": "OJ6728161",
+    "currency": "EUR",
+    "address": {
+        "city": "Genoa",
+        "street name": "Piazza del Duomo",
+        "street number": 14,
+        "postal code": "05707"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "++34337 8673551",
+    "email_address": "beatrice.marini@unidata.it"
+}

@@ -1,0 +1,77 @@
+{
+    "name": "Isabelle Julia Stam",
+    "address": {
+        "city": "Hoofddorp",
+        "street name": "Spoorweghaven",
+        "street number": 45,
+        "postal code": "9649 15"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1955-09-02",
+    "nationality": "Dutch",
+    "passport_number": "YW2194929",
+    "passport_issue_date": "2016-12-16",
+    "passport_expiry_date": "2026-12-15",
+    "gender": "F",
+    "phone_number": "+31 06 42365195",
+    "email_address": "isabelle.stam@outlook.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Montessori Lyceum Rotterdam",
+        "graduation_year": 1973
+    },
+    "higher_education": [
+        {
+            "university": "Amsterdam University College",
+            "graduation_year": 1980
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1980,
+            "end_year": 1983,
+            "company": "Talpa Media B.V.",
+            "position": "Journalist",
+            "salary": 40000
+        },
+        {
+            "start_year": 1983,
+            "end_year": 2016,
+            "company": "Sanoma Media Netherlands B.V.",
+            "position": "Editor",
+            "salary": 449000
+        }
+    ],
+    "aum": {
+        "savings": 940000,
+        "inheritance": 0,
+        "real_estate_value": 3677000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1550000,
+            "property location": "Hoofddorp"
+        },
+        {
+            "property type": "condo",
+            "property value": 1017000,
+            "property location": "Helmond"
+        },
+        {
+            "property type": "flat",
+            "property value": 1110000,
+            "property location": "Emmen"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

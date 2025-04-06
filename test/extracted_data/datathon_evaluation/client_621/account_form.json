@@ -1,0 +1,17 @@
+{
+    "name": "Mia Lina Klein",
+    "first_name": "Mia",
+    "middle_name": "Lina",
+    "last_name": "Klein",
+    "passport_number": "QI3768843",
+    "currency": "EUR",
+    "address": {
+        "city": "Hanover",
+        "street name": "Neuer Markt",
+        "street number": 9,
+        "postal code": "16505"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "9151 951092",
+    "email_address": "mia.klein@icloud.com"
+}

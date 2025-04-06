@@ -1,0 +1,88 @@
+{
+    "name": "Caroline Gitte Rasmussen",
+    "address": {
+        "city": "",
+        "street name": "Åboulevarden",
+        "street number": 46,
+        "postal code": "7103"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1981-09-01",
+    "nationality": "Danish",
+    "passport_number": "MT6779225",
+    "passport_issue_date": "2020-08-01",
+    "passport_expiry_date": "2030-07-31",
+    "gender": "F",
+    "phone_number": "+45 85 53 31 99",
+    "email_address": "caroline.rasmussen@wanadoo.dk",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Middelfart Gymnasium",
+        "graduation_year": 1999
+    },
+    "higher_education": [
+        {
+            "university": "Aarhus University",
+            "graduation_year": 1994
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2006,
+            "end_year": 2010,
+            "company": "DSV A/S",
+            "position": "Junior Trader",
+            "salary": 265000
+        },
+        {
+            "start_year": 2012,
+            "end_year": 2015,
+            "company": "Norden A/S",
+            "position": "Senior Trader",
+            "salary": 367000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "Torm A/S",
+            "position": "Trading Desk Manager",
+            "salary": 884000
+        }
+    ],
+    "aum": {
+        "savings": 1150000,
+        "inheritance": 18050000,
+        "real_estate_value": 3340000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2009,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 940000,
+            "property location": "Hillerød"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1540000,
+            "property location": "Varde"
+        },
+        {
+            "property type": "flat",
+            "property value": 860000,
+            "property location": "Skanderborg"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

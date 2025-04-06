@@ -1,0 +1,77 @@
+{
+    "name": "Vilma Aurora Virtanen",
+    "address": {
+        "city": "Kotka",
+        "street name": "Itäinen Teatterikuja",
+        "street number": 21,
+        "postal code": "98754"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1985-11-13",
+    "nationality": "Finnish",
+    "passport_number": "IZ5198358",
+    "passport_issue_date": "2024-10-04",
+    "passport_expiry_date": "2034-10-03",
+    "gender": "F",
+    "phone_number": "045 913 48 94",
+    "email_address": "vilma.virtanen@outlook.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Varkauden lukio",
+        "graduation_year": 2004
+    },
+    "higher_education": [
+        {
+            "university": "Oulu University of Applied Science",
+            "graduation_year": 2008
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2009,
+            "end_year": 2013,
+            "company": "Wärtsilä Corporation",
+            "position": "Plant Manager",
+            "salary": 41000
+        },
+        {
+            "start_year": 2013,
+            "end_year": 2018,
+            "company": "Valmet Oyj",
+            "position": "Operations Director",
+            "salary": 60000
+        },
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "Valmet Oyj",
+            "position": "CEO",
+            "salary": 138000
+        }
+    ],
+    "aum": {
+        "savings": 180000,
+        "inheritance": 4170000,
+        "real_estate_value": 1440000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2020,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1440000,
+            "property location": "Kotka"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

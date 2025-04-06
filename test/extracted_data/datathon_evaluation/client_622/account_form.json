@@ -1,0 +1,17 @@
+{
+    "name": "Essi Aada Heikkinen",
+    "first_name": "Essi",
+    "middle_name": "Aada",
+    "last_name": "Heikkinen",
+    "passport_number": "OG8881394",
+    "currency": "EUR",
+    "address": {
+        "city": "Turku",
+        "street name": "Karjalankatu",
+        "street number": 47,
+        "postal code": "88076"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 041 148 42 10",
+    "email_address": "essi.heikkinen@luukku.com"
+}

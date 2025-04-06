@@ -1,0 +1,17 @@
+{
+    "name": "Janssen Maassen Wagemakers",
+    "first_name": "Janssen",
+    "middle_name": "Maassen",
+    "last_name": "Wagemakers",
+    "passport_number": "TT1410955",
+    "currency": "EUR",
+    "address": {
+        "city": "Doetinchem",
+        "street name": "Nieuwegeinseweg",
+        "street number": 4,
+        "postal code": "8800 58"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 93409764",
+    "email_address": "janssen.wagemakers@hotmail.com"
+}

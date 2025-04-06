@@ -1,0 +1,17 @@
+{
+    "name": "Josefine Beatrix Koller",
+    "first_name": "Josefine",
+    "middle_name": "Beatrix",
+    "last_name": "Koller",
+    "passport_number": "WA9794379",
+    "currency": "EUR",
+    "address": {
+        "city": "Vienna",
+        "street name": "Graben",
+        "street number": 70,
+        "postal code": "5204"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 361 740 3223",
+    "email_address": "josefine.koller@aon.at"
+}

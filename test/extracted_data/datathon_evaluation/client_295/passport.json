@@ -1,0 +1,17 @@
+{
+    "first_name": "Jost",
+    "middle_name": "",
+    "last_name": "Schmid",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "2001-04-21",
+    "passport_number": "AP8719369",
+    "passport_mrz": [
+        "P<CHESCHMID<<JOST<<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+        "AP8719369CHE010421<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-01-31",
+    "passport_expiry_date": "2034-01-30"
+}

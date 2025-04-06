@@ -1,0 +1,63 @@
+{
+    "name": "Floriane Émilie Boucher",
+    "address": {
+        "city": "Angers",
+        "street name": "Boulevard Raspail",
+        "street number": 2,
+        "postal code": "70265"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1992-07-25",
+    "nationality": "French",
+    "passport_number": "FL9281009",
+    "passport_issue_date": "2021-10-19",
+    "passport_expiry_date": "2031-10-18",
+    "gender": "F",
+    "phone_number": "+33 03 74 47 82 68",
+    "email_address": "floriane.boucher@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Condorcet",
+        "graduation_year": 2010
+    },
+    "higher_education": [
+        {
+            "university": "University of Toulouse",
+            "graduation_year": 2015
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "Pierre Fabre S.A.",
+            "position": "Research Scientist",
+            "salary": 36000
+        }
+    ],
+    "aum": {
+        "savings": 40000,
+        "inheritance": 640000,
+        "real_estate_value": 1250000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1250000,
+            "property location": "Angers"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

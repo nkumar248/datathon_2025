@@ -1,0 +1,17 @@
+{
+    "name": "Ophélie Lecomte",
+    "first_name": "Ophélie",
+    "middle_name": "",
+    "last_name": "Lecomte",
+    "passport_number": "HC4332675",
+    "currency": "EUR",
+    "address": {
+        "city": "Lokeren",
+        "street name": "Rue de la Révolution Belge",
+        "street number": 3,
+        "postal code": "1657"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0409 516 420",
+    "email_address": "ophelie.lecomte@base.be"
+}

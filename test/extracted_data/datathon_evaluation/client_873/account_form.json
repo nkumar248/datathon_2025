@@ -1,0 +1,17 @@
+{
+    "name": "Larsen Andersen Østergaard",
+    "first_name": "Larsen",
+    "middle_name": "Andersen",
+    "last_name": "Østergaard",
+    "passport_number": "RM9599687",
+    "currency": "DKK",
+    "address": {
+        "city": "Kolding",
+        "street name": "Fiolgade",
+        "street number": 47,
+        "postal code": "0410"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 18 37 53 93",
+    "email_address": "larsen.stergaard@siminn.dk"
+}

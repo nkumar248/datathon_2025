@@ -1,0 +1,17 @@
+{
+    "name": "Fiona Beatrix Wagner",
+    "first_name": "Fiona",
+    "middle_name": "Beatrix",
+    "last_name": "Wagner",
+    "passport_number": "XY6526485",
+    "currency": "EUR",
+    "address": {
+        "city": "Stockerau",
+        "street name": "Groß-Enzersdorf",
+        "street number": 87,
+        "postal code": "0154"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "566 865 2397",
+    "email_address": "fiona.wagner@icloud.com"
+}

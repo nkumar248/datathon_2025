@@ -1,0 +1,45 @@
+{
+    "name": "Sterckx Vandenberghe Jacobs",
+    "address": {
+        "city": "Tournai",
+        "street name": "Rue de l'Hôtel des Monnaies",
+        "street number": 9,
+        "postal code": "6583"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "2003-09-18",
+    "nationality": "Belgian",
+    "passport_number": "DP2640631",
+    "passport_issue_date": "2020-05-08",
+    "passport_expiry_date": "2027-05-07",
+    "gender": "M",
+    "phone_number": "+32 0429 234 817",
+    "email_address": "sterckx.jacobs@icloud.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Onze-Lieve-Vrouwecollege",
+        "graduation_year": 2023
+    },
+    "higher_education": [],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1780000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

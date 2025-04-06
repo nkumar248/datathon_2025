@@ -1,0 +1,17 @@
+{
+    "name": "Schneider Krämer Lechner",
+    "first_name": "Schneider",
+    "middle_name": "Krämer",
+    "last_name": "Lechner",
+    "passport_number": "CV5033669",
+    "currency": "EUR",
+    "address": {
+        "city": "Gmunden",
+        "street name": "Rotenturmstraße",
+        "street number": 67,
+        "postal code": "6568"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 814 612 0938",
+    "email_address": "schneider.lechner@gmail.com"
+}

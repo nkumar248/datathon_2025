@@ -1,0 +1,86 @@
+{
+    "name": "Schmidt Fischer Maier",
+    "address": {
+        "city": "Kitzbühel",
+        "street name": "Blutgasse",
+        "street number": 28,
+        "postal code": "1579"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1954-12-03",
+    "nationality": "Austrian",
+    "passport_number": "HX3577067",
+    "passport_issue_date": "2021-05-20",
+    "passport_expiry_date": "2031-05-19",
+    "gender": "M",
+    "phone_number": "+43 979 522 4860",
+    "email_address": "schmidt.maier@chello.at",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Akademisches Gymnasium Graz",
+        "graduation_year": 1974
+    },
+    "higher_education": [
+        {
+            "university": "Johannes Kepler University Linz",
+            "graduation_year": 1978
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1979,
+            "end_year": 1980,
+            "company": "Kunsthistorisches Museum",
+            "position": "Art Dealer",
+            "salary": 30000
+        },
+        {
+            "start_year": 1982,
+            "end_year": 1986,
+            "company": "Belvedere Museum",
+            "position": "Gallery Owner",
+            "salary": 51000
+        },
+        {
+            "start_year": 1988,
+            "end_year": 1991,
+            "company": "Leopold Museum",
+            "position": "Art Advisor",
+            "salary": 64000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 2015,
+            "company": "Belvedere Museum",
+            "position": "Curator",
+            "salary": 564000
+        }
+    ],
+    "aum": {
+        "savings": 960000,
+        "inheritance": 0,
+        "real_estate_value": 2840000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 990000,
+            "property location": "Kitzbühel"
+        },
+        {
+            "property type": "villa",
+            "property value": 1850000,
+            "property location": "Traun"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,81 @@
+{
+    "name": "Victoria Heidi Koller",
+    "address": {
+        "city": "Kitzbühel",
+        "street name": "Theater an der Wien",
+        "street number": 7,
+        "postal code": "4888"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1987-04-30",
+    "nationality": "Austrian",
+    "passport_number": "VQ2200575",
+    "passport_issue_date": "2028-09-29",
+    "passport_expiry_date": "2018-09-30",
+    "gender": "F",
+    "phone_number": "374 151 6036",
+    "email_address": "victoria.koller@yahoo.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Gymnasium St. Gilgen",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "New Design University St. Pölten",
+            "graduation_year": 2012
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2011,
+            "end_year": 2012,
+            "company": "BBC Chartering GmbH",
+            "position": "Ship Broker",
+            "salary": 32000
+        },
+        {
+            "start_year": 2013,
+            "end_year": null,
+            "company": "Werner & Mertz GmbH",
+            "position": "Shipping Company Owner",
+            "salary": 128000
+        }
+    ],
+    "aum": {
+        "savings": 160000,
+        "inheritance": 100000,
+        "real_estate_value": 5281000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 1934000,
+            "property location": "Kitzbühel"
+        },
+        {
+            "property type": "villa",
+            "property value": 1627000,
+            "property location": "Tulln an der Donau"
+        },
+        {
+            "property type": "villa",
+            "property value": 1720000,
+            "property location": "Kitzbühel"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

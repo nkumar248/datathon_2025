@@ -1,0 +1,17 @@
+{
+    "name": "Aada Iida Mattila",
+    "first_name": "Aada",
+    "middle_name": "Iida",
+    "last_name": "Mattila",
+    "passport_number": "DP1418738",
+    "currency": "EUR",
+    "address": {
+        "city": "Hämeenlinna",
+        "street name": "Kolmas linja",
+        "street number": 84,
+        "postal code": "62353"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 043 024 97 21",
+    "email_address": "aada.mattila@suomi24.fi"
+}

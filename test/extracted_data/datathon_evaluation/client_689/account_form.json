@@ -1,0 +1,17 @@
+{
+    "name": "Alexandra Justine Lecomte",
+    "first_name": "Alexandra",
+    "middle_name": "Justine",
+    "last_name": "Lecomte",
+    "passport_number": "OM6507797",
+    "currency": "EUR",
+    "address": {
+        "city": "La Louvière",
+        "street name": "Rue des Sœurs Noires",
+        "street number": "",
+        "postal code": "2149"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0465 767 625",
+    "email_address": "alexandra.lecomte@skype.be"
+}

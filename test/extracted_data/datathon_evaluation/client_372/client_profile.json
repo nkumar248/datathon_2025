@@ -1,0 +1,81 @@
+{
+    "name": "Voorn Van Dijk Smeets",
+    "address": {
+        "city": "Tilburg",
+        "street name": "Langegracht",
+        "street number": 59,
+        "postal code": "2715 60"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1986-06-17",
+    "nationality": "Dutch",
+    "passport_number": "CM6082799",
+    "passport_issue_date": "2019-12-13",
+    "passport_expiry_date": "2029-12-12",
+    "gender": "M",
+    "phone_number": "+31 06 64888856",
+    "email_address": "voorn.smeets@live.nl",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Hervormd Lyceum Zutphen",
+        "graduation_year": 2004
+    },
+    "higher_education": [
+        {
+            "university": "Rotterdam University of Applied Sciences",
+            "graduation_year": 2010
+        },
+        {
+            "university": "Tio University of Applied Sciences",
+            "graduation_year": 2015
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2011,
+            "end_year": 2012,
+            "company": "GitPulse B.V.",
+            "position": "Software Developer",
+            "salary": 47000
+        },
+        {
+            "start_year": 2012,
+            "end_year": 2014,
+            "company": "TomTom N.V.",
+            "position": "Startup Founder",
+            "salary": 63000
+        },
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "GitPulse B.V.",
+            "position": "CEO",
+            "salary": 338000
+        }
+    ],
+    "aum": {
+        "savings": 460000,
+        "inheritance": 2130000,
+        "real_estate_value": 2790000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2790000,
+            "property location": "Tilburg"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

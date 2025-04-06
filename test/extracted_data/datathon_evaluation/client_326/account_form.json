@@ -1,0 +1,17 @@
+{
+    "name": "Franziska Sabrina Krämer",
+    "first_name": "Franziska",
+    "middle_name": "Sabrina",
+    "last_name": "Krämer",
+    "passport_number": "TZ2214986",
+    "currency": "EUR",
+    "address": {
+        "city": "Tulln an der Donau",
+        "street name": "Ringstraße",
+        "street number": 17,
+        "postal code": "5525"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 617 473 6579",
+    "email_address": "franziska.kramer@chello.at"
+}

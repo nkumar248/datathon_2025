@@ -1,0 +1,81 @@
+{
+    "name": "Peters Janssens Hermans",
+    "address": {
+        "city": "Maaseik",
+        "street name": "Rue du Marché aux Fromages",
+        "street number": 38,
+        "postal code": "3670"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1955-10-12",
+    "nationality": "Belgian",
+    "passport_number": "GQ8961270",
+    "passport_issue_date": "2018-07-17",
+    "passport_expiry_date": "2025-07-16",
+    "gender": "M",
+    "phone_number": "+32 0469 106 668",
+    "email_address": "peters.hermans@edpnet.be",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Institut Saint-Joseph",
+        "graduation_year": 1974
+    },
+    "higher_education": [
+        {
+            "university": "Université catholique de Louvain",
+            "graduation_year": 1979
+        },
+        {
+            "university": "Académie des Beaux-Arts de Tournai",
+            "graduation_year": 1984
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1979,
+            "end_year": 1984,
+            "company": "Walter Van Beirendonck BVBA",
+            "position": "Assistant Designer",
+            "salary": 37000
+        },
+        {
+            "start_year": 1985,
+            "end_year": 2016,
+            "company": "Stella McCartney Belgium",
+            "position": "Senior Designer",
+            "salary": 348000
+        }
+    ],
+    "aum": {
+        "savings": 740000,
+        "inheritance": 0,
+        "real_estate_value": 3910000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1010000,
+            "property location": "Maaseik"
+        },
+        {
+            "property type": "villa",
+            "property value": 2070000,
+            "property location": "Maaseik"
+        },
+        {
+            "property type": "condo",
+            "property value": 830000,
+            "property location": "Herstal"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

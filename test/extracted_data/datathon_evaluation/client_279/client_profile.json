@@ -1,0 +1,70 @@
+{
+    "name": "Beatriz Vázquez",
+    "address": {
+        "city": "Almería",
+        "street name": "Plaza de la Encarnación",
+        "street number": 51,
+        "postal code": "21178"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1965-06-08",
+    "nationality": "Spanish",
+    "passport_number": "VY7168230",
+    "passport_issue_date": "2019-03-31",
+    "passport_expiry_date": "2029-03-30",
+    "gender": "F",
+    "phone_number": "601 493 264",
+    "email_address": "beatriz.vazquez@telefonica.es",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Colegio La Inmaculada Córdoba",
+        "graduation_year": 1975
+    },
+    "higher_education": [
+        {
+            "university": "University of the Basque Country",
+            "graduation_year": 1989
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1989,
+            "end_year": 1990,
+            "company": "Tuenti Technologies S.L.",
+            "position": "Software Developer",
+            "salary": 27000
+        },
+        {
+            "start_year": 1992,
+            "end_year": null,
+            "company": "Tuenti Technologies S.L.",
+            "position": "CEO",
+            "salary": 595000
+        }
+    ],
+    "aum": {
+        "savings": 1040000,
+        "inheritance": 2380000,
+        "real_estate_value": 950000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2014,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 950000,
+            "property location": "Almería"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

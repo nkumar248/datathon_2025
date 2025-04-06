@@ -1,0 +1,17 @@
+{
+    "first_name": "Burkart",
+    "middle_name": "Schmid",
+    "last_name": "Lehmann",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1956-10-11",
+    "passport_number": "XJ5050459",
+    "passport_mrz": [
+        "P<CHELEHMANN<<BURKART<SCHMID<<<<<<<<<<<<<<<<<",
+        "XJ5050459CHE561011<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2019-04-28",
+    "passport_expiry_date": "2029-04-27"
+}

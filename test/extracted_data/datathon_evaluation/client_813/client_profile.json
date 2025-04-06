@@ -1,0 +1,78 @@
+{
+    "name": "Santoro Donati Silvestri",
+    "address": {
+        "city": "Milan",
+        "street name": "Via Dora Riparia",
+        "street number": 33,
+        "postal code": "96214"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1985-02-15",
+    "nationality": "Italian",
+    "passport_number": "OD6282041",
+    "passport_issue_date": "2017-09-21",
+    "passport_expiry_date": "2027-09-20",
+    "gender": "M",
+    "phone_number": "323 4443234",
+    "email_address": "santoro.silvestri@libero.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Liceo Linguistico Internazionale Galileo Galilei Firenze",
+        "graduation_year": 2003
+    },
+    "higher_education": [
+        {
+            "university": "Polytechnic University of Bari",
+            "graduation_year": 2007
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2009,
+            "end_year": 2012,
+            "company": "Novartis Farma S.p.A.",
+            "position": "Research Scientist",
+            "salary": 28000
+        },
+        {
+            "start_year": 2013,
+            "end_year": 2016,
+            "company": "Novartis Farma S.p.A.",
+            "position": "Biotech Startup Founder",
+            "salary": 36000
+        },
+        {
+            "start_year": 2018,
+            "end_year": null,
+            "company": "Menarini Industrie Farmaceutiche Riunite S.r.l.",
+            "position": "CEO",
+            "salary": 119000
+        }
+    ],
+    "aum": {
+        "savings": 140000,
+        "inheritance": 7180000,
+        "real_estate_value": 710000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 710000,
+            "property location": "Milan"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

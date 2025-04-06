@@ -1,0 +1,17 @@
+{
+    "name": "Klein Fischer Bauer",
+    "first_name": "Klein",
+    "middle_name": "Fischer",
+    "last_name": "Bauer",
+    "passport_number": "DE3850571",
+    "currency": "EUR",
+    "address": {
+        "city": "Maaseik",
+        "street name": "Rue des Chartreux",
+        "street number": 9,
+        "postal code": "8892"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0449 074 983",
+    "email_address": "klein.bauer@skype.be"
+}

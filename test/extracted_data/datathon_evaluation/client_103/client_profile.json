@@ -1,0 +1,57 @@
+{
+    "name": "Catalina Clara Ruiz",
+    "address": {
+        "city": "Almería",
+        "street name": "Calle de la Reina Cristina",
+        "street number": 52,
+        "postal code": "30370"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1998-03-27",
+    "nationality": "Spanish",
+    "passport_number": "WN3490620",
+    "passport_issue_date": "2019-04-15",
+    "passport_expiry_date": "2024-04-14",
+    "gender": "F",
+    "phone_number": "+34 686 280 099",
+    "email_address": "catalina.ruiz@terra.es",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Colegio Jesús-María Tarragona",
+        "graduation_year": 2015
+    },
+    "higher_education": [
+        {
+            "university": "Escuela de Negocios de Navarra",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2022,
+            "end_year": 2025,
+            "company": "Banco Santander S.A.",
+            "position": "Family Office Manager",
+            "salary": 26000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 2960000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2020,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Astrid Isabelle Brinkman",
+    "first_name": "Astrid",
+    "middle_name": "Isabelle",
+    "last_name": "Brinkman",
+    "passport_number": "ZQ0539076",
+    "currency": "EUR",
+    "address": {
+        "city": "Almere",
+        "street name": "Willemsparkweg",
+        "street number": 19,
+        "postal code": "7329 01"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "06 0881832",
+    "email_address": "astrid.brinkman@gmail.com"
+}

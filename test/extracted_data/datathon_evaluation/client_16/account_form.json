@@ -1,0 +1,17 @@
+{
+    "name": "Lotti Landi Livi",
+    "first_name": "Lotti",
+    "middle_name": "Landi",
+    "last_name": "Livi",
+    "passport_number": "OV6873766",
+    "currency": "EUR",
+    "address": {
+        "city": "Udine",
+        "street name": "Piazza del Popolo",
+        "street number": 48,
+        "postal code": "39427"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 333 1549470",
+    "email_address": "lotti.livi@icloud.com"
+}

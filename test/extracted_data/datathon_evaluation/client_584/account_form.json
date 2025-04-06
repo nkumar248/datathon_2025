@@ -1,0 +1,17 @@
+{
+    "name": "Lotti Fabbri Russo",
+    "first_name": "Lotti",
+    "middle_name": "Fabbri",
+    "last_name": "Russo",
+    "passport_number": "CS7294082",
+    "currency": "EUR",
+    "address": {
+        "city": "Venice",
+        "street name": "Piazza Venezia",
+        "street number": 1,
+        "postal code": "89963"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 345 1604573",
+    "email_address": "lotti.russo@unidata.it"
+}

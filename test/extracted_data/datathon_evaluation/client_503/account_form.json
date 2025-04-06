@@ -1,0 +1,17 @@
+{
+    "name": "Ruiz Gutiérrez Díaz",
+    "first_name": "Ruiz",
+    "middle_name": "Gutiérrez",
+    "last_name": "Díaz",
+    "passport_number": "EN6427035",
+    "currency": "EUR",
+    "address": {
+        "city": "Valladolid",
+        "street name": "Calle de la Rúa",
+        "street number": 72,
+        "postal code": "34964"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 629 154 764",
+    "email_address": "ruiz.diaz@hotmail.com"
+}

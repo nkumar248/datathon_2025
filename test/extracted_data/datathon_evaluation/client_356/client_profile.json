@@ -1,0 +1,58 @@
+{
+    "name": "Klein Fischer Bauer",
+    "address": {
+        "city": "Maaseik",
+        "street name": "Rue des Chartreux",
+        "street number": 9,
+        "postal code": "8892"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1999-02-09",
+    "nationality": "German",
+    "passport_number": "DE3850571",
+    "passport_issue_date": "2021-06-04",
+    "passport_expiry_date": "2031-06-03",
+    "gender": "M",
+    "phone_number": "+32 0449 074 983",
+    "email_address": "klein.bauer@skype.be",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Otto-Hahn-Gymnasium Karlsruhe",
+        "graduation_year": 2018
+    },
+    "higher_education": [
+        {
+            "university": "Berlin University of the Arts",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2022,
+            "end_year": null,
+            "company": "Belgian Comic Strip Center",
+            "position": "Art Dealer",
+            "salary": 41000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 1550000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

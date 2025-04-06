@@ -1,0 +1,65 @@
+{
+    "name": "Torres Ramos González",
+    "address": {
+        "city": "Segovia",
+        "street name": "Plaza de la Magdalena",
+        "street number": 81,
+        "postal code": "76070"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1973-06-17",
+    "nationality": "Spanish",
+    "passport_number": "HS3205879",
+    "passport_issue_date": "2016-12-10",
+    "passport_expiry_date": "2026-12-09",
+    "gender": "M",
+    "phone_number": "+34 684 388 413",
+    "email_address": "torres.gonzalez@gmail.es",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "IES Francisco de Quevedo Valladolid",
+        "graduation_year": 1992
+    },
+    "higher_education": [
+        {
+            "university": "University of Seville",
+            "graduation_year": 1998
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1997,
+            "end_year": 1998,
+            "company": "PharmaMar S.A.",
+            "position": "Research Scientist",
+            "salary": 27000
+        },
+        {
+            "start_year": 1998,
+            "end_year": null,
+            "company": "Oryzon Genomics S.A.",
+            "position": "Biotech Startup Founder",
+            "salary": 164000
+        }
+    ],
+    "aum": {
+        "savings": 290000,
+        "inheritance": 9040000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2006,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

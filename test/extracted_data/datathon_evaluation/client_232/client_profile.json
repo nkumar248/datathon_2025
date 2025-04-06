@@ -1,0 +1,72 @@
+{
+    "name": "Almudena Consuelo Martínez",
+    "address": {
+        "city": "Barcelona",
+        "street name": "Calle de San Bernardo",
+        "street number": 38,
+        "postal code": "84618"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1963-10-29",
+    "nationality": "Spanish",
+    "passport_number": "FG4759696",
+    "passport_issue_date": "2016-12-17",
+    "passport_expiry_date": "2026-12-16",
+    "gender": "F",
+    "phone_number": "+34 698 962 502",
+    "email_address": "almudena.martinez@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "IES Jorge Guillén Salamanca",
+        "graduation_year": 1982
+    },
+    "higher_education": [
+        {
+            "university": "Ramón Llull University",
+            "graduation_year": 1986
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1987,
+            "end_year": 1991,
+            "company": "Museo del Prado",
+            "position": "Art Dealer",
+            "salary": 25000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 2024,
+            "company": "Thyssen-Bornemisza National Museum",
+            "position": "Gallery Owner",
+            "salary": 220000
+        }
+    ],
+    "aum": {
+        "savings": 430000,
+        "inheritance": 0,
+        "real_estate_value": 2460000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1370000,
+            "property location": "Barcelona"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1090000,
+            "property location": "Guadalajara"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "France"
+    ],
+    "currency": "EUR"
+}

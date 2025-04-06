@@ -1,0 +1,17 @@
+{
+    "name": "Chiara Evelyne Huber",
+    "first_name": "Chiara",
+    "middle_name": "Evelyne",
+    "last_name": "Huber",
+    "passport_number": "WF0609852",
+    "currency": "CHF",
+    "address": {
+        "city": "Bellinzona",
+        "street name": "Quai du Général-Guisan",
+        "street number": 39,
+        "postal code": "8898"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "081 305 48 96",
+    "email_address": "chiara.huber@yahoo.com"
+}

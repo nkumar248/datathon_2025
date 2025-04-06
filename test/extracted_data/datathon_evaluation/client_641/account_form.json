@@ -1,0 +1,17 @@
+{
+    "name": "Emma Garance Dubois",
+    "first_name": "Emma",
+    "middle_name": "Garance",
+    "last_name": "Dubois",
+    "passport_number": "XU4991380",
+    "currency": "EUR",
+    "address": {
+        "city": "Angers",
+        "street name": "Place des Vosges",
+        "street number": 36,
+        "postal code": "93985"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 02 22 70 84 03",
+    "email_address": "emma.dubois@gmail.com"
+}

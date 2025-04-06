@@ -1,0 +1,80 @@
+{
+    "name": "Egli Bühler Roth",
+    "address": {
+        "city": "Chur",
+        "street name": "Place des Halles",
+        "street number": 91,
+        "postal code": "3074"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1965-10-08",
+    "nationality": "Swiss",
+    "passport_number": "TK7591655",
+    "passport_issue_date": "2021-05-15",
+    "passport_expiry_date": "2031-05-14",
+    "gender": "M",
+    "phone_number": "068 546 92 14",
+    "email_address": "egli.roth@lycos.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Kantonsschule Liestal Basel-Landschaft",
+        "graduation_year": 1973
+    },
+    "higher_education": [
+        {
+            "university": "ETH Zurich",
+            "graduation_year": 1988
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1990,
+            "end_year": 1992,
+            "company": "Kunsthaus Zürich",
+            "position": "Art Dealer",
+            "salary": 61000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 1998,
+            "company": "Kunsthaus Zürich",
+            "position": "Gallery Owner",
+            "salary": 132000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2001,
+            "company": "Musée d'Art et d'Histoire Geneva",
+            "position": "Art Advisor",
+            "salary": 130000
+        },
+        {
+            "start_year": 2002,
+            "end_year": null,
+            "company": "Kunstmuseum Basel",
+            "position": "Curator",
+            "salary": 1615000
+        }
+    ],
+    "aum": {
+        "savings": 2780000,
+        "inheritance": 0,
+        "real_estate_value": 2250000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 2250000,
+            "property location": "Chur"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

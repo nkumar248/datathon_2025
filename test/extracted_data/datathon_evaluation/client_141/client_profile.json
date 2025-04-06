@@ -1,0 +1,78 @@
+{
+    "name": "Kaufmann Furrer Burkart",
+    "address": {
+        "city": "Thun",
+        "street name": "Steinstrasse",
+        "street number": 50,
+        "postal code": "5724"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1956-01-06",
+    "nationality": "Swiss",
+    "passport_number": "KY3102319",
+    "passport_issue_date": "2017-12-08",
+    "passport_expiry_date": "2027-12-07",
+    "gender": "M",
+    "phone_number": "+41 020 408 97 57",
+    "email_address": "kaufmann.burkart@freedom.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Gymnasium Köniz Bern",
+        "graduation_year": 1973
+    },
+    "higher_education": [
+        {
+            "university": "University of Neuchâtel",
+            "graduation_year": 1979
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1980,
+            "end_year": 1983,
+            "company": "Google Switzerland GmbH",
+            "position": "Software Developer",
+            "salary": 60000
+        },
+        {
+            "start_year": 1983,
+            "end_year": 1987,
+            "company": "IBM Switzerland Ltd.",
+            "position": "Startup Founder",
+            "salary": 87000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 2016,
+            "company": "Google Switzerland GmbH",
+            "position": "CEO",
+            "salary": 911000
+        }
+    ],
+    "aum": {
+        "savings": 1530000,
+        "inheritance": 0,
+        "real_estate_value": 4830000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 2930000,
+            "property location": "Thun"
+        },
+        {
+            "property type": "flat",
+            "property value": 1900000,
+            "property location": "Neuchatel"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

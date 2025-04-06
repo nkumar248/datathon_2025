@@ -1,0 +1,17 @@
+{
+    "first_name": "Richard",
+    "middle_name": "Garcia",
+    "last_name": "Gauthier",
+    "gender": "M",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1970-01-05",
+    "passport_number": "BU2343995",
+    "passport_mrz": [
+        "P<FRAGAUTHIER<<RICHARD<GARCIA<<<<<<<<<<<<<<<<",
+        "BU2343995FRA700105<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2016-07-03",
+    "passport_expiry_date": "2026-07-02"
+}

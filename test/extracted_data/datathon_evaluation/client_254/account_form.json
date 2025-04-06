@@ -1,0 +1,17 @@
+{
+    "name": "Marchand Renault",
+    "first_name": "Marchand",
+    "middle_name": "",
+    "last_name": "Renault",
+    "passport_number": "AT5466269",
+    "currency": "EUR",
+    "address": {
+        "city": "Nice",
+        "street name": "Quai d'Orsay",
+        "street number": 65,
+        "postal code": "30260"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 03 15 84 17 64",
+    "email_address": "marchand.renault@aliceadsl.fr"
+}

@@ -1,0 +1,71 @@
+{
+    "name": "Voorn Schipper Wagemakers",
+    "address": {
+        "city": "Boxtel",
+        "street name": "Koninginnegracht",
+        "street number": 89,
+        "postal code": "1274 37"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1971-05-31",
+    "nationality": "Dutch",
+    "passport_number": "HU4935863",
+    "passport_issue_date": "2023-11-04",
+    "passport_expiry_date": "2033-11-03",
+    "gender": "M",
+    "phone_number": "+31 06 78092939",
+    "email_address": "voorn.wagemakers@tele2.nl",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "St. Willibrorduscollege Deurne",
+        "graduation_year": 1991
+    },
+    "higher_education": [
+        {
+            "university": "Erasmus University Rotterdam",
+            "graduation_year": 1995
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1995,
+            "end_year": 1996,
+            "company": "Shell Nederland B.V.",
+            "position": "Junior Trader",
+            "salary": 40000
+        },
+        {
+            "start_year": 1998,
+            "end_year": null,
+            "company": "Shell Nederland B.V.",
+            "position": "Senior Trader",
+            "salary": 287000
+        }
+    ],
+    "aum": {
+        "savings": 480000,
+        "inheritance": 5090000,
+        "real_estate_value": 1560000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2005,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1560000,
+            "property location": "Boxtel"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

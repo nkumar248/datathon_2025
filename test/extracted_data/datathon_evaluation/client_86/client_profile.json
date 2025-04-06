@@ -1,0 +1,71 @@
+{
+    "name": "Floriane Lina Louis",
+    "address": {
+        "city": "Rome",
+        "street name": "Via dei Tribunali",
+        "street number": 43,
+        "postal code": "76937"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1985-05-25",
+    "nationality": "French",
+    "passport_number": "FS0304396",
+    "passport_issue_date": "2017-02-22",
+    "passport_expiry_date": "2027-02-21",
+    "gender": "F",
+    "phone_number": "+39 342 1723621",
+    "email_address": "floriane.louis@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Buffon",
+        "graduation_year": 2005
+    },
+    "higher_education": [
+        {
+            "university": "EMIC de Marseille",
+            "graduation_year": 2009
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2012,
+            "company": "Clessidra SGR S.p.A.",
+            "position": "Analyst",
+            "salary": 29000
+        },
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "Alcedo SGR S.p.A.",
+            "position": "Associate",
+            "salary": 108000
+        }
+    ],
+    "aum": {
+        "savings": 140000,
+        "inheritance": 280000,
+        "real_estate_value": 1670000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2019,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1670000,
+            "property location": "Rome"
+        }
+    ],
+    "investment_risk_profile": "",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "France"
+    ],
+    "currency": "EUR"
+}

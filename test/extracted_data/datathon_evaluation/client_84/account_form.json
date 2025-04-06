@@ -1,0 +1,17 @@
+{
+    "name": "Lotta Laura Lehtinen",
+    "first_name": "Lotta",
+    "middle_name": "Laura",
+    "last_name": "Lehtinen",
+    "passport_number": "KY1028976",
+    "currency": "EUR",
+    "address": {
+        "city": "Lappeenranta",
+        "street name": "Nordea-puistotie",
+        "street number": 72,
+        "postal code": "63274"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 047 554 82 68",
+    "email_address": "lotta.lehtinen@pp.inet.fi"
+}

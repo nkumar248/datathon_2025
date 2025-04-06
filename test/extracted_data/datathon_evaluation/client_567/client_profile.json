@@ -1,0 +1,57 @@
+{
+    "name": "Wolf Neumann",
+    "address": {
+        "city": "Freiburg im Breisgau",
+        "street name": "Kaiserstraße",
+        "street number": 29,
+        "postal code": "07125"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1996-12-16",
+    "nationality": "German",
+    "passport_number": "MH1831606",
+    "passport_issue_date": "2022-11-11",
+    "passport_expiry_date": "2032-11-10",
+    "gender": "M",
+    "phone_number": "+49 3368 218286",
+    "email_address": "wolf.neumann@t-online.de",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Melanchthon-Gymnasium Nürnberg",
+        "graduation_year": 2015
+    },
+    "higher_education": [
+        {
+            "university": "Hamburg University of Music and Theatre",
+            "graduation_year": 2020
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2020,
+            "end_year": 2024,
+            "company": "Bertelsmann SE & Co. KGaA",
+            "position": "Journalist",
+            "salary": 42000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 1840000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2020,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Germany"
+    ],
+    "currency": "EUR"
+}

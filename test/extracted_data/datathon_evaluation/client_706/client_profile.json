@@ -1,0 +1,50 @@
+{
+    "name": "Anaïs Peeters",
+    "address": {
+        "city": "Brussels",
+        "street name": "Rue Neuve",
+        "street number": 93,
+        "postal code": "1299"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "2000-12-20",
+    "nationality": "Belgian",
+    "passport_number": "VD8766809",
+    "passport_issue_date": "2019-11-27",
+    "passport_expiry_date": "2026-11-26",
+    "gender": "F",
+    "phone_number": "0442 822 886",
+    "email_address": "anais.peeters@hotmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée Molière",
+        "graduation_year": 2020
+    },
+    "higher_education": [
+        {
+            "university": "Vesalius College",
+            "graduation_year": 2013
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 2190000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

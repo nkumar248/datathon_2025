@@ -1,0 +1,70 @@
+{
+    "name": "Astrid Daantje Peeters",
+    "address": {
+        "city": "Enschede",
+        "street name": "Mauritskade",
+        "street number": 92,
+        "postal code": "6333 25"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1994-07-25",
+    "nationality": "Dutch",
+    "passport_number": "QA0918276",
+    "passport_issue_date": "2020-07-03",
+    "passport_expiry_date": "2030-07-02",
+    "gender": "F",
+    "phone_number": "+31 06 32543684",
+    "email_address": "astrid.peeters@upcmail.nl",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Scholengroep Carmel Maastricht",
+        "graduation_year": 2014
+    },
+    "higher_education": [
+        {
+            "university": "Wittenborg University of Applied Sciences",
+            "graduation_year": 2018
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2018,
+            "end_year": 2021,
+            "company": "Rabobank Private Banking",
+            "position": "Family Office Manager",
+            "salary": 43000
+        },
+        {
+            "start_year": 2022,
+            "end_year": null,
+            "company": "ING Private Banking",
+            "position": "Investment Director",
+            "salary": 66000
+        }
+    ],
+    "aum": {
+        "savings": 50000,
+        "inheritance": 4200000,
+        "real_estate_value": 2590000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2590000,
+            "property location": "Enschede"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

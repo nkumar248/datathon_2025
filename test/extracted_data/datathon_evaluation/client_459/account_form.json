@@ -1,0 +1,17 @@
+{
+    "name": "Nicolas Louis Gauthier",
+    "first_name": "Nicolas",
+    "middle_name": "Louis",
+    "last_name": "Gauthier",
+    "passport_number": "WN1992419",
+    "currency": "EUR",
+    "address": {
+        "city": "Le Havre",
+        "street name": "Rue Royale",
+        "street number": 38,
+        "postal code": "39690"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 01 25 02 03 78",
+    "email_address": "nicolas.gauthier@orange.fr"
+}

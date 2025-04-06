@@ -1,0 +1,63 @@
+{
+    "name": "Chiara Wyss",
+    "address": {
+        "city": "Appenzell",
+        "street name": "Rue de l'Athénée",
+        "street number": 24,
+        "postal code": "4627"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1992-01-20",
+    "nationality": "Swiss",
+    "passport_number": "XI4440857",
+    "passport_issue_date": "2024-07-23",
+    "passport_expiry_date": "2034-07-22",
+    "gender": "F",
+    "phone_number": "086 196 18 89",
+    "email_address": "chiara.wyss@swissonline.ch",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Kantonsschule Frauenfeld Thurgau",
+        "graduation_year": 2009
+    },
+    "higher_education": [
+        {
+            "university": "University of Bern",
+            "graduation_year": 2014
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2015,
+            "end_year": 2025,
+            "company": "Partners Group Holding AG",
+            "position": "Analyst",
+            "salary": 84000
+        }
+    ],
+    "aum": {
+        "savings": 100000,
+        "inheritance": 5740000,
+        "real_estate_value": 4690000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 4690000,
+            "property location": "Appenzell"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

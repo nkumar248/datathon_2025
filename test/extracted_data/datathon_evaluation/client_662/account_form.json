@@ -1,0 +1,17 @@
+{
+    "name": "Gitte Andrea Petersen",
+    "first_name": "Gitte",
+    "middle_name": "Andrea",
+    "last_name": "Petersen",
+    "passport_number": "FM0870095",
+    "currency": "DKK",
+    "address": {
+        "city": "Næstved",
+        "street name": "Kattesundet",
+        "street number": 25,
+        "postal code": "9206"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 05 37 51 82",
+    "email_address": "gitte.petersen@yahoo.com"
+}

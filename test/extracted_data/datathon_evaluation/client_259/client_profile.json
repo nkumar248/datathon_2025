@@ -1,0 +1,80 @@
+{
+    "name": "Gómez Martín Herrera",
+    "address": {
+        "city": "Teruel",
+        "street name": "Calle de la Reina Cristina",
+        "street number": 7,
+        "postal code": "73008"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1983-08-17",
+    "nationality": "Spanish",
+    "passport_number": "WM2413105",
+    "passport_issue_date": "2017-11-22",
+    "passport_expiry_date": "2027-11-21",
+    "gender": "M",
+    "phone_number": "637 291 745",
+    "email_address": "gomez.herrera@hotmail.c",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "IES Virgen del Carmen Málaga",
+        "graduation_year": 2002
+    },
+    "higher_education": [
+        {
+            "university": "Pompeu Fabra University",
+            "graduation_year": 2007
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2007,
+            "end_year": 2008,
+            "company": "Indra Sistemas S.A.",
+            "position": "Software Developer",
+            "salary": 23000
+        },
+        {
+            "start_year": 2008,
+            "end_year": null,
+            "company": "Tuenti Technologies S.L.",
+            "position": "Startup Founder",
+            "salary": 131000
+        }
+    ],
+    "aum": {
+        "savings": 200000,
+        "inheritance": 580000,
+        "real_estate_value": 3164000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1141000,
+            "property location": "Teruel"
+        },
+        {
+            "property type": "condo",
+            "property value": 733000,
+            "property location": "Santa Cruz de Tenerife"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1290000,
+            "property location": "Palma de Mallorca"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

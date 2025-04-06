@@ -1,0 +1,17 @@
+{
+    "first_name": "Caroline",
+    "middle_name": "Lena",
+    "last_name": "Riedo",
+    "gender": "F",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1998-05-23",
+    "passport_number": "PF8918570",
+    "passport_mrz": [
+        "P<CHERIEDO<<CAROLINE<LENA<<<<<<<<<<<<<<<<<<<<",
+        "PF8918570CHE980523<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-05-06",
+    "passport_expiry_date": "2034-05-05"
+}

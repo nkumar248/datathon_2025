@@ -1,0 +1,17 @@
+{
+    "name": "Marini Giordano",
+    "first_name": "Marini",
+    "middle_name": "",
+    "last_name": "Giordano",
+    "passport_number": "SC5437038",
+    "currency": "EUR",
+    "address": {
+        "city": "Siena",
+        "street name": "Piazza di Spagna",
+        "street number": 23,
+        "postal code": "89226"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 376 3224253",
+    "email_address": "marini.giordano@outlook.com"
+}

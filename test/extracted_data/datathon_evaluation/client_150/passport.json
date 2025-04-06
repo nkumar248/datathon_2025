@@ -1,0 +1,17 @@
+{
+    "first_name": "Bauer",
+    "middle_name": "Schnell",
+    "last_name": "Steiner",
+    "gender": "M",
+    "country": "Austria",
+    "country_code": "AUT",
+    "nationality": "Austrian",
+    "birth_date": "1984-01-17",
+    "passport_number": "BS4887732",
+    "passport_mrz": [
+        "P<AUTSTEINER<<BAUER<SCHNELL<<<<<<<<<<<<<<<<<<",
+        "BS4887732AUT840117<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2021-01-18",
+    "passport_expiry_date": "2031-01-17"
+}

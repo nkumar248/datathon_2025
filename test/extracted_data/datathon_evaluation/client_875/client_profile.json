@@ -1,0 +1,72 @@
+{
+    "name": "Keller Werner Zbinden",
+    "address": {
+        "city": "Rotterdam",
+        "street name": "Markt",
+        "street number": 6,
+        "postal code": "3823 20"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1965-07-18",
+    "nationality": "Swiss",
+    "passport_number": "JN6285612",
+    "passport_issue_date": "2022-08-07",
+    "passport_expiry_date": "2032-08-06",
+    "gender": "M",
+    "phone_number": "06 63114395",
+    "email_address": "keller.zbinden@planet.nl",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Liceo scientifico Giovanni Polli Lugano",
+        "graduation_year": 1984
+    },
+    "higher_education": [
+        {
+            "university": "EPFL",
+            "graduation_year": 1989
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1990,
+            "end_year": 1991,
+            "company": "Gilde Buy Out Partners B.V.",
+            "position": "Analyst",
+            "salary": 69000
+        },
+        {
+            "start_year": 1993,
+            "end_year": null,
+            "company": "Alpinvest Partners B.V.",
+            "position": "Associate",
+            "salary": 571000
+        }
+    ],
+    "aum": {
+        "savings": 1130000,
+        "inheritance": 2520000,
+        "real_estate_value": 1480000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2009,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1480000,
+            "property location": "Rotterdam"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Netherlands",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

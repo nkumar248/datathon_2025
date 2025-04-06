@@ -1,0 +1,57 @@
+{
+    "name": "Caroline Lena Riedo",
+    "address": {
+        "city": "Aarau",
+        "street name": "Spalenberg",
+        "street number": 74,
+        "postal code": "8419"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1998-05-23",
+    "nationality": "Swiss",
+    "passport_number": "PF8918570",
+    "passport_issue_date": "2024-05-06",
+    "passport_expiry_date": "2034-05-05",
+    "gender": "F",
+    "phone_number": "+41 042 941 18 64",
+    "email_address": "caroline.riedo@sunrise.ch",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Kantonsschule Liestal Basel-Landschaft",
+        "graduation_year": 2017
+    },
+    "higher_education": [
+        {
+            "university": "University of Basel",
+            "graduation_year": 2022
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2022,
+            "end_year": 2025,
+            "company": "Schellenberg Wittmer Ltd.",
+            "position": "Associate Attorney",
+            "salary": 66000
+        }
+    ],
+    "aum": {
+        "savings": 30000,
+        "inheritance": 1280000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

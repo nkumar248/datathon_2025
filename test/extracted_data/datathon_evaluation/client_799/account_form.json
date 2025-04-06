@@ -1,0 +1,17 @@
+{
+    "name": "Vilma Helmi Seppälä",
+    "first_name": "Vilma",
+    "middle_name": "Helmi",
+    "last_name": "Seppälä",
+    "passport_number": "VL5331103",
+    "currency": "EUR",
+    "address": {
+        "city": "Toledo",
+        "street name": "Turia Gardens",
+        "street number": 91,
+        "postal code": "63689"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 661 167 704",
+    "email_address": "vilma.seppala@ya.com"
+}

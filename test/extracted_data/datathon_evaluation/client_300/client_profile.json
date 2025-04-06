@@ -1,0 +1,58 @@
+{
+    "name": "Uhlig Becker Herrmann",
+    "address": {
+        "city": "Hamburg",
+        "street name": "Max-Joseph-Straße",
+        "street number": 65,
+        "postal code": "65163"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1999-08-20",
+    "nationality": "German",
+    "passport_number": "GJ6947724",
+    "passport_issue_date": "2018-01-19",
+    "passport_expiry_date": "2028-01-18",
+    "gender": "M",
+    "phone_number": "3394 522293",
+    "email_address": "uhlig.herrmann@t-online.de",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Pestalozzi-Gymnasium Nürnberg",
+        "graduation_year": 2008
+    },
+    "higher_education": [
+        {
+            "university": "Weingarten University of Education",
+            "graduation_year": 2023
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2023,
+            "end_year": 2025,
+            "company": "Freshfields Bruckhaus Deringer LLP",
+            "position": "Associate Attorney",
+            "salary": 41000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 1250000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

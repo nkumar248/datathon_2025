@@ -1,0 +1,17 @@
+{
+    "name": "Valeria Daniela Herrera",
+    "first_name": "Valeria",
+    "middle_name": "Daniela",
+    "last_name": "Herrera",
+    "passport_number": "CU8767740",
+    "currency": "EUR",
+    "address": {
+        "city": "Almería",
+        "street name": "Calle de la Princesa",
+        "street number": 11,
+        "postal code": "83448"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 624 530 020",
+    "email_address": "valeria.herrera@hotmail.com"
+}

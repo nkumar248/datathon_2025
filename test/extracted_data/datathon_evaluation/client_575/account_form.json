@@ -1,0 +1,17 @@
+{
+    "name": "Jansen Stevens Meijer",
+    "first_name": "Jansen",
+    "middle_name": "Stevens",
+    "last_name": "Meijer",
+    "passport_number": "XH6237583",
+    "currency": "EUR",
+    "address": {
+        "city": "Arnhem",
+        "street name": "Zuidas",
+        "street number": 23,
+        "postal code": "7774 85"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 62595611",
+    "email_address": "jansen.meijer@home.nl"
+}

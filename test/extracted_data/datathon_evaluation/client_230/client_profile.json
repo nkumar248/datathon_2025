@@ -1,0 +1,50 @@
+{
+    "name": "Maassen Kuipers",
+    "address": {
+        "city": "Emmen",
+        "street name": "Kinkerstraat",
+        "street number": 45,
+        "postal code": "8735 04"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "2001-08-19",
+    "nationality": "Dutch",
+    "passport_number": "SB5948726",
+    "passport_issue_date": "2016-12-10",
+    "passport_expiry_date": "2026-12-09",
+    "gender": "M",
+    "phone_number": "+31 06 74027318",
+    "email_address": "maassen.kuipers@yahoo.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "St. Willibrorduscollege Deurne",
+        "graduation_year": 2021
+    },
+    "higher_education": [
+        {
+            "university": "Erasmus University Rotterdam",
+            "graduation_year": 2024
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 2630000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Martin Richard Renault",
+    "first_name": "Martin",
+    "middle_name": "Richard",
+    "last_name": "Renault",
+    "passport_number": "FQ8784022",
+    "currency": "EUR",
+    "address": {
+        "city": "Strasbourg",
+        "street name": "Rue de la Paix",
+        "street number": 32,
+        "postal code": "46098"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "02 54 98 94 82",
+    "email_address": "martin.renault@icloud.com"
+}

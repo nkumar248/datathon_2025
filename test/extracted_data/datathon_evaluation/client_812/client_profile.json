@@ -1,0 +1,77 @@
+{
+    "name": "Lechner Fischer Bauer",
+    "address": {
+        "city": "Krems an der Donau",
+        "street name": "Enzersdorfer Straße",
+        "street number": 68,
+        "postal code": "6069"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1976-12-02",
+    "nationality": "Austrian",
+    "passport_number": "BZ9107794",
+    "passport_issue_date": "2024-07-07",
+    "passport_expiry_date": "2034-07-06",
+    "gender": "M",
+    "phone_number": "+43 966 612 0200",
+    "email_address": "lechner.bauer@gmx.at",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Erzbischöfliches Gymnasium Borromäum",
+        "graduation_year": 1994
+    },
+    "higher_education": [
+        {
+            "university": "Graz University of Technology",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2001,
+            "end_year": 2004,
+            "company": "Austrian Energy Agency",
+            "position": "Drilling Engineer",
+            "salary": 33000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2008,
+            "company": "Austrian Energy Agency",
+            "position": "Reservoir Engineer",
+            "salary": 44000
+        },
+        {
+            "start_year": 2009,
+            "end_year": null,
+            "company": "RAG Rohol-Aufsuchungs AG",
+            "position": "Operations Manager",
+            "salary": 267000
+        }
+    ],
+    "aum": {
+        "savings": 380000,
+        "inheritance": 490000,
+        "real_estate_value": 950000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2011,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 950000,
+            "property location": "Krems an der Donau"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

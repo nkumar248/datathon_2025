@@ -1,0 +1,17 @@
+{
+    "name": "Joris Jacobs De Smet",
+    "first_name": "Joris",
+    "middle_name": " Jacobs",
+    "last_name": "De Smet",
+    "passport_number": "OI5079567",
+    "currency": "EUR",
+    "address": {
+        "city": "Poperinge",
+        "street name": "Rue des Deux Portes",
+        "street number": 30,
+        "postal code": "0092"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0461 208 407",
+    "email_address": "joris.desmet@proximus.be"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Louna Van den Berghe",
+    "first_name": "Louna",
+    "middle_name": "",
+    "last_name": "Van den Berghe",
+    "passport_number": "ZF1692462",
+    "currency": "EUR",
+    "address": {
+        "city": "Leuven",
+        "street name": "Rue de l'Église",
+        "street number": 51,
+        "postal code": "4419"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0488 966 842",
+    "email_address": "louna.vandenberghe@proximus.be"
+}

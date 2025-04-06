@@ -1,0 +1,17 @@
+{
+    "name": "Richter Weber Koch",
+    "first_name": "Richter",
+    "middle_name": "Weber",
+    "last_name": "Koch",
+    "passport_number": "CZ6344066",
+    "currency": "EUR",
+    "address": {
+        "city": "Nuremberg",
+        "street name": "Kurfürstendamm",
+        "street number": 93,
+        "postal code": "32073"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 9488 023885",
+    "email_address": "richter.koch@icloud.com"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Corinne Sophia Baumgartner",
+    "first_name": "Corinne",
+    "middle_name": "Sophia",
+    "last_name": "Baumgartner",
+    "passport_number": "UD6948938",
+    "currency": "CHF",
+    "address": {
+        "city": "Chur",
+        "street name": "Place de la Navigation",
+        "street number": 26,
+        "postal code": "6858"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "084 178 32 37",
+    "email_address": "corinne.baumgartner@bluewin.ch"
+}

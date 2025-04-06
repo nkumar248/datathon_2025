@@ -1,0 +1,49 @@
+{
+    "name": "Franziska Sabrina Krämer",
+    "address": {
+        "city": "Tulln an der Donau",
+        "street name": "Ringstraße",
+        "street number": 17,
+        "postal code": "5525"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "2001-08-01",
+    "nationality": "Austrian",
+    "passport_number": "TZ2214986",
+    "passport_issue_date": "2023-02-28",
+    "passport_expiry_date": "2033-02-27",
+    "gender": "F",
+    "phone_number": "+43 617 473 6579",
+    "email_address": "franziska.kramer@chello.at",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "BORG Deutschlandsberg",
+        "graduation_year": 2019
+    },
+    "higher_education": [
+        {
+            "university": "Sigmund Freud University Vienna",
+            "graduation_year": 2025
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 2830000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

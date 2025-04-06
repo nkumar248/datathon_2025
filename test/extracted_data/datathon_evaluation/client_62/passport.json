@@ -1,0 +1,17 @@
+{
+    "first_name": "Burkart",
+    "middle_name": "Roth",
+    "last_name": "Kaufmann",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "2000-02-17",
+    "passport_number": "RF3600903",
+    "passport_mrz": [
+        "P<CHEKAUFMANN<<BURKART<ROTH<<<<<<<<<<<<<<<<<<",
+        "R3F600903CHE000217<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2020-01-07",
+    "passport_expiry_date": "2030-01-06"
+}

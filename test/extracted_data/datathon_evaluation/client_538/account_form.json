@@ -1,0 +1,17 @@
+{
+    "name": "Gisèle Weber",
+    "first_name": "Gisèle",
+    "middle_name": "",
+    "last_name": "Weber",
+    "passport_number": "IN3185363",
+    "currency": "CHF",
+    "address": {
+        "city": "Lugano",
+        "street name": "Rathausgasse",
+        "street number": 22,
+        "postal code": "3772"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "007 134 96 98",
+    "email_address": "gisele.weber@teli.ch"
+}

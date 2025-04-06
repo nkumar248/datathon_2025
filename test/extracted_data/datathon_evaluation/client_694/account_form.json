@@ -1,0 +1,17 @@
+{
+    "name": "Helga Anna Schneider",
+    "first_name": "Helga",
+    "middle_name": "Anna",
+    "last_name": "Schneider",
+    "passport_number": "JJ1981761",
+    "currency": "EUR",
+    "address": {
+        "city": "Frankfurt am Main",
+        "street name": "Potsdamer Platz",
+        "street number": 70,
+        "postal code": "74324"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 8097 640561",
+    "email_address": "helga.schneider@hotmail.com"
+}

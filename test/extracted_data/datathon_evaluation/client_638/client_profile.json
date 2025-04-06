@@ -1,0 +1,76 @@
+{
+    "name": "Pérez Álvarez Torres",
+    "address": {
+        "city": "Toledo",
+        "street name": "Rambla",
+        "street number": 52,
+        "postal code": "27218"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1962-03-12",
+    "nationality": "Spanish",
+    "passport_number": "NT9564355",
+    "passport_issue_date": "2018-07-20",
+    "passport_expiry_date": "2028-07-19",
+    "gender": "M",
+    "phone_number": "644 393 924",
+    "email_address": "perez.torres@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Colegio La Inmaculada Córdoba",
+        "graduation_year": 1981
+    },
+    "higher_education": [
+        {
+            "university": "Universidad Pontificia Comillas",
+            "graduation_year": 1984
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1985,
+            "end_year": 1990,
+            "company": "Renault España S.A.",
+            "position": "Plant Manager",
+            "salary": 28000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 2022,
+            "company": "SEAT S.A.",
+            "position": "Operations Director",
+            "salary": 268000
+        }
+    ],
+    "aum": {
+        "savings": 500000,
+        "inheritance": 0,
+        "real_estate_value": 3966000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1328000,
+            "property location": "Toledo"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1078000,
+            "property location": "Salamanca"
+        },
+        {
+            "property type": "house",
+            "property value": 1560000,
+            "property location": "Oviedo"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

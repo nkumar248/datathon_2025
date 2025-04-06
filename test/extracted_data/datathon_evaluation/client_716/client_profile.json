@@ -1,0 +1,80 @@
+{
+    "name": "Lilli Isabel Richter",
+    "address": {
+        "city": "Mannheim",
+        "street name": "Unter den Linden",
+        "street number": 5,
+        "postal code": "35981"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1973-12-29",
+    "nationality": "German",
+    "passport_number": "IZ9588534",
+    "passport_issue_date": "2020-05-09",
+    "passport_expiry_date": "2030-05-08",
+    "gender": "F",
+    "phone_number": "+49 2362 360786",
+    "email_address": "lilli.richter@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Otto-Hahn-Gymnasium Karlsruhe",
+        "graduation_year": 1993
+    },
+    "higher_education": [
+        {
+            "university": "Bucerius Law School",
+            "graduation_year": 1998
+        },
+        {
+            "university": "Ludwig Maximilian University of Munich",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1997,
+            "end_year": 1999,
+            "company": "Kühne + Nagel (Deutschland) GmbH",
+            "position": "Ship Broker",
+            "salary": 41000
+        },
+        {
+            "start_year": 2000,
+            "end_year": null,
+            "company": "DSV Air & Sea GmbH",
+            "position": "Shipping Company Owner",
+            "salary": 244000
+        }
+    ],
+    "aum": {
+        "savings": 400000,
+        "inheritance": 2750000,
+        "real_estate_value": 3612000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2013,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1282000,
+            "property location": "Mannheim"
+        },
+        {
+            "property type": "villa",
+            "property value": 2330000,
+            "property location": "Karlsruhe"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Belgium",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

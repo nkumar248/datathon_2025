@@ -1,0 +1,50 @@
+{
+    "name": "Garcia Martin Moreau",
+    "address": {
+        "city": "Le Havre",
+        "street name": "Boulevard Auguste Blanqui",
+        "street number": 65,
+        "postal code": "11738"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "2001-08-07",
+    "nationality": "French",
+    "passport_number": "LV6000042",
+    "passport_issue_date": "2017-02-03",
+    "passport_expiry_date": "2027-02-02",
+    "gender": "M",
+    "phone_number": "+33 05 26 44 02 20",
+    "email_address": "garcia.moreau@sfr.fr",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée Victor Hugo",
+        "graduation_year": 2021
+    },
+    "higher_education": [
+        {
+            "university": "EMIC de Nice",
+            "graduation_year": 2024
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1150000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2019,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands",
+        "France"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Soto Ruiz",
+    "first_name": "Soto",
+    "middle_name": "",
+    "last_name": "Ruiz",
+    "passport_number": "ST9857697",
+    "currency": "EUR",
+    "address": {
+        "city": "Castellón de la Plana",
+        "street name": "Plaza de la Encarnación",
+        "street number": 97,
+        "postal code": "25614"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "++32 699 566 284",
+    "email_address": "soto.ruiz@wanadoo.es"
+}

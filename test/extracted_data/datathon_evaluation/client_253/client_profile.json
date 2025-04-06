@@ -1,0 +1,68 @@
+{
+    "name": "Schmidt Schäfer Richter",
+    "address": {
+        "city": "Cologne",
+        "street name": "Johannisstraße",
+        "street number": 3,
+        "postal code": "85411"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1994-07-07",
+    "nationality": "German",
+    "passport_number": "VG6200699",
+    "passport_issue_date": "2019-08-29",
+    "passport_expiry_date": "2029-12-08",
+    "gender": "M",
+    "phone_number": "8946 321920",
+    "email_address": "schmidt.richter@o2online.de",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Caspar-Olevian-Gymnasium Trier",
+        "graduation_year": 2013
+    },
+    "higher_education": [
+        {
+            "university": "Hamburg University of Applied Sciences",
+            "graduation_year": 2004
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "Liebherr-Aerospace GmbH",
+            "position": "Aerospace Engineer",
+            "salary": 52000
+        }
+    ],
+    "aum": {
+        "savings": 40000,
+        "inheritance": 2810000,
+        "real_estate_value": 2006000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1146000,
+            "property location": "Cologne"
+        },
+        {
+            "property type": "flat",
+            "property value": 860000,
+            "property location": "Bonn"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Germany"
+    ],
+    "currency": "EUR"
+}

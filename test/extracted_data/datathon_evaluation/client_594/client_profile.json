@@ -1,0 +1,87 @@
+{
+    "name": "Anaís Araceli Soto",
+    "address": {
+        "city": "Teruel",
+        "street name": "Plaza de España",
+        "street number": 47,
+        "postal code": "85739"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1987-11-17",
+    "nationality": "Spanish",
+    "passport_number": "KW5238672",
+    "passport_issue_date": "2020-09-13",
+    "passport_expiry_date": "2030-09-12",
+    "gender": "F",
+    "phone_number": "615 859 286",
+    "email_address": "anais.soto@orange.es",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "IES Félix Rodríguez de la Fuente Oviedo",
+        "graduation_year": 2006
+    },
+    "higher_education": [
+        {
+            "university": "Reina Sofia Museum School",
+            "graduation_year": 2010
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2012,
+            "end_year": 2013,
+            "company": "Atresmedia Corporación de Medios de Comunicación S.A.",
+            "position": "Journalist",
+            "salary": 27000
+        },
+        {
+            "start_year": 2013,
+            "end_year": 2014,
+            "company": "Telefónica S.A.",
+            "position": "Editor",
+            "salary": 36000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "Telefónica S.A.",
+            "position": "Publisher",
+            "salary": 110000
+        }
+    ],
+    "aum": {
+        "savings": 120000,
+        "inheritance": 2510000,
+        "real_estate_value": 3450000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1250000,
+            "property location": "Teruel"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1180000,
+            "property location": "Segovia"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1020000,
+            "property location": "Córdoba"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "first_name": "Ackermann",
+    "middle_name": "Riedo",
+    "last_name": "Kuhn",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1970-09-15",
+    "passport_number": "TV5823842",
+    "passport_mrz": [
+        "P<CHEKUHN<<ACKERMANN<RIEDO<<<<<<<<<<<<<<<<<<<",
+        "TV5823842CHE700915<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2021-11-17",
+    "passport_expiry_date": "2031-11-16"
+}

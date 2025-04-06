@@ -1,0 +1,17 @@
+{
+    "name": "Koch Müller Hoffmann",
+    "first_name": "Koch",
+    "middle_name": "Müller",
+    "last_name": "Hoffmann",
+    "passport_number": "QT2037722",
+    "currency": "EUR",
+    "address": {
+        "city": "Hämeenlinna",
+        "street name": "Korkeavuorenkatu",
+        "street number": 39,
+        "postal code": "31194"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 046 087 31 05",
+    "email_address": "koch.hoffmann@hotmail.com"
+}

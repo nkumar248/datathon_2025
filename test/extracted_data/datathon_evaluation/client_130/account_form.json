@@ -1,0 +1,17 @@
+{
+    "name": "Evelyne Céline Müller",
+    "first_name": "Evelyne",
+    "middle_name": "Céline",
+    "last_name": "Müller",
+    "passport_number": "GL4791002",
+    "currency": "CHF",
+    "address": {
+        "city": "Frauenfeld",
+        "street name": "Untere Hauptgasse",
+        "street number": 89,
+        "postal code": "5093"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 074 059 24 47",
+    "email_address": "evelyne.muller@teli.ch"
+}

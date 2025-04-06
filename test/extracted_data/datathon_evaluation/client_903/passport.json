@@ -1,0 +1,17 @@
+{
+    "first_name": "Furrer",
+    "middle_name": "Schneider",
+    "last_name": "Frey",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1955-12-18",
+    "passport_number": "GQ8785880",
+    "passport_mrz": [
+        "P<CHEFREY<<FURRER<SCHNEIDER<<<<<<<<<<<<<<<<<<",
+        "GQ8785880CHE551218<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2018-11-26",
+    "passport_expiry_date": "2028-11-25"
+}

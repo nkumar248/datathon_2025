@@ -1,0 +1,17 @@
+{
+    "first_name": "Bernard",
+    "middle_name": "Louis",
+    "last_name": "Durand",
+    "gender": "M",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1963-08-14",
+    "passport_number": "CV7309528",
+    "passport_mrz": [
+        "P<FRADURAND<<BERNARD<LOUIS<<<<<<<<<<<<<<<<<<<",
+        "CV7309528FRA081463<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2021-05-05",
+    "passport_expiry_date": "2031-05-04"
+}

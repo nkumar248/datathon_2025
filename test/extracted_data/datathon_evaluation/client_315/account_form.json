@@ -1,0 +1,17 @@
+{
+    "name": "Mia Anna Richter",
+    "first_name": "Mia",
+    "middle_name": "Anna",
+    "last_name": "Richter",
+    "passport_number": "FT1411291",
+    "currency": "EUR",
+    "address": {
+        "city": "Münster",
+        "street name": "Berliner Straße",
+        "street number": 72,
+        "postal code": "24028"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "9642 478692",
+    "email_address": "mia.richter@o2online.de"
+}

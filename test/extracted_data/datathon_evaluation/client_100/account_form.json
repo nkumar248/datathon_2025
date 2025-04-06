@@ -1,0 +1,17 @@
+{
+    "name": "Kristensen Petersen Thomsen",
+    "first_name": "Kristensen",
+    "middle_name": "Petersen",
+    "last_name": "Thomsen",
+    "passport_number": "QT8624520",
+    "currency": "DKK",
+    "address": {
+        "city": "Næstved",
+        "street name": "H.C. Andersens Boulevard",
+        "street number": 35,
+        "postal code": "8886"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "10 05 92 20",
+    "email_address": "kristensen.thomsen@all.dk"
+}

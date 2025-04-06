@@ -1,0 +1,57 @@
+{
+    "name": "Boucher Thomas Bernard",
+    "address": {
+        "city": "Nantes",
+        "street name": "Boulevard Raspail",
+        "street number": 87,
+        "postal code": "01643"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1998-09-17",
+    "nationality": "French",
+    "passport_number": "CO9327673",
+    "passport_issue_date": "2021-07-06",
+    "passport_expiry_date": "2031-07-05",
+    "gender": "M",
+    "phone_number": "+33 05 18 58 02 96",
+    "email_address": "boucher.bernard@yahoo.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée International de Lyon",
+        "graduation_year": 2017
+    },
+    "higher_education": [
+        {
+            "university": "University of Toulouse",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2023,
+            "end_year": null,
+            "company": "Crédit Agricole S.A.",
+            "position": "Family Office Manager",
+            "salary": 29000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 1490000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2020,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

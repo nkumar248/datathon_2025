@@ -1,0 +1,17 @@
+{
+    "first_name": "Carlotta",
+    "middle_name": "Costanza",
+    "last_name": "Russo",
+    "gender": "F",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1991-02-20",
+    "passport_number": "PT8193018",
+    "passport_mrz": [
+        "P<ITARUSSO<<CARLOTTA<COSTANZA<<<<<<<<<<<<<<<<",
+        "PT8193018ITA910220<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-12-09",
+    "passport_expiry_date": "2034-12-08"
+}

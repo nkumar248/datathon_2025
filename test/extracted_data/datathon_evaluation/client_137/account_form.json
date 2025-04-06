@@ -1,0 +1,17 @@
+{
+    "name": "Klein Krüger Schwarz",
+    "first_name": "Klein",
+    "middle_name": "Krüger",
+    "last_name": "Schwarz",
+    "passport_number": "ZU1669621",
+    "currency": "EUR",
+    "address": {
+        "city": "Bielefeld",
+        "street name": "Augustusplatz",
+        "street number": 99,
+        "postal code": "40073"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 3028 268642",
+    "email_address": "klein.schwarz@unitybox.de"
+}

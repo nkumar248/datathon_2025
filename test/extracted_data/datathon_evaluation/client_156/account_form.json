@@ -1,0 +1,17 @@
+{
+    "name": "Fischer Maier Steiner",
+    "first_name": "Fischer",
+    "middle_name": "Maier",
+    "last_name": "Steiner",
+    "passport_number": "ZE7118380",
+    "currency": "EUR",
+    "address": {
+        "city": "Hyvinkää",
+        "street name": "Katariinankatu",
+        "street number": 41,
+        "postal code": "64684"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 045 696 52 78",
+    "email_address": "fischer.steiner@suomi24.fi"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Lecomte Thiry Moens",
+    "first_name": "Lecomt",
+    "middle_name": "Thiry",
+    "last_name": "Moens",
+    "passport_number": "UC9647407",
+    "currency": "EUR",
+    "address": {
+        "city": "Menen",
+        "street name": "Rue du Marché aux Fromages",
+        "street number": 21,
+        "postal code": "3741"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0499 101 824",
+    "email_address": "lecomte.moens@yahoo.com"
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Laura Eevi Salo",
+    "address": {
+        "city": "Mikkeli",
+        "street name": "Karjalankatu",
+        "street number": 89,
+        "postal code": "60060"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "2003-04-14",
+    "nationality": "Finnish",
+    "passport_number": "TC9209939",
+    "passport_issue_date": "2016-05-01",
+    "passport_expiry_date": "2026-04-30",
+    "gender": "F",
+    "phone_number": "+358 047 734 50 99",
+    "email_address": "laura.salo@elisa.fi",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Kiteen lukio",
+        "graduation_year": 2023
+    },
+    "higher_education": [],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 2350000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

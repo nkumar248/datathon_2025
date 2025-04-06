@@ -1,0 +1,91 @@
+{
+    "name": "Aino Ahonen",
+    "address": {
+        "city": "Rauma",
+        "street name": "Vuorimiehenkatu",
+        "street number": 48,
+        "postal code": "30788"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1973-08-07",
+    "nationality": "Finnish",
+    "passport_number": "QA7392430",
+    "passport_issue_date": "2020-07-04",
+    "passport_expiry_date": "2030-07-03",
+    "gender": "F",
+    "phone_number": "+358 044 768 83 49",
+    "email_address": "aino.ahonen@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lahti Christian Institute",
+        "graduation_year": 1991
+    },
+    "higher_education": [
+        {
+            "university": "University of Jyväskylä",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1998,
+            "end_year": 2000,
+            "company": "Radisson Blu Hotels",
+            "position": "Hotel Manager",
+            "salary": 43000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2002,
+            "company": "Scandic Hotels Oy",
+            "position": "General Manager",
+            "salary": 60000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2007,
+            "company": "Radisson Blu Hotels",
+            "position": "Regional Vice President",
+            "salary": 75000
+        },
+        {
+            "start_year": 2008,
+            "end_year": 2009,
+            "company": "Scandic Hotels Oy",
+            "position": "CEO",
+            "salary": 131000
+        },
+        {
+            "start_year": 2010,
+            "end_year": null,
+            "company": "Sokos Hotels",
+            "position": "Hospitality Industry Leader",
+            "salary": 714000
+        }
+    ],
+    "aum": {
+        "savings": 1160000,
+        "inheritance": 3830000,
+        "real_estate_value": 1080000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2010,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1080000,
+            "property location": "Rauma"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

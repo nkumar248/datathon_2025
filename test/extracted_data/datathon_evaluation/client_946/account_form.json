@@ -1,0 +1,17 @@
+{
+    "name": "Kristensen Østergaard Madsen",
+    "first_name": "Kristensen",
+    "middle_name": "Østergaard",
+    "last_name": "Madsen",
+    "passport_number": "VZ3877738",
+    "currency": "EUR",
+    "address": {
+        "city": "Clermont-Ferrand",
+        "street name": "Rue Royale",
+        "street number": 1,
+        "postal code": "80680"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "05 19 10 56 24",
+    "email_address": "kristensen.madsen@yahoo.com"
+}

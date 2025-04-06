@@ -1,0 +1,82 @@
+{
+    "name": "Simon Renault Lemaître",
+    "address": {
+        "city": "Metz",
+        "street name": "Boulevard Richard Lenoir",
+        "street number": 67,
+        "postal code": "19946"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1986-12-30",
+    "nationality": "French",
+    "passport_number": "FB9550756",
+    "passport_issue_date": "2016-05-03",
+    "passport_expiry_date": "2026-05-02",
+    "gender": "M",
+    "phone_number": "+33 04 84 44 95 30",
+    "email_address": "simon.lemaitre@laposte.net",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Émile Zola",
+        "graduation_year": 2005
+    },
+    "higher_education": [
+        {
+            "university": "University of Toulouse",
+            "graduation_year": 2011
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2015,
+            "company": "Société Générale Assurances",
+            "position": "Stockbroker",
+            "salary": 32000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2017,
+            "company": "AXA S.A.",
+            "position": "Portfolio Manager",
+            "salary": 49000
+        },
+        {
+            "start_year": 2018,
+            "end_year": null,
+            "company": "CNP Assurances S.A.",
+            "position": "Hedge Fund Manager",
+            "salary": 103000
+        }
+    ],
+    "aum": {
+        "savings": 140000,
+        "inheritance": 420000,
+        "real_estate_value": 2920000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1680000,
+            "property location": "Metz"
+        },
+        {
+            "property type": "condo",
+            "property value": 1240000,
+            "property location": "Montpellier"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

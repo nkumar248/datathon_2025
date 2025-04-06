@@ -1,0 +1,17 @@
+{
+    "name": "Meier Werner Lehmann",
+    "first_name": "Meier",
+    "middle_name": "Werner",
+    "last_name": "Lehmann",
+    "passport_number": "QD6415401",
+    "currency": "CHF",
+    "address": {
+        "city": "Zurich",
+        "street name": "Rathausgasse",
+        "street number": 72,
+        "postal code": "4565"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "079 449 92 60",
+    "email_address": "meier.lehmann@icloud.com"
+}

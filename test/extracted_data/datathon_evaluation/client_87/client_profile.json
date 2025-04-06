@@ -1,0 +1,69 @@
+{
+    "name": "Uhlig Neumann Wolf",
+    "address": {
+        "city": "Erlangen",
+        "street name": "Brandenburgische Straße",
+        "street number": 11,
+        "postal code": "02703"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1965-03-29",
+    "nationality": "German",
+    "passport_number": "ZK1957231",
+    "passport_issue_date": "2017-08-28",
+    "passport_expiry_date": "2027-08-27",
+    "gender": "M",
+    "phone_number": "9368 146990",
+    "email_address": "uhlig.wolf@versatel.de",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Johann-Wolfgang-von-Goethe-Gymnasium Frankfurt",
+        "graduation_year": 1983
+    },
+    "higher_education": [
+        {
+            "university": "University of Hamburg",
+            "graduation_year": 1987
+        },
+        {
+            "university": "University of Heidelberg",
+            "graduation_year": 1993
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1988,
+            "end_year": 1992,
+            "company": "Puma SE",
+            "position": "Assistant Designer",
+            "salary": 37000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 2025,
+            "company": "Adidas AG",
+            "position": "Senior Designer",
+            "salary": 415000
+        }
+    ],
+    "aum": {
+        "savings": 840000,
+        "inheritance": 1280000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2013,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Dácil Angela Torres",
+    "first_name": "Dácil",
+    "middle_name": "Angela",
+    "last_name": "Torres",
+    "passport_number": "BF0717144",
+    "currency": "EUR",
+    "address": {
+        "city": "Seville",
+        "street name": "Plaza de la Magdalena",
+        "street number": 83,
+        "postal code": "55552"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 693 965 690",
+    "email_address": "dacil.torres@hotmail.es"
+}

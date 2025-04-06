@@ -1,0 +1,17 @@
+{
+    "name": "Daantje Veenhoven",
+    "first_name": "Daantje",
+    "middle_name": "",
+    "last_name": "Veenhoven",
+    "passport_number": "RW2852871",
+    "currency": "EUR",
+    "address": {
+        "city": "Almere",
+        "street name": "Markt",
+        "street number": 29,
+        "postal code": "5879 85"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "06 33276604",
+    "email_address": "daantje.veenhoven@gmail.com"
+}

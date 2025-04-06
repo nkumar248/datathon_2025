@@ -1,0 +1,17 @@
+{
+    "name": "Tanja Andrea Gruber",
+    "first_name": "Tanja",
+    "middle_name": "Andrea",
+    "last_name": "Gruber",
+    "passport_number": "RD6308893",
+    "currency": "EUR",
+    "address": {
+        "city": "Graz",
+        "street name": "Schönlaterngasse",
+        "street number": 61,
+        "postal code": "4850"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "555 460 0906",
+    "email_address": "tanja.gruber@gmail.com"
+}

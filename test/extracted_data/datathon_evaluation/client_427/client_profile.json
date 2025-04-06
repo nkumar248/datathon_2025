@@ -1,0 +1,99 @@
+{
+    "name": "Dubois Gauthier Dupont",
+    "address": {
+        "city": "Lyon",
+        "street name": "Avenue George V",
+        "street number": 48,
+        "postal code": "50006"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1968-06-28",
+    "nationality": "French",
+    "passport_number": "CT7861459",
+    "passport_issue_date": "2017-12-05",
+    "passport_expiry_date": "2027-12-04",
+    "gender": "M",
+    "phone_number": "+33 08 98 50 44 85",
+    "email_address": "dubois.dupont@wanadoo.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Chaptal",
+        "graduation_year": 1975
+    },
+    "higher_education": [
+        {
+            "university": "Sorbonne University",
+            "graduation_year": 1992
+        },
+        {
+            "university": "American Graduate School of Business in Paris",
+            "graduation_year": 1997
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1992,
+            "end_year": 1996,
+            "company": " Eurazeo SE",
+            "position": "Analyst",
+            "salary": 30000
+        },
+        {
+            "start_year": 1998,
+            "end_year": 2002,
+            "company": "Apax Partners SAS",
+            "position": "Associate",
+            "salary": 44000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2006,
+            "company": "BC Partners",
+            "position": "Investment Director",
+            "salary": 69000
+        },
+        {
+            "start_year": 2007,
+            "end_year": null,
+            "company": "Apax Partners SAS",
+            "position": "Partner",
+            "salary": 543000
+        }
+    ],
+    "aum": {
+        "savings": 810000,
+        "inheritance": 590000,
+        "real_estate_value": 5920000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2013,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1480000,
+            "property location": "Lyon"
+        },
+        {
+            "property type": "condo",
+            "property value": 1872000,
+            "property location": "Lille"
+        },
+        {
+            "property type": "house",
+            "property value": 2568000,
+            "property location": "Rennes"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "France"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,94 @@
+{
+    "name": "Karen Caroline Hansen",
+    "address": {
+        "city": "Skanderborg",
+        "street name": "Ørsteds Park",
+        "street number": 68,
+        "postal code": "4198"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1969-07-30",
+    "nationality": "Danish",
+    "passport_number": "SM5383297",
+    "passport_issue_date": "2016-12-29",
+    "passport_expiry_date": "2026-12-28",
+    "gender": "F",
+    "phone_number": "07 92 69 12",
+    "email_address": "karen.hansen@gmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Middelfart Gymnasium",
+        "graduation_year": 1989
+    },
+    "higher_education": [
+        {
+            "university": "University College Lillebælt",
+            "graduation_year": 1993
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1994,
+            "end_year": 1998,
+            "company": "National Gallery of Denmark",
+            "position": "Art Dealer",
+            "salary": 297000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2004,
+            "company": "Louisiana Museum of Modern Art",
+            "position": "Gallery Owner",
+            "salary": 560000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2005,
+            "company": "Arken Museum of Modern Art",
+            "position": "Art Advisor",
+            "salary": 514000
+        },
+        {
+            "start_year": 2007,
+            "end_year": null,
+            "company": "Arken Museum of Modern Art",
+            "position": "Curator",
+            "salary": 5217000
+        }
+    ],
+    "aum": {
+        "savings": 7680000,
+        "inheritance": 9180000,
+        "real_estate_value": 4527000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2014,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1427000,
+            "property location": "Skanderborg"
+        },
+        {
+            "property type": "flat",
+            "property value": 950000,
+            "property location": "Horsens"
+        },
+        {
+            "property type": "villa",
+            "property value": 2150000,
+            "property location": "Esbjerg"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

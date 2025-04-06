@@ -1,0 +1,17 @@
+{
+    "name": "Élise Joris",
+    "first_name": "Élise",
+    "middle_name": "",
+    "last_name": "Joris",
+    "passport_number": "AD9537314",
+    "currency": "EUR",
+    "address": {
+        "city": "Poperinge",
+        "street name": "Rue des Chartreux",
+        "street number": 59,
+        "postal code": "3960"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0449 165 279",
+    "email_address": "elise.joris@skynet.be"
+}

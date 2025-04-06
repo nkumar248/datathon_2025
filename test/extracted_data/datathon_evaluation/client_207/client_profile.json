@@ -1,0 +1,98 @@
+{
+    "name": "Maja Beatrix Lechner",
+    "address": {
+        "city": "Innsbruck",
+        "street name": "Simmeringer Hauptstraße",
+        "street number": 49,
+        "postal code": "9002"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1964-01-06",
+    "nationality": "Austrian",
+    "passport_number": "MM0821630",
+    "passport_issue_date": "2021-09-14",
+    "passport_expiry_date": "2031-09-13",
+    "gender": "F",
+    "phone_number": "409 151 2707",
+    "email_address": "maja.lechner@aon.at",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Gymnasium Wasagasse",
+        "graduation_year": 1983
+    },
+    "higher_education": [
+        {
+            "university": "Graz University of Technology",
+            "graduation_year": 1988
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1988,
+            "end_year": 1993,
+            "company": "Baxter BioScience",
+            "position": "Research Scientist",
+            "salary": 41000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 1998,
+            "company": "Boehringer Ingelheim RCV GmbH & Co KG",
+            "position": "Clinical Trials Manager",
+            "salary": 59000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2002,
+            "company": "Novartis Austria GmbH",
+            "position": "Regulatory Affairs Director",
+            "salary": 61000
+        },
+        {
+            "start_year": 2003,
+            "end_year": 2004,
+            "company": "Sandoz International GmbH",
+            "position": "CEO",
+            "salary": 93000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2024,
+            "company": "Sandoz International GmbH",
+            "position": "Industry Leader",
+            "salary": 647000
+        }
+    ],
+    "aum": {
+        "savings": 1120000,
+        "inheritance": 0,
+        "real_estate_value": 2842000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 890000,
+            "property location": "Innsbruck"
+        },
+        {
+            "property type": "house",
+            "property value": 892000,
+            "property location": "Kitzbühel"
+        },
+        {
+            "property type": "condo",
+            "property value": 1060000,
+            "property location": "Steinbach am Attersee"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

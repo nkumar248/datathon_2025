@@ -1,0 +1,70 @@
+{
+    "name": "Stam Wagemakers Kuipers",
+    "address": {
+        "city": "Delft",
+        "street name": "Spoorweghaven",
+        "street number": 21,
+        "postal code": "2377 59"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1983-04-25",
+    "nationality": "Dutch",
+    "passport_number": "FH0943985",
+    "passport_issue_date": "2016-08-18",
+    "passport_expiry_date": "2026-08-17",
+    "gender": "M",
+    "phone_number": "+31 06 40014824",
+    "email_address": "stam.kuipers@planet.nl",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Hoeksch Lyceum Rotterdam",
+        "graduation_year": 2003
+    },
+    "higher_education": [
+        {
+            "university": "Tio University of Applied Sciences",
+            "graduation_year": 2006
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2008,
+            "end_year": 2009,
+            "company": "Victor & Rolf B.V.",
+            "position": "Assistant Designer",
+            "salary": 40000
+        },
+        {
+            "start_year": 2009,
+            "end_year": 2025,
+            "company": "Victor & Rolf B.V.",
+            "position": "Senior Designer",
+            "salary": 153000
+        }
+    ],
+    "aum": {
+        "savings": 200000,
+        "inheritance": 3700000,
+        "real_estate_value": 2790000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2005,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2790000,
+            "property location": "Delft"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

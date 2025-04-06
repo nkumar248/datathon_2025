@@ -1,0 +1,77 @@
+{
+    "name": "Santoro Fabbri Belli",
+    "address": {
+        "city": "Palermo",
+        "street name": "Via Condotti",
+        "street number": 7,
+        "postal code": "74253"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1977-02-23",
+    "nationality": "Italian",
+    "passport_number": "IR3647124",
+    "passport_issue_date": "2020-04-27",
+    "passport_expiry_date": "2030-04-26",
+    "gender": "M",
+    "phone_number": "381 4558104",
+    "email_address": "santoro.belli@unidata.it",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Scuola Media Statale Giancarlo Siani Napoli",
+        "graduation_year": 1996
+    },
+    "higher_education": [
+        {
+            "university": "IMT Institute for Advanced Studies Lucca",
+            "graduation_year": 1999
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2001,
+            "end_year": 2004,
+            "company": "Enel S.p.A.",
+            "position": "Junior Trader",
+            "salary": 27000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2011,
+            "company": "Enel S.p.A.",
+            "position": "Senior Trader",
+            "salary": 42000
+        },
+        {
+            "start_year": 2011,
+            "end_year": null,
+            "company": "ENI S.p.A.",
+            "position": "Trading Desk Manager",
+            "salary": 197000
+        }
+    ],
+    "aum": {
+        "savings": 330000,
+        "inheritance": 3160000,
+        "real_estate_value": 2080000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2005,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2080000,
+            "property location": "Palermo"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

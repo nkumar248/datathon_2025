@@ -1,0 +1,17 @@
+{
+    "first_name": "Egger",
+    "middle_name": "Schmidt",
+    "last_name": "Rieder",
+    "gender": "M",
+    "country": "Austria",
+    "country_code": "AUT",
+    "nationality": "Austrian",
+    "birth_date": "1979-04-28",
+    "passport_number": "XY4161055",
+    "passport_mrz": [
+        "P<AUTRIEDER<<EGGER<SCHMIDT<<<<<<<<<<<<<<<<<<<",
+        "XY4161055AUT790428<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-03-02",
+    "passport_expiry_date": "2032-03-01"
+}

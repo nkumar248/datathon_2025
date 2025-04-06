@@ -1,0 +1,17 @@
+{
+    "name": "Koch Schneider Maier",
+    "first_name": "Koch",
+    "middle_name": "Schneider",
+    "last_name": "Maier",
+    "passport_number": "TR7686238",
+    "currency": "EUR",
+    "address": {
+        "city": "Berlin",
+        "street name": "Tauentzienstraße",
+        "street number": 74,
+        "postal code": "25713"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 2656 541886",
+    "email_address": "koch.maier@gmx.de"
+}

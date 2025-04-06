@@ -1,0 +1,57 @@
+{
+    "name": "Salo Turunen Peltola",
+    "address": {
+        "city": "Porvoo",
+        "street name": "Tehtaankatu",
+        "street number": 41,
+        "postal code": "47196"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1995-06-21",
+    "nationality": "Finnish",
+    "passport_number": "HR4572803",
+    "passport_issue_date": "2017-05-28",
+    "passport_expiry_date": "2027-05-27",
+    "gender": "M",
+    "phone_number": "047 251 07 40",
+    "email_address": "salo.peltola@telia.fi",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Ilomantsin lukio",
+        "graduation_year": 2015
+    },
+    "higher_education": [
+        {
+            "university": "Åbo Akademi University School of Economics",
+            "graduation_year": 2018
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "Danske Bank Wealth Management",
+            "position": "Financial Advisor",
+            "salary": 45000
+        }
+    ],
+    "aum": {
+        "savings": 30000,
+        "inheritance": 1850000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

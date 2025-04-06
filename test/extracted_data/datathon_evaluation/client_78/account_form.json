@@ -1,0 +1,17 @@
+{
+    "name": "Järvinen Seppälä Tolvanen",
+    "first_name": "Järvinen",
+    "middle_name": "Seppälä",
+    "last_name": "Tolvanen",
+    "passport_number": "ZU2671253",
+    "currency": "EUR",
+    "address": {
+        "city": "Pori",
+        "street name": "Salmisaarenranta",
+        "street number": 57,
+        "postal code": "37645"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 041 468 49 81",
+    "email_address": "jarvinen.tolvanen@luukku.com"
+}

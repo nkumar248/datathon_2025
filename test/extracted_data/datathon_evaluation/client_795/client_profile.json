@@ -1,0 +1,80 @@
+{
+    "name": "Lecomte Lemaire Peters",
+    "address": {
+        "city": "Hasselt",
+        "street name": "Rue de la Convention",
+        "street number": 100,
+        "postal code": "0635"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1973-04-09",
+    "nationality": "Belgian",
+    "passport_number": "NR3374988",
+    "passport_issue_date": "2019-09-16",
+    "passport_expiry_date": "2026-09-15",
+    "gender": "M",
+    "phone_number": "0470 156 557",
+    "email_address": "lecomte.peters@base.be",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Ecole Secondaire Libre du Sacré-Cœur",
+        "graduation_year": 1993
+    },
+    "higher_education": [
+        {
+            "university": "KU Leuven",
+            "graduation_year": 1996
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1997,
+            "end_year": 1999,
+            "company": "Louis Dreyfus Commodities Belgium",
+            "position": "Junior Trader",
+            "salary": 40000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2023,
+            "company": "Louis Dreyfus Commodities Belgium",
+            "position": "Senior Trader",
+            "salary": 246000
+        }
+    ],
+    "aum": {
+        "savings": 430000,
+        "inheritance": 930000,
+        "real_estate_value": 3569000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2006,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1349000,
+            "property location": "Hasselt"
+        },
+        {
+            "property type": "flat",
+            "property value": 800000,
+            "property location": "Sint-Niklaas"
+        },
+        {
+            "property type": "house",
+            "property value": 1420000,
+            "property location": "Poperinge"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

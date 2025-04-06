@@ -1,0 +1,98 @@
+{
+    "name": "Lucas Louna Lecomte",
+    "address": {
+        "city": "Herstal",
+        "street name": "Rue du Houblon",
+        "street number": 39,
+        "postal code": "4739"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1961-10-23",
+    "nationality": "Belgian",
+    "passport_number": "QG3408553",
+    "passport_issue_date": "2017-04-19",
+    "passport_expiry_date": "2024-04-18",
+    "gender": "F",
+    "phone_number": "0422 694 560",
+    "email_address": "lucas.lecomte@gmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Onze-Lieve-Vrouwe-Wavercollege",
+        "graduation_year": 1981
+    },
+    "higher_education": [
+        {
+            "university": "Université libre de Bruxelles",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1985,
+            "end_year": 1987,
+            "company": "The Hotel Brussels",
+            "position": "Hotel Manager",
+            "salary": 42000
+        },
+        {
+            "start_year": 1988,
+            "end_year": 1993,
+            "company": "IHG Hotels & Resorts Belgium",
+            "position": "General Manager",
+            "salary": 63000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 1996,
+            "company": "Accor Hospitality Belgium",
+            "position": "Regional Vice President",
+            "salary": 68000
+        },
+        {
+            "start_year": 1996,
+            "end_year": 1999,
+            "company": "IHG Hotels & Resorts Belgium",
+            "position": "CEO",
+            "salary": 122000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2022,
+            "company": "Accor Hospitality Belgium",
+            "position": "Hospitality Industry Leader",
+            "salary": 1208000
+        }
+    ],
+    "aum": {
+        "savings": 1930000,
+        "inheritance": 0,
+        "real_estate_value": 2769000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1039000,
+            "property location": "Herstal"
+        },
+        {
+            "property type": "flat",
+            "property value": 770000,
+            "property location": "Ghent"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 960000,
+            "property location": "Lokeren"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

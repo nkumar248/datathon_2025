@@ -1,0 +1,17 @@
+{
+    "first_name": "Chloé",
+    "middle_name": "Colombe",
+    "last_name": "Garcia",
+    "gender": "F",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1985-04-26",
+    "passport_number": "RE5935689",
+    "passport_mrz": [
+        "P<FRAGARCIA<<CHLOÉ<COLOMBE<<<<<<<<<<<<<<<<<<<",
+        "RE5935689FRA850426<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-09-08",
+    "passport_expiry_date": "2032-09-07"
+}

@@ -1,0 +1,85 @@
+{
+    "name": "Mathilde Emilie Rasmussen",
+    "address": {
+        "city": "Hillerød",
+        "street name": "Sølvgade",
+        "street number": 7,
+        "postal code": "1696"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1956-05-07",
+    "nationality": "Danish",
+    "passport_number": "SG4673068",
+    "passport_issue_date": "2023-05-21",
+    "passport_expiry_date": "2033-05-20",
+    "gender": "F",
+    "phone_number": "",
+    "email_address": "mathilde.rasmussen@tiscali.dk",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Slagelse Gymnasium",
+        "graduation_year": 1974
+    },
+    "higher_education": [
+        {
+            "university": "CBS International Business School",
+            "graduation_year": 1980
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1980,
+            "end_year": 1982,
+            "company": "Jyske Bank A/S",
+            "position": "Family Office Manager",
+            "salary": 292000
+        },
+        {
+            "start_year": 1983,
+            "end_year": 1984,
+            "company": "Sydbank A/S",
+            "position": "Investment Director",
+            "salary": 378000
+        },
+        {
+            "start_year": 1985,
+            "end_year": 1988,
+            "company": "Danske Bank A/S",
+            "position": "CFO",
+            "salary": 530000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 1994,
+            "company": "Danske Bank A/S",
+            "position": "COO",
+            "salary": 982000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 2017,
+            "company": "Jyske Bank A/S",
+            "position": "CEO",
+            "salary": 6281000
+        }
+    ],
+    "aum": {
+        "savings": 10490000,
+        "inheritance": 199000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2008,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

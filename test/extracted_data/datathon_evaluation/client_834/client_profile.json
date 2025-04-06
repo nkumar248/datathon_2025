@@ -1,0 +1,57 @@
+{
+    "name": "Hortense Charlotte Lemaire",
+    "address": {
+        "city": "Menen",
+        "street name": "Rue du Houblon",
+        "street number": 25,
+        "postal code": "1592"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1995-07-12",
+    "nationality": "Belgian",
+    "passport_number": "ME3714981",
+    "passport_issue_date": "2020-11-29",
+    "passport_expiry_date": "2027-11-28",
+    "gender": "F",
+    "phone_number": "+32 0417 737 902",
+    "email_address": "hortense.lemaire@telenet.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Xaverius College",
+        "graduation_year": 2014
+    },
+    "higher_education": [
+        {
+            "university": "Hasselt University",
+            "graduation_year": 2018
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2020,
+            "end_year": 2025,
+            "company": "KBC Private Banking NV",
+            "position": "Financial Advisor",
+            "salary": 47000
+        }
+    ],
+    "aum": {
+        "savings": 30000,
+        "inheritance": 1070000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,91 @@
+{
+    "name": "Jenna Kaisa Turunen",
+    "address": {
+        "city": "Kuopio",
+        "street name": "Tehtaankatu",
+        "street number": 70,
+        "postal code": "01635"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1974-06-27",
+    "nationality": "Finnish",
+    "passport_number": "QO9438452",
+    "passport_issue_date": "2021-11-20",
+    "passport_expiry_date": "2031-11-19",
+    "gender": "F",
+    "phone_number": "+358 042 060 81 20",
+    "email_address": "jenna.turunen@luukku.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Heinolan lukio",
+        "graduation_year": 1994
+    },
+    "higher_education": [
+        {
+            "university": "University of Lapland Faculty of Art and Design",
+            "graduation_year": 1998
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1999,
+            "end_year": 2003,
+            "company": "Sanoma Media Finland Oy",
+            "position": "Journalist",
+            "salary": 39000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2006,
+            "company": "Sanoma Media Finland Oy",
+            "position": "Editor",
+            "salary": 54000
+        },
+        {
+            "start_year": 2008,
+            "end_year": 2012,
+            "company": "Yleisradio Oy",
+            "position": "Publisher",
+            "salary": 76000
+        },
+        {
+            "start_year": 2014,
+            "end_year": 2016,
+            "company": "Alma Media Corporation",
+            "position": "TV/Radio Host",
+            "salary": 149000
+        },
+        {
+            "start_year": 2018,
+            "end_year": null,
+            "company": "Yleisradio Oy",
+            "position": "Media Conglomerate Owner",
+            "salary": 406000
+        }
+    ],
+    "aum": {
+        "savings": 480000,
+        "inheritance": 1060000,
+        "real_estate_value": 760000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 760000,
+            "property location": "Kuopio"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

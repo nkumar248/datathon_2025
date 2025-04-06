@@ -1,0 +1,17 @@
+{
+    "first_name": "Schneider",
+    "middle_name": "Hagenbuch",
+    "last_name": "Gasser",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1970-09-28",
+    "passport_number": "IJ6004700",
+    "passport_mrz": [
+        "P<CHEGASSER<<SCHNEIDER<HAGENBUCH<<<<<<<<<<<<<",
+        "IJ6004700CHE700928<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-07-03",
+    "passport_expiry_date": "2032-07-02"
+}

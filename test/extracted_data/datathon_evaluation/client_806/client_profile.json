@@ -1,0 +1,84 @@
+{
+    "name": "Josefine Katharina Rieder",
+    "address": {
+        "city": "Gmunden",
+        "street name": "Untere Donaustraße",
+        "street number": 1,
+        "postal code": "9688"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1964-05-10",
+    "nationality": "Austrian",
+    "passport_number": "RU8286200",
+    "passport_issue_date": "2023-10-29",
+    "passport_expiry_date": "2033-10-28",
+    "gender": "F",
+    "phone_number": "298 207 1264",
+    "email_address": "josefine.rieder@upc.at",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Franziskanergymnasium Hall in Tirol",
+        "graduation_year": 1983
+    },
+    "higher_education": [
+        {
+            "university": "University of Salzburg",
+            "graduation_year": 1989
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1989,
+            "end_year": 1990,
+            "company": "Constantia Industries AG",
+            "position": "Stockbroker",
+            "salary": 31000
+        },
+        {
+            "start_year": 1992,
+            "end_year": 1996,
+            "company": "Constantia Industries AG",
+            "position": "Portfolio Manager",
+            "salary": 47000
+        },
+        {
+            "start_year": 1998,
+            "end_year": 1999,
+            "company": "Conwert Immobilien Invest AG",
+            "position": "Hedge Fund Manager",
+            "salary": 71000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2025,
+            "company": "Immofinanz AG",
+            "position": "Private Equity Investor",
+            "salary": 766000
+        }
+    ],
+    "aum": {
+        "savings": 1490000,
+        "inheritance": 3020000,
+        "real_estate_value": 850000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2012,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 850000,
+            "property location": "Gmunden"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

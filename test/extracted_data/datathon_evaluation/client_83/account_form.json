@@ -1,0 +1,17 @@
+{
+    "name": "Juliette Ingrid Robert",
+    "first_name": "Juliette",
+    "middle_name": "Ingrid",
+    "last_name": "Robert",
+    "passport_number": "TV7596303",
+    "currency": "EUR",
+    "address": {
+        "city": "Toulon",
+        "street name": "Avenue Montaigne",
+        "street number": 7,
+        "postal code": "52149"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 07 92 33 27 73",
+    "email_address": "juliette.robert@numericable.fr"
+}

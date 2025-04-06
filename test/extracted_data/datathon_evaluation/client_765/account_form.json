@@ -1,0 +1,17 @@
+{
+    "name": "Gertrud Lea Kaiser",
+    "first_name": "Gertrud",
+    "middle_name": "Lea",
+    "last_name": "Kaiser",
+    "passport_number": "DL6860577",
+    "currency": "EUR",
+    "address": {
+        "city": "Kitzbühel",
+        "street name": "Obere Donaustraße",
+        "street number": 100,
+        "postal code": "7853"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 639 843 1114",
+    "email_address": "gertrud.kaiser@vol.at"
+}

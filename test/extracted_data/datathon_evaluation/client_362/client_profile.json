@@ -1,0 +1,80 @@
+{
+    "name": "Daniela Carmen Castro",
+    "address": {
+        "city": "Gijón",
+        "street name": "Plaza Mayor",
+        "street number": 84,
+        "postal code": "03051"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1989-09-20",
+    "nationality": "Spanish",
+    "passport_number": "VN0445910",
+    "passport_issue_date": "2017-12-15",
+    "passport_expiry_date": "2027-12-14",
+    "gender": "F",
+    "phone_number": "+34 668 675 218",
+    "email_address": "daniela.castro@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Colegio La Inmaculada Córdoba",
+        "graduation_year": 2009
+    },
+    "higher_education": [
+        {
+            "university": "University of Seville",
+            "graduation_year": 2012
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2014,
+            "end_year": 2018,
+            "company": "Metrovacesa S.A.",
+            "position": "Property Manager",
+            "salary": 24000
+        },
+        {
+            "start_year": 2018,
+            "end_year": 2023,
+            "company": "Inmobiliaria Colonial S.A.",
+            "position": "Developer",
+            "salary": 40000
+        }
+    ],
+    "aum": {
+        "savings": 50000,
+        "inheritance": 2480000,
+        "real_estate_value": 2874000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1094000,
+            "property location": "Gijón"
+        },
+        {
+            "property type": "condo",
+            "property value": 830000,
+            "property location": "Córdoba"
+        },
+        {
+            "property type": "flat",
+            "property value": 950000,
+            "property location": "Valladolid"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

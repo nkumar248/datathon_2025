@@ -1,0 +1,65 @@
+{
+    "name": "Imke Schneider",
+    "address": {
+        "city": "Essen",
+        "street name": "Schlachte",
+        "street number": 97,
+        "postal code": "82678"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1998-05-17",
+    "nationality": "German",
+    "passport_number": "DO4107800",
+    "passport_issue_date": "2021-03-12",
+    "passport_expiry_date": "2031-03-11",
+    "gender": "F",
+    "phone_number": "+49 8077 102876",
+    "email_address": "imke.schneider@t-online.de",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Heisenberg-Gymnasium Lüneburg",
+        "graduation_year": 2016
+    },
+    "higher_education": [
+        {
+            "university": "ISM Dortmund",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2022,
+            "end_year": 2023,
+            "company": "DWS Investments",
+            "position": "Stockbroker",
+            "salary": 42000
+        },
+        {
+            "start_year": 2023,
+            "end_year": 2025,
+            "company": "DWS Investments",
+            "position": "Portfolio Manager",
+            "salary": 56000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 1250000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

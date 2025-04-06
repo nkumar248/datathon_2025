@@ -1,0 +1,17 @@
+{
+    "name": "Van den Berg Spaans Visser",
+    "first_name": "Van den Berg",
+    "middle_name": "Spaans",
+    "last_name": "Visser",
+    "passport_number": "GT2324743",
+    "currency": "EUR",
+    "address": {
+        "city": "Venlo",
+        "street name": "Rembrandtplein",
+        "street number": 9,
+        "postal code": "2327 07"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 96333667",
+    "email_address": "vandenberg.visser@kpnmail.nl"
+}

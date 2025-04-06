@@ -1,0 +1,17 @@
+{
+    "name": "Florine Barbara Ackermann",
+    "first_name": "Florine",
+    "middle_name": "Barbara",
+    "last_name": "Ackermann",
+    "passport_number": "MC5811207",
+    "currency": "CHF",
+    "address": {
+        "city": "Sion",
+        "street name": "Altstadt",
+        "street number": 51,
+        "postal code": "9857"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 083 205 49 50",
+    "email_address": "florine.ackermann@gmail.com"
+}

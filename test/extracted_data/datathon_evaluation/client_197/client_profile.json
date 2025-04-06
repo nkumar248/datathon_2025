@@ -1,0 +1,78 @@
+{
+    "name": "Lechner Gruber Fuchs",
+    "address": {
+        "city": "Kitzbühel",
+        "street name": "Ringstraße",
+        "street number": 96,
+        "postal code": "6649"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1975-03-21",
+    "nationality": "Austrian",
+    "passport_number": "XL1234339",
+    "passport_issue_date": "2021-11-02",
+    "passport_expiry_date": "2031-11-01",
+    "gender": "M",
+    "phone_number": "888 385 5230",
+    "email_address": "lechner.fuchs@telekom.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "HTL Mödling",
+        "graduation_year": 1992
+    },
+    "higher_education": [
+        {
+            "university": "Sigmund Freud University Vienna",
+            "graduation_year": 1998
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1999,
+            "end_year": 2000,
+            "company": "Equity Partners Investment GmbH",
+            "position": "Analyst",
+            "salary": 32000
+        },
+        {
+            "start_year": 2002,
+            "end_year": 2003,
+            "company": "Alpha Private Equity",
+            "position": "Associate",
+            "salary": 52000
+        },
+        {
+            "start_year": 2004,
+            "end_year": null,
+            "company": "Alpha Private Equity",
+            "position": "Investment Director",
+            "salary": 326000
+        }
+    ],
+    "aum": {
+        "savings": 490000,
+        "inheritance": 270000,
+        "real_estate_value": 940000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2008,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 940000,
+            "property location": "Kitzbühel"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

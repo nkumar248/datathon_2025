@@ -1,0 +1,17 @@
+{
+    "name": "Jansen Stam Maassen",
+    "first_name": "Jansen",
+    "middle_name": "Stam",
+    "last_name": "Maassen",
+    "passport_number": "GW7207711",
+    "currency": "EUR",
+    "address": {
+        "city": "Maastricht",
+        "street name": "Lijnbaan",
+        "street number": 96,
+        "postal code": "5798 83"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 27522248",
+    "email_address": "jansen.maassen@upcmail.nl"
+}

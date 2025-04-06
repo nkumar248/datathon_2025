@@ -1,0 +1,57 @@
+{
+    "name": "Salo Järvinen Heikkinen",
+    "address": {
+        "city": "Kokkola",
+        "street name": "Neitsytpolku",
+        "street number": 4,
+        "postal code": "08795"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1996-04-21",
+    "nationality": "Finnish",
+    "passport_number": "LT6060409",
+    "passport_issue_date": "2023-02-16",
+    "passport_expiry_date": "2033-02-15",
+    "gender": "M",
+    "phone_number": "+358 047 179 29 90",
+    "email_address": "salo.heikkinen@surffi.net",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Hyvinkään Sveitsin lukio",
+        "graduation_year": 2016
+    },
+    "higher_education": [
+        {
+            "university": "Centria University of Applied Sciences",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2021,
+            "end_year": null,
+            "company": "Meriaura Oy",
+            "position": "Ship Broker",
+            "salary": 39000
+        }
+    ],
+    "aum": {
+        "savings": 30000,
+        "inheritance": 2340000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2016,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Hybrid",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

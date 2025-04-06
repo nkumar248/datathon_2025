@@ -1,0 +1,100 @@
+{
+    "name": "Richter Weber Koch",
+    "address": {
+        "city": "Nuremberg",
+        "street name": "Kurfürstendamm",
+        "street number": 93,
+        "postal code": "32073"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1971-07-28",
+    "nationality": "German",
+    "passport_number": "CZ6344066",
+    "passport_issue_date": "2019-07-20",
+    "passport_expiry_date": "2029-07-19",
+    "gender": "M",
+    "phone_number": "+49 9488 023885",
+    "email_address": "richter.koch@icloud.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Gymnasium zum Grauen Kloster",
+        "graduation_year": 1989
+    },
+    "higher_education": [
+        {
+            "university": "Ludwig Maximilian University of Munich",
+            "graduation_year": 1994
+        },
+        {
+            "university": "University of Hamburg",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1996,
+            "end_year": 1998,
+            "company": "Boehringer Ingelheim GmbH",
+            "position": "Research Scientist",
+            "salary": 43000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2000,
+            "company": "Fresenius SE & Co. KGaA",
+            "position": "Clinical Trials Manager",
+            "salary": 63000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2002,
+            "company": "Bayer AG",
+            "position": "Regulatory Affairs Director",
+            "salary": 81000
+        },
+        {
+            "start_year": 2003,
+            "end_year": 2007,
+            "company": "Merck KGaA",
+            "position": "CEO",
+            "salary": 144000
+        },
+        {
+            "start_year": 2008,
+            "end_year": null,
+            "company": "Boehringer Ingelheim GmbH",
+            "position": "Industry Leader",
+            "salary": 1072000
+        }
+    ],
+    "aum": {
+        "savings": 1760000,
+        "inheritance": 530000,
+        "real_estate_value": 3620000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2007,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2400000,
+            "property location": "Nuremberg"
+        },
+        {
+            "property type": "condo",
+            "property value": 1220000,
+            "property location": "Monchengladbach"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Germany"
+    ],
+    "currency": "EUR"
+}

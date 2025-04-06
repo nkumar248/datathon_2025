@@ -1,0 +1,58 @@
+{
+    "name": "Giovanna Martina Marini",
+    "address": {
+        "city": "Reggio Calabria",
+        "street name": "Via del Tritone",
+        "street number": 42,
+        "postal code": "16881"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1999-07-15",
+    "nationality": "Italian",
+    "passport_number": "FT5346757",
+    "passport_issue_date": "2023-06-04",
+    "passport_expiry_date": "2033-06-03",
+    "gender": "F",
+    "phone_number": "+39 345 9690582",
+    "email_address": "giovanna.marini@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Istituto Tecnico Agrario Statale Giuseppe Garibaldi Parma",
+        "graduation_year": 2017
+    },
+    "higher_education": [
+        {
+            "university": "University of Milan",
+            "graduation_year": 2023
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2023,
+            "end_year": null,
+            "company": "Novartis Farma S.p.A.",
+            "position": "Research Scientist",
+            "salary": 25000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 1320000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "Italy"
+    ],
+    "currency": "EUR"
+}

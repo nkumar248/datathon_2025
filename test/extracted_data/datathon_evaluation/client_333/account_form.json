@@ -1,0 +1,17 @@
+{
+    "name": "Schmitt Lorenz Richter",
+    "first_name": "Schmitt",
+    "middle_name": "Lorenz",
+    "last_name": "Richter",
+    "passport_number": "TI3484648",
+    "currency": "EUR",
+    "address": {
+        "city": "Logroño",
+        "street name": "Calle de San Andrés",
+        "street number": 94,
+        "postal code": "64514"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 683 279 166",
+    "email_address": "schmitt.richter@yahoo.com"
+}

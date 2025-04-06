@@ -1,0 +1,17 @@
+{
+    "first_name": "Déborah",
+    "middle_name": "Amanda",
+    "last_name": "Hagenbuch",
+    "gender": "F",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1991-02-06",
+    "passport_number": "WK7698742",
+    "passport_mrz": [
+        "P<CHEHAGENBUCH<<DÉBORAH<AMANDA<<<<<<<<<<<<<<<",
+        "WK7698742CHE910206<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2020-10-24",
+    "passport_expiry_date": "2030-10-23"
+}

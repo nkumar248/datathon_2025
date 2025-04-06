@@ -1,0 +1,17 @@
+{
+    "name": "Agnes Idun Madsen",
+    "first_name": "Agnes",
+    "middle_name": "Idun",
+    "last_name": "Madsen",
+    "passport_number": "YT4108279",
+    "currency": "DKK",
+    "address": {
+        "city": "Silkeborg",
+        "street name": "Store Kongensgade",
+        "street number": 61,
+        "postal code": "2230"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 10 67 76 49",
+    "email_address": "agnes.madsen@all.dk"
+}

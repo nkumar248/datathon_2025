@@ -1,0 +1,17 @@
+{
+    "name": "Alba Araceli Díaz",
+    "first_name": "Alba",
+    "middle_name": "Araceli",
+    "last_name": "Díaz",
+    "passport_number": "KZ1976111",
+    "currency": "EUR",
+    "address": {
+        "city": "Bilbao",
+        "street name": "Diagonal",
+        "street number": 28,
+        "postal code": "85206"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 654 706 057",
+    "email_address": "alba.diaz@wanadoo.es"
+}

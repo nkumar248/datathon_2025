@@ -1,0 +1,17 @@
+{
+    "name": "Stevens Schipper Peeters",
+    "first_name": "Stevens",
+    "middle_name": "Schipper",
+    "last_name": "Peeters",
+    "passport_number": "GO2898973",
+    "currency": "EUR",
+    "address": {
+        "city": "Doetinchem",
+        "street name": "Kerkplein",
+        "street number": 13,
+        "postal code": "8647 80"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "06 73036156",
+    "email_address": "stevens.peeters@hetnet.nl"
+}

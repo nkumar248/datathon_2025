@@ -1,0 +1,17 @@
+{
+    "name": "Marchand Richard Lefebvre",
+    "first_name": "Marchand",
+    "middle_name": "Richard",
+    "last_name": "Lefebvre",
+    "passport_number": "SS6904341",
+    "currency": "EUR",
+    "address": {
+        "city": "Rouen",
+        "street name": "Rue de Belleville",
+        "street number": 60,
+        "postal code": "17185"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 01 78 47 56 58",
+    "email_address": "marchand.lefebvre@wanadoo.fr"
+}

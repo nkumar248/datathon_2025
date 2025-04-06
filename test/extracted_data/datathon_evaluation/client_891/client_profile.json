@@ -1,0 +1,84 @@
+{
+    "name": "Fabienne Lena Weber",
+    "address": {
+        "city": "Sion",
+        "street name": "Limmatquai",
+        "street number": 90,
+        "postal code": "0424"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1968-11-30",
+    "nationality": "Swiss",
+    "passport_number": "EV9187982",
+    "passport_issue_date": "2017-09-16",
+    "passport_expiry_date": "2027-09-15",
+    "gender": "F",
+    "phone_number": "+41 046 247 21 83",
+    "email_address": "fabienne.weber@gmx.ch",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Liceo di Lugano Lugano",
+        "graduation_year": 2005
+    },
+    "higher_education": [
+        {
+            "university": "Haute École de Musique de Genève",
+            "graduation_year": 2011
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2014,
+            "company": "Hapag-Lloyd (Switzerland) AG",
+            "position": "Ship Broker",
+            "salary": 65000
+        },
+        {
+            "start_year": 2014,
+            "end_year": 2018,
+            "company": "CMA CGM (Switzerland) SA",
+            "position": "Shipping Company Owner",
+            "salary": 90000
+        },
+        {
+            "start_year": 2018,
+            "end_year": 2024,
+            "company": "Mediterranean Shipping Company (MSC) SA",
+            "position": "Fleet Manager",
+            "salary": 231000
+        }
+    ],
+    "aum": {
+        "savings": 310000,
+        "inheritance": 0,
+        "real_estate_value": 6940000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 2430000,
+            "property location": "Sion"
+        },
+        {
+            "property type": "condo",
+            "property value": 2750000,
+            "property location": "Lausanne"
+        },
+        {
+            "property type": "flat",
+            "property value": 1760000,
+            "property location": "Bern"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Germany"
+    ],
+    "currency": "CHF"
+}

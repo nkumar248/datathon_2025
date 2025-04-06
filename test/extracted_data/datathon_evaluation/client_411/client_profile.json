@@ -1,0 +1,96 @@
+{
+    "name": "Emma Charlotte Zimmermann",
+    "address": {
+        "city": "Münster",
+        "street name": "Bahnhofstraße",
+        "street number": 58,
+        "postal code": "12733"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1974-12-23",
+    "nationality": "German",
+    "passport_number": "IU0954706",
+    "passport_issue_date": "2021-08-18",
+    "passport_expiry_date": "2031-08-17",
+    "gender": "F",
+    "phone_number": "3815 402108",
+    "email_address": "emma.zimmermann@versatel.de",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Gymnasium zum Grauen Kloster",
+        "graduation_year": 1993
+    },
+    "higher_education": [
+        {
+            "university": "Munich University of Applied Sciences",
+            "graduation_year": 1999
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1998,
+            "end_year": 2000,
+            "company": "RUAG Aerospace Services GmbH",
+            "position": "Aerospace Engineer",
+            "salary": 39000
+        },
+        {
+            "start_year": 2002,
+            "end_year": 2005,
+            "company": "MTU Aero Engines AG",
+            "position": "Program Manager",
+            "salary": 66000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2007,
+            "company": "RUAG Aerospace Services GmbH",
+            "position": "Director of Operations",
+            "salary": 76000
+        },
+        {
+            "start_year": 2008,
+            "end_year": 2012,
+            "company": "MTU Aero Engines AG",
+            "position": "VP of Business Development",
+            "salary": 133000
+        },
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "Liebherr-Aerospace GmbH",
+            "position": "CEO",
+            "salary": 777000
+        }
+    ],
+    "aum": {
+        "savings": 1050000,
+        "inheritance": 490000,
+        "real_estate_value": 1969000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2008,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 919000,
+            "property location": "Münster"
+        },
+        {
+            "property type": "flat",
+            "property value": 1050000,
+            "property location": "Hamburg"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Germany"
+    ],
+    "currency": "EUR"
+}

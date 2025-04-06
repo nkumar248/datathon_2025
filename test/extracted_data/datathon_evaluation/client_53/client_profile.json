@@ -1,0 +1,80 @@
+{
+    "name": "Mulders De Jong Maassen",
+    "address": {
+        "city": "Maastricht",
+        "street name": "Nieuwmarkt",
+        "street number": 38,
+        "postal code": "9335 44"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1977-06-20",
+    "nationality": "Dutch",
+    "passport_number": "CF6207457",
+    "passport_issue_date": "2018-03-16",
+    "passport_expiry_date": "2028-03-15",
+    "gender": "M",
+    "phone_number": "06 98308475",
+    "email_address": "mulders.maassen@upcmail.nl",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "RSG Magister Almelo",
+        "graduation_year": 1995
+    },
+    "higher_education": [
+        {
+            "university": "Nyenrode Business Universiteit",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2001,
+            "end_year": 2005,
+            "company": "10 Feather Corporation B.V.",
+            "position": "Assistant Designer",
+            "salary": 45000
+        },
+        {
+            "start_year": 2006,
+            "end_year": null,
+            "company": "Victor & Rolf B.V.",
+            "position": "Senior Designer",
+            "salary": 197000
+        }
+    ],
+    "aum": {
+        "savings": 320000,
+        "inheritance": 640000,
+        "real_estate_value": 4719000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2014,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1489000,
+            "property location": "Maastricht"
+        },
+        {
+            "property type": "house",
+            "property value": 1930000,
+            "property location": "Emmen"
+        },
+        {
+            "property type": "condo",
+            "property value": 1300000,
+            "property location": "Venlo"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

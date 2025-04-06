@@ -1,0 +1,17 @@
+{
+    "name": "Fiona Monika Haider",
+    "first_name": "Fiona",
+    "middle_name": "Monika",
+    "last_name": "Haider",
+    "passport_number": "ZI3478937",
+    "currency": "EUR",
+    "address": {
+        "city": "Innsbruck",
+        "street name": "Theater an der Wien",
+        "street number": 56,
+        "postal code": "6427"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 780 615 0055",
+    "email_address": "fiona.haider@telekom.at"
+}

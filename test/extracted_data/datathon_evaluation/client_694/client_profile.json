@@ -1,0 +1,77 @@
+{
+    "name": "Helga Anna Schneider",
+    "address": {
+        "city": "Frankfurt am Main",
+        "street name": "Potsdamer Platz",
+        "street number": 70,
+        "postal code": "74324"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1994-06-10",
+    "nationality": "German",
+    "passport_number": "JJ1981761",
+    "passport_issue_date": "2020-09-17",
+    "passport_expiry_date": "2030-09-16",
+    "gender": "F",
+    "phone_number": "+49 8097 640561",
+    "email_address": "helga.schneider@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Pestalozzi-Gymnasium Nürnberg",
+        "graduation_year": 2012
+    },
+    "higher_education": [
+        {
+            "university": "Heidelberg University of Education",
+            "graduation_year": 2017
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2019,
+            "end_year": 2020,
+            "company": "Credit Suisse (Deutschland) AG",
+            "position": "Financial Advisor",
+            "salary": 37000
+        },
+        {
+            "start_year": 2020,
+            "end_year": null,
+            "company": "UBS Deutschland AG",
+            "position": "Portfolio Manager",
+            "salary": 84000
+        }
+    ],
+    "aum": {
+        "savings": 70000,
+        "inheritance": 0,
+        "real_estate_value": 6020000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2470000,
+            "property location": "Frankfurt am Main"
+        },
+        {
+            "property type": "villa",
+            "property value": 2560000,
+            "property location": "Hamburg"
+        },
+        {
+            "property type": "flat",
+            "property value": 990000,
+            "property location": "Hamburg"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

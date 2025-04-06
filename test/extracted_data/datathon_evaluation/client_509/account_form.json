@@ -1,0 +1,17 @@
+{
+    "name": "Iida Kaarin Seppälä",
+    "first_name": "Iida",
+    "middle_name": "Kaarin",
+    "last_name": "Seppälä",
+    "passport_number": "FM4465787",
+    "currency": "EUR",
+    "address": {
+        "city": "Espoo",
+        "street name": "Reijolankuja",
+        "street number": 59,
+        "postal code": "39716"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 044 874 15 58",
+    "email_address": "iida.seppala@finet.fi"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Marta Carmen Morales",
+    "first_name": "Marta",
+    "middle_name": "Carmen",
+    "last_name": "Morales",
+    "passport_number": "RM7276993",
+    "currency": "EUR",
+    "address": {
+        "city": "Cartagena",
+        "street name": "Calle de San Juan Bautista",
+        "street number": 79,
+        "postal code": "73955"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "691 463 622",
+    "email_address": "marta.morales@icloud.com"
+}

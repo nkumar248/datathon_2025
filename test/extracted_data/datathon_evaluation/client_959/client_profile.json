@@ -1,0 +1,77 @@
+{
+    "name": "Vázquez Soto González",
+    "address": {
+        "city": "Málaga",
+        "street name": "Calle de la Universidad",
+        "street number": 92,
+        "postal code": "81279"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1966-06-25",
+    "nationality": "Spanish",
+    "passport_number": "WG3911595",
+    "passport_issue_date": "2016-09-13",
+    "passport_expiry_date": "2026-09-12",
+    "gender": "M",
+    "phone_number": "+34 605 946 867",
+    "email_address": "vazquez.gonzalez@telefonica.es",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Instituto de Educación Secundaria IES Ramiro de Maeztu Madrid",
+        "graduation_year": 1984
+    },
+    "higher_education": [
+        {
+            "university": "University of Valencia",
+            "graduation_year": 1989
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1990,
+            "end_year": 1995,
+            "company": "Esteve Teijin Healthcare S.L.",
+            "position": "Research Scientist",
+            "salary": 29000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 1998,
+            "company": "PharmaMar S.A.",
+            "position": "Clinical Trials Manager",
+            "salary": 39000
+        },
+        {
+            "start_year": 2000,
+            "end_year": null,
+            "company": "Almirall S.A.",
+            "position": "Regulatory Affairs Director",
+            "salary": 429000
+        }
+    ],
+    "aum": {
+        "savings": 750000,
+        "inheritance": 570000,
+        "real_estate_value": 1060000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2012,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1060000,
+            "property location": "Málaga"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

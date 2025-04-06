@@ -1,0 +1,17 @@
+{
+    "name": "Caroline Idun Kristensen",
+    "first_name": "Caroline",
+    "middle_name": "Idun",
+    "last_name": "Kristensen",
+    "passport_number": "US9574276",
+    "currency": "DKK",
+    "address": {
+        "city": "Frederiksberg",
+        "street name": "Strøget",
+        "street number": 29,
+        "postal code": "2957"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 21 89 73 817",
+    "email_address": "caroline.kristensen@cybercity.dk"
+}

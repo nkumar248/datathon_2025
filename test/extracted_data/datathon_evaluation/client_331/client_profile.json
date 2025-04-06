@@ -1,0 +1,77 @@
+{
+    "name": "Tanja Renate Krämer",
+    "address": {
+        "city": "Baden bei Wien",
+        "street name": "Andreas-Hofer-Straße",
+        "street number": 8,
+        "postal code": "6362"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1985-04-11",
+    "nationality": "Austrian",
+    "passport_number": "SD7578568",
+    "passport_issue_date": "2019-12-06",
+    "passport_expiry_date": "2029-12-05",
+    "gender": "F",
+    "phone_number": "+43 379 766 5061",
+    "email_address": "tanja.kramer@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Stiftsgymnasium Melk",
+        "graduation_year": 2005
+    },
+    "higher_education": [
+        {
+            "university": "St. Pölten University of Applied Sciences",
+            "graduation_year": 2009
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2013,
+            "company": "Baxter BioScience",
+            "position": "Research Scientist",
+            "salary": 30000
+        },
+        {
+            "start_year": 2013,
+            "end_year": 2015,
+            "company": "Octapharma AG",
+            "position": "Biotech Startup Founder",
+            "salary": 43000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "Intercell AG",
+            "position": "CEO",
+            "salary": 116000
+        }
+    ],
+    "aum": {
+        "savings": 140000,
+        "inheritance": 3280000,
+        "real_estate_value": 1340000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1340000,
+            "property location": "Baden bei Wien"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

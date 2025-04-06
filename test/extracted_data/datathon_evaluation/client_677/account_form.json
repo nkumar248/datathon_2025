@@ -1,0 +1,17 @@
+{
+    "name": "Caroline Lena Riedo",
+    "first_name": "Caroline",
+    "middle_name": "Lena",
+    "last_name": "Riedo",
+    "passport_number": "PF8918570",
+    "currency": "CHF",
+    "address": {
+        "city": "Aarau",
+        "street name": "Spalenberg",
+        "street number": 74,
+        "postal code": "8419"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "",
+    "email_address": "caroline.riedo@sunrise.ch"
+}

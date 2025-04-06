@@ -1,0 +1,17 @@
+{
+    "name": "Muñoz Gutiérrez Martín",
+    "first_name": "Muñoz",
+    "middle_name": "Gutiérrez",
+    "last_name": "Martín",
+    "passport_number": "VN6314821",
+    "currency": "EUR",
+    "address": {
+        "city": "Córdoba",
+        "street name": "Calle de San Vicente Mártir",
+        "street number": 66,
+        "postal code": "60559"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 673 022 014",
+    "email_address": "munoz.martin@hotmail.com"
+}

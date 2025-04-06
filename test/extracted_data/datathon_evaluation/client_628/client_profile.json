@@ -1,0 +1,89 @@
+{
+    "name": "Eevi Lotta Niemi",
+    "address": {
+        "city": "Vaasa",
+        "street name": "Kalliolanpuisto",
+        "street number": 47,
+        "postal code": "52102"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1967-09-30",
+    "nationality": "Finnish",
+    "passport_number": "FN1422573",
+    "passport_issue_date": "2018-11-24",
+    "passport_expiry_date": "2028-11-23",
+    "gender": "F",
+    "phone_number": "+358 044 303 51 03",
+    "email_address": "eevi.niemi@elisa.fi",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Joensuu Christian College",
+        "graduation_year": 1987
+    },
+    "higher_education": [
+        {
+            "university": "Åbo Akademi University School of Economics",
+            "graduation_year": 1992
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1991,
+            "end_year": 1995,
+            "company": "Varma Mutual Pension Insurance Company",
+            "position": "Stockbroker",
+            "salary": 35000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 2001,
+            "company": "Sampo Group",
+            "position": "Portfolio Manager",
+            "salary": 57000
+        },
+        {
+            "start_year": 2003,
+            "end_year": 2005,
+            "company": "Varma Mutual Pension Insurance Company",
+            "position": "Hedge Fund Manager",
+            "salary": 84000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2024,
+            "company": "Veritas Pension Insurance Company",
+            "position": "Private Equity Investor",
+            "salary": 892000
+        }
+    ],
+    "aum": {
+        "savings": 1410000,
+        "inheritance": 2940000,
+        "real_estate_value": 1453000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2009,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 673000,
+            "property location": "Vaasa"
+        },
+        {
+            "property type": "flat",
+            "property value": 780000,
+            "property location": "Lahti"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

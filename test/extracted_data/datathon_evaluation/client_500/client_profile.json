@@ -1,0 +1,44 @@
+{
+    "name": "Delphine Anaïs Guillaume",
+    "address": {
+        "city": "Paris",
+        "street name": "Place des Vosges",
+        "street number": 54,
+        "postal code": "85263"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "2001-08-23",
+    "nationality": "French",
+    "passport_number": "YE3914208",
+    "passport_issue_date": "2021-08-24",
+    "passport_expiry_date": "2031-08-23",
+    "gender": "F",
+    "phone_number": "+33 09 59 87 46 38",
+    "email_address": "delphine.guillaume@aliceadsl.fr",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée Gustave Eiffel",
+        "graduation_year": 2019
+    },
+    "higher_education": [],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1130000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2020,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

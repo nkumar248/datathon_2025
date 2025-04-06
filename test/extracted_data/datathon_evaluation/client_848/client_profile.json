@@ -1,0 +1,67 @@
+{
+    "name": "Johanna Iiris Miettinen",
+    "address": {
+        "city": "Kerava",
+        "street name": "Vuorimiehenkatu",
+        "street number": 80,
+        "postal code": "17121"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1962-01-24",
+    "nationality": "Finnish",
+    "passport_number": "IP7240527",
+    "passport_issue_date": "2021-11-03",
+    "passport_expiry_date": "2031-11-02",
+    "gender": "F",
+    "phone_number": "045 927 74 88",
+    "email_address": "johanna.miettinen@luukku.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Leppävaaran lukio",
+        "graduation_year": 1981
+    },
+    "higher_education": [
+        {
+            "university": "Metropolia University of Applied Sciences",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1985,
+            "end_year": 1988,
+            "company": "Kone Corporation",
+            "position": "Software Developer",
+            "salary": 41000
+        },
+        {
+            "start_year": 1988,
+            "end_year": 2022,
+            "company": "Supercell Oy",
+            "position": "Startup Founder",
+            "salary": 315000
+        }
+    ],
+    "aum": {
+        "savings": 670000,
+        "inheritance": 0,
+        "real_estate_value": 1070000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1070000,
+            "property location": "Kerava"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Italy"
+    ],
+    "currency": "EUR"
+}

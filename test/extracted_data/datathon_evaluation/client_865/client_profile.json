@@ -1,0 +1,94 @@
+{
+    "name": "Russo Galli Bianchi",
+    "address": {
+        "city": "Turin",
+        "street name": "Galleria Vittorio Emanuele II",
+        "street number": 10,
+        "postal code": "60963"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1966-04-18",
+    "nationality": "Italian",
+    "passport_number": "XR7950302",
+    "passport_issue_date": "2018-04-05",
+    "passport_expiry_date": "2028-04-04",
+    "gender": "M",
+    "phone_number": "321 9376482",
+    "email_address": "russo.bianchi@libero.it",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Liceo Musicale Arrigo Boito Parma",
+        "graduation_year": 1986
+    },
+    "higher_education": [
+        {
+            "university": "Normal Superior School of Pisa",
+            "graduation_year": 1989
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1990,
+            "end_year": 1995,
+            "company": "Versace S.p.A.",
+            "position": "Assistant Designer",
+            "salary": 32000
+        },
+        {
+            "start_year": 1996,
+            "end_year": 1998,
+            "company": "Versace S.p.A.",
+            "position": "Senior Designer",
+            "salary": 40000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2000,
+            "company": "Gucci S.p.A.",
+            "position": "Creative Director",
+            "salary": 54000
+        },
+        {
+            "start_year": 2002,
+            "end_year": null,
+            "company": "Prada S.p.A.",
+            "position": "Founder/Designer",
+            "salary": 856000
+        }
+    ],
+    "aum": {
+        "savings": 1440000,
+        "inheritance": 1620000,
+        "real_estate_value": 4160000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2011,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1358000,
+            "property location": "Turin"
+        },
+        {
+            "property type": "villa",
+            "property value": 1860000,
+            "property location": "Naples"
+        },
+        {
+            "property type": "condo",
+            "property value": 942000,
+            "property location": "Messina"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

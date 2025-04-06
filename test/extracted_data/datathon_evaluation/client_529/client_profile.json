@@ -1,0 +1,76 @@
+{
+    "name": "Hannelore Joyce De Jong",
+    "address": {
+        "city": "Oss",
+        "street name": "Markt",
+        "street number": 62,
+        "postal code": "6676 80"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1957-03-26",
+    "nationality": "Dutch",
+    "passport_number": "MU3505030",
+    "passport_issue_date": "2023-02-28",
+    "passport_expiry_date": "2033-02-27",
+    "gender": "F",
+    "phone_number": "+31 06 84841712",
+    "email_address": "hannelore.dejong@hotspots.nl",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Bonaventura College Leiden",
+        "graduation_year": 1976
+    },
+    "higher_education": [
+        {
+            "university": "Utrecht University",
+            "graduation_year": 1981
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1980,
+            "end_year": 1984,
+            "company": "Rabobank Private Banking",
+            "position": "Financial Advisor",
+            "salary": 39000
+        },
+        {
+            "start_year": 1985,
+            "end_year": 2017,
+            "company": "Rabobank Private Banking",
+            "position": "Portfolio Manager",
+            "salary": 374000
+        }
+    ],
+    "aum": {
+        "savings": 670000,
+        "inheritance": 0,
+        "real_estate_value": 4220000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 940000,
+            "property location": "Oss"
+        },
+        {
+            "property type": "condo",
+            "property value": 1320000,
+            "property location": "Doetinchem"
+        },
+        {
+            "property type": "house",
+            "property value": 1960000,
+            "property location": "Doetinchem"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

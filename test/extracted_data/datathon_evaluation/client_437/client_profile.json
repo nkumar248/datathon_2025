@@ -1,0 +1,74 @@
+{
+    "name": "Lombardi De Luca",
+    "address": {
+        "city": "Messina",
+        "street name": "Via Ugo Bassi",
+        "street number": 5,
+        "postal code": "46923"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1968-09-23",
+    "nationality": "Italian",
+    "passport_number": "QD4022960",
+    "passport_issue_date": "2022-02-20",
+    "passport_expiry_date": "2032-02-19",
+    "gender": "M",
+    "phone_number": "336 3796544",
+    "email_address": "lombardi.deluca@aruba.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Liceo Scientifico Enrico Fermi Bologna",
+        "graduation_year": 1986
+    },
+    "higher_education": [
+        {
+            "university": "IMT Institute for Advanced Studies Lucca",
+            "graduation_year": 1992
+        },
+        {
+            "university": "John Cabot University",
+            "graduation_year": 1997
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1992,
+            "end_year": 1995,
+            "company": "Chiomenti Studio Legale",
+            "position": "Associate Attorney",
+            "salary": 24000
+        },
+        {
+            "start_year": 1995,
+            "end_year": null,
+            "company": "BonelliErede",
+            "position": "Senior Associate",
+            "salary": 266000
+        }
+    ],
+    "aum": {
+        "savings": 480000,
+        "inheritance": 150000,
+        "real_estate_value": 870000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2010,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 870000,
+            "property location": "Messina"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

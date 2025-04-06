@@ -1,0 +1,91 @@
+{
+    "name": "Ramos Hernández Sánchez",
+    "address": {
+        "city": "Bilbao",
+        "street name": "Calle de San Juan Bautista",
+        "street number": 78,
+        "postal code": "94826"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1974-06-18",
+    "nationality": "Spanish",
+    "passport_number": "YS2519793",
+    "passport_issue_date": "2021-12-01",
+    "passport_expiry_date": "2031-11-30",
+    "gender": "M",
+    "phone_number": "606 763 507",
+    "email_address": "ramos.sanchez@telefonica.es",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Instituto de Educación Secundaria IES Pablo Neruda Las Palmas de Gran Canaria",
+        "graduation_year": 1994
+    },
+    "higher_education": [
+        {
+            "university": "CEU San Pablo University",
+            "graduation_year": 1999
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1998,
+            "end_year": 2001,
+            "company": "Apax Partners España S.A.",
+            "position": "Analyst",
+            "salary": 23000
+        },
+        {
+            "start_year": 2002,
+            "end_year": 2004,
+            "company": "Apax Partners España S.A.",
+            "position": "Associate",
+            "salary": 43000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2010,
+            "company": "KKR Iberia Asesoramiento S.A.",
+            "position": "Investment Director",
+            "salary": 63000
+        },
+        {
+            "start_year": 2010,
+            "end_year": 2012,
+            "company": "Apax Partners España S.A.",
+            "position": "Partner",
+            "salary": 123000
+        },
+        {
+            "start_year": 2014,
+            "end_year": 2024,
+            "company": "ProA Capital de Inversión SGEIC S.A.",
+            "position": "Fund Manager",
+            "salary": 233000
+        }
+    ],
+    "aum": {
+        "savings": 320000,
+        "inheritance": 1020000,
+        "real_estate_value": 1860000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2006,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 1860000,
+            "property location": "Bilbao"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUW"
+}

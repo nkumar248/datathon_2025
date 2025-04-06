@@ -1,0 +1,17 @@
+{
+    "name": "Anaïs Peeters",
+    "first_name": "Anaïs",
+    "middle_name": "",
+    "last_name": "Peeters",
+    "passport_number": "VD8766809",
+    "currency": "EUR",
+    "address": {
+        "city": "Brussels",
+        "street name": "Rue Neuve",
+        "street number": 93,
+        "postal code": "1299"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0442 822 886",
+    "email_address": "anais.peeters@hotmail.com"
+}

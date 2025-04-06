@@ -1,0 +1,91 @@
+{
+    "name": "Franziska Emma Weber",
+    "address": {
+        "city": "Frankfurt am Main",
+        "street name": "Neuer Markt",
+        "street number": 26,
+        "postal code": "59813"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1964-07-11",
+    "nationality": "German",
+    "passport_number": "RI8853811",
+    "passport_issue_date": "2018-02-03",
+    "passport_expiry_date": "2028-02-02",
+    "gender": "F",
+    "phone_number": "6803 131797",
+    "email_address": "franziska.weber@gmx.de",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Staatliches Gymnasium am Obersalzberg",
+        "graduation_year": 1982
+    },
+    "higher_education": [
+        {
+            "university": "Munich University of Fine Arts",
+            "graduation_year": 1988
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1989,
+            "end_year": 1993,
+            "company": "Software AG",
+            "position": "Software Developer",
+            "salary": 45000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 1996,
+            "company": "Software AG",
+            "position": "Startup Founder",
+            "salary": 65000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 1999,
+            "company": "Bosch Software Innovations GmbH",
+            "position": "CEO",
+            "salary": 76000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2002,
+            "company": "Bosch Software Innovations GmbH",
+            "position": "Venture Capitalist",
+            "salary": 128000
+        },
+        {
+            "start_year": 2002,
+            "end_year": 2025,
+            "company": "Siemens AG",
+            "position": "Tech Industry Leader",
+            "salary": 1450000
+        }
+    ],
+    "aum": {
+        "savings": 2240000,
+        "inheritance": 580000,
+        "real_estate_value": 2090000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 2090000,
+            "property location": "Frankfurt am Main"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Germany"
+    ],
+    "currency": "EUR"
+}

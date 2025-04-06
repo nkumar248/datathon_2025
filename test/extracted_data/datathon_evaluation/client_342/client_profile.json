@@ -1,0 +1,70 @@
+{
+    "name": "Laurent Bonnet Richard",
+    "address": {
+        "city": "Le Havre",
+        "street name": "Avenue George V",
+        "street number": 24,
+        "postal code": "19380"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1983-03-12",
+    "nationality": "French",
+    "passport_number": "VT2782989",
+    "passport_issue_date": "2022-11-12",
+    "passport_expiry_date": "2032-11-11",
+    "gender": "M",
+    "phone_number": "+33 08 92 82 01 74",
+    "email_address": "laurent.richard@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée La Martinière Monplaisir",
+        "graduation_year": 2000
+    },
+    "higher_education": [
+        {
+            "university": "École Normale Supérieure (ENS) Paris",
+            "graduation_year": 2006
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2007,
+            "end_year": 2010,
+            "company": "CMA CGM S.A.",
+            "position": "Ship Broker",
+            "salary": 28000
+        },
+        {
+            "start_year": 2012,
+            "end_year": null,
+            "company": "CMA CGM S.A.",
+            "position": "Shipping Company Owner",
+            "salary": 118000
+        }
+    ],
+    "aum": {
+        "savings": 170000,
+        "inheritance": 3900000,
+        "real_estate_value": 2790000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2013,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2790000,
+            "property location": "Le Havre"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

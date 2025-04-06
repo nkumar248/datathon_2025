@@ -1,0 +1,75 @@
+{
+    "name": "Møller Oddershede Friis",
+    "address": {
+        "city": "Copenhagen",
+        "street name": "Sortedams Dossering",
+        "street number": 99,
+        "postal code": "3680"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1993-04-11",
+    "nationality": "Danish",
+    "passport_number": "FL1222738",
+    "passport_issue_date": "2021-02-16",
+    "passport_expiry_date": "2031-02-15",
+    "gender": "M",
+    "phone_number": "+45 75 92 88 37",
+    "email_address": "mller.friis@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Københavns Åbent Gymnasium",
+        "graduation_year": 2011
+    },
+    "higher_education": [
+        {
+            "university": "Niels Brock Copenhagen Business College",
+            "graduation_year": 2016
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2018,
+            "end_year": 2021,
+            "company": "Velux A/S",
+            "position": "Plant Manager",
+            "salary": 243000
+        },
+        {
+            "start_year": 2023,
+            "end_year": null,
+            "company": "Vestas Wind Systems A/S",
+            "position": "Operations Director",
+            "salary": 394000
+        }
+    ],
+    "aum": {
+        "savings": 220000,
+        "inheritance": 7500000,
+        "real_estate_value": 3690000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2030000,
+            "property location": "Copenhagen"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1660000,
+            "property location": "Helsingør"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

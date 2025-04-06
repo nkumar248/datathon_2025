@@ -1,0 +1,49 @@
+{
+    "name": "Fernández Gil",
+    "address": {
+        "city": "Florence",
+        "street name": "Corso Cairoli",
+        "street number": 43,
+        "postal code": "72697"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "2001-05-05",
+    "nationality": "Spanish",
+    "passport_number": "QL3802472",
+    "passport_issue_date": "2020-01-25",
+    "passport_expiry_date": "2025-01-24",
+    "gender": "M",
+    "phone_number": "+39 382 9585821",
+    "email_address": "fernandez.gil@fastweb.it",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "IES Federico García Lorca Granada",
+        "graduation_year": 2019
+    },
+    "higher_education": [
+        {
+            "university": "IE University",
+            "graduation_year": 2024
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 2080000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

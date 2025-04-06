@@ -1,0 +1,17 @@
+{
+    "name": "Andrea Huber",
+    "first_name": "Andrea",
+    "middle_name": "",
+    "last_name": "Huber",
+    "passport_number": "KS5818114",
+    "currency": "CHF",
+    "address": {
+        "city": "Baden",
+        "street name": "Petersplatz",
+        "street number": 56,
+        "postal code": "2925"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 046 364 80 81",
+    "email_address": "andrea.huber@hotmail.com"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Diana Lina Koch",
+    "first_name": "Diana",
+    "middle_name": "Lina",
+    "last_name": "Koch",
+    "passport_number": "FT8324086",
+    "currency": "EUR",
+    "address": {
+        "city": "Mannheim",
+        "street name": "Luisenstraße",
+        "street number": 22,
+        "postal code": "53366"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "4355 666057",
+    "email_address": "diana.koch@unitybox.de"
+}

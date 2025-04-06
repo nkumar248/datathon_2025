@@ -1,0 +1,17 @@
+{
+    "first_name": "Freja",
+    "middle_name": "Idun",
+    "last_name": "Østergaard",
+    "gender": "F",
+    "country": "Denmark",
+    "country_code": "DNK",
+    "nationality": "Danish",
+    "birth_date": "1966-09-07",
+    "passport_number": "DR2046462",
+    "passport_mrz": [
+        "P<DNKØSTERGAARD<<FREJA<IDUN<<<<<<<<<<<<<<<<<<",
+        "DR2046462DNK660907<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-06-11",
+    "passport_expiry_date": "2033-06-10"
+}

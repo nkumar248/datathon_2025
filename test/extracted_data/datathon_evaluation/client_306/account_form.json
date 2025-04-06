@@ -1,0 +1,17 @@
+{
+    "name": "Huber Kaufmann Lehmann",
+    "first_name": "Huber",
+    "middle_name": "Kaufmann",
+    "last_name": "Lehmann",
+    "passport_number": "CR7317808",
+    "currency": "CHF",
+    "address": {
+        "city": "Schaffhausen",
+        "street name": "Niederdorf",
+        "street number": 37,
+        "postal code": "3215"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 059 347 56 88",
+    "email_address": "huber.lehmann@upc.ch"
+}

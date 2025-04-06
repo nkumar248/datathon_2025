@@ -1,0 +1,17 @@
+{
+    "first_name": "Juliette",
+    "middle_name": "Ingrid",
+    "last_name": "Robert",
+    "gender": "F",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1973-12-02",
+    "passport_number": "TV7596303",
+    "passport_mrz": [
+        "P<FRAROBERT<<JULIETTE<INGRID<<<<<<<<<<<<<<<<<",
+        "TV7596303FRA731202<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-06-06",
+    "passport_expiry_date": "2034-06-05"
+}

@@ -1,0 +1,101 @@
+{
+    "name": "Emanuela  Marino",
+    "address": {
+        "city": "Trieste",
+        "street name": "Via del Governo Vecchio",
+        "street number": 90,
+        "postal code": "11178"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1970-12-06",
+    "nationality": "Italian",
+    "passport_number": "DJ5896886",
+    "passport_issue_date": "2017-01-08",
+    "passport_expiry_date": "2027-01-07",
+    "gender": "F",
+    "phone_number": "383 4974266",
+    "email_address": "emanuela.marino@tin.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Liceo Classico Giambattista Vico Napoli",
+        "graduation_year": 1989
+    },
+    "higher_education": [
+        {
+            "university": "Polytechnic University of Marche",
+            "graduation_year": 1995
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1995,
+            "end_year": 2000,
+            "company": "Ferrari N.V.",
+            "position": "Plant Manager",
+            "salary": 28000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2004,
+            "company": "STMicroelectronics S.p.A.",
+            "position": "Operations Director",
+            "salary": 43000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2008,
+            "company": "Luxottica Group S.p.A.",
+            "position": "CEO",
+            "salary": 61000
+        },
+        {
+            "start_year": 2008,
+            "end_year": 2009,
+            "company": "Ferrari N.V.",
+            "position": "Chairman",
+            "salary": 118000
+        },
+        {
+            "start_year": 2009,
+            "end_year": null,
+            "company": "STMicroelectronics S.p.A.",
+            "position": "Conglomerate Owner",
+            "salary": 425000
+        }
+    ],
+    "aum": {
+        "savings": 660000,
+        "inheritance": 890000,
+        "real_estate_value": 2989000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2010,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 770000,
+            "property location": "Trieste"
+        },
+        {
+            "property type": "house",
+            "property value": 1469000,
+            "property location": "Florence"
+        },
+        {
+            "property type": "condo",
+            "property value": 750000,
+            "property location": "Naples"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

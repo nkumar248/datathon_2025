@@ -1,0 +1,17 @@
+{
+    "name": "Franziska Sabrina Hinterleitner",
+    "first_name": "Franziska",
+    "middle_name": "Sabrina",
+    "last_name": "Hinterleitner",
+    "passport_number": "QD0969291",
+    "currency": "EUR",
+    "address": {
+        "city": "Hallein",
+        "street name": "Mariahilfer Straße",
+        "street number": 36,
+        "postal code": "5937"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "246 709 7665",
+    "email_address": "franziska.hinterleitner@kabsi.at"
+}

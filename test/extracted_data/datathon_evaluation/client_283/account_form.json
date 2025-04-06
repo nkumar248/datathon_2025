@@ -1,0 +1,17 @@
+{
+    "name": "Díaz Gómez Pérez",
+    "first_name": "Díaz",
+    "middle_name": "Gómez",
+    "last_name": "Pérez",
+    "passport_number": "KE1728741",
+    "currency": "EUR",
+    "address": {
+        "city": "Castellón de la Plana",
+        "street name": "Calle de las Huertas",
+        "street number": 66,
+        "postal code": "88208"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 602 678 782",
+    "email_address": "diaz.perez@orange.es"
+}

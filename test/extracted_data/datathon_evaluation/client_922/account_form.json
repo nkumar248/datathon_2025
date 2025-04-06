@@ -1,0 +1,17 @@
+{
+    "name": "Rasmussen Sørensen Knudsen",
+    "first_name": "Rasmussen",
+    "middle_name": "Sørensen",
+    "last_name": "Knudsen",
+    "passport_number": "RM5816936",
+    "currency": "DKK",
+    "address": {
+        "city": "Gladsaxe",
+        "street name": "Kongens Nytorv",
+        "street number": 7,
+        "postal code": "4044"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "80 00 84 25",
+    "email_address": "rasmussen.knudsen@gmail.com"
+}

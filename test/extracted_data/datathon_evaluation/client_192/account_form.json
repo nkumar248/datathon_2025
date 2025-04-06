@@ -1,0 +1,17 @@
+{
+    "name": "Moretti Russo",
+    "first_name": "Moretti",
+    "middle_name": "",
+    "last_name": "Russo",
+    "passport_number": "QC4171891",
+    "currency": "EUR",
+    "address": {
+        "city": "Cagliari",
+        "street name": "Via Po",
+        "street number": 15,
+        "postal code": "24553"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 319 1573966",
+    "email_address": "moretti.russo@outlook.com"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Francisca Zoë Maassen",
+    "first_name": "Francisca",
+    "middle_name": "Zoë",
+    "last_name": "Maassen",
+    "passport_number": "GI3927789",
+    "currency": "EUR",
+    "address": {
+        "city": "Strasbourg",
+        "street name": "Rue de la Huchette",
+        "street number": 97,
+        "postal code": "59732"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 01 06 87 99 00",
+    "email_address": "francisca.maassen@yahoo.com"
+}

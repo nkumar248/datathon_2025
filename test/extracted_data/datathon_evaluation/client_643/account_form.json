@@ -1,0 +1,17 @@
+{
+    "name": "Floriane Capucine Boucher",
+    "first_name": "Floriane",
+    "middle_name": "Capucine",
+    "last_name": "Boucher",
+    "passport_number": "KH5464590",
+    "currency": "EUR",
+    "address": {
+        "city": "Saint-Denis",
+        "street name": "Avenue d'Italie",
+        "street number": 52,
+        "postal code": "61193"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 05 07 43 10 93",
+    "email_address": "floriane.boucher@bbox.fr"
+}

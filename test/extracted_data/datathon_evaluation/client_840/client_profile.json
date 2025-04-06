@@ -1,0 +1,77 @@
+{
+    "name": "Laurent Nicolas Boucher",
+    "address": {
+        "city": "Metz",
+        "street name": "Avenue Parmentier",
+        "street number": 87,
+        "postal code": "80350"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1958-05-06",
+    "nationality": "French",
+    "passport_number": "PM0411270",
+    "passport_issue_date": "2019-03-31",
+    "passport_expiry_date": "2029-03-30",
+    "gender": "M",
+    "phone_number": "+33 05 37 57 15 39",
+    "email_address": "laurent.boucher@laposte.net",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Ampère",
+        "graduation_year": 2004
+    },
+    "higher_education": [
+        {
+            "university": "HEC Paris",
+            "graduation_year": 2010
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2015,
+            "company": "BNP Paribas S.A.",
+            "position": "Family Office Manager",
+            "salary": 41000
+        },
+        {
+            "start_year": 2016,
+            "end_year": 2020,
+            "company": "Société Générale S.A.",
+            "position": "Investment Director",
+            "salary": 46000
+        },
+        {
+            "start_year": 2022,
+            "end_year": null,
+            "company": "BNP Paribas S.A.",
+            "position": "CFO",
+            "salary": 65000
+        }
+    ],
+    "aum": {
+        "savings": 90000,
+        "inheritance": 4170000,
+        "real_estate_value": 1640000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1640000,
+            "property location": "Metz"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

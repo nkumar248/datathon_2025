@@ -1,0 +1,71 @@
+{
+    "name": "Juliette Camille Roose",
+    "address": {
+        "city": "Charleroi",
+        "street name": "Place Jourdan",
+        "street number": 6,
+        "postal code": "0957"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1974-01-24",
+    "nationality": "Belgian",
+    "passport_number": "LN6151113",
+    "passport_issue_date": "2018-12-16",
+    "passport_expiry_date": "2025-12-15",
+    "gender": "F",
+    "phone_number": "+32 0432 864 256",
+    "email_address": "juliette.roose@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Molière",
+        "graduation_year": 1992
+    },
+    "higher_education": [
+        {
+            "university": "University of Liège",
+            "graduation_year": 1997
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1997,
+            "end_year": 2001,
+            "company": "BNP Paribas Fortis SA/NV",
+            "position": "Investment Banker",
+            "salary": 36000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2024,
+            "company": "Euroclear SA/NV",
+            "position": "Private Equity Investor",
+            "salary": 253000
+        }
+    ],
+    "aum": {
+        "savings": 400000,
+        "inheritance": 4610000,
+        "real_estate_value": 1020000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2005,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1020000,
+            "property location": "Charleroi"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

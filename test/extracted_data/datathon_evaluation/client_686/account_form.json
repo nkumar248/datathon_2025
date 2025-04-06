@@ -1,0 +1,17 @@
+{
+    "name": "Karoline Sophia Lechner",
+    "first_name": "Lechner",
+    "middle_name": "Sophia",
+    "last_name": "Karoline",
+    "passport_number": "ON9591685",
+    "currency": "EUR",
+    "address": {
+        "city": "Traun",
+        "street name": "Reichsbrücke",
+        "street number": 100,
+        "postal code": "2931"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 983 239 7303",
+    "email_address": "karoline.lechner@web.at"
+}

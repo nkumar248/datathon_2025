@@ -1,0 +1,17 @@
+{
+    "name": "Karen Caroline Hansen",
+    "first_name": "Karen",
+    "middle_name": "Caroline",
+    "last_name": "Hansen",
+    "passport_number": "SM5383297",
+    "currency": "DKK",
+    "address": {
+        "city": "Skanderborg",
+        "street name": "Ørsteds Park",
+        "street number": 68,
+        "postal code": "4198"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "07 92 69 12",
+    "email_address": "karen.hansen@gmail.com"
+}

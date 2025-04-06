@@ -1,0 +1,17 @@
+{
+    "name": "Gabriella Costanza Ferrari",
+    "first_name": "Gabriella",
+    "middle_name": "Costanza",
+    "last_name": "Ferrari",
+    "passport_number": "QN1894998",
+    "currency": "EUR",
+    "address": {
+        "city": "Tuusula",
+        "street name": "Katariinankatu",
+        "street number": 74,
+        "postal code": "50889"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 045 175 00 96",
+    "email_address": "gabriella.ferrari@dnainternet.fi"
+}

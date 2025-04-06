@@ -1,0 +1,17 @@
+{
+    "name": "Aino Anniina Mäkinen",
+    "first_name": "Aino",
+    "middle_name": "Anniina",
+    "last_name": "Mäkinen",
+    "passport_number": "UX4549354",
+    "currency": "EUR",
+    "address": {
+        "city": "Mikkeli",
+        "street name": "Kauppakartanonkatu",
+        "street number": 13,
+        "postal code": "35917"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 047 676 91 29",
+    "email_address": "aino.makinen@luukku.com"
+}

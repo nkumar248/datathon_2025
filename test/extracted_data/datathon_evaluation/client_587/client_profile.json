@@ -1,0 +1,101 @@
+{
+    "name": "Charlotte Julia Smeets",
+    "address": {
+        "city": "Hoofddorp",
+        "street name": " Stationsplein",
+        "street number": 63,
+        "postal code": "0231 48"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1970-05-18",
+    "nationality": "Dutch",
+    "passport_number": "OQ3847252",
+    "passport_issue_date": "2018-08-20",
+    "passport_expiry_date": "2028-08-19",
+    "gender": "F",
+    "phone_number": "+31 06 05503765",
+    "email_address": "charlotte.smeets@outlook.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Gomarus College Groningen",
+        "graduation_year": 1990
+    },
+    "higher_education": [
+        {
+            "university": "TNO - Netherlands Organisation for Applied Scientific Research",
+            "graduation_year": 1993
+        },
+        {
+            "university": "NWO - Netherlands Organisation for Scientific Research",
+            "graduation_year": 1999
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1994,
+            "end_year": 1995,
+            "company": "Royal DSM N.V.",
+            "position": "Research Scientist",
+            "salary": 44000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 2002,
+            "company": "Crucell N.V.",
+            "position": "Biotech Startup Founder",
+            "salary": 79000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2006,
+            "company": "Crucell N.V.",
+            "position": "CEO",
+            "salary": 79000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2009,
+            "company": "Philips Healthcare",
+            "position": "Venture Capitalist",
+            "salary": 156000
+        },
+        {
+            "start_year": 2010,
+            "end_year": null,
+            "company": "Philips Healthcare",
+            "position": "Industry Leader",
+            "salary": 667000
+        }
+    ],
+    "aum": {
+        "savings": 1130000,
+        "inheritance": 1520000,
+        "real_estate_value": 3860000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2007,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2570000,
+            "property location": "Hoofddorp"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1290000,
+            "property location": "Leiden"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

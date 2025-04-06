@@ -1,0 +1,17 @@
+{
+    "name": "Essi Laura Salo",
+    "first_name": "Essi",
+    "middle_name": "Laura",
+    "last_name": "Salo",
+    "passport_number": "HZ3157996",
+    "currency": "EUR",
+    "address": {
+        "city": "Fürth",
+        "street name": "Prager Straße",
+        "street number": 52,
+        "postal code": "48654"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 3144 637085",
+    "email_address": "essi.salo@gmail.com"
+}

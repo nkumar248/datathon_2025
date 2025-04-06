@@ -1,0 +1,17 @@
+{
+    "name": "Olivia Adèle Dupont",
+    "first_name": "Olivia",
+    "middle_name": "Adèle",
+    "last_name": "Dupont",
+    "passport_number": "GZ5774343",
+    "currency": "EUR",
+    "address": {
+        "city": "Aalst",
+        "street name": "Rue de la Croix-Rouge",
+        "street number": 68,
+        "postal code": "7853"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0493 383 144",
+    "email_address": "olivia.dupont@outlook.com"
+}

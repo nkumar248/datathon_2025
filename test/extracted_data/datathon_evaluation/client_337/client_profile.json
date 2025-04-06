@@ -1,0 +1,71 @@
+{
+    "name": "Antonia Daniela Martínez",
+    "address": {
+        "city": "San Sebastián",
+        "street name": "Plaza de la Encarnación",
+        "street number": 80,
+        "postal code": "46070"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1981-01-27",
+    "nationality": "Spanish",
+    "passport_number": "XQ0442654",
+    "passport_issue_date": "2024-11-06",
+    "passport_expiry_date": "2034-11-05",
+    "gender": "F",
+    "phone_number": "+34 676 168 609",
+    "email_address": "antonia.martinez@wanadoo.es",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "IES José Manuel Blecua Pamplona",
+        "graduation_year": 1999
+    },
+    "higher_education": [
+        {
+            "university": "University of Barcelona",
+            "graduation_year": 2004
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2005,
+            "end_year": 2006,
+            "company": "Peñarroya Shipping S.A.",
+            "position": "Ship Broker",
+            "salary": 23000
+        },
+        {
+            "start_year": 2006,
+            "end_year": null,
+            "company": "Peñarroya Shipping S.A.",
+            "position": "Shipping Company Owner",
+            "salary": 126000
+        }
+    ],
+    "aum": {
+        "savings": 210000,
+        "inheritance": 4110000,
+        "real_estate_value": 910000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2007,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 910000,
+            "property location": "San Sebastián"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

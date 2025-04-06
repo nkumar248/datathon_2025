@@ -1,0 +1,17 @@
+{
+    "name": "Giovanna Anna Galli",
+    "first_name": "Giovanna",
+    "middle_name": "Anna",
+    "last_name": "Galli",
+    "passport_number": "WZ3489699",
+    "currency": "EUR",
+    "address": {
+        "city": "Perugia",
+        "street name": "Galleria Vittorio Emanuele II",
+        "street number": 93,
+        "postal code": "98829"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 331 5098609",
+    "email_address": "giovanna.galli@tiscali.it"
+}

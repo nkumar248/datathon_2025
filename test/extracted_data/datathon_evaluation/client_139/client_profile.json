@@ -1,0 +1,81 @@
+{
+    "name": "Andrea María Gómez",
+    "address": {
+        "city": "Granada",
+        "street name": "Gran Vía",
+        "street number": 42,
+        "postal code": "35895"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1978-07-21",
+    "nationality": "Spanish",
+    "passport_number": "AH6027333",
+    "passport_issue_date": "2020-01-17",
+    "passport_expiry_date": "2030-01-16",
+    "gender": "F",
+    "phone_number": "+34 663 670 471",
+    "email_address": "andrea.gomez@yahoo.es",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "IES Vicente Aleixandre Santander",
+        "graduation_year": 1997
+    },
+    "higher_education": [
+        {
+            "university": "Escuela de Negocios de Navarra",
+            "graduation_year": 2002
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2002,
+            "end_year": 2006,
+            "company": "BBVA S.A.",
+            "position": "Family Office Manager",
+            "salary": 28000
+        },
+        {
+            "start_year": 2008,
+            "end_year": null,
+            "company": "CaixaBank S.A.",
+            "position": "Investment Director",
+            "salary": 159000
+        }
+    ],
+    "aum": {
+        "savings": 260000,
+        "inheritance": 2070000,
+        "real_estate_value": 2467000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2008,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1074000,
+            "property location": "Granada"
+        },
+        {
+            "property type": "condo",
+            "property value": 683000,
+            "property location": "Barcelona"
+        },
+        {
+            "property type": "flat",
+            "property value": 710000,
+            "property location": "Seville"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "France"
+    ],
+    "currency": "EUR"
+}

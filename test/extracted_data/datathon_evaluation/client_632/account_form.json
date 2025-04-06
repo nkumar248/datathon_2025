@@ -1,0 +1,17 @@
+{
+    "name": "Schulze Klein Schulz",
+    "first_name": "Schulze",
+    "middle_name": "Klein",
+    "last_name": "Schulz",
+    "passport_number": "NW1098588",
+    "currency": "EUR",
+    "address": {
+        "city": "Bonn",
+        "street name": "Weinstrasse",
+        "street number": 80,
+        "postal code": "74351"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "1007 341066",
+    "email_address": "schulze.schulz@outlook.com"
+}

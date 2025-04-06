@@ -1,0 +1,106 @@
+{
+    "name": "Hanna Ella Niemi",
+    "address": {
+        "city": "Lappeenranta",
+        "street name": "Unioninkatu",
+        "street number": 91,
+        "postal code": "21530"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1975-04-17",
+    "nationality": "Finnish",
+    "passport_number": "FH4151664",
+    "passport_issue_date": "2017-08-19",
+    "passport_expiry_date": "2027-08-18",
+    "gender": "F",
+    "phone_number": "042 519 52 89",
+    "email_address": "hanna.niemi@surffi.net",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Salpausselän lukio",
+        "graduation_year": 1995
+    },
+    "higher_education": [
+        {
+            "university": "University of Helsinki",
+            "graduation_year": 1998
+        },
+        {
+            "university": "Turku University of Applied Sciences",
+            "graduation_year": 2004
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1999,
+            "end_year": 2004,
+            "company": "Fortum Corporation",
+            "position": "Drilling Engineer",
+            "salary": 40000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2009,
+            "company": "Fortum Corporation",
+            "position": "Reservoir Engineer",
+            "salary": 71000
+        },
+        {
+            "start_year": 2009,
+            "end_year": 2014,
+            "company": "Neste Corporation",
+            "position": "Operations Manager",
+            "salary": 129000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2019,
+            "company": "St1 Oy",
+            "position": "VP of Exploration",
+            "salary": 164000
+        },
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "Neste Corporation",
+            "position": "CEO",
+            "salary": 318000
+        }
+    ],
+    "aum": {
+        "savings": 520000,
+        "inheritance": 2930000,
+        "real_estate_value": 3773000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2010,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1383000,
+            "property location": "Lappeenranta"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 940000,
+            "property location": "Nurmijärvi"
+        },
+        {
+            "property type": "house",
+            "property value": 1450000,
+            "property location": "Turku"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

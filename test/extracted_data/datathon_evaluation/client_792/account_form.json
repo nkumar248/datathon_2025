@@ -1,0 +1,17 @@
+{
+    "name": "Sophia Fabienne Schneider",
+    "first_name": "Sophia",
+    "middle_name": "Fabienne",
+    "last_name": "Schneider",
+    "passport_number": "CQ2305242",
+    "currency": "CHF",
+    "address": {
+        "city": "Brugg",
+        "street name": "Rathausgasse",
+        "street number": 69,
+        "postal code": "3136"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "075 788 94 89",
+    "email_address": "sophia.schneider@hotmail.com"
+}

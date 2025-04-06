@@ -1,0 +1,17 @@
+{
+    "name": "De Jong Van Dijk Maassen",
+    "first_name": "De Jong",
+    "middle_name": "Van Dijk",
+    "last_name": "Maassen",
+    "passport_number": "IM1718720",
+    "currency": "EUR",
+    "address": {
+        "city": "The Hague",
+        "street name": "Korte Voorhout",
+        "street number": 70,
+        "postal code": "7411 81"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "06 11209373",
+    "email_address": "dejong.maassen@upcmail.nl"
+}

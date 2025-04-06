@@ -1,0 +1,44 @@
+{
+    "name": "Peters Vandenberghe Peeters",
+    "address": {
+        "city": "Roeselare",
+        "street name": "Place de la Liberté",
+        "street number": 26,
+        "postal code": "4641"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "2002-07-27",
+    "nationality": "Belgian",
+    "passport_number": "VS4313579",
+    "passport_issue_date": "2016-09-20",
+    "passport_expiry_date": "2023-09-19",
+    "gender": "M",
+    "phone_number": "+32 0440 122 567",
+    "email_address": "peters.peeters@icloud.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Koninklijk Atheneum Boom",
+        "graduation_year": 2022
+    },
+    "higher_education": [],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1570000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

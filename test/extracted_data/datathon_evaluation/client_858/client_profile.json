@@ -1,0 +1,80 @@
+{
+    "name": "Frederikke Anna Laursen",
+    "address": {
+        "city": "Roskilde",
+        "street name": "Vandkunsten",
+        "street number": 85,
+        "postal code": "1951"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1994-02-03",
+    "nationality": "Danish",
+    "passport_number": "ZY6114453",
+    "passport_issue_date": "2017-03-06",
+    "passport_expiry_date": "2027-03-05",
+    "gender": "F",
+    "phone_number": "+45 52 00 04 78",
+    "email_address": "frederikke.laursen@dk-hostmaster.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Faaborg Gymnasium",
+        "graduation_year": 2002
+    },
+    "higher_education": [
+        {
+            "university": "Aarhus University",
+            "graduation_year": 2004
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2018,
+            "end_year": 2022,
+            "company": "IBM Danmark A/S",
+            "position": "Software Developer",
+            "salary": 284000
+        },
+        {
+            "start_year": 2022,
+            "end_year": null,
+            "company": "SAP Danmark A/S",
+            "position": "Startup Founder",
+            "salary": 429000
+        }
+    ],
+    "aum": {
+        "savings": 360000,
+        "inheritance": 8720000,
+        "real_estate_value": 4183000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1853000,
+            "property location": "Roskilde"
+        },
+        {
+            "property type": "condo",
+            "property value": 970000,
+            "property location": "Slagelse"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1360000,
+            "property location": "Helsingør"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

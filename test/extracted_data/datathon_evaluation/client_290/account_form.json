@@ -1,0 +1,17 @@
+{
+    "name": "Anaïs Louise Peiren",
+    "first_name": "Anaïs",
+    "middle_name": "Louise",
+    "last_name": "Peiren",
+    "passport_number": "BE8623503",
+    "currency": "EUR",
+    "address": {
+        "city": "Tournai",
+        "street name": "Rue des Dominicains",
+        "street number": 11,
+        "postal code": "1387"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0491 655 628",
+    "email_address": "anais.peiren@yahoo.com"
+}

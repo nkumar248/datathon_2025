@@ -1,0 +1,17 @@
+{
+    "name": "Françoise Elisabeth Riedo",
+    "first_name": "Françoise",
+    "middle_name": "Elisabeth",
+    "last_name": "Riedo",
+    "passport_number": "GV9590354",
+    "currency": "CHF",
+    "address": {
+        "city": "Lucerne",
+        "street name": "Heimplatz",
+        "street number": 61,
+        "postal code": "1387"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 076 664 72 83",
+    "email_address": "francoise.riedo@gmail.com"
+}

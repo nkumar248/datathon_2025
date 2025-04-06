@@ -1,0 +1,94 @@
+{
+    "name": "Heidi Luisa Fuchs",
+    "address": {
+        "city": "Baden bei Wien",
+        "street name": "Porzellangasse",
+        "street number": 17,
+        "postal code": "0891"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1974-04-05",
+    "nationality": "Austrian",
+    "passport_number": "QH9080954",
+    "passport_issue_date": "2017-10-21",
+    "passport_expiry_date": "2027-10-20",
+    "gender": "F",
+    "phone_number": "+43 081 245 9120",
+    "email_address": "heidi.fuchs@chello.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "BORG Wiener Neustadt",
+        "graduation_year": 1993
+    },
+    "higher_education": [
+        {
+            "university": "FH Upper Austria University of Applied Sciences",
+            "graduation_year": 1998
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1999,
+            "end_year": 2000,
+            "company": "Baxter BioScience",
+            "position": "Research Scientist",
+            "salary": 29000
+        },
+        {
+            "start_year": 2002,
+            "end_year": 2004,
+            "company": "Sandoz International GmbH",
+            "position": "Clinical Trials Manager",
+            "salary": 48000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2009,
+            "company": "Boehringer Ingelheim RCV GmbH & Co KG",
+            "position": "Regulatory Affairs Director",
+            "salary": 71000
+        },
+        {
+            "start_year": 2011,
+            "end_year": null,
+            "company": "Boehringer Ingelheim RCV GmbH & Co KG",
+            "position": "CEO",
+            "salary": 580000
+        }
+    ],
+    "aum": {
+        "savings": 820000,
+        "inheritance": 320000,
+        "real_estate_value": 2644000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2006,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1074000,
+            "property location": "Baden bei Wien"
+        },
+        {
+            "property type": "condo",
+            "property value": 880000,
+            "property location": "Zwettl"
+        },
+        {
+            "property type": "flat",
+            "property value": 690000,
+            "property location": "Dornbirn"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

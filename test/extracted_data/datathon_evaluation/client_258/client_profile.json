@@ -1,0 +1,91 @@
+{
+    "name": "Lisa Julia Bauer",
+    "address": {
+        "city": "Mödling",
+        "street name": "Schönlaterngasse",
+        "street number": 73,
+        "postal code": "2001"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1954-05-09",
+    "nationality": "Austrian",
+    "passport_number": "GU3175353",
+    "passport_issue_date": "2022-07-30",
+    "passport_expiry_date": "2032-07-29",
+    "gender": "F",
+    "phone_number": "111 130 7457",
+    "email_address": "lisa.bauer@vol.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Privatgymnasium der Dominikanerinnen",
+        "graduation_year": 1973
+    },
+    "higher_education": [
+        {
+            "university": "University of Klagenfurt",
+            "graduation_year": 1977
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1978,
+            "end_year": 1981,
+            "company": "B&C Private Equity GmbH",
+            "position": "Analyst",
+            "salary": 33000
+        },
+        {
+            "start_year": 1982,
+            "end_year": 1986,
+            "company": "Equity Partners Investment GmbH",
+            "position": "Associate",
+            "salary": 51000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 1990,
+            "company": "Equity Partners Investment GmbH",
+            "position": "Investment Director",
+            "salary": 70000
+        },
+        {
+            "start_year": 1992,
+            "end_year": 2015,
+            "company": "Equity Partners Investment GmbH",
+            "position": "Partner",
+            "salary": 686000
+        }
+    ],
+    "aum": {
+        "savings": 1220000,
+        "inheritance": 0,
+        "real_estate_value": 3371000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1000000,
+            "property location": "Mödling"
+        },
+        {
+            "property type": "house",
+            "property value": 1261000,
+            "property location": "Eisenstadt"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1110000,
+            "property location": "Eisenstadt"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

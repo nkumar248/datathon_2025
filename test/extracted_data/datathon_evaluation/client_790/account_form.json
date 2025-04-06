@@ -1,0 +1,17 @@
+{
+    "name": "Spaans Wagemakers Vogel",
+    "first_name": "Spaans",
+    "middle_name": "Wagemakers",
+    "last_name": "Vogel",
+    "passport_number": "KJ7363142",
+    "currency": "EUR",
+    "address": {
+        "city": "Zaandam",
+        "street name": "Raadhuisstraat",
+        "street number": 57,
+        "postal code": "4159 53"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 16766342",
+    "email_address": "spaans.vogel@hotmail.com"
+}

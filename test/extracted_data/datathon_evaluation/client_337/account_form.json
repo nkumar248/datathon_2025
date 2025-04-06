@@ -1,0 +1,17 @@
+{
+    "name": "Antonia Daniela Martínez",
+    "first_name": "Antonia",
+    "middle_name": "Daniela",
+    "last_name": "Martínez",
+    "passport_number": "XQ0442654",
+    "currency": "EUR",
+    "address": {
+        "city": "San Sebastián",
+        "street name": "Plaza de la Encarnación",
+        "street number": 80,
+        "postal code": "46070"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 676 168 609",
+    "email_address": "antonia.martinez@wanadoo.es"
+}

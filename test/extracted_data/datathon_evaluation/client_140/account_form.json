@@ -1,0 +1,17 @@
+{
+    "name": "Florence Louna Segers",
+    "first_name": "Florence",
+    "middle_name": "Louna",
+    "last_name": "Segers",
+    "passport_number": "IS5049303",
+    "currency": "EUR",
+    "address": {
+        "city": "Mol",
+        "street name": "Rue des Bouchers",
+        "street number": 19,
+        "postal code": "7122"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0475 605 428",
+    "email_address": "florence.segers@skynet.be"
+}

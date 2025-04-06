@@ -1,0 +1,17 @@
+{
+    "name": "Petersen Haugaard",
+    "first_name": "Petersen",
+    "middle_name": "",
+    "last_name": "Haugaard",
+    "passport_number": "RY3783934",
+    "currency": "DKK",
+    "address": {
+        "city": "Slagelse",
+        "street name": "Østerbrogade",
+        "street number": 2,
+        "postal code": "9335"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 27 80 94 88",
+    "email_address": "petersen.haugaard@hotmail.com"
+}

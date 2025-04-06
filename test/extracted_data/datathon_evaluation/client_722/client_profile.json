@@ -1,0 +1,78 @@
+{
+    "name": "Hortense Flore Lefebvre",
+    "address": {
+        "city": "Metz",
+        "street name": "Rue Soufflot",
+        "street number": 35,
+        "postal code": "25188"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1980-01-14",
+    "nationality": "French",
+    "passport_number": "HB3923059",
+    "passport_issue_date": "2021-09-07",
+    "passport_expiry_date": "2031-09-06",
+    "gender": "F",
+    "phone_number": "05 67 75 74 06",
+    "email_address": "hortense.lefebvre@numericable.fr",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée Frédéric Chopin",
+        "graduation_year": 1997
+    },
+    "higher_education": [
+        {
+            "university": "École nationale supérieure des arts décoratifs",
+            "graduation_year": 2003
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2004,
+            "end_year": 2007,
+            "company": "TF1 Group",
+            "position": "Journalist",
+            "salary": 30000
+        },
+        {
+            "start_year": 2009,
+            "end_year": 2012,
+            "company": "Canal+ Group",
+            "position": "Editor",
+            "salary": 43000
+        },
+        {
+            "start_year": 2012,
+            "end_year": null,
+            "company": "TF1 Group",
+            "position": "Publisher",
+            "salary": 241000
+        }
+    ],
+    "aum": {
+        "savings": 370000,
+        "inheritance": 260000,
+        "real_estate_value": 2140000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2009,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 2140000,
+            "property location": "Metz"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "France"
+    ],
+    "currency": "EUR"
+}

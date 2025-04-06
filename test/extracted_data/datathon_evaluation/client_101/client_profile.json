@@ -1,0 +1,57 @@
+{
+    "name": "Jensen Jespersen Laursen",
+    "address": {
+        "city": "Horsens",
+        "street name": "Linnemannsgade",
+        "street number": 90,
+        "postal code": "1366"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1997-09-26",
+    "nationality": "Danish",
+    "passport_number": "TI0008703",
+    "passport_issue_date": "2020-10-24",
+    "passport_expiry_date": "2030-10-23",
+    "gender": "M",
+    "phone_number": "+45 29 70 80 70",
+    "email_address": "jensen.laursen@telia.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Tønder Gymnasium",
+        "graduation_year": 2015
+    },
+    "higher_education": [
+        {
+            "university": "Aarhus University",
+            "graduation_year": 2022
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2021,
+            "end_year": null,
+            "company": "ALK-Abello A/S",
+            "position": "Research Scientist",
+            "salary": 294000
+        }
+    ],
+    "aum": {
+        "savings": 190000,
+        "inheritance": 12760000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

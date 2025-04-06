@@ -1,0 +1,76 @@
+{
+    "name": "Muñoz López Díaz",
+    "address": {
+        "city": "Murcia",
+        "street name": "Calle de San Juan Bautista",
+        "street number": 62,
+        "postal code": "92990"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1969-11-13",
+    "nationality": "Spanish",
+    "passport_number": "NT4484294",
+    "passport_issue_date": "2022-03-23",
+    "passport_expiry_date": "2032-03-22",
+    "gender": "M",
+    "phone_number": "603 484 347",
+    "email_address": "munoz.diaz@ono.es",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "IES José Manuel Blecua Pamplona",
+        "graduation_year": 1989
+    },
+    "higher_education": [
+        {
+            "university": "University of the Basque Country",
+            "graduation_year": 1993
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1994,
+            "end_year": 1995,
+            "company": "PharmaMar S.A.",
+            "position": "Research Scientist",
+            "salary": 24000
+        },
+        {
+            "start_year": 1996,
+            "end_year": 2024,
+            "company": "Zeltia S.A.",
+            "position": "Biotech Startup Founder",
+            "salary": 213000
+        }
+    ],
+    "aum": {
+        "savings": 420000,
+        "inheritance": 6530000,
+        "real_estate_value": 1980000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2014,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 870000,
+            "property location": "Murcia"
+        },
+        {
+            "property type": "condo",
+            "property value": 1110000,
+            "property location": "Barcelona"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

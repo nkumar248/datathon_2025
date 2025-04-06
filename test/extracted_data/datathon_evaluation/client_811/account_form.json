@@ -1,0 +1,17 @@
+{
+    "name": "Furrer Riedo Wyss",
+    "first_name": "Furrer",
+    "middle_name": "Riedo",
+    "last_name": "Wyss",
+    "passport_number": "XD8582018",
+    "currency": "CHF",
+    "address": {
+        "city": "Bellinzona",
+        "street name": "Spitalgasse",
+        "street number": 72,
+        "postal code": "6731"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 039 328 06 34",
+    "email_address": "furrer.wyss@bluewin.ch"
+}

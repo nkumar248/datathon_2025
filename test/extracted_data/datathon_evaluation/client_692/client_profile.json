@@ -1,0 +1,96 @@
+{
+    "name": "Maassen Voorn",
+    "address": {
+        "city": "Imatra",
+        "street name": "Neljäs linja",
+        "street number": 21,
+        "postal code": "14510"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1973-11-17",
+    "nationality": "Dutch",
+    "passport_number": "AR8772319",
+    "passport_issue_date": "2020-02-10",
+    "passport_expiry_date": "2030-02-09",
+    "gender": "M",
+    "phone_number": "047 105 34 42",
+    "email_address": "maassen.voorn@gmail.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Bonaventura College Leiden",
+        "graduation_year": 1991
+    },
+    "higher_education": [
+        {
+            "university": "University of Amsterdam",
+            "graduation_year": 1997
+        },
+        {
+            "university": "Tio University of Applied Sciences",
+            "graduation_year": 2002
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1998,
+            "end_year": 2002,
+            "company": "Castrén & Snellman",
+            "position": "Associate Attorney",
+            "salary": 47000
+        },
+        {
+            "start_year": 2002,
+            "end_year": 2006,
+            "company": "Hannes Snellman",
+            "position": "Senior Associate",
+            "salary": 61000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2007,
+            "company": "Roschier",
+            "position": "Partner",
+            "salary": 82000
+        },
+        {
+            "start_year": 2009,
+            "end_year": 2011,
+            "company": "Roschier",
+            "position": "Managing Partner",
+            "salary": 126000
+        },
+        {
+            "start_year": 2013,
+            "end_year": null,
+            "company": "Merilampi Attorneys Ltd",
+            "position": "Law Firm Chairman",
+            "salary": 752000
+        }
+    ],
+    "aum": {
+        "savings": 1120000,
+        "inheritance": 990000,
+        "real_estate_value": 770000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2009,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 770000,
+            "property location": "Imatra"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

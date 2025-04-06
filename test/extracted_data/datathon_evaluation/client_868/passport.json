@@ -1,0 +1,17 @@
+{
+    "first_name": "Schäfer",
+    "middle_name": "Schmidt",
+    "last_name": "Schmitz",
+    "gender": "M",
+    "country": "Germany",
+    "country_code": "DEU",
+    "nationality": "German",
+    "birth_date": "1978-04-12",
+    "passport_number": "AH8374888",
+    "passport_mrz": [
+        "P<DEUSCHMITZ<<SCHÄFER<SCHMIDT<<<<<<<<<<<<<<<<",
+        "AH8374888DEU780412<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2020-08-14",
+    "passport_expiry_date": "2030-08-13"
+}

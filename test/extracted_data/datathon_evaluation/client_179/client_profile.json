@@ -1,0 +1,80 @@
+{
+    "name": "Blanca Anaís Soto",
+    "address": {
+        "city": "Geel",
+        "street name": "Rue des Deux Portes",
+        "street number": 81,
+        "postal code": "3601"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1989-08-06",
+    "nationality": "Spanish",
+    "passport_number": "PS8702100",
+    "passport_issue_date": "2016-08-10",
+    "passport_expiry_date": "2026-08-09",
+    "gender": "F",
+    "phone_number": "+32 0461 397 233",
+    "email_address": "blanca.soto@edpnet.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "IES Juan Carlos I Burgos",
+        "graduation_year": 2009
+    },
+    "higher_education": [
+        {
+            "university": "Polytechnic University of Catalonia",
+            "graduation_year": 2014
+        },
+        {
+            "university": "University of Valencia",
+            "graduation_year": 2016
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2014,
+            "end_year": 2017,
+            "company": "Galapagos NV",
+            "position": "Research Scientist",
+            "salary": 23000
+        },
+        {
+            "start_year": 2018,
+            "end_year": null,
+            "company": "Ablynx NV",
+            "position": "Biotech Startup Founder",
+            "salary": 51000
+        }
+    ],
+    "aum": {
+        "savings": 60000,
+        "inheritance": 2690000,
+        "real_estate_value": 2330000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1100000,
+            "property location": "Geel"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1230000,
+            "property location": "Córdoba"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,63 @@
+{
+    "name": "Astrid Isabelle Brinkman",
+    "address": {
+        "city": "Almere",
+        "street name": "Willemsparkweg",
+        "street number": 19,
+        "postal code": "7329 01"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1990-06-16",
+    "nationality": "Dutch",
+    "passport_number": "ZQ0539076",
+    "passport_issue_date": "2018-02-03",
+    "passport_expiry_date": "2028-02-02",
+    "gender": "F",
+    "phone_number": "06 08818325",
+    "email_address": "astrid.brinkman@gmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Het Nieuwe Lyceum Breda",
+        "graduation_year": 2010
+    },
+    "higher_education": [
+        {
+            "university": "Vrije Universiteit Amsterdam - School of Business and Economics",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2015,
+            "end_year": null,
+            "company": "Gunvor Group Ltd.",
+            "position": "Junior Trader",
+            "salary": 55000
+        }
+    ],
+    "aum": {
+        "savings": 60000,
+        "inheritance": 530000,
+        "real_estate_value": 1480000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1480000,
+            "property location": "Almere"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

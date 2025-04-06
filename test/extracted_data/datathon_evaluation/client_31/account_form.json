@@ -1,0 +1,17 @@
+{
+    "name": "Carlotta Ginevra Fabbri",
+    "first_name": "Carlotta",
+    "middle_name": "Ginevra",
+    "last_name": "Fabbri",
+    "passport_number": "AD0109200",
+    "currency": "EUR",
+    "address": {
+        "city": "Trieste",
+        "street name": "Campo Santa Marina",
+        "street number": 22,
+        "postal code": "23504"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 365 9550996",
+    "email_address": "carlotta.fabbri@infinito.it"
+}

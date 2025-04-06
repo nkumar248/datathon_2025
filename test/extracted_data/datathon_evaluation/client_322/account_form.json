@@ -1,0 +1,17 @@
+{
+    "name": "Melanie Sabrina Schmid",
+    "first_name": "Melanie",
+    "middle_name": "Sabrina",
+    "last_name": "Schmid",
+    "passport_number": "EP1839038",
+    "currency": "EUR",
+    "address": {
+        "city": "Linz",
+        "street name": "Kärntner Straße",
+        "street number": 54,
+        "postal code": "9155"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 555 324 6966",
+    "email_address": "melanie.schmid@gmx.at"
+}

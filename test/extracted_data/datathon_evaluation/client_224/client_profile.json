@@ -1,0 +1,81 @@
+{
+    "name": "Franziska Hannah Krämer",
+    "address": {
+        "city": "Hallein",
+        "street name": "Naschmarkt",
+        "street number": 38,
+        "postal code": "5226"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1991-12-20",
+    "nationality": "Austrian",
+    "passport_number": "PT4336229",
+    "passport_issue_date": "2023-07-07",
+    "passport_expiry_date": "2033-07-06",
+    "gender": "F",
+    "phone_number": "217 603 5153",
+    "email_address": "franziska.kramer@kabsi.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Français de Vienne",
+        "graduation_year": 2011
+    },
+    "higher_education": [
+        {
+            "university": "Modul University Vienna",
+            "graduation_year": 2015
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2016,
+            "end_year": 2018,
+            "company": "Raiffeisen Private Banking",
+            "position": "Financial Advisor",
+            "salary": 29000
+        },
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "Erste Private Banking",
+            "position": "Portfolio Manager",
+            "salary": 65000
+        }
+    ],
+    "aum": {
+        "savings": 60000,
+        "inheritance": 4590000,
+        "real_estate_value": 4081000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1281000,
+            "property location": "Hallein"
+        },
+        {
+            "property type": "flat",
+            "property value": 950000,
+            "property location": "Amstetten"
+        },
+        {
+            "property type": "villa",
+            "property value": 1850000,
+            "property location": "Ried im Innkreis"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

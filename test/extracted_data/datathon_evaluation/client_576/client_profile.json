@@ -1,0 +1,102 @@
+{
+    "name": "Beatrice Ginevra Moretti",
+    "address": {
+        "city": "Perugia",
+        "street name": "Via Dante Alighieri",
+        "street number": 88,
+        "postal code": "25523"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1965-06-24",
+    "nationality": "Italian",
+    "passport_number": "TV0795474",
+    "passport_issue_date": "2016-05-15",
+    "passport_expiry_date": "2026-05-14",
+    "gender": "F",
+    "phone_number": "342 4809452",
+    "email_address": "beatrice.moretti@outlook.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Liceo Classico Dante Alighieri Roma",
+        "graduation_year": 1984
+    },
+    "higher_education": [
+        {
+            "university": "University of Bologna",
+            "graduation_year": 1989
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1989,
+            "end_year": 1991,
+            "company": "MSC Mediterranean Shipping Company S.A.",
+            "position": "Ship Broker",
+            "salary": 24000
+        },
+        {
+            "start_year": 1992,
+            "end_year": 1993,
+            "company": "MSC Mediterranean Shipping Company S.A.",
+            "position": "Shipping Company Owner",
+            "salary": 37000
+        },
+        {
+            "start_year": 1994,
+            "end_year": 1997,
+            "company": "MSC Mediterranean Shipping Company S.A.",
+            "position": "Fleet Manager",
+            "salary": 55000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 2000,
+            "company": "Grimaldi Group S.p.A.",
+            "position": "Maritime Industry Leader",
+            "salary": 137000
+        },
+        {
+            "start_year": 2000,
+            "end_year": null,
+            "company": "MSC Mediterranean Shipping Company S.A.",
+            "position": "Logistics Conglomerate Owner",
+            "salary": 914000
+        }
+    ],
+    "aum": {
+        "savings": 1800000,
+        "inheritance": 3040000,
+        "real_estate_value": 2958000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2008,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 898000,
+            "property location": "Perugia"
+        },
+        {
+            "property type": "condo",
+            "property value": 780000,
+            "property location": "Catania"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1280000,
+            "property location": "Pisa"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Italy"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,83 @@
+{
+    "name": "Lynn Déborah Kuhn",
+    "address": {
+        "city": "Geneva",
+        "street name": "Place des Halles",
+        "street number": 18,
+        "postal code": "1846"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1984-05-08",
+    "nationality": "Swiss",
+    "passport_number": "HD6831672",
+    "passport_issue_date": "2023-07-28",
+    "passport_expiry_date": "2033-07-27",
+    "gender": "F",
+    "phone_number": "034 390 61 48",
+    "email_address": "lynn.kuhn@icloud.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Kantonsschule Sursee Luzern",
+        "graduation_year": 2003
+    },
+    "higher_education": [
+        {
+            "university": "Lucerne University of Applied Sciences",
+            "graduation_year": 2008
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2008,
+            "end_year": 2010,
+            "company": "Johnson & Johnson Switzerland",
+            "position": "Research Scientist",
+            "salary": 63000
+        },
+        {
+            "start_year": 2011,
+            "end_year": 2016,
+            "company": "Roche Holding AG",
+            "position": "Clinical Trials Manager",
+            "salary": 136000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "Roche Holding AG",
+            "position": "Regulatory Affairs Director",
+            "salary": 202000
+        }
+    ],
+    "aum": {
+        "savings": 370000,
+        "inheritance": 380000,
+        "real_estate_value": 7790000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2019,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 2300000,
+            "property location": "Geneva"
+        },
+        {
+            "property type": "villa",
+            "property value": 5490000,
+            "property location": "Vevey"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Denmark"
+    ],
+    "currency": "CHF"
+}

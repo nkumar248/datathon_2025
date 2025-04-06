@@ -1,0 +1,57 @@
+{
+    "name": "Spaans Wagemakers Vogel",
+    "address": {
+        "city": "Zaandam",
+        "street name": "Raadhuisstraat",
+        "street number": 57,
+        "postal code": "4159 53"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "2000-02-28",
+    "nationality": "Dutch",
+    "passport_number": "KJ7363142",
+    "passport_issue_date": "2019-05-27",
+    "passport_expiry_date": "2029-05-26",
+    "gender": "M",
+    "phone_number": "+31 06 16766342",
+    "email_address": "spaans.vogel@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "RSG Magister Almelo",
+        "graduation_year": 2019
+    },
+    "higher_education": [
+        {
+            "university": "Han University of Applied Sciences",
+            "graduation_year": 2024
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2023,
+            "end_year": null,
+            "company": "Royal DSM N.V.",
+            "position": "Research Scientist",
+            "salary": 44000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 2870000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2019,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

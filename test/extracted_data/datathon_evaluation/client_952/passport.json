@@ -1,0 +1,17 @@
+{
+    "first_name": "Riedo",
+    "middle_name": "",
+    "last_name": "Bühler",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1977-03-12",
+    "passport_number": "HM4843763",
+    "passport_mrz": [
+        "P<CHEBÜHLER<<RIEDO<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+        "HM4843763CHE770312<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-05-02",
+    "passport_expiry_date": "2034-05-01"
+}

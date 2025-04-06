@@ -1,0 +1,49 @@
+{
+    "name": "Weber Koch Herrmann",
+    "address": {
+        "city": "Erlangen",
+        "street name": "Johannisstraße",
+        "street number": 59,
+        "postal code": "95099"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "2001-02-09",
+    "nationality": "German",
+    "passport_number": "BQ5269182",
+    "passport_issue_date": "2020-03-26",
+    "passport_expiry_date": "2030-03-25",
+    "gender": "M",
+    "phone_number": "+49 5320 987992",
+    "email_address": "weber.herrmann@t-online.de",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Pestalozzi-Gymnasium Nürnberg",
+        "graduation_year": 2019
+    },
+    "higher_education": [
+        {
+            "university": "RWTH Aachen University",
+            "graduation_year": 2025
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 2740000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Germany"
+    ],
+    "currency": "EUR"
+}

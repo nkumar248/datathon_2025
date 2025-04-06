@@ -1,0 +1,81 @@
+{
+    "name": "Louis Lefebvre Gauthier",
+    "address": {
+        "city": "Montpellier",
+        "street name": "Boulevard Auguste Blanqui",
+        "street number": 8,
+        "postal code": "25006"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1966-07-16",
+    "nationality": "French",
+    "passport_number": "NN3821400",
+    "passport_issue_date": "2023-12-21",
+    "passport_expiry_date": "2033-12-20",
+    "gender": "M",
+    "phone_number": "+33 01 13 08 57 25",
+    "email_address": "louis.gauthier@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Louis-le-Grand",
+        "graduation_year": 1986
+    },
+    "higher_education": [
+        {
+            "university": "University of Montpellier",
+            "graduation_year": 1989
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1990,
+            "end_year": 1994,
+            "company": "Canal+ Group",
+            "position": "Journalist",
+            "salary": 31000
+        },
+        {
+            "start_year": 1994,
+            "end_year": 1998,
+            "company": "TF1 Group",
+            "position": "Editor",
+            "salary": 48000
+        },
+        {
+            "start_year": 1998,
+            "end_year": 2003,
+            "company": "Canal+ Group",
+            "position": "Publisher",
+            "salary": 123000
+        },
+        {
+            "start_year": 2003,
+            "end_year": 2004,
+            "company": "Vivendi S.A.",
+            "position": "TV/Radio Host",
+            "salary": 97000
+        },
+        {
+            "start_year": 2004,
+            "end_year": null,
+            "company": "Canal+ Group",
+            "position": "Media Conglomerate Owner",
+            "salary": 726000
+        }
+    ],
+    "aum": {
+        "savings": 1400000,
+        "inheritance": 0,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {},
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,70 @@
+{
+    "name": "Järvinen Niemi Mustonen",
+    "address": {
+        "city": "Kerava",
+        "street name": "Telakkakatu",
+        "street number": 64,
+        "postal code": "62774"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1973-05-18",
+    "nationality": "Finnish",
+    "passport_number": "FQ4204739",
+    "passport_issue_date": "2017-07-15",
+    "passport_expiry_date": "2027-07-14",
+    "gender": "M",
+    "phone_number": "+358 048 881 40 40",
+    "email_address": "jarvinen.mustonen@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lappeenranta Lyceum",
+        "graduation_year": 1983
+    },
+    "higher_education": [
+        {
+            "university": "JAMK University of Applied Sciences",
+            "graduation_year": 1997
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1998,
+            "end_year": 2001,
+            "company": "Finnish Red Cross Blood Service",
+            "position": "Research Scientist",
+            "salary": 38000
+        },
+        {
+            "start_year": 2002,
+            "end_year": null,
+            "company": "Finnish Red Cross Blood Service",
+            "position": "Clinical Trials Manager",
+            "salary": 280000
+        }
+    ],
+    "aum": {
+        "savings": 430000,
+        "inheritance": 2230000,
+        "real_estate_value": 1460000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1460000,
+            "property location": "Kerava"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

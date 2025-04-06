@@ -1,0 +1,69 @@
+{
+    "name": "Heta Essi Järvinen",
+    "address": {
+        "city": "Rauma",
+        "street name": "Tehtaankatu",
+        "street number": 99,
+        "postal code": "21534"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1990-05-12",
+    "nationality": "Finnish",
+    "passport_number": "JG0652954",
+    "passport_issue_date": "2021-04-12",
+    "passport_expiry_date": "2031-04-11",
+    "gender": "F",
+    "phone_number": "+358 041 490 58 04",
+    "email_address": "heta.jarvinen@suomi24.fi",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Sysmän lukio",
+        "graduation_year": 2009
+    },
+    "higher_education": [
+        {
+            "university": "Åbo Akademi University School of Economics",
+            "graduation_year": 2013
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2015,
+            "end_year": null,
+            "company": "Metso Outotec Oyj",
+            "position": "Plant Manager",
+            "salary": 54000
+        }
+    ],
+    "aum": {
+        "savings": 60000,
+        "inheritance": 1420000,
+        "real_estate_value": 2860000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2090000,
+            "property location": "Rauma"
+        },
+        {
+            "property type": "flat",
+            "property value": 770000,
+            "property location": "Nurmijärvi"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Italy"
+    ],
+    "currency": "EUR"
+}

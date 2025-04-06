@@ -1,0 +1,93 @@
+{
+    "name": "Kuhn Furrer Ackermann",
+    "address": {
+        "city": "St. Gallen",
+        "street name": "Stadthausplatz",
+        "street number": 67,
+        "postal code": "6394"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1954-08-27",
+    "nationality": "Swiss",
+    "passport_number": "HX0Q931819",
+    "passport_issue_date": "2024-02-12",
+    "passport_expiry_date": "2034-02-11",
+    "gender": "M",
+    "phone_number": "039 418 54 57",
+    "email_address": "kuhn.ackermann@teli.ch",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Kantonsschule Sursee Luzern",
+        "graduation_year": 1974
+    },
+    "higher_education": [
+        {
+            "university": "Lausanne Hospitality School",
+            "graduation_year": 1979
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1979,
+            "end_year": 1982,
+            "company": "Swiss Prime Site AG",
+            "position": "Property Manager",
+            "salary": 60000
+        },
+        {
+            "start_year": 1984,
+            "end_year": 1987,
+            "company": "ALLREAL Group AG",
+            "position": "Developer",
+            "salary": 100000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 1994,
+            "company": "ALLREAL Group AG",
+            "position": "Construction Company Owner",
+            "salary": 217000
+        },
+        {
+            "start_year": 1996,
+            "end_year": 2000,
+            "company": "ALLREAL Group AG",
+            "position": "Real Estate Investment Trust (REIT) CEO",
+            "salary": 204000
+        },
+        {
+            "start_year": 2002,
+            "end_year": 2015,
+            "company": " Implenia AG",
+            "position": "Landlord",
+            "salary": 1172000
+        }
+    ],
+    "aum": {
+        "savings": 1780000,
+        "inheritance": 0,
+        "real_estate_value": 11330000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 5760000,
+            "property location": "St. Gallen"
+        },
+        {
+            "property type": "villa",
+            "property value": 5570000,
+            "property location": "Zurich"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Germany"
+    ],
+    "currency": "CHF"
+}

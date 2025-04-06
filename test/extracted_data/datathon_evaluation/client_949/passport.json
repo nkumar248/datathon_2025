@@ -1,0 +1,17 @@
+{
+    "first_name": "Garance",
+    "middle_name": "Laetitia",
+    "last_name": "Bernard",
+    "gender": "F",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1961-03-14",
+    "passport_number": "DX4559677",
+    "passport_mrz": [
+        "P<FRABERNARD<<GARANCE<LAETITIA<<<<<<<<<<<<<<<",
+        "DX4559677FRA610314<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-02-28",
+    "passport_expiry_date": "2033-02-27"
+}

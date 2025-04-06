@@ -1,0 +1,17 @@
+{
+    "name": "Muñoz Díaz López",
+    "first_name": "Muñoz",
+    "middle_name": "Díaz",
+    "last_name": "López",
+    "passport_number": "WQ8876500",
+    "currency": "EUR",
+    "address": {
+        "city": "Almería",
+        "street name": "Calle de la Victoria",
+        "street number": 60,
+        "postal code": "02197"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 691 614 558",
+    "email_address": "munoz.lopez@outlook.com"
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Katharina Lina Schmitz",
+    "address": {
+        "city": "Pisa",
+        "street name": "Via Dante",
+        "street number": 32,
+        "postal code": "35132"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1956-12-26",
+    "nationality": "German",
+    "passport_number": "KA7740165",
+    "passport_issue_date": "2017-12-03",
+    "passport_expiry_date": "2027-12-02",
+    "gender": "F",
+    "phone_number": "+39 332 9513539",
+    "email_address": "katharina.schmitz@gmail.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Erasmus-Grasser-Gymnasium München",
+        "graduation_year": 1975
+    },
+    "higher_education": [
+        {
+            "university": "University of Berlin",
+            "graduation_year": 1981
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1981,
+            "end_year": 1983,
+            "company": "Assicurazioni Generali S.p.A.",
+            "position": "Stockbroker",
+            "salary": 45000
+        },
+        {
+            "start_year": 1982,
+            "end_year": 2017,
+            "company": "Assicurazioni Generali S.p.A.",
+            "position": "Portfolio Manager",
+            "salary": 339000
+        }
+    ],
+    "aum": {
+        "savings": 640000,
+        "inheritance": 0,
+        "real_estate_value": 2680000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1240000,
+            "property location": "Pisa"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1440000,
+            "property location": "Düsseldorf"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

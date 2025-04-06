@@ -1,0 +1,17 @@
+{
+    "name": "Laura Gitte Haugaard",
+    "first_name": "Laura",
+    "middle_name": "Gitte",
+    "last_name": "Haugaard",
+    "passport_number": "BE0735312",
+    "currency": "CHF",
+    "address": {
+        "city": "Olten",
+        "street name": "Heimplatz",
+        "street number": 85,
+        "postal code": "7704"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "092 549 94 84",
+    "email_address": "laura.haugaard@swissinfo.ch"
+}

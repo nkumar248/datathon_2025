@@ -1,0 +1,17 @@
+{
+    "name": "Lambrechts Peters Goossens",
+    "first_name": "Lambrechts",
+    "middle_name": "Peters",
+    "last_name": "Goossens",
+    "passport_number": "KH2676949",
+    "currency": "EUR",
+    "address": {
+        "city": "Gelsenkirchen",
+        "street name": "Bahnhofstraße",
+        "street number": 88,
+        "postal code": "58478"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 3874 598210",
+    "email_address": "lambrechts.goossens@vodafone.de"
+}

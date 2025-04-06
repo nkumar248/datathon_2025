@@ -1,0 +1,72 @@
+{
+    "name": "Møller Jespersen Kristensen",
+    "address": {
+        "city": "",
+        "street name": "Linnemannsgade",
+        "street number": 60,
+        "postal code": "4178"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1983-12-19",
+    "nationality": "Danish",
+    "passport_number": "DE3817044",
+    "passport_issue_date": "2021-06-07",
+    "passport_expiry_date": "2031-06-06",
+    "gender": "M",
+    "phone_number": "+45 27 97 56 74",
+    "email_address": "mller.kristensen@yousee.dk",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Ålborg Katedralskole",
+        "graduation_year": 2002
+    },
+    "higher_education": [
+        {
+            "university": "Copenhagen Business School",
+            "graduation_year": 2007
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2007,
+            "end_year": 2011,
+            "company": "Novo Nordisk A/S",
+            "position": "Research Scientist",
+            "salary": 278000
+        },
+        {
+            "start_year": 2013,
+            "end_year": 2018,
+            "company": "Lundbeck A/S",
+            "position": "Clinical Trials Manager",
+            "salary": 370000
+        },
+        {
+            "start_year": 2020,
+            "end_year": null,
+            "company": "Leo Pharma A/S",
+            "position": "Regulatory Affairs Director",
+            "salary": 930000
+        }
+    ],
+    "aum": {
+        "savings": 1080000,
+        "inheritance": 39810000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2009,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Netherlands"
+    ],
+    "currency": "DKK"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Charlotte Julia Smeets",
+    "first_name": "Charlotte",
+    "middle_name": "Julia",
+    "last_name": "mmeets",
+    "passport_number": "OQ3847252",
+    "currency": "EUR",
+    "address": {
+        "city": "Hoofddorp",
+        "street name": " Stationsplein",
+        "street number": 63,
+        "postal code": "0231 48"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "++358 06 05503765",
+    "email_address": "charlotte.smeets@outlook.com"
+}

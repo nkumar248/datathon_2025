@@ -1,0 +1,17 @@
+{
+    "name": "Schmitz Schäfer Krüger",
+    "first_name": "Schmitz",
+    "middle_name": "Schäfer",
+    "last_name": "Krüger",
+    "passport_number": "EG9608469",
+    "currency": "EUR",
+    "address": {
+        "city": "Münster",
+        "street name": "Schlossplatz",
+        "street number": 86,
+        "postal code": "77382"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 6506 981772",
+    "email_address": "schmitz.kruger@icloud.com"
+}

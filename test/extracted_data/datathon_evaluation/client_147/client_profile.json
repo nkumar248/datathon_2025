@@ -1,0 +1,79 @@
+{
+    "name": "Alba Araceli Díaz",
+    "address": {
+        "city": "Bilbao",
+        "street name": "Diagonal",
+        "street number": 28,
+        "postal code": "85206"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1990-05-29",
+    "nationality": "Spanish",
+    "passport_number": "KZ1976111",
+    "passport_issue_date": "2017-08-29",
+    "passport_expiry_date": "2027-08-28",
+    "gender": "F",
+    "phone_number": "+34 654 706 057",
+    "email_address": "alba.diaz@wanadoo.es",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "IES Ginés Martínez de Aranda Albacete",
+        "graduation_year": 2008
+    },
+    "higher_education": [
+        {
+            "university": "University of Valencia",
+            "graduation_year": 2013
+        },
+        {
+            "university": "University of Granada",
+            "graduation_year": 2018
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2014,
+            "end_year": 2015,
+            "company": "Apax Partners España S.A.",
+            "position": "Analyst",
+            "salary": 26000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "Groupe Carlyle S.A.R.L.",
+            "position": "Associate",
+            "salary": 43000
+        }
+    ],
+    "aum": {
+        "savings": 50000,
+        "inheritance": 2420000,
+        "real_estate_value": 2094000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 834000,
+            "property location": "Bilbao"
+        },
+        {
+            "property type": "house",
+            "property value": 1260000,
+            "property location": "Salamanca"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

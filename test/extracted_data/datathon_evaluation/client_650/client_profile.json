@@ -1,0 +1,86 @@
+{
+    "name": "Hernández Suárez Martín",
+    "address": {
+        "city": "Castellón de la Plana",
+        "street name": "Calle de Serranos",
+        "street number": 98,
+        "postal code": "98962"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1916-04-20",
+    "nationality": "Spanish",
+    "passport_number": "PD0306735",
+    "passport_issue_date": "2024-12-03",
+    "passport_expiry_date": "2034-12-02",
+    "gender": "M",
+    "phone_number": "+34 604 310 302",
+    "email_address": "hernandez.martin@wanadoo.es",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "IES Luis Vives Zaragoza",
+        "graduation_year": 1980
+    },
+    "higher_education": [
+        {
+            "university": "University of Valencia",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1985,
+            "end_year": 1988,
+            "company": "Elcano Shipping Company S.A.",
+            "position": "Ship Broker",
+            "salary": 23000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 1994,
+            "company": "Transmediterránea S.A.",
+            "position": "Shipping Company Owner",
+            "salary": 43000
+        },
+        {
+            "start_year": 1996,
+            "end_year": 1999,
+            "company": "Transmediterránea S.A.",
+            "position": "Fleet Manager",
+            "salary": 65000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2022,
+            "company": "Peñarroya Shipping S.A.",
+            "position": "Maritime Industry Leader",
+            "salary": 518000
+        }
+    ],
+    "aum": {
+        "savings": 920000,
+        "inheritance": 0,
+        "real_estate_value": 4120000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2430000,
+            "property location": "Castellón de la Plana"
+        },
+        {
+            "property type": "house",
+            "property value": 1690000,
+            "property location": "Jerez de la Frontera"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Denmark"
+    ],
+    "currency": "EUR"
+}

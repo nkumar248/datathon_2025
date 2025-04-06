@@ -1,0 +1,17 @@
+{
+    "name": "Lena Corinne Wyss",
+    "first_name": "Lena",
+    "middle_name": "Corinne",
+    "last_name": "Wyss",
+    "passport_number": "OS0689069",
+    "currency": "CHF",
+    "address": {
+        "city": "Locarno",
+        "street name": "Gertrudstrasse",
+        "street number": 25,
+        "postal code": "2562"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 067 474 30 32",
+    "email_address": "lena.wyss@upc.ch"
+}

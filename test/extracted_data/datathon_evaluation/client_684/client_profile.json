@@ -1,0 +1,58 @@
+{
+    "name": "Gruber Hinterleitner Schnell",
+    "address": {
+        "city": "Rosenheim",
+        "street name": "Gasometerstraße",
+        "street number": 82,
+        "postal code": "2489"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1998-11-09",
+    "nationality": "Austrian",
+    "passport_number": "OE2665473",
+    "passport_issue_date": "2019-05-09",
+    "passport_expiry_date": "2092-05-08",
+    "gender": "M",
+    "phone_number": "027 046 9774",
+    "email_address": "gruber.schnell@vol.at",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "BRG/BORG Dornbirn",
+        "graduation_year": 2016
+    },
+    "higher_education": [
+        {
+            "university": "Academy of Fine Arts Vienna",
+            "graduation_year": 2007
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2022,
+            "end_year": 2025,
+            "company": "Petra Hartmann GmbH",
+            "position": "Assistant Designer",
+            "salary": 29000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 1770000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

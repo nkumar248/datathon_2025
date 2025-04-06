@@ -1,0 +1,65 @@
+{
+    "name": "Hermans Jacobs Peeters",
+    "address": {
+        "city": "Poperinge",
+        "street name": "Rue Wiertz",
+        "street number": 79,
+        "postal code": "5547"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1997-03-11",
+    "nationality": "Belgian",
+    "passport_number": "PF5401443",
+    "passport_issue_date": "2017-06-21",
+    "passport_expiry_date": "2024-06-20",
+    "gender": "M",
+    "phone_number": "+32 0427 380 259",
+    "email_address": "hermans.peeters@edpnet.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Onze-Lieve-Vrouwe-Wavercollege",
+        "graduation_year": 2016
+    },
+    "higher_education": [
+        {
+            "university": "PXL University of Applied Sciences and Arts",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2021,
+            "end_year": 2024,
+            "company": "Bekaert SA",
+            "position": "Plant Manager",
+            "salary": 36000
+        },
+        {
+            "start_year": 2025,
+            "end_year": null,
+            "company": "ArcelorMittal Belgium NV",
+            "position": "Operations Director",
+            "salary": 50000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 2690000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2016,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

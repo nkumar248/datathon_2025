@@ -1,0 +1,84 @@
+{
+    "name": "Nørregaard Jespersen",
+    "address": {
+        "city": "Holbæk",
+        "street name": "Vendersgade",
+        "street number": 25,
+        "postal code": "9572"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1988-11-01",
+    "nationality": "Danish",
+    "passport_number": "TV4814987",
+    "passport_issue_date": "2016-08-09",
+    "passport_expiry_date": "2026-08-08",
+    "gender": "M",
+    "phone_number": "59 13 76 62",
+    "email_address": "nrregaard.jespersen@telia.dk",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Aarhus Katedralskole",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "University of Southern Denmark - Faculty of Engineering",
+            "graduation_year": 2012
+        },
+        {
+            "university": "Aarhus University",
+            "graduation_year": 2016
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2013,
+            "end_year": 2018,
+            "company": "Novo Nordisk A/S",
+            "position": "Research Scientist",
+            "salary": 352000
+        },
+        {
+            "start_year": 2018,
+            "end_year": null,
+            "company": "Lundbeck A/S",
+            "position": "Clinical Trials Manager",
+            "salary": 461000
+        }
+    ],
+    "aum": {
+        "savings": 730000,
+        "inheritance": 7740000,
+        "real_estate_value": 6210000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1780000,
+            "property location": "Holbæk"
+        },
+        {
+            "property type": "villa",
+            "property value": 2130000,
+            "property location": "Aarhus"
+        },
+        {
+            "property type": "house",
+            "property value": 2300000,
+            "property location": "Gladsaxe"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

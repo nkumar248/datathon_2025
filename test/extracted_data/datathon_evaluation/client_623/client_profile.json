@@ -1,0 +1,71 @@
+{
+    "name": "Franziska Sabrina Hinterleitner",
+    "address": {
+        "city": "Hallein",
+        "street name": "Mariahilfer Straße",
+        "street number": 36,
+        "postal code": "5937"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1968-02-06",
+    "nationality": "Austrian",
+    "passport_number": "QD0969291",
+    "passport_issue_date": "2018-09-04",
+    "passport_expiry_date": "2028-09-03",
+    "gender": "F",
+    "phone_number": "246 709 7665",
+    "email_address": "franziska.hinterleitner@kabsi.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Gymnasium St. Gilgen",
+        "graduation_year": 1985
+    },
+    "higher_education": [
+        {
+            "university": "Salzburg University of Applied Sciences",
+            "graduation_year": 1980
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1991,
+            "end_year": 1995,
+            "company": "AT&S Austria Technologie & Systemtechnik AG",
+            "position": "Plant Manager",
+            "salary": 35000
+        },
+        {
+            "start_year": 1997,
+            "end_year": null,
+            "company": "Palfinger AG",
+            "position": "Operations Director",
+            "salary": 213000
+        }
+    ],
+    "aum": {
+        "savings": 430000,
+        "inheritance": 310000,
+        "real_estate_value": 870000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2011,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 870000,
+            "property location": "Hallein"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

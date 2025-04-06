@@ -1,0 +1,17 @@
+{
+    "name": "Alejandra Carmen Herrera",
+    "first_name": "Alejandra",
+    "middle_name": "Carmen",
+    "last_name": "Herrera",
+    "passport_number": "DJ0808656",
+    "currency": "EUR",
+    "address": {
+        "city": "Córdoba",
+        "street name": "Rambla",
+        "street number": 50,
+        "postal code": "15524"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "602 807 744",
+    "email_address": "alejandra.herrera@wanadoo.es"
+}

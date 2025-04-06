@@ -1,0 +1,17 @@
+{
+    "name": "Richard Robin Lambert",
+    "first_name": "Richard",
+    "middle_name": "Robin",
+    "last_name": "Lambert",
+    "passport_number": "WV3937107",
+    "currency": "EUR",
+    "address": {
+        "city": "Aix-en-Provence",
+        "street name": "Avenue Parmentier",
+        "street number": 42,
+        "postal code": "52602"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "++4500 95 31 93 23",
+    "email_address": "richard.lambert@wanadoo.fr"
+}

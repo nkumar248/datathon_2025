@@ -1,0 +1,97 @@
+{
+    "name": "Alexandra Justine Lecomte",
+    "address": {
+        "city": "La Louvière",
+        "street name": "Rue des Sœurs Noires",
+        "street number": 18,
+        "postal code": "2149"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1960-11-06",
+    "nationality": "Belgian",
+    "passport_number": "OM6507797",
+    "passport_issue_date": "2016-11-17",
+    "passport_expiry_date": "2023-11-16",
+    "gender": "F",
+    "phone_number": "+32 0465 767 625",
+    "email_address": "alexandra.lecomte@skype.be",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Institut Saint-Louis",
+        "graduation_year": 1979
+    },
+    "higher_education": [
+        {
+            "university": "Solvay Brussels School of Economics and Management",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1984,
+            "end_year": 1989,
+            "company": "Befimmo SA",
+            "position": "Property Manager",
+            "salary": 51000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 1993,
+            "company": "AG Real Estate SA",
+            "position": "Developer",
+            "salary": 54000
+        },
+        {
+            "start_year": 1994,
+            "end_year": 1996,
+            "company": "Cofinimmo SA",
+            "position": "Construction Company Owner",
+            "salary": 68000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 1998,
+            "company": "Befimmo SA",
+            "position": "Real Estate Investment Trust (REIT) CEO",
+            "salary": 117000
+        },
+        {
+            "start_year": 1998,
+            "end_year": 2021,
+            "company": "Befimmo SA",
+            "position": "Landlord",
+            "salary": 1263000
+        }
+    ],
+    "aum": {
+        "savings": 2110000,
+        "inheritance": 0,
+        "real_estate_value": 3661000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1111000,
+            "property location": "La Louvière"
+        },
+        {
+            "property type": "house",
+            "property value": 1330000,
+            "property location": "Aalst"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1220000,
+            "property location": "Lokeren"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

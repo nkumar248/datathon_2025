@@ -1,0 +1,17 @@
+{
+    "first_name": "Lehmann",
+    "middle_name": "Weber",
+    "last_name": "Zbinden",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1993-11-24",
+    "passport_number": "SI5626860",
+    "passport_mrz": [
+        "P<CHEZBINDEN<<LEHMANN<WEBER<<<<<<<<<<<<<<<<<<",
+        "SI5626860CHE931124<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-06-04",
+    "passport_expiry_date": "2033-06-03"
+}

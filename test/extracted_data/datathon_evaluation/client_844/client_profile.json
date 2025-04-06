@@ -1,0 +1,74 @@
+{
+    "name": "Élodie Charlotte Thiry",
+    "address": {
+        "city": "Kortrijk",
+        "street name": "Rue de la Madeleine",
+        "street number": 67,
+        "postal code": "5267"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1988-02-29",
+    "nationality": "Belgian",
+    "passport_number": "LP7049439",
+    "passport_issue_date": "2024-02-28",
+    "passport_expiry_date": "2031-02-27",
+    "gender": "F",
+    "phone_number": "0405 988 960",
+    "email_address": "elodie.thiry@proximus.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Institut des Ursulines",
+        "graduation_year": 2005
+    },
+    "higher_education": [
+        {
+            "university": "Vesalius College",
+            "graduation_year": 2010
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2012,
+            "end_year": 2015,
+            "company": "CMB NV",
+            "position": "Ship Broker",
+            "salary": 42000
+        },
+        {
+            "start_year": 2016,
+            "end_year": 2019,
+            "company": "CMB NV",
+            "position": "Shipping Company Owner",
+            "salary": 59000
+        },
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "NYK Line (Belgium) NV",
+            "position": "Fleet Manager",
+            "salary": 112000
+        }
+    ],
+    "aum": {
+        "savings": 140000,
+        "inheritance": 0,
+        "real_estate_value": 870000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 870000,
+            "property location": "Kortrijk"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Belgium",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

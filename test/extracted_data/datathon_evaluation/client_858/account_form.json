@@ -1,0 +1,17 @@
+{
+    "name": "Frederikke Anna Laursen",
+    "first_name": "Frederikke",
+    "middle_name": "Anna",
+    "last_name": "Laursen",
+    "passport_number": "ZY6114453",
+    "currency": "DKK",
+    "address": {
+        "city": "Roskilde",
+        "street name": "Vandkunsten",
+        "street number": 85,
+        "postal code": "1951"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 52 00 04 78",
+    "email_address": "frederikke.laursen@dk-hostmaster.dk"
+}

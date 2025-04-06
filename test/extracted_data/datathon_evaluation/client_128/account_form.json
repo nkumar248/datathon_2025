@@ -1,0 +1,17 @@
+{
+    "name": "Romane Chloé Mertens",
+    "first_name": "Romane",
+    "middle_name": "Chloé",
+    "last_name": "Mertens",
+    "passport_number": "BC0629320",
+    "currency": "EUR",
+    "address": {
+        "city": "Leuven",
+        "street name": "Rue de l'Église",
+        "street number": 12,
+        "postal code": "1926"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0483 583 341",
+    "email_address": "romane.mertens@belgacom.be"
+}

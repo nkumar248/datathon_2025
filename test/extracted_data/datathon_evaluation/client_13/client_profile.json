@@ -1,0 +1,76 @@
+{
+    "name": "Laura Olivia Olsen",
+    "address": {
+        "city": "Århus N",
+        "street name": "Nygårdsvej",
+        "street number": 38,
+        "postal code": "6366"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1987-03-03",
+    "nationality": "Danish",
+    "passport_number": "AL1004291",
+    "passport_issue_date": "2020-12-04",
+    "passport_expiry_date": "2030-12-03",
+    "gender": "F",
+    "phone_number": "+45 60 48 22 48",
+    "email_address": "laura.olsen@siminn.dk",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Viborg Katedralskole",
+        "graduation_year": 2004
+    },
+    "higher_education": [
+        {
+            "university": "Copenhagen Business School",
+            "graduation_year": 2011
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2011,
+            "end_year": 2012,
+            "company": "Microsoft Danmark A/S",
+            "position": "Software Developer",
+            "salary": 281000
+        },
+        {
+            "start_year": 2012,
+            "end_year": null,
+            "company": "Trifork A/S",
+            "position": "Startup Founder",
+            "salary": 873000
+        }
+    ],
+    "aum": {
+        "savings": 1180000,
+        "inheritance": 37040000,
+        "real_estate_value": 2344000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2019,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1104000,
+            "property location": "Århus N"
+        },
+        {
+            "property type": "condo",
+            "property value": 1240000,
+            "property location": "Århus N"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

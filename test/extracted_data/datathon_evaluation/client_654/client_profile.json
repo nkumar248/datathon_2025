@@ -1,0 +1,58 @@
+{
+    "name": "Laetitia Laurène Renault",
+    "address": {
+        "city": "Angers",
+        "street name": "Rue de la Paix",
+        "street number": 44,
+        "postal code": "47189"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1998-03-30",
+    "nationality": "French",
+    "passport_number": "TB6673253",
+    "passport_issue_date": "2022-01-14",
+    "passport_expiry_date": "2032-01-13",
+    "gender": "F",
+    "phone_number": "+33 01 67 69 05 25",
+    "email_address": "laetitia.renault@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée du Parc",
+        "graduation_year": 2015
+    },
+    "higher_education": [
+        {
+            "university": "University of Bordeaux",
+            "graduation_year": 2022
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2022,
+            "end_year": null,
+            "company": "Apax Partners SAS",
+            "position": "Analyst",
+            "salary": 31000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 2210000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands",
+        "France"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "first_name": "Durand",
+    "middle_name": "Robert",
+    "last_name": "Garcia",
+    "gender": "M",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1967-12-04",
+    "passport_number": "AJ7683655",
+    "passport_mrz": [
+        "P<FRAGARCIA<<DURAND<ROBERT<<<<<<<<<<<<<<<<<<<",
+        "AJ7683655FRA670426<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2018-05-15",
+    "passport_expiry_date": "2028-05-14"
+}

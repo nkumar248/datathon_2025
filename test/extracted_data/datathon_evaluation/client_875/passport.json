@@ -1,0 +1,17 @@
+{
+    "first_name": "Keller",
+    "middle_name": "Werner",
+    "last_name": "Zbinden",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1965-07-18",
+    "passport_number": "JN6285612",
+    "passport_mrz": [
+        "P<CHEZBINDEN<<KELLER<WERNER<<<<<<<<<<<<<<<<<<",
+        "JN6285612CHE650718<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-08-07",
+    "passport_expiry_date": "2032-08-06"
+}

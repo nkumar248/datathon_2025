@@ -1,0 +1,17 @@
+{
+    "name": "Riedo Bühler",
+    "first_name": "Riedo",
+    "middle_name": "",
+    "last_name": "Bühpler",
+    "passport_number": "HM4843763",
+    "currency": "CHF",
+    "address": {
+        "city": "Bienna",
+        "street name": "Waisenhausplatz",
+        "street number": 66,
+        "postal code": "7622"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 067 003 49 70",
+    "email_address": "riedo.buhler@swisscom.ch"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Imke Schneider",
+    "first_name": "Imke",
+    "middle_name": "",
+    "last_name": "Schneider",
+    "passport_number": "DO4107800",
+    "currency": "EUR",
+    "address": {
+        "city": "Essen",
+        "street name": "Schlachte",
+        "street number": 97,
+        "postal code": "82678"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 8077 102876",
+    "email_address": "imke.schneider@t-online.de"
+}

@@ -1,0 +1,92 @@
+{
+    "name": "Ophélie Ingrid Lefebvre",
+    "address": {
+        "city": "Copenhagen",
+        "street name": "Vesterbrogade",
+        "street number": 75,
+        "postal code": "4811"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1987-05-29",
+    "nationality": "French",
+    "passport_number": "GO4385349",
+    "passport_issue_date": "2020-09-22",
+    "passport_expiry_date": "2030-09-21",
+    "gender": "F",
+    "phone_number": "91 74 48 39",
+    "email_address": "ophelie.lefebvre@icloud.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée Henri IV",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "EMIC de Nice",
+            "graduation_year": 2010
+        },
+        {
+            "university": "EMIC de Paris",
+            "graduation_year": 2016
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2012,
+            "end_year": 2016,
+            "company": "EQT Partners A/S",
+            "position": "Analyst",
+            "salary": 33000
+        },
+        {
+            "start_year": 2017,
+            "end_year": 2021,
+            "company": "Advent International Danmark A/S",
+            "position": "Associate",
+            "salary": 48000
+        },
+        {
+            "start_year": 2021,
+            "end_year": null,
+            "company": "Axcel Management A/S",
+            "position": "Investment Director",
+            "salary": 69000
+        }
+    ],
+    "aum": {
+        "savings": 80000,
+        "inheritance": 6990000,
+        "real_estate_value": 4192000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1017000,
+            "property location": "Copenhagen"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1505000,
+            "property location": "Orléans"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1670000,
+            "property location": "Nice"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "France"
+    ],
+    "currency": "DKK"
+}

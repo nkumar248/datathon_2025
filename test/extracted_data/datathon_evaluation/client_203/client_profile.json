@@ -1,0 +1,90 @@
+{
+    "name": "Durand Robert Garcia",
+    "address": {
+        "city": "Limoges",
+        "street name": "Rue de Bretagne",
+        "street number": 85,
+        "postal code": "08876"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1967-04-26",
+    "nationality": "French",
+    "passport_number": "AJ7683655",
+    "passport_issue_date": "2018-05-15",
+    "passport_expiry_date": "2028-05-14",
+    "gender": "M",
+    "phone_number": "04 66 73 08 65",
+    "email_address": "durand.garcia@yahoo.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Lycée Polyvalent François Mauriac",
+        "graduation_year": 1977
+    },
+    "higher_education": [
+        {
+            "university": "EMIC de Paris",
+            "graduation_year": 1990
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1992,
+            "end_year": 1997,
+            "company": "La Banque Postale Private Banking",
+            "position": "Financial Advisor",
+            "salary": 34000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 2001,
+            "company": "Société Générale Private Banking",
+            "position": "Portfolio Manager",
+            "salary": 46000
+        },
+        {
+            "start_year": 2002,
+            "end_year": 2004,
+            "company": "Société Générale Private Banking",
+            "position": "Wealth Manager",
+            "salary": 69000
+        },
+        {
+            "start_year": 2002,
+            "end_year": 2023,
+            "company": "BNP Paribas Wealth Management",
+            "position": "Family Office Executive",
+            "salary": 675000
+        }
+    ],
+    "aum": {
+        "savings": 1160000,
+        "inheritance": 660000,
+        "real_estate_value": 5050000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2008,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1780000,
+            "property location": "Limoges"
+        },
+        {
+            "property type": "villa",
+            "property value": 3270000,
+            "property location": "Paris"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "France"
+    ],
+    "currency": "EUR"
+}

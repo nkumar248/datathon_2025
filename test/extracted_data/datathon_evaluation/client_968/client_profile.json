@@ -1,0 +1,83 @@
+{
+    "name": "Eleonora Ginevra Esposito",
+    "address": {
+        "city": "Modena",
+        "street name": "Via Dante Alighieri",
+        "street number": 28,
+        "postal code": "02283"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1975-04-14",
+    "nationality": "Italian",
+    "passport_number": "QF8128062",
+    "passport_issue_date": "2024-06-28",
+    "passport_expiry_date": "2034-06-27",
+    "gender": "F",
+    "phone_number": "+39 393 4599102",
+    "email_address": "eleonora.esposito@tiscali.it",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Istituto Tecnico Commerciale Statale Luigi Einaudi Torino",
+        "graduation_year": 1995
+    },
+    "higher_education": [
+        {
+            "university": "Ca' Foscari University of Venice",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2000,
+            "end_year": 2004,
+            "company": "Clessidra SGR S.p.A.",
+            "position": "Analyst",
+            "salary": 23000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2008,
+            "company": "Fondo Italiano d'Investimento SGR S.p.A.",
+            "position": "Associate",
+            "salary": 36000
+        },
+        {
+            "start_year": 2009,
+            "end_year": null,
+            "company": "Syntegra SGR S.p.A.",
+            "position": "Investment Director",
+            "salary": 241000
+        }
+    ],
+    "aum": {
+        "savings": 350000,
+        "inheritance": 6020000,
+        "real_estate_value": 2390000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2012,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1140000,
+            "property location": "Modena"
+        },
+        {
+            "property type": "house",
+            "property value": 1250000,
+            "property location": "Genoa"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

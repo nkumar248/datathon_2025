@@ -1,0 +1,17 @@
+{
+    "name": "Mertens Peeters",
+    "first_name": "Mertens",
+    "middle_name": "",
+    "last_name": "Peeters",
+    "passport_number": "ED4939276",
+    "currency": "EUR",
+    "address": {
+        "city": "Herstal",
+        "street name": "Rue de la Madeleine",
+        "street number": 37,
+        "postal code": "9124"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0488 033 450",
+    "email_address": "mertens.peeters@yahoo.com"
+}

@@ -1,0 +1,80 @@
+{
+    "name": "Muñoz Romero Díaz",
+    "address": {
+        "city": "Jerez de la Frontera",
+        "street name": "Calle de Serranos",
+        "street number": 77,
+        "postal code": "98054"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1966-04-14",
+    "nationality": "Spanish",
+    "passport_number": "EY1727583",
+    "passport_issue_date": "2023-07-04",
+    "passport_expiry_date": "2033-07-03",
+    "gender": "M",
+    "phone_number": "+34 690 620 963",
+    "email_address": "munoz.diaz@hotmail.es",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "IES Rafael Alberti Cádiz",
+        "graduation_year": 1984
+    },
+    "higher_education": [
+        {
+            "university": "Ramón Llull University",
+            "graduation_year": 1989
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1991,
+            "end_year": 1993,
+            "company": "Inmobiliaria Colonial S.A.",
+            "position": "Property Manager",
+            "salary": 25000
+        },
+        {
+            "start_year": 1994,
+            "end_year": 2023,
+            "company": "Inmobiliaria Colonial S.A.",
+            "position": "Developer",
+            "salary": 260000
+        }
+    ],
+    "aum": {
+        "savings": 510000,
+        "inheritance": 3640000,
+        "real_estate_value": 5240000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2008,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 771000,
+            "property location": "Jerez de la Frontera"
+        },
+        {
+            "property type": "villa",
+            "property value": 2630000,
+            "property location": "Seville"
+        },
+        {
+            "property type": "house",
+            "property value": 1839000,
+            "property location": "Jerez de la Frontera"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

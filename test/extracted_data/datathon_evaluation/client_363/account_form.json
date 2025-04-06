@@ -1,0 +1,17 @@
+{
+    "name": "Sabrina Victoria Fuchs",
+    "first_name": "Sabrina",
+    "middle_name": "Victoria",
+    "last_name": "Fuchs",
+    "passport_number": "PM5442285",
+    "currency": "EUR",
+    "address": {
+        "city": "Klagenfurt",
+        "street name": "Dominikanerbastei",
+        "street number": 67,
+        "postal code": "3442"
+    },
+    "country_of_domicile": "Austria,Switzerland",
+    "phone_number": "+43 445 036 7984",
+    "email_address": "sabrina.fuchs@vol.at"
+}

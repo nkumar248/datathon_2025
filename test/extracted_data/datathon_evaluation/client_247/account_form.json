@@ -1,0 +1,17 @@
+{
+    "name": "Fischer Rieder Reiter",
+    "first_name": "Fischer",
+    "middle_name": "Rieder",
+    "last_name": "Reiter",
+    "passport_number": "LZ4297812",
+    "currency": "EUR",
+    "address": {
+        "city": "Helmond",
+        "street name": "Willemsparkweg",
+        "street number": 99,
+        "postal code": "3289 53"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 07384178",
+    "email_address": "fischer.reiter@upcmail.nl"
+}

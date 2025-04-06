@@ -1,0 +1,69 @@
+{
+    "name": "Dekkers Brinkman Van der Meer",
+    "address": {
+        "city": "The Hague",
+        "street name": "Waldeck Pyrmontkade",
+        "street number": 10,
+        "postal code": "4424 85"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1992-09-19",
+    "nationality": "Dutch",
+    "passport_number": "NQ7280657",
+    "passport_issue_date": "2023-04-24",
+    "passport_expiry_date": "2033-04-23",
+    "gender": "M",
+    "phone_number": "+31 06 37533968",
+    "email_address": "dekkers.vandermeer@chello.nl",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Wesselink College Amersfoort",
+        "graduation_year": 2010
+    },
+    "higher_education": [
+        {
+            "university": "Webster University Leiden",
+            "graduation_year": 2016
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "PGGM Investments",
+            "position": "Stockbroker",
+            "salary": 50000
+        }
+    ],
+    "aum": {
+        "savings": 60000,
+        "inheritance": 860000,
+        "real_estate_value": 3050000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1590000,
+            "property location": "The Hague"
+        },
+        {
+            "property type": "house",
+            "property value": 1460000,
+            "property location": "Groningen"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

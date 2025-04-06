@@ -1,0 +1,82 @@
+{
+    "name": "Carolin Hanna Schneider",
+    "address": {
+        "city": "Braunschweig",
+        "street name": "Altonaer Straße",
+        "street number": 1,
+        "postal code": "84881"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1973-08-05",
+    "nationality": "German",
+    "passport_number": "BK3304839",
+    "passport_issue_date": "2019-05-30",
+    "passport_expiry_date": "2029-05-29",
+    "gender": "F",
+    "phone_number": "+49 7224 970812",
+    "email_address": "carolin.schneider@t-online.de",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Wilhelm-von-Humboldt-Gymnasium Berlin",
+        "graduation_year": 1992
+    },
+    "higher_education": [
+        {
+            "university": "Ludwig Maximilian University of Munich",
+            "graduation_year": 1998
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1998,
+            "end_year": 2001,
+            "company": "DWS Investments",
+            "position": "Stockbroker",
+            "salary": 39000
+        },
+        {
+            "start_year": 2003,
+            "end_year": 2005,
+            "company": "Deutsche Asset Management",
+            "position": "Portfolio Manager",
+            "salary": 61000
+        },
+        {
+            "start_year": 2007,
+            "end_year": null,
+            "company": "Deutsche Asset Management",
+            "position": "Hedge Fund Manager",
+            "salary": 379000
+        }
+    ],
+    "aum": {
+        "savings": 630000,
+        "inheritance": 2340000,
+        "real_estate_value": 2920000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2007,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1760000,
+            "property location": "Braunschweig"
+        },
+        {
+            "property type": "flat",
+            "property value": 1160000,
+            "property location": "Wuppertal"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Hybrid",
+    "preferred_markets": [
+        "Germany"
+    ],
+    "currency": "EUR"
+}

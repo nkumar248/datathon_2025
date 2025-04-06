@@ -1,0 +1,82 @@
+{
+    "name": "Müller Binder Mayr",
+    "address": {
+        "city": "Spittal an der Drau",
+        "street name": "Westbahnstraße",
+        "street number": 40,
+        "postal code": "0116"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1988-11-09",
+    "nationality": "Austrian",
+    "passport_number": "PY9975157",
+    "passport_issue_date": "2016-05-24",
+    "passport_expiry_date": "2026-05-23",
+    "gender": "M",
+    "phone_number": "948 597 1333",
+    "email_address": "muller.mayr@gmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "BRG/BORG Dornbirn",
+        "graduation_year": 2006
+    },
+    "higher_education": [
+        {
+            "university": "University of Vienna",
+            "graduation_year": 1997
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2013,
+            "end_year": 2018,
+            "company": "Schoenherr Rechtsanwaelte GmbH",
+            "position": "Associate Attorney",
+            "salary": 44000
+        },
+        {
+            "start_year": 2018,
+            "end_year": 2021,
+            "company": "CMS Reich-Rohrwig Hainz",
+            "position": "Senior Associate",
+            "salary": 51000
+        },
+        {
+            "start_year": 2022,
+            "end_year": null,
+            "company": "Freshfields Bruckhaus Deringer LLP",
+            "position": "Partner",
+            "salary": 64000
+        }
+    ],
+    "aum": {
+        "savings": 80000,
+        "inheritance": 2140000,
+        "real_estate_value": 1488000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2016,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 578000,
+            "property location": "Spittal an der Drau"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 910000,
+            "property location": "Vienna"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

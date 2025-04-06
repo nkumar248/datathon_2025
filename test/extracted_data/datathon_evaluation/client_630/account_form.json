@@ -1,0 +1,17 @@
+{
+    "name": "Christensen Østergaard Larsen",
+    "first_name": "Christensen",
+    "middle_name": "Østergaard",
+    "last_name": "Larsen",
+    "passport_number": "BD7872158",
+    "currency": "DKK",
+    "address": {
+        "city": "Esbjerg",
+        "street name": "Kattesundet",
+        "street number": 11,
+        "postal code": "9050"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 87 45 55 82",
+    "email_address": "christensen.larsen@dk-hostmaster.dk"
+}

@@ -1,0 +1,83 @@
+{
+    "name": " Jacobs Raes Moens",
+    "address": {
+        "city": "Tournai",
+        "street name": "Rue de la République",
+        "street number": 13,
+        "postal code": "7781"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1980-08-29",
+    "nationality": "Belgian",
+    "passport_number": "RD1086749",
+    "passport_issue_date": "2023-06-16",
+    "passport_expiry_date": "2030-06-15",
+    "gender": "M",
+    "phone_number": "+32 0420 974 354",
+    "email_address": "jacobs.moens@skynet.be",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Onze-Lieve-Vrouwe-Wavercollege",
+        "graduation_year": 1998
+    },
+    "higher_education": [
+        {
+            "university": "Thomas More University of Applied Sciences",
+            "graduation_year": 2005
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2005,
+            "end_year": 2010,
+            "company": "Pfizer Belgium SA",
+            "position": "Research Scientist",
+            "salary": 55000
+        },
+        {
+            "start_year": 2010,
+            "end_year": 2012,
+            "company": "UCB Pharma SA",
+            "position": "Clinical Trials Manager",
+            "salary": 60000
+        },
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "Pfizer Belgium SA",
+            "position": "Regulatory Affairs Director",
+            "salary": 253000
+        }
+    ],
+    "aum": {
+        "savings": 350000,
+        "inheritance": 3710000,
+        "real_estate_value": 3040000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2008,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 1810000,
+            "property location": "Tournai"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1230000,
+            "property location": "Ostend"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

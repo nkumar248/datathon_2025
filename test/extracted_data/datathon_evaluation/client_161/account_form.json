@@ -1,0 +1,17 @@
+{
+    "name": "Anna Giulia Bruno",
+    "first_name": "Anna",
+    "middle_name": "Giulia",
+    "last_name": "Bruno",
+    "passport_number": "UY8705652",
+    "currency": "EUR",
+    "address": {
+        "city": "Verona",
+        "street name": "Via Dante",
+        "street number": 14,
+        "postal code": "48911"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 307 2442441",
+    "email_address": "anna.bruno@gmail.com"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Bernard David Marchand",
+    "first_name": "Bernard",
+    "middle_name": "David",
+    "last_name": "Marchand",
+    "passport_number": "JD2756270",
+    "currency": "EUR",
+    "address": {
+        "city": "Angers",
+        "street name": "Pont des Arts",
+        "street number": 41,
+        "postal code": "49831"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 07 20 03 61 13",
+    "email_address": "bernard.marchand@neuf.fr"
+}

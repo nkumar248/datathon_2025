@@ -1,0 +1,17 @@
+{
+    "first_name": "Frey",
+    "middle_name": "Meier",
+    "last_name": "Werner",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1972-06-01",
+    "passport_number": "MI7948054",
+    "passport_mrz": [
+        "P<CHEWERNER<<FREY<MEIER<<<<<<<<<<<<<<<<<<<<<<",
+        "MI7948054CHE720601<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2020-02-21",
+    "passport_expiry_date": "2030-02-20"
+}

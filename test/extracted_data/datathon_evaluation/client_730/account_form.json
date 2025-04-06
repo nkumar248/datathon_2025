@@ -1,0 +1,17 @@
+{
+    "name": "Ophélie Ingrid Lefebvre",
+    "first_name": "Ophélie",
+    "middle_name": "Ingrid",
+    "last_name": "Lefebvre",
+    "passport_number": "GO4385349",
+    "currency": "DKK",
+    "address": {
+        "city": "Copenhagen",
+        "street name": "Vesterbrogade",
+        "street number": 75,
+        "postal code": "4811"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "91 74 48 39",
+    "email_address": "ophelie.lefebvre@icloud.com"
+}

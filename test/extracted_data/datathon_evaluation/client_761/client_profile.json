@@ -1,0 +1,106 @@
+{
+    "name": "Vázquez González Sánchez",
+    "address": {
+        "city": "Las Palmas de Gran Canaria",
+        "street name": "Calle de las Huertas",
+        "street number": 36,
+        "postal code": "53759"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1971-03-17",
+    "nationality": "Spanish",
+    "passport_number": "TB4785250",
+    "passport_issue_date": "2021-06-18",
+    "passport_expiry_date": "2031-06-17",
+    "gender": "M",
+    "phone_number": "+34 655 519 260",
+    "email_address": "vazquez.sanchez@hotmail.es",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Instituto de Educación Secundaria IES Pedro Salinas Jaén",
+        "graduation_year": 1990
+    },
+    "higher_education": [
+        {
+            "university": "Pompeu Fabra University",
+            "graduation_year": 1995
+        },
+        {
+            "university": "ESADE Business & Law School",
+            "graduation_year": 1998
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1994,
+            "end_year": 1996,
+            "company": "Iberostar Hotels & Resorts S.A.",
+            "position": "Hotel Manager",
+            "salary": 26000
+        },
+        {
+            "start_year": 1998,
+            "end_year": 2000,
+            "company": "NH Hotel Group S.A.",
+            "position": "General Manager",
+            "salary": 37000
+        },
+        {
+            "start_year": 2002,
+            "end_year": 2003,
+            "company": "NH Hotel Group S.A.",
+            "position": "Regional Vice President",
+            "salary": 53000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2005,
+            "company": "Meliá Hotels International S.A.",
+            "position": "CEO",
+            "salary": 100000
+        },
+        {
+            "start_year": 2006,
+            "end_year": null,
+            "company": "Meliá Hotels International S.A.",
+            "position": "Hospitality Industry Leader",
+            "salary": 681000
+        }
+    ],
+    "aum": {
+        "savings": 970000,
+        "inheritance": 2720000,
+        "real_estate_value": 3445000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2011,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 905000,
+            "property location": "Las Palmas de Gran Canaria"
+        },
+        {
+            "property type": "house",
+            "property value": 1390000,
+            "property location": "Bilbao"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1150000,
+            "property location": "Palma de Mallorca"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Switzerland"
+    ],
+    "currency": "EUR"
+}

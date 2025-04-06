@@ -1,0 +1,17 @@
+{
+    "name": "Simon Renault Lemaître",
+    "first_name": "Simon",
+    "middle_name": "Renault",
+    "last_name": "Lemaître",
+    "passport_number": "FB9550756",
+    "currency": "EUR",
+    "address": {
+        "city": "Metz",
+        "street name": "Boulevard Richard Lenoir",
+        "street number": 67,
+        "postal code": "19946"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 04 84 44 95 30",
+    "email_address": "simon.lemaitre@laposte.net"
+}

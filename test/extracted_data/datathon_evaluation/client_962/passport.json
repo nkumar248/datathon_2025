@@ -1,0 +1,17 @@
+{
+    "first_name": "Marini",
+    "middle_name": "",
+    "last_name": "Giordano",
+    "gender": "M",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1993-09-08",
+    "passport_number": "SC5437038",
+    "passport_mrz": [
+        "P<ITAGIORDANO<<MARINI<<<<<<<<<<<<<<<<<<<<<<<<",
+        "SC5437038ITA930908<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2019-03-17",
+    "passport_expiry_date": "2029-03-16"
+}

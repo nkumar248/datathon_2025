@@ -1,0 +1,17 @@
+{
+    "first_name": "Petersen",
+    "middle_name": "",
+    "last_name": "Haugaard",
+    "gender": "M",
+    "country": "Denmark",
+    "country_code": "DNK",
+    "nationality": "Danish",
+    "birth_date": "1984-01-29",
+    "passport_number": "RY3783934",
+    "passport_mrz": [
+        "P<DNKHAUGAARD<<PETERSEN<<<<<<<<<<<<<<<<<<<<<<",
+        "RY3783934DNK840129<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-11-24",
+    "passport_expiry_date": "2034-11-23"
+}

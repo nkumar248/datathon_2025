@@ -1,0 +1,17 @@
+{
+    "name": "Françoise Aline Schneider",
+    "first_name": "Françoise",
+    "middle_name": "Aline",
+    "last_name": "Schneider",
+    "passport_number": "SW1438436",
+    "currency": "CHF",
+    "address": {
+        "city": "Neuchatel",
+        "street name": "Marktgasse",
+        "street number": 32,
+        "postal code": "0639"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 053 780 57 50",
+    "email_address": "francoise.schneider@swisscom.ch"
+}

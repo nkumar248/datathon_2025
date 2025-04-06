@@ -1,0 +1,17 @@
+{
+    "name": "Chloé Emma Wouters",
+    "first_name": "Chloé",
+    "middle_name": "Emma",
+    "last_name": "Wouters",
+    "passport_number": "KL3990304",
+    "currency": "DKK",
+    "address": {
+        "city": "Vejle",
+        "street name": "Nygårdsvej",
+        "street number": 54,
+        "postal code": "8295"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "81 10 94 64",
+    "email_address": "chloe.wouters@yahoo.com"
+}

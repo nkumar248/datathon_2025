@@ -1,0 +1,17 @@
+{
+    "name": "Pedersen Gundersen Larsen",
+    "first_name": "Pedersen",
+    "middle_name": "Gundersen",
+    "last_name": "Larsen",
+    "passport_number": "TJ0064767",
+    "currency": "EUR",
+    "address": {
+        "city": "Stuttgart",
+        "street name": "Schlossplatz",
+        "street number": 6,
+        "postal code": "93723"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 6881 874682",
+    "email_address": "pedersen.larsen@vodafone.de"
+}

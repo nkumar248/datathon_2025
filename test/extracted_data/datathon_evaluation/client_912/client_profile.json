@@ -1,0 +1,49 @@
+{
+    "name": "Dominique Julia Suter",
+    "address": {
+        "city": "Geneva",
+        "street name": "Untere Hauptgasse",
+        "street number": 83,
+        "postal code": "3864"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "2001-01-02",
+    "nationality": "Swiss",
+    "passport_number": "OP3780905",
+    "passport_issue_date": "2017-05-11",
+    "passport_expiry_date": "2027-05-10",
+    "gender": "F",
+    "phone_number": "+41 075 755 20 99",
+    "email_address": "dominique.suter@yahoo.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Gymnasium am See Kreuzlingen",
+        "graduation_year": 2019
+    },
+    "higher_education": [
+        {
+            "university": "Suffolk University in Geneva",
+            "graduation_year": 2025
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1950000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

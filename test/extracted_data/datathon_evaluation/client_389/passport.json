@@ -1,0 +1,17 @@
+{
+    "first_name": "África",
+    "middle_name": "Angela",
+    "last_name": "Suárez",
+    "gender": "F",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "2002-10-13",
+    "passport_number": "AD1401491",
+    "passport_mrz": [
+        "P<ESPSUÁREZ<<ÁFRICA<ANGELA<<<<<<<<<<<<<<<<<<<",
+        "AD1401491ESP021013<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-12-02",
+    "passport_expiry_date": "2027-12-01"
+}

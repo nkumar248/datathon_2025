@@ -1,0 +1,71 @@
+{
+    "name": "Roelandts Peiren Thiry",
+    "address": {
+        "city": "Ghent",
+        "street name": "Chaussée de Waterloo",
+        "street number": 66,
+        "postal code": "8370"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1984-09-06",
+    "nationality": "Belgian",
+    "passport_number": "YR2402830",
+    "passport_issue_date": "2018-07-24",
+    "passport_expiry_date": "2025-07-23",
+    "gender": "M",
+    "phone_number": "+32 0416 740 378",
+    "email_address": "roelandts.thiry@telenet.be",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Institut Saint-Stanislas",
+        "graduation_year": 2002
+    },
+    "higher_education": [
+        {
+            "university": "KU Leuven",
+            "graduation_year": 2009
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2009,
+            "end_year": 2010,
+            "company": "Marriott International Belgium",
+            "position": "Hotel Manager",
+            "salary": 41000
+        },
+        {
+            "start_year": 2011,
+            "end_year": null,
+            "company": "The Hotel Brussels",
+            "position": "General Manager",
+            "salary": 150000
+        }
+    ],
+    "aum": {
+        "savings": 180000,
+        "inheritance": 1870000,
+        "real_estate_value": 920000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 920000,
+            "property location": "Ghent"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

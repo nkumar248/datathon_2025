@@ -1,0 +1,17 @@
+{
+    "name": "Salo Laaksonen Peltola",
+    "first_name": "Salo",
+    "middle_name": "Laaksonen",
+    "last_name": "Peltola",
+    "passport_number": "DK7814004",
+    "currency": "EUR",
+    "address": {
+        "city": "Porvoo",
+        "street name": "Fredrikinkatu",
+        "street number": 69,
+        "postal code": "41356"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "049 960 54 24",
+    "email_address": "salo.peltola@outlook.com"
+}

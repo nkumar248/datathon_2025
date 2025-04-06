@@ -1,0 +1,17 @@
+{
+    "name": "Sanders Lemaire Smets",
+    "first_name": "Sanders",
+    "middle_name": "Lemaire",
+    "last_name": "Smets",
+    "passport_number": "QB3035995",
+    "currency": "EUR",
+    "address": {
+        "city": "Ghent",
+        "street name": "Rue de l'Église",
+        "street number": 23,
+        "postal code": "9779"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0436 102 557",
+    "email_address": "sanders.smets@yahoo.com"
+}

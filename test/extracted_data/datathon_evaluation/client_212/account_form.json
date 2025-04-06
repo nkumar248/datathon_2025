@@ -1,0 +1,17 @@
+{
+    "name": "Lang Fuchs Müller",
+    "first_name": "Lang",
+    "middle_name": "Fuchs",
+    "last_name": "Müller",
+    "passport_number": "FU5766923",
+    "currency": "EUR",
+    "address": {
+        "city": "Wels",
+        "street name": "Reichsbrücke",
+        "street number": 1,
+        "postal code": "9905"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 347 753 4528",
+    "email_address": "lang.muller@aon.at"
+}

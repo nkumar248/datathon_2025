@@ -1,0 +1,49 @@
+{
+    "name": "Josefiina Emilia Hiltunen",
+    "address": {
+        "city": "Vaasa",
+        "street name": "Aleksanterinkatu",
+        "street number": 88,
+        "postal code": "35364"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "2000-08-18",
+    "nationality": "Finnish",
+    "passport_number": "JF8162700",
+    "passport_issue_date": "2019-07-04",
+    "passport_expiry_date": "2029-07-03",
+    "gender": "F",
+    "phone_number": "+358 041 017 23 61",
+    "email_address": "josefiina.hiltunen@outlook.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Kirkkonummen lukio",
+        "graduation_year": 2010
+    },
+    "higher_education": [
+        {
+            "university": "University of Helsinki",
+            "graduation_year": 2010
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1200000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

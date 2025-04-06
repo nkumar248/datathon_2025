@@ -1,0 +1,17 @@
+{
+    "name": "Inès Émilie Lemaître",
+    "first_name": "Inès",
+    "middle_name": "Émilie",
+    "last_name": "Lemaître",
+    "passport_number": "HX7459884",
+    "currency": "EUR",
+    "address": {
+        "city": "Toulouse",
+        "street name": "Rue de la Santé",
+        "street number": 96,
+        "postal code": "41532"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "03 97 02 21 17",
+    "email_address": "ines.lemaitre@wanadoo.fr"
+}

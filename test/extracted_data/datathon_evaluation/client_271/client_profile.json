@@ -1,0 +1,81 @@
+{
+    "name": "Isabella Idun Jørgensen",
+    "address": {
+        "city": "Århus N",
+        "street name": "Kongens Nytorv",
+        "street number": 50,
+        "postal code": "8901"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1985-05-04",
+    "nationality": "Danish",
+    "passport_number": "WY2940777",
+    "passport_issue_date": "2023-11-17",
+    "passport_expiry_date": "2033-11-16",
+    "gender": "F",
+    "phone_number": "",
+    "email_address": "isabella.jrgensen@gmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Randers Statsskole",
+        "graduation_year": 1993
+    },
+    "higher_education": [
+        {
+            "university": "The National Film School of Denmark",
+            "graduation_year": 2008
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2011,
+            "company": "Vestas Wind Systems A/S",
+            "position": "Plant Manager",
+            "salary": 243000
+        },
+        {
+            "start_year": 2013,
+            "end_year": null,
+            "company": "Velux A/S",
+            "position": "Operations Director",
+            "salary": 927000
+        }
+    ],
+    "aum": {
+        "savings": 1080000,
+        "inheritance": 37830000,
+        "real_estate_value": 5513000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 1883000,
+            "property location": "Århus N"
+        },
+        {
+            "property type": "house",
+            "property value": 1600000,
+            "property location": "Horsens"
+        },
+        {
+            "property type": "house",
+            "property value": 2030000,
+            "property location": "Køge"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

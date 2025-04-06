@@ -1,0 +1,17 @@
+{
+    "name": "Heidi Sophia Maier",
+    "first_name": "Heidi",
+    "middle_name": "Sophia",
+    "last_name": "Maier",
+    "passport_number": "GI5883763",
+    "currency": "EUR",
+    "address": {
+        "city": "Innsbruck",
+        "street name": "Rotenturmstraße",
+        "street number": 47,
+        "postal code": "0910"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 940 428 0922",
+    "email_address": "heidi.maier@icloud.com"
+}

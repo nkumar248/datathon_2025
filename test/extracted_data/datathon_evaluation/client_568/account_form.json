@@ -1,0 +1,17 @@
+{
+    "name": "Costanza Sofia Belli",
+    "first_name": "Costanza",
+    "middle_name": "Sofia",
+    "last_name": "Belli",
+    "passport_number": "FE3915767",
+    "currency": "EUR",
+    "address": {
+        "city": "Brescia",
+        "street name": "Piazza Farnese",
+        "street number": 75,
+        "postal code": "24624"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "390 7144017",
+    "email_address": "costanza.belli@tiscali.it"
+}

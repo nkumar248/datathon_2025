@@ -1,0 +1,17 @@
+{
+    "name": "Saar Daantje Terpstra",
+    "first_name": "Saar",
+    "middle_name": "Daantje",
+    "last_name": "Terpstra",
+    "passport_number": "HP4745899",
+    "currency": "EUR",
+    "address": {
+        "city": "Haarlem",
+        "street name": "Moreelsepark",
+        "street number": 69,
+        "postal code": "2158 10"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "06 75610901",
+    "email_address": "saar.terpstra@kpnmail.nl"
+}

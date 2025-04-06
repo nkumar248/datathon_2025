@@ -1,0 +1,81 @@
+{
+    "name": "Floriane Margaux Legrand",
+    "address": {
+        "city": "Ikast",
+        "street name": "Gyldenløvesgade",
+        "street number": 61,
+        "postal code": "7990"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1984-02-11",
+    "nationality": "French",
+    "passport_number": "TU8631814",
+    "passport_issue_date": "2017-02-01",
+    "passport_expiry_date": "2027-01-31",
+    "gender": "F",
+    "phone_number": "44 51 68 06",
+    "email_address": "floriane.legrand@wanadoo.dk",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée Montaigne",
+        "graduation_year": 2002
+    },
+    "higher_education": [
+        {
+            "university": "IUT de Grenoble",
+            "graduation_year": 2008
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2007,
+            "end_year": 2008,
+            "company": "Rovsing A/S",
+            "position": "Aerospace Engineer",
+            "salary": 34000
+        },
+        {
+            "start_year": 2010,
+            "end_year": null,
+            "company": "Terma A/S",
+            "position": "Program Manager",
+            "salary": 100000
+        }
+    ],
+    "aum": {
+        "savings": 140000,
+        "inheritance": 19090000,
+        "real_estate_value": 4988000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2012,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1868000,
+            "property location": "Ikast"
+        },
+        {
+            "property type": "condo",
+            "property value": 1190000,
+            "property location": "Caen"
+        },
+        {
+            "property type": "house",
+            "property value": 1930000,
+            "property location": "Paris"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "France"
+    ],
+    "currency": "DKK"
+}

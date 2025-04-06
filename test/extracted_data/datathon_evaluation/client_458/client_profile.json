@@ -1,0 +1,84 @@
+{
+    "name": "Adèle Hermans",
+    "address": {
+        "city": "Antwerp",
+        "street name": "Rue Royale",
+        "street number": 23,
+        "postal code": "4971"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1958-04-02",
+    "nationality": "Belgian",
+    "passport_number": "DT5411044",
+    "passport_issue_date": "2021-03-07",
+    "passport_expiry_date": "2028-03-06",
+    "gender": "F",
+    "phone_number": "+32 0483 893 008",
+    "email_address": "adele.hermans@belgacom.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Onze-Lieve-Vrouwecollege",
+        "graduation_year": 1976
+    },
+    "higher_education": [
+        {
+            "university": "KaHo Sint-Lieven – Catholic University College Ghent",
+            "graduation_year": 1983
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1982,
+            "end_year": 1985,
+            "company": "Eni Belgium NV",
+            "position": "Drilling Engineer",
+            "salary": 38000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 1991,
+            "company": "ExxonMobil Belgium NV",
+            "position": "Reservoir Engineer",
+            "salary": 67000
+        },
+        {
+            "start_year": 1992,
+            "end_year": 2019,
+            "company": "ExxonMobil Belgium NV",
+            "position": "Operations Manager",
+            "salary": 562000
+        }
+    ],
+    "aum": {
+        "savings": 1050000,
+        "inheritance": 0,
+        "real_estate_value": 4174000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 984000,
+            "property location": "Antwerp"
+        },
+        {
+            "property type": "villa",
+            "property value": 1950000,
+            "property location": "Ghent"
+        },
+        {
+            "property type": "house",
+            "property value": 1240000,
+            "property location": "Roeselare"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Margot Gabriella Peeters",
+    "first_name": "Margot",
+    "middle_name": "Gabriella",
+    "last_name": "Peeters",
+    "passport_number": "CG8528890",
+    "currency": "EUR",
+    "address": {
+        "city": "Antwerp",
+        "street name": "Place de la Liberté",
+        "street number": 16,
+        "postal code": "8607"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "040 409 451",
+    "email_address": "margot.peeters@proximus.be"
+}

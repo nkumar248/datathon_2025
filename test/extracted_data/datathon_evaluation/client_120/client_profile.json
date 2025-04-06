@@ -1,0 +1,64 @@
+{
+    "name": "Chloé Segers",
+    "address": {
+        "city": "Leuven",
+        "street name": "Rue de la Révolution Belge",
+        "street number": 91,
+        "postal code": "1344"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1995-05-10",
+    "nationality": "Belgian",
+    "passport_number": "ZV7790419",
+    "passport_issue_date": "2016-04-12",
+    "passport_expiry_date": "2023-04-11",
+    "gender": "F",
+    "phone_number": "+32 0489 762 922",
+    "email_address": "chloe.segers@gmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Institut Saint-Louis",
+        "graduation_year": 2013
+    },
+    "higher_education": [
+        {
+            "university": "Université libre de Bruxelles",
+            "graduation_year": 2020
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2020,
+            "end_year": 2022,
+            "company": "GSK Vaccines SA",
+            "position": "Research Scientist",
+            "salary": 37000
+        },
+        {
+            "start_year": 2024,
+            "end_year": null,
+            "company": "Pfizer Belgium SA",
+            "position": "Clinical Trials Manager",
+            "salary": 51000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 2200000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2016,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

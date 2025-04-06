@@ -1,0 +1,77 @@
+{
+    "name": "Schmitz Schmitt Scholz",
+    "address": {
+        "city": "Dresden",
+        "street name": "Marienplatz",
+        "street number": 81,
+        "postal code": "24468"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1957-11-26",
+    "nationality": "German",
+    "passport_number": "XB7972243",
+    "passport_issue_date": "2021-04-04",
+    "passport_expiry_date": "2031-04-03",
+    "gender": "M",
+    "phone_number": "+49 0606 632543",
+    "email_address": "schmitz.scholz@yahoo.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Gymnasium am Stadtgarten Köln",
+        "graduation_year": 1976
+    },
+    "higher_education": [
+        {
+            "university": "University of Hamburg",
+            "graduation_year": 1982
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1982,
+            "end_year": 1985,
+            "company": "Otto Group",
+            "position": "Assistant Designer",
+            "salary": 44000
+        },
+        {
+            "start_year": 1987,
+            "end_year": 2018,
+            "company": "Hugo Boss AG",
+            "position": "Senior Designer",
+            "salary": 414000
+        }
+    ],
+    "aum": {
+        "savings": 870000,
+        "inheritance": 0,
+        "real_estate_value": 4170000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1297000,
+            "property location": "Dresden"
+        },
+        {
+            "property type": "condo",
+            "property value": 1369000,
+            "property location": "Cologne"
+        },
+        {
+            "property type": "condo",
+            "property value": 1504000,
+            "property location": "Wuppertal"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "",
+    "preferred_markets": [
+        "France",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

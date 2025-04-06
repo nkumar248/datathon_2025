@@ -1,0 +1,58 @@
+{
+    "name": "Daniela Consuelo Ramos",
+    "address": {
+        "city": "Barcelona",
+        "street name": "Plaza de España",
+        "street number": 2,
+        "postal code": "62358"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1999-02-23",
+    "nationality": "Spanish",
+    "passport_number": "WJ1888361",
+    "passport_issue_date": "2016-06-02",
+    "passport_expiry_date": "2021-06-01",
+    "gender": "F",
+    "phone_number": "697 749 493",
+    "email_address": "daniela.ramos@gmail.es",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "IES Salvador Espriu Barcelona",
+        "graduation_year": 2018
+    },
+    "higher_education": [
+        {
+            "university": "Universidad Pontificia Comillas",
+            "graduation_year": 2022
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2023,
+            "end_year": 2025,
+            "company": "CaixaBank S.A.",
+            "position": "Investment Banker",
+            "salary": 26000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 2440000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "France"
+    ],
+    "currency": "EUR"
+}

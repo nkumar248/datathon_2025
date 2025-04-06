@@ -1,0 +1,86 @@
+{
+    "name": "Mäkinen Koskinen Lehtinen",
+    "address": {
+        "city": "Chur",
+        "street name": "Obere Hauptgasse",
+        "street number": 80,
+        "postal code": "8323"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1964-10-06",
+    "nationality": "Finnish",
+    "passport_number": "AH8698031",
+    "passport_issue_date": "2019-08-05",
+    "passport_expiry_date": "2029-08-04",
+    "gender": "M",
+    "phone_number": "094 656 21 56",
+    "email_address": "makinen.lehtinen@gmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lahti Christian Institute",
+        "graduation_year": 1982
+    },
+    "higher_education": [
+        {
+            "university": "University of Helsinki",
+            "graduation_year": 1988
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1988,
+            "end_year": 1989,
+            "company": "Equity4u AG",
+            "position": "Analyst",
+            "salary": 41000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 1994,
+            "company": "Equity4u AG",
+            "position": "Associate",
+            "salary": 59000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 1999,
+            "company": "Capvis Equity Partners AG",
+            "position": "Investment Director",
+            "salary": 78000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2025,
+            "company": "Partners Group Holding AG",
+            "position": "Partner",
+            "salary": 965000
+        }
+    ],
+    "aum": {
+        "savings": 1830000,
+        "inheritance": 860000,
+        "real_estate_value": 2420000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2013,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 2420000,
+            "property location": "Chur"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Finland",
+        "Italy"
+    ],
+    "currency": "CHF"
+}

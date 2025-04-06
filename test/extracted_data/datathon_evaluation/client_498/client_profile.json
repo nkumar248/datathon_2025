@@ -1,0 +1,99 @@
+{
+    "name": "Isabella Eva Jespersen",
+    "address": {
+        "city": "Slagelse",
+        "street name": "Rådhuspladsen",
+        "street number": 99,
+        "postal code": "8496"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1972-11-19",
+    "nationality": "Danish",
+    "passport_number": "ZN5048110",
+    "passport_issue_date": "2021-07-28",
+    "passport_expiry_date": "2031-07-27",
+    "gender": "F",
+    "phone_number": "+45 61 22 36 35",
+    "email_address": "isabella.jespersen@telia.dk",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Struer Statsgymnasium",
+        "graduation_year": 1991
+    },
+    "higher_education": [
+        {
+            "university": "Niels Brock Copenhagen Business College",
+            "graduation_year": 1985
+        },
+        {
+            "university": "Roskilde University",
+            "graduation_year": 1999
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1997,
+            "end_year": 2001,
+            "company": "Nordea Bank Danmark A/S",
+            "position": "Family Office Manager",
+            "salary": 259000
+        },
+        {
+            "start_year": 2003,
+            "end_year": 2004,
+            "company": "Jyske Bank A/S",
+            "position": "Investment Director",
+            "salary": 355000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2010,
+            "company": "Sydbank A/S",
+            "position": "CFO",
+            "salary": 509000
+        },
+        {
+            "start_year": 2012,
+            "end_year": null,
+            "company": "Danske Bank A/S",
+            "position": "COO",
+            "salary": 3336000
+        }
+    ],
+    "aum": {
+        "savings": 4720000,
+        "inheritance": 7570000,
+        "real_estate_value": 3823000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2013,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1563000,
+            "property location": "Slagelse"
+        },
+        {
+            "property type": "condo",
+            "property value": 1100000,
+            "property location": "Helsingør"
+        },
+        {
+            "property type": "flat",
+            "property value": 1160000,
+            "property location": "Holbæk"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Caroline Camilla Knudsen",
+    "first_name": "Caroline",
+    "middle_name": "Camilla",
+    "last_name": "Knudsen",
+    "passport_number": "SN8898051",
+    "currency": "DKK",
+    "address": {
+        "city": "Greve",
+        "street name": "Østerbrogade",
+        "street number": 70,
+        "postal code": "9830"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 88 75 34 96",
+    "email_address": "caroline.knudsen@telenor.dk"
+}

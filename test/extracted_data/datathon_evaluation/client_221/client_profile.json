@@ -1,0 +1,68 @@
+{
+    "name": "Laursen Pedersen Bjerregaard",
+    "address": {
+        "city": "Berlin",
+        "street name": "Berliner Straße",
+        "street number": 54,
+        "postal code": "25882"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1958-07-22",
+    "nationality": "Danish",
+    "passport_number": "ZP0141809",
+    "passport_issue_date": "2020-06-09",
+    "passport_expiry_date": "2030-06-08",
+    "gender": "M",
+    "phone_number": "+49 4258 277964",
+    "email_address": "laursen.bjerregaard@t-online.de",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Haderslev Katedralskole",
+        "graduation_year": 1976
+    },
+    "higher_education": [
+        {
+            "university": "International Business Academy (IBA)",
+            "graduation_year": 1983
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1983,
+            "end_year": 1986,
+            "company": "Siemens AG",
+            "position": "Plant Manager",
+            "salary": 257000
+        },
+        {
+            "start_year": 1987,
+            "end_year": 1992,
+            "company": "ThyssenKrupp AG",
+            "position": "Operations Director",
+            "salary": 490000
+        },
+        {
+            "start_year": 1994,
+            "end_year": 2019,
+            "company": "BASF SE",
+            "position": "CEO",
+            "salary": 3510000
+        }
+    ],
+    "aum": {
+        "savings": 6950000,
+        "inheritance": 0,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {},
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,77 @@
+{
+    "name": "Galli Rizzo Fantini",
+    "address": {
+        "city": "Pisa",
+        "street name": "Via del Governo Vecchio",
+        "street number": 57,
+        "postal code": "56488"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1982-07-10",
+    "nationality": "Italian",
+    "passport_number": "XW4773694",
+    "passport_issue_date": "2018-04-22",
+    "passport_expiry_date": "2028-04-21",
+    "gender": "M",
+    "phone_number": "317 0322885",
+    "email_address": "galli.fantini@aruba.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Istituto Tecnico Agrario Statale Francesco De Sanctis Foggia",
+        "graduation_year": 1992
+    },
+    "higher_education": [
+        {
+            "university": "Normal Superior School of Pisa",
+            "graduation_year": 2007
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2007,
+            "end_year": 2009,
+            "company": "Pfizer Italia S.r.l.",
+            "position": "Research Scientist",
+            "salary": 25000
+        },
+        {
+            "start_year": 2009,
+            "end_year": 2010,
+            "company": "Novartis Farma S.p.A.",
+            "position": "Clinical Trials Manager",
+            "salary": 42000
+        },
+        {
+            "start_year": 2010,
+            "end_year": null,
+            "company": "Menarini Industrie Farmaceutiche Riunite S.r.l.",
+            "position": "Regulatory Affairs Director",
+            "salary": 261000
+        }
+    ],
+    "aum": {
+        "savings": 400000,
+        "inheritance": 1580000,
+        "real_estate_value": 1770000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2014,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 1770000,
+            "property location": "Pisa"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

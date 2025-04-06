@@ -1,0 +1,17 @@
+{
+    "name": "Peters Michiels Vandenberghe",
+    "first_name": "Peters",
+    "middle_name": "Michiels",
+    "last_name": "Vandenberghe",
+    "passport_number": "RN4774383",
+    "currency": "EUR",
+    "address": {
+        "city": "Antwerp",
+        "street name": "Rue de la Convention",
+        "street number": 70,
+        "postal code": "2442"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0422 145 463",
+    "email_address": "peters.vandenberghe@base.be"
+}

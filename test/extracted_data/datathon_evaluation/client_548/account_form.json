@@ -1,0 +1,17 @@
+{
+    "name": "De Luca Leonardi Russo",
+    "first_name": "De Luca",
+    "middle_name": " Leonardi",
+    "last_name": "Russo",
+    "passport_number": "PA0346245",
+    "currency": "EUR",
+    "address": {
+        "city": "Bologna",
+        "street name": "Via Roma",
+        "street number": 46,
+        "postal code": "83774"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 316 3124091",
+    "email_address": "deluca.russo@fastweb.it"
+}

@@ -1,0 +1,76 @@
+{
+    "name": "Evelien Julia Peeters",
+    "address": {
+        "city": "Leiden",
+        "street name": "Oudegracht",
+        "street number": 94,
+        "postal code": "7433 14"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1982-07-31",
+    "nationality": "Dutch",
+    "passport_number": "GL4763213",
+    "passport_issue_date": "2017-06-30",
+    "passport_expiry_date": "2027-06-29",
+    "gender": "F",
+    "phone_number": "+31 06 41572677",
+    "email_address": "evelien.peeters@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Gerardus Majellalynceum Amsterdam",
+        "graduation_year": 2000
+    },
+    "higher_education": [
+        {
+            "university": "NWO - Netherlands Organisation for Scientific Research",
+            "graduation_year": 2006
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2007,
+            "end_year": 2012,
+            "company": "Galapagos N.V.",
+            "position": "Research Scientist",
+            "salary": 49000
+        },
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "Galapagos N.V.",
+            "position": "Biotech Startup Founder",
+            "salary": 133000
+        }
+    ],
+    "aum": {
+        "savings": 210000,
+        "inheritance": 1850000,
+        "real_estate_value": 3320000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2008,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2050000,
+            "property location": "Leiden"
+        },
+        {
+            "property type": "condo",
+            "property value": 1270000,
+            "property location": "Almere"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

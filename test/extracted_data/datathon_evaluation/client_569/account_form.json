@@ -1,0 +1,17 @@
+{
+    "name": "Alejandra Almudena Soto",
+    "first_name": "Alejandra",
+    "middle_name": "Almudena",
+    "last_name": "Soto",
+    "passport_number": "QQ8932187",
+    "currency": "EUR",
+    "address": {
+        "city": "Barcelona",
+        "street name": "Calle de las Huertas",
+        "street number": 36,
+        "postal code": "57906"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "674 745 109",
+    "email_address": "alejandra.soto@yahoo.com"
+}

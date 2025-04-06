@@ -1,0 +1,17 @@
+{
+    "name": "Møller Larsen Oddershede",
+    "first_name": "Møller",
+    "middle_name": "Larsen",
+    "last_name": "Oddershede",
+    "passport_number": "TX8659274",
+    "currency": "DKK",
+    "address": {
+        "city": "Vejle",
+        "street name": "Kattesundet",
+        "street number": 33,
+        "postal code": "7819"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 82 38 42 48",
+    "email_address": "mller.oddershede@yahoo.com"
+}

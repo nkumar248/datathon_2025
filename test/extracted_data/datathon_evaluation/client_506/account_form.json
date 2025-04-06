@@ -1,0 +1,17 @@
+{
+    "name": "Willems De Jong Wagemakers",
+    "first_name": "Willems",
+    "middle_name": "De Jong",
+    "last_name": "Wagemakers",
+    "passport_number": "UD0378796",
+    "currency": "EUR",
+    "address": {
+        "city": "Doetinchem",
+        "street name": "Utrechtsedwarsstraat",
+        "street number": 33,
+        "postal code": "4839 90"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 95925740",
+    "email_address": "willems.wagemakers@upcmail.nl"
+}

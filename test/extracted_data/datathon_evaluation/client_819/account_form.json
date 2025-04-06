@@ -1,0 +1,17 @@
+{
+    "name": "Matilda Hanna Niemi",
+    "first_name": "Matilda",
+    "middle_name": "Hanna",
+    "last_name": "Heikkinen",
+    "passport_number": "XI0289205",
+    "currency": "EUR",
+    "address": {
+        "city": "Kerava",
+        "street name": "Radiokatu",
+        "street number": 28,
+        "postal code": "30484"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 042 084 05 55",
+    "email_address": "matilda.niemi@dnainternet.fi"
+}

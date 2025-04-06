@@ -1,0 +1,86 @@
+{
+    "name": "Roose Sanders Mertens",
+    "address": {
+        "city": "La Louvière",
+        "street name": "Rue de la Loi",
+        "street number": 98,
+        "postal code": "9199"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1962-07-16",
+    "nationality": "Belgian",
+    "passport_number": "MB0173468",
+    "passport_issue_date": "2023-08-22",
+    "passport_expiry_date": "2030-08-21",
+    "gender": "M",
+    "phone_number": "0435 729 076",
+    "email_address": "roose.mertens@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Koninklijk Atheneum Berchem",
+        "graduation_year": 1982
+    },
+    "higher_education": [
+        {
+            "university": "Antwerp Management School",
+            "graduation_year": 1986
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1986,
+            "end_year": 1987,
+            "company": "KBC Bank NV",
+            "position": "Investment Banker",
+            "salary": 38000
+        },
+        {
+            "start_year": 1987,
+            "end_year": 1991,
+            "company": "BNP Paribas Fortis SA/NV",
+            "position": "Private Equity Investor",
+            "salary": 53000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 1995,
+            "company": "ING Belgium SA/NV",
+            "position": "Hedge Fund Manager",
+            "salary": 73000
+        },
+        {
+            "start_year": 1996,
+            "end_year": 2023,
+            "company": "Euroclear SA/NV",
+            "position": "Venture Capitalist",
+            "salary": 868000
+        }
+    ],
+    "aum": {
+        "savings": 1510000,
+        "inheritance": 0,
+        "real_estate_value": 2280000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 930000,
+            "property location": "La Louvière"
+        },
+        {
+            "property type": "house",
+            "property value": 1350000,
+            "property location": "Charleroi"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

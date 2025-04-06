@@ -1,0 +1,88 @@
+{
+    "name": "Venla Laura Virtanen",
+    "address": {
+        "city": "Rauma",
+        "street name": "Neljäs linja",
+        "street number": 50,
+        "postal code": "92849"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1986-04-26",
+    "nationality": "Finnish",
+    "passport_number": "WM0808367",
+    "passport_issue_date": "2020-02-01",
+    "passport_expiry_date": "2030-01-31",
+    "gender": "F",
+    "phone_number": "043 616 05 06",
+    "email_address": "venla.virtanen@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Joensuu Christian College",
+        "graduation_year": 2005
+    },
+    "higher_education": [
+        {
+            "university": "Arcada University of Applied Sciences",
+            "graduation_year": 2010
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2012,
+            "company": "Langh Ship Oy",
+            "position": "Ship Broker",
+            "salary": 35000
+        },
+        {
+            "start_year": 2012,
+            "end_year": 2017,
+            "company": "Neste Shipping Oy",
+            "position": "Shipping Company Owner",
+            "salary": 70000
+        },
+        {
+            "start_year": 2018,
+            "end_year": null,
+            "company": "Langh Ship Oy",
+            "position": "Fleet Manager",
+            "salary": 130000
+        }
+    ],
+    "aum": {
+        "savings": 180000,
+        "inheritance": 2740000,
+        "real_estate_value": 4880000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 970000,
+            "property location": "Rauma"
+        },
+        {
+            "property type": "villa",
+            "property value": 1990000,
+            "property location": "Jyväskylä"
+        },
+        {
+            "property type": "villa",
+            "property value": 1920000,
+            "property location": "Vantaa"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Italy"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Adèle Camille Lambrechts",
+    "first_name": "Adèle",
+    "middle_name": "Camille",
+    "last_name": "Lambrechts",
+    "passport_number": "YJ8521397",
+    "currency": "EUR",
+    "address": {
+        "city": "Namur",
+        "street name": "Rue des Chartreux",
+        "street number": 40,
+        "postal code": "9603"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0459 973 572",
+    "email_address": "adele.lambrechts@icloud.com"
+}

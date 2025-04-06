@@ -1,0 +1,17 @@
+{
+    "first_name": "Schwarz",
+    "middle_name": "Steiner",
+    "last_name": "Gruber",
+    "gender": "M",
+    "country": "Austria",
+    "country_code": "AUT",
+    "nationality": "Austrian",
+    "birth_date": "1979-12-14",
+    "passport_number": "RW9001177",
+    "passport_mrz": [
+        "P<AUTGRUBER<<SCHWARZ<STEINER<<<<<<<<<<<<<<<<<",
+        "RW9001177AUT791214<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-12-10",
+    "passport_expiry_date": "2034-12-09"
+}

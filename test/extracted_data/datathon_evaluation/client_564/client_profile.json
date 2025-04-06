@@ -1,0 +1,88 @@
+{
+    "name": "Esposito Rizzo Silvestri",
+    "address": {
+        "city": "Verona",
+        "street name": "Piazza Castello",
+        "street number": 77,
+        "postal code": "86660"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1973-11-22",
+    "nationality": "Italian",
+    "passport_number": "SI8643067",
+    "passport_issue_date": "2020-05-09",
+    "passport_expiry_date": "2030-05-08",
+    "gender": "M",
+    "phone_number": "+39 386 3928866",
+    "email_address": "esposito.silvestri@tiscali.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Liceo Artistico Statale Mario Sironi Sassari",
+        "graduation_year": 1991
+    },
+    "higher_education": [
+        {
+            "university": "Academy of Fine Arts of Florence",
+            "graduation_year": 1996
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1997,
+            "end_year": 2001,
+            "company": "Giorgio Armani S.p.A.",
+            "position": "Assistant Designer",
+            "salary": 23000
+        },
+        {
+            "start_year": 2003,
+            "end_year": 2007,
+            "company": "Giorgio Armani S.p.A.",
+            "position": "Senior Designer",
+            "salary": 42000
+        },
+        {
+            "start_year": 2008,
+            "end_year": null,
+            "company": "Prada S.p.A.",
+            "position": "Creative Director",
+            "salary": 349000
+        }
+    ],
+    "aum": {
+        "savings": 600000,
+        "inheritance": 250000,
+        "real_estate_value": 3839000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2014,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1440000,
+            "property location": "Verona"
+        },
+        {
+            "property type": "villa",
+            "property value": 1609000,
+            "property location": "Taranto"
+        },
+        {
+            "property type": "flat",
+            "property value": 790000,
+            "property location": "Rome"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Italy"
+    ],
+    "currency": "EUR"
+}

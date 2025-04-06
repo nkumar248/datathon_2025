@@ -1,0 +1,17 @@
+{
+    "name": "Joke Geertje Mulders",
+    "first_name": "Joke",
+    "middle_name": "Geertje",
+    "last_name": "Mulders",
+    "passport_number": "DO6890751",
+    "currency": "EUR",
+    "address": {
+        "city": "Assen",
+        "street name": "Nieuwegeinseweg",
+        "street number": 77,
+        "postal code": "6774 34"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 58862525",
+    "email_address": "joke.mulders@hotspots."
+}

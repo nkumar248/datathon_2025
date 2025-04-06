@@ -1,0 +1,17 @@
+{
+    "name": "Jost Egli Kägi",
+    "first_name": "Jost",
+    "middle_name": "Egli",
+    "last_name": "Kägi",
+    "passport_number": "MR8887646",
+    "currency": "CHF",
+    "address": {
+        "city": "Locarno",
+        "street name": "Rue de l'Athénée",
+        "street number": 31,
+        "postal code": "9371"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 094 579 70 59",
+    "email_address": "jost.kagi@upc.ch"
+}

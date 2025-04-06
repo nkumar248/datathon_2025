@@ -1,0 +1,17 @@
+{
+    "name": "Marini Bianchi Lotti",
+    "first_name": "Marini",
+    "middle_name": "Bianchi",
+    "last_name": "Lotti",
+    "passport_number": "QF2460987",
+    "currency": "EUR",
+    "address": {
+        "city": "Siena",
+        "street name": "Via Po",
+        "street number": 94,
+        "postal code": "26252"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 337 2039077",
+    "email_address": "marini.lotti@infinito.it"
+}

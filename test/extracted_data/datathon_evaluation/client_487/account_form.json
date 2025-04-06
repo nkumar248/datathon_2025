@@ -1,0 +1,17 @@
+{
+    "name": "Mayer Schmitz Uhlig",
+    "first_name": "Mayer",
+    "middle_name": "Schmitz",
+    "last_name": "Uhlig",
+    "passport_number": "NB6144204",
+    "currency": "EUR",
+    "address": {
+        "city": "Wiesbaden",
+        "street name": "Rathausstraße",
+        "street number": 49,
+        "postal code": "33537"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 8167 855432",
+    "email_address": "mayer.uhlig@1und1.de"
+}

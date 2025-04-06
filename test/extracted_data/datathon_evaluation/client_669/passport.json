@@ -1,0 +1,17 @@
+{
+    "first_name": "Gabriela",
+    "middle_name": "Andrea",
+    "last_name": "Wyss",
+    "gender": "",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1972-10-18",
+    "passport_number": "GU8441406",
+    "passport_mrz": [
+        "P<CHEWYSS<<GABRIELA<ANDREA<<<<<<<<<<<<<<<<<<<",
+        "GU8441406CHE721018<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-09-07",
+    "passport_expiry_date": "2034-09-06"
+}

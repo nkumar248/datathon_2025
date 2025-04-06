@@ -1,0 +1,69 @@
+{
+    "name": "Julia Céline Roth",
+    "address": {
+        "city": "Zurich",
+        "street name": "Limmatquai",
+        "street number": 23,
+        "postal code": "6377"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1992-02-16",
+    "nationality": "Swiss",
+    "passport_number": "YF9718616",
+    "passport_issue_date": "2019-06-24",
+    "passport_expiry_date": "2029-06-23",
+    "gender": "F",
+    "phone_number": "049 548 93 80",
+    "email_address": "julia.roth@outlook.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée cantonal de Porrentruy Jura",
+        "graduation_year": 2010
+    },
+    "higher_education": [
+        {
+            "university": "University of Zurich",
+            "graduation_year": 2014
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2015,
+            "end_year": null,
+            "company": "Pilatus Aircraft Ltd.",
+            "position": "Aerospace Engineer",
+            "salary": 80000
+        }
+    ],
+    "aum": {
+        "savings": 90000,
+        "inheritance": 1760000,
+        "real_estate_value": 5680000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 3340000,
+            "property location": "Zurich"
+        },
+        {
+            "property type": "flat",
+            "property value": 2340000,
+            "property location": "Appenzell"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Italy"
+    ],
+    "currency": "CHF"
+}

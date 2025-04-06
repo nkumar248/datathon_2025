@@ -1,0 +1,57 @@
+{
+    "name": "Voutilainen Laine Mäkinen",
+    "address": {
+        "city": "Salon",
+        "street name": "Tyynenmerenkatu",
+        "street number": 17,
+        "postal code": "89593"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1990-10-24",
+    "nationality": "Finnish",
+    "passport_number": "ND8215063",
+    "passport_issue_date": "2017-06-06",
+    "passport_expiry_date": "2027-06-05",
+    "gender": "M",
+    "phone_number": "+358 045 965 09 11",
+    "email_address": "voutilainen.makinen@suomi24.fi",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Varkauden lukio",
+        "graduation_year": 2009
+    },
+    "higher_education": [
+        {
+            "university": "Diaconia University of Applied Sciences",
+            "graduation_year": 2015
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "Orion Corporation",
+            "position": "Research Scientist",
+            "salary": 87000
+        }
+    ],
+    "aum": {
+        "savings": 100000,
+        "inheritance": 4260000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

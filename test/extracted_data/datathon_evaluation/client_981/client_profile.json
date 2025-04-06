@@ -1,0 +1,64 @@
+{
+    "name": "Bianchi Leonardi Silvestri",
+    "address": {
+        "city": "Palermo",
+        "street name": "Via Dante",
+        "street number": 56,
+        "postal code": "00258"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1997-04-09",
+    "nationality": "Italian",
+    "passport_number": "CO1384351",
+    "passport_issue_date": "2018-05-16",
+    "passport_expiry_date": "2028-05-15",
+    "gender": "M",
+    "phone_number": "+39 353 0259686",
+    "email_address": "bianchi.silvestri@hotmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Istituto Tecnico Agrario Statale Francesco De Sanctis Foggia",
+        "graduation_year": 2016
+    },
+    "higher_education": [
+        {
+            "university": "IMT Institute for Advanced Studies Lucca",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2021,
+            "end_year": 2023,
+            "company": "Sky Italia S.r.l.",
+            "position": "Journalist",
+            "salary": 27000
+        },
+        {
+            "start_year": 2025,
+            "end_year": null,
+            "company": "RAI Radiotelevisione Italiana S.p.A.",
+            "position": "Editor",
+            "salary": 39000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 2170000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

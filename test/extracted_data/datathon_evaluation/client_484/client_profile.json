@@ -1,0 +1,71 @@
+{
+    "name": "Maassen Kuipers Willems",
+    "address": {
+        "city": "Tilburg",
+        "street name": "Mauritskade",
+        "street number": 100,
+        "postal code": "6766 46"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1972-04-21",
+    "nationality": "Dutch",
+    "passport_number": "CU8066771",
+    "passport_issue_date": "2019-05-15",
+    "passport_expiry_date": "2029-05-14",
+    "gender": "M",
+    "phone_number": "06 88842913",
+    "email_address": "maassen.willems@hetnet.nl",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Gerardus Majellalynceum Amsterdam",
+        "graduation_year": 1992
+    },
+    "higher_education": [
+        {
+            "university": "Delft University of Technology",
+            "graduation_year": 1997
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1997,
+            "end_year": 2000,
+            "company": "Rabobank Private Banking",
+            "position": "Financial Advisor",
+            "salary": 46000
+        },
+        {
+            "start_year": 2001,
+            "end_year": null,
+            "company": "Rabobank Private Banking",
+            "position": "Portfolio Manager",
+            "salary": 278000
+        }
+    ],
+    "aum": {
+        "savings": 510000,
+        "inheritance": 4950000,
+        "real_estate_value": 1370000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2012,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1370000,
+            "property location": "Tilburg"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,82 @@
+{
+    "name": "Sofia Carlotta Ricci",
+    "address": {
+        "city": "Pisa",
+        "street name": "Corso Vittorio Emanuele II",
+        "street number": 90,
+        "postal code": "38020"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1987-07-09",
+    "nationality": "Italian",
+    "passport_number": "OH5367114",
+    "passport_issue_date": "2023-08-13",
+    "passport_expiry_date": "2033-08-12",
+    "gender": "F",
+    "phone_number": "+39 398 7960873",
+    "email_address": "sofia.ricci@wind.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Istituto Tecnico Industriale Statale Enrico Mattei Roma",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "University of Rome La Sapienza",
+            "graduation_year": 2012
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2011,
+            "end_year": 2012,
+            "company": "Novartis Farma S.p.A.",
+            "position": "Research Scientist",
+            "salary": 24000
+        },
+        {
+            "start_year": 2013,
+            "end_year": 2018,
+            "company": "Novartis Farma S.p.A.",
+            "position": "Biotech Startup Founder",
+            "salary": 51000
+        },
+        {
+            "start_year": 2018,
+            "end_year": null,
+            "company": "Novartis Farma S.p.A.",
+            "position": "CEO",
+            "salary": 99000
+        }
+    ],
+    "aum": {
+        "savings": 120000,
+        "inheritance": 3120000,
+        "real_estate_value": 2488000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2020,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 1588000,
+            "property location": "Pisa"
+        },
+        {
+            "property type": "condo",
+            "property value": 900000,
+            "property location": "Reggio Calabria"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

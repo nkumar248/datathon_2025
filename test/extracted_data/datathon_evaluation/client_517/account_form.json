@@ -1,0 +1,17 @@
+{
+    "name": "Fabbri Livi Donati",
+    "first_name": "Fabbri",
+    "middle_name": "Livi",
+    "last_name": "Donati",
+    "passport_number": "PE8512156",
+    "currency": "EUR",
+    "address": {
+        "city": "Udine",
+        "street name": "Galleria Vittorio Emanuele II",
+        "street number": 84,
+        "postal code": "47759"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 372 3662975",
+    "email_address": "fabbri.donati@yahoo.com"
+}

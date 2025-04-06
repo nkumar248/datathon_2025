@@ -1,0 +1,17 @@
+{
+    "name": "Uhlig Becker Herrmann",
+    "first_name": "Uhlig",
+    "middle_name": "Becker",
+    "last_name": "Herrmann",
+    "passport_number": "GJ6947724",
+    "currency": "EUR",
+    "address": {
+        "city": "Hamburg",
+        "street name": "Max-Joseph-Straße",
+        "street number": 65,
+        "postal code": "65163"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "3394 522293",
+    "email_address": "uhlig.herrmann@t-online.de"
+}

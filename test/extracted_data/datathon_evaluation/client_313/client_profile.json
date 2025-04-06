@@ -1,0 +1,82 @@
+{
+    "name": "Herrera Navarro Vázquez",
+    "address": {
+        "city": "Granada",
+        "street name": "Calle de la Estrella",
+        "street number": 88,
+        "postal code": "39458"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1965-12-03",
+    "nationality": "Spanish",
+    "passport_number": "UB9170628",
+    "passport_issue_date": "2021-06-20",
+    "passport_expiry_date": "2031-06-19",
+    "gender": "M",
+    "phone_number": "+34 631 091 478",
+    "email_address": "herrera.vazquez@hotmail.es",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "IES Antonio Machado Logroño",
+        "graduation_year": 1985
+    },
+    "higher_education": [
+        {
+            "university": "Complutense University of Madrid",
+            "graduation_year": 1989
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1990,
+            "end_year": 1992,
+            "company": "Endesa S.A.",
+            "position": "Junior Trader",
+            "salary": 23000
+        },
+        {
+            "start_year": 1994,
+            "end_year": 1996,
+            "company": "Cepsa Trading S.A.U.",
+            "position": "Senior Trader",
+            "salary": 39000
+        },
+        {
+            "start_year": 1998,
+            "end_year": null,
+            "company": "Endesa S.A.",
+            "position": "Trading Desk Manager",
+            "salary": 338000
+        }
+    ],
+    "aum": {
+        "savings": 570000,
+        "inheritance": 1300000,
+        "real_estate_value": 3220000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2005,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2270000,
+            "property location": "Granada"
+        },
+        {
+            "property type": "flat",
+            "property value": 950000,
+            "property location": "Zaragoza"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

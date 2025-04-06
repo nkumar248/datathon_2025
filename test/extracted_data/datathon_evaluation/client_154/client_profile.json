@@ -1,0 +1,86 @@
+{
+    "name": "Emma Estefanía Ortega",
+    "address": {
+        "city": "Cadiz",
+        "street name": "Plaza de España",
+        "street number": 18,
+        "postal code": "09654"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1954-06-03",
+    "nationality": "Spanish",
+    "passport_number": "RZ5748539",
+    "passport_issue_date": "2016-08-15",
+    "passport_expiry_date": "2026-08-14",
+    "gender": "F",
+    "phone_number": "645 338 859",
+    "email_address": "emma.ortega@outlook.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "IES María Zambrano Sevilla",
+        "graduation_year": 1972
+    },
+    "higher_education": [
+        {
+            "university": "Complutense University of Madrid",
+            "graduation_year": 1979
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1979,
+            "end_year": 1980,
+            "company": "Indra Sistemas S.A.",
+            "position": "Aerospace Engineer",
+            "salary": 27000
+        },
+        {
+            "start_year": 1981,
+            "end_year": 1985,
+            "company": "Airbus España S.L.",
+            "position": "Program Manager",
+            "salary": 43000
+        },
+        {
+            "start_year": 1985,
+            "end_year": 1987,
+            "company": "EADS CASA Espacio S.L.",
+            "position": "Director of Operations",
+            "salary": 60000
+        },
+        {
+            "start_year": 1987,
+            "end_year": 2015,
+            "company": "Airbus España S.L.",
+            "position": "VP of Business Development",
+            "salary": 687000
+        }
+    ],
+    "aum": {
+        "savings": 1170000,
+        "inheritance": 0,
+        "real_estate_value": 2482000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1352000,
+            "property location": "Cadiz"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1130000,
+            "property location": "Valladolid"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "Switzerland"
+    ],
+    "currency": "EUR"
+}

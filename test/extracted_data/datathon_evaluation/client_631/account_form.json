@@ -1,0 +1,17 @@
+{
+    "name": " Cecilie Amanda Højgaard",
+    "first_name": " Cecilie",
+    "middle_name": "Amanda",
+    "last_name": "Højgaard",
+    "passport_number": "FY8160831",
+    "currency": "EUR",
+    "address": {
+        "city": "Salamanca",
+        "street name": "Calle de las Huertas",
+        "street number": 95,
+        "postal code": "53592"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 648 299 145",
+    "email_address": "cecilie.hjgaard@vodafone.es"
+}

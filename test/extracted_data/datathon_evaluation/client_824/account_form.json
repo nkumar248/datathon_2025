@@ -1,0 +1,17 @@
+{
+    "name": "Hernández Vázquez Morales",
+    "first_name": "Hernández",
+    "middle_name": "Vázquez",
+    "last_name": "Morales",
+    "passport_number": "QB5997759",
+    "currency": "EUR",
+    "address": {
+        "city": "Valladolid",
+        "street name": "Plaza de la Independencia",
+        "street number": 75,
+        "postal code": "02216"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 646 362 240",
+    "email_address": "hernandez.morales@vodafone.es"
+}

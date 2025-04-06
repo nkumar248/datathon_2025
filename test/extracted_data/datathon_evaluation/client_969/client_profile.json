@@ -1,0 +1,92 @@
+{
+    "name": "Daniela Eleonora Conti",
+    "address": {
+        "city": "Ancona",
+        "street name": "Via del Tritone",
+        "street number": 9,
+        "postal code": "47076"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1977-01-04",
+    "nationality": "Italian",
+    "passport_number": "HJ4014530",
+    "passport_issue_date": "2020-05-09",
+    "passport_expiry_date": "2030-05-08",
+    "gender": "F",
+    "phone_number": "343 0840055",
+    "email_address": "daniela.conti@wind.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Istituto Tecnico Industriale Statale Enrico Mattei Roma",
+        "graduation_year": 1996
+    },
+    "higher_education": [
+        {
+            "university": "Ca' Foscari University of Venice",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2001,
+            "end_year": 2005,
+            "company": "UniCredit S.p.A.",
+            "position": "Stockbroker",
+            "salary": 28000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2006,
+            "company": "UniCredit S.p.A.",
+            "position": "Portfolio Manager",
+            "salary": 36000
+        },
+        {
+            "start_year": 2007,
+            "end_year": 2010,
+            "company": "UniCredit S.p.A.",
+            "position": "Hedge Fund Manager",
+            "salary": 57000
+        },
+        {
+            "start_year": 2010,
+            "end_year": 2011,
+            "company": "Intesa Sanpaolo S.p.A.",
+            "position": "Private Equity Investor",
+            "salary": 130000
+        },
+        {
+            "start_year": 2012,
+            "end_year": null,
+            "company": "UniCredit S.p.A.",
+            "position": "Angel Investor",
+            "salary": 459000
+        }
+    ],
+    "aum": {
+        "savings": 640000,
+        "inheritance": 1730000,
+        "real_estate_value": 1210000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2013,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1210000,
+            "property location": "Ancona"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Italy"
+    ],
+    "currency": "EUR"
+}

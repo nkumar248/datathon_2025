@@ -1,0 +1,92 @@
+{
+    "name": "Lechner Fuchs Bauer",
+    "address": {
+        "city": "Bregenz",
+        "street name": "Mariahilfer Straße",
+        "street number": 56,
+        "postal code": "6929"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1973-03-31",
+    "nationality": "Austrian",
+    "passport_number": "SO1308671",
+    "passport_issue_date": "2024-11-04",
+    "passport_expiry_date": "2034-11-03",
+    "gender": "M",
+    "phone_number": "+43 261 838 0148",
+    "email_address": "lechner.bauer@liwest.at",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Akademisches Gymnasium Graz",
+        "graduation_year": 1991
+    },
+    "higher_education": [
+        {
+            "university": "Graz University of Technology",
+            "graduation_year": 1997
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1996,
+            "end_year": 1998,
+            "company": "Marinomed Biotechnologie GmbH",
+            "position": "Research Scientist",
+            "salary": 31000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2004,
+            "company": "Baxter BioScience",
+            "position": "Biotech Startup Founder",
+            "salary": 48000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2006,
+            "company": "Intercell AG",
+            "position": "CEO",
+            "salary": 73000
+        },
+        {
+            "start_year": 2008,
+            "end_year": 2012,
+            "company": "Intercell AG",
+            "position": "Venture Capitalist",
+            "salary": 145000
+        },
+        {
+            "start_year": 2014,
+            "end_year": 2023,
+            "company": "Intercell AG",
+            "position": "Industry Leader",
+            "salary": 205000
+        }
+    ],
+    "aum": {
+        "savings": 330000,
+        "inheritance": 3680000,
+        "real_estate_value": 1950000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2009,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 1950000,
+            "property location": "Bregenz"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

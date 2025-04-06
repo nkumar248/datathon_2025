@@ -1,0 +1,17 @@
+{
+    "name": "Hedwig Imke Weber",
+    "first_name": "Hedwig",
+    "middle_name": "Imke",
+    "last_name": "Weber",
+    "passport_number": "TD4193807",
+    "currency": "EUR",
+    "address": {
+        "city": "Leipzig",
+        "street name": "Leipziger Straße",
+        "street number": 54,
+        "postal code": "24387"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 3273 446192",
+    "email_address": "hedwig.weber@gmail.com"
+}

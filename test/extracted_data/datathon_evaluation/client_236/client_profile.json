@@ -1,0 +1,65 @@
+{
+    "name": "Emanuela Martina Galli",
+    "address": {
+        "city": "Verona",
+        "street name": "Via Roma",
+        "street number": 71,
+        "postal code": "75954"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1996-07-01",
+    "nationality": "Italian",
+    "passport_number": "JU4492118",
+    "passport_issue_date": "2023-07-09",
+    "passport_expiry_date": "2033-07-08",
+    "gender": "F",
+    "phone_number": "373 5235347",
+    "email_address": "emanuela.galli@icloud.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Scuola Media Statale Antonio Meucci Firenze",
+        "graduation_year": 2015
+    },
+    "higher_education": [
+        {
+            "university": "Normal Superior School of Pisa",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2021,
+            "end_year": 2024,
+            "company": "Roche S.p.A.",
+            "position": "Research Scientist",
+            "salary": 24000
+        },
+        {
+            "start_year": 2025,
+            "end_year": null,
+            "company": "Roche S.p.A.",
+            "position": "Clinical Trials Manager",
+            "salary": 41000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 1400000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Italy"
+    ],
+    "currency": "EUR"
+}

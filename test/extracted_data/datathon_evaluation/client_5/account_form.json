@@ -1,0 +1,17 @@
+{
+    "name": "Simon Robin Legrand",
+    "first_name": "Simon",
+    "middle_name": "Robin",
+    "last_name": "Legrand",
+    "passport_number": "YF5793641",
+    "currency": "EUR",
+    "address": {
+        "city": "Toulouse",
+        "street name": "Rue Soufflot",
+        "street number": 29,
+        "postal code": "18537"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 02 64 98 86 30",
+    "email_address": "simon.legrand@bbox.fr"
+}

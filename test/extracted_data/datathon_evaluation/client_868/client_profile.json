@@ -1,0 +1,72 @@
+{
+    "name": "Schäfer Schmidt Schmitz",
+    "address": {
+        "city": "Hanover",
+        "street name": "Holstenwall",
+        "street number": 39,
+        "postal code": "52316"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1978-04-12",
+    "nationality": "German",
+    "passport_number": "AH8374888",
+    "passport_issue_date": "2020-08-14",
+    "passport_expiry_date": "2030-08-13",
+    "gender": "M",
+    "phone_number": "+49 0651 832248",
+    "email_address": "schafer.schmitz@freenet.de",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Schiller-Gymnasium Berlin",
+        "graduation_year": 1997
+    },
+    "higher_education": [
+        {
+            "university": "University of Berlin",
+            "graduation_year": 2001
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2002,
+            "end_year": 2006,
+            "company": "RTL Group",
+            "position": "Journalist",
+            "salary": 38000
+        },
+        {
+            "start_year": 2008,
+            "end_year": null,
+            "company": "ProSiebenSat.1 Media SE",
+            "position": "Editor",
+            "salary": 202000
+        }
+    ],
+    "aum": {
+        "savings": 300000,
+        "inheritance": 0,
+        "real_estate_value": 4230000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2310000,
+            "property location": "Hanover"
+        },
+        {
+            "property type": "house",
+            "property value": 1920000,
+            "property location": "Erlangen"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

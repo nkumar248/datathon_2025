@@ -1,0 +1,17 @@
+{
+    "first_name": "Araceli",
+    "middle_name": "Valeria",
+    "last_name": "Romero",
+    "gender": "F",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "1984-05-27",
+    "passport_number": "JI6173292",
+    "passport_mrz": [
+        "P<ESPROMERO<<VALERIA<ARACELI<<<<<<<<<<<<<<<<<",
+        "JI6173292ESP840527<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-09-22",
+    "passport_expiry_date": "2034-09-21"
+}

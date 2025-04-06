@@ -1,0 +1,17 @@
+{
+    "first_name": "Klein",
+    "middle_name": "Krüger",
+    "last_name": "Schwarz",
+    "gender": "M",
+    "country": "Germany",
+    "country_code": "DEU",
+    "nationality": "German",
+    "birth_date": "1972-05-01",
+    "passport_number": "ZU1669621",
+    "passport_mrz": [
+        "P<DEUSCHWARZ<<KLEIN<KRÜGER<<<<<<<<<<<<<<<<<<<",
+        "ZU1669621DEU720501<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-01-05",
+    "passport_expiry_date": "2033-01-04"
+}

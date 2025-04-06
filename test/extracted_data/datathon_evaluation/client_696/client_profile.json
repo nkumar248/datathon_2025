@@ -1,0 +1,49 @@
+{
+    "name": "Ahonen Rissanen Lehtinen",
+    "address": {
+        "city": "Lappeenranta",
+        "street name": "Kalliolanpuisto",
+        "street number": 38,
+        "postal code": "05284"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "2000-09-21",
+    "nationality": "Finnish",
+    "passport_number": "HT8289489",
+    "passport_issue_date": "2017-09-17",
+    "passport_expiry_date": "2027-09-16",
+    "gender": "M",
+    "phone_number": "+358 041 781 64 04",
+    "email_address": "ahonen.lehtinen@telia.fi",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Salpausselän lukio",
+        "graduation_year": 2020
+    },
+    "higher_education": [
+        {
+            "university": "Diaconia University of Applied Sciences",
+            "graduation_year": 2025
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1000000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

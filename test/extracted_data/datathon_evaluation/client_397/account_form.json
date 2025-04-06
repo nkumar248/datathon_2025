@@ -1,0 +1,17 @@
+{
+    "name": "Riedo Werner Gasser",
+    "first_name": "Riedo",
+    "middle_name": "Werner",
+    "last_name": "Gasser",
+    "passport_number": "FB2075506",
+    "currency": "CHF",
+    "address": {
+        "city": "Zurich",
+        "street name": "Place des Halles",
+        "street number": 80,
+        "postal code": "7994"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "++34075 947 44 12",
+    "email_address": "riedo.gasser@hotmail.com"
+}

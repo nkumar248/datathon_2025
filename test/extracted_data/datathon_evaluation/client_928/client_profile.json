@@ -1,0 +1,82 @@
+{
+    "name": "Smeets Verhoeven De Jong",
+    "address": {
+        "city": "Helmond",
+        "street name": "IJsselkade",
+        "street number": 32,
+        "postal code": "3976 11"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1987-12-12",
+    "nationality": "Dutch",
+    "passport_number": "KN1600201",
+    "passport_issue_date": "2018-12-13",
+    "passport_expiry_date": "2028-12-12",
+    "gender": "M",
+    "phone_number": "06 55784134",
+    "email_address": "smeets.dejong@chello.nl",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "RSG Magister Almelo",
+        "graduation_year": 2005
+    },
+    "higher_education": [
+        {
+            "university": "Tilburg School of Economics and Management",
+            "graduation_year": 2012
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2011,
+            "end_year": 2013,
+            "company": "ING Private Banking",
+            "position": "Financial Advisor",
+            "salary": 46000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2019,
+            "company": "Stater Nederland N.V.",
+            "position": "Portfolio Manager",
+            "salary": 61000
+        },
+        {
+            "start_year": 2021,
+            "end_year": null,
+            "company": "Stater Nederland N.V.",
+            "position": "Wealth Manager",
+            "salary": 86000
+        }
+    ],
+    "aum": {
+        "savings": 110000,
+        "inheritance": 1320000,
+        "real_estate_value": 4550000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2880000,
+            "property location": "Helmond"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1670000,
+            "property location": "Almere"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

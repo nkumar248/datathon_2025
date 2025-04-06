@@ -1,0 +1,87 @@
+{
+    "name": "Krol Vogel Visser",
+    "address": {
+        "city": "Tilburg",
+        "street name": "Spoorweghaven",
+        "street number": 77,
+        "postal code": "6654 37"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1981-01-18",
+    "nationality": "Dutch",
+    "passport_number": "TO5018884",
+    "passport_issue_date": "2024-04-14",
+    "passport_expiry_date": "2034-04-13",
+    "gender": "M",
+    "phone_number": "+31 06 60199445",
+    "email_address": "krol.visser@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Veenlanden College Zoetermeer",
+        "graduation_year": 1998
+    },
+    "higher_education": [
+        {
+            "university": "Utrecht University",
+            "graduation_year": 2004
+        },
+        {
+            "university": "Hogeschool van Amsterdam",
+            "graduation_year": 2009
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2005,
+            "end_year": 2008,
+            "company": "NLR - Netherlands Aerospace Centre",
+            "position": "Aerospace Engineer",
+            "salary": 43000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2011,
+            "company": "Fokker Technologies B.V.",
+            "position": "Program Manager",
+            "salary": 61000
+        },
+        {
+            "start_year": 2012,
+            "end_year": null,
+            "company": "Fokker Technologies B.V.",
+            "position": "Director of Operations",
+            "salary": 327000
+        }
+    ],
+    "aum": {
+        "savings": 450000,
+        "inheritance": 4070000,
+        "real_estate_value": 3210000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2012,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2060000,
+            "property location": "Tilburg"
+        },
+        {
+            "property type": "flat",
+            "property value": 1150000,
+            "property location": "Amsterdam"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

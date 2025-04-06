@@ -1,0 +1,91 @@
+{
+    "name": "Schulze Klein Schulz",
+    "address": {
+        "city": "Bonn",
+        "street name": "Weinstrasse",
+        "street number": 80,
+        "postal code": "74351"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1955-03-21",
+    "nationality": "German",
+    "passport_number": "NW1098588",
+    "passport_issue_date": "2020-08-13",
+    "passport_expiry_date": "2030-08-12",
+    "gender": "M",
+    "phone_number": "1007 341066",
+    "email_address": "schulze.schulz@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Heisenberg-Gymnasium Lüneburg",
+        "graduation_year": 1972
+    },
+    "higher_education": [
+        {
+            "university": "University of Hamburg",
+            "graduation_year": 1979
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1979,
+            "end_year": 1983,
+            "company": "Museum Folkwang Essen",
+            "position": "Art Dealer",
+            "salary": 39000
+        },
+        {
+            "start_year": 1983,
+            "end_year": 1984,
+            "company": "Nationalgalerie Berlin",
+            "position": "Gallery Owner",
+            "salary": 66000
+        },
+        {
+            "start_year": 1984,
+            "end_year": 1985,
+            "company": "Museum Folkwang Essen",
+            "position": "Art Advisor",
+            "salary": 79000
+        },
+        {
+            "start_year": 1987,
+            "end_year": 2015,
+            "company": "Bayerische Staatsgemäldesammlungen",
+            "position": "Curator",
+            "salary": 899000
+        }
+    ],
+    "aum": {
+        "savings": 1670000,
+        "inheritance": 0,
+        "real_estate_value": 6440000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2810000,
+            "property location": "Bonn"
+        },
+        {
+            "property type": "flat",
+            "property value": 820000,
+            "property location": "Braunschweig"
+        },
+        {
+            "property type": "villa",
+            "property value": 2810000,
+            "property location": "Hanover"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Belgium",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

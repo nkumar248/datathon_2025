@@ -1,0 +1,17 @@
+{
+    "name": "Anna Katharina Weber",
+    "first_name": "Weber",
+    "middle_name": "Katharina",
+    "last_name": "Anna",
+    "passport_number": "NV5885872",
+    "currency": "EUR",
+    "address": {
+        "city": "Grenoble",
+        "street name": "Rue Gay-Lussac",
+        "street number": 74,
+        "postal code": "64926"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "07 59 87 08 75",
+    "email_address": "anna.weber@numericable.fr"
+}

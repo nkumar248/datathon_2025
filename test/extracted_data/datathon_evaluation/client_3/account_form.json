@@ -1,0 +1,17 @@
+{
+    "name": "Rizzo Landi",
+    "first_name": "Rizzo",
+    "middle_name": "",
+    "last_name": "Landi",
+    "passport_number": "JL2474960",
+    "currency": "EUR",
+    "address": {
+        "city": "Palermo",
+        "street name": "Corso Garibaldi",
+        "street number": 88,
+        "postal code": "67724"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 358 8424630",
+    "email_address": "rizzo.landi@fastweb.it"
+}

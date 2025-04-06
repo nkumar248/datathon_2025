@@ -1,0 +1,17 @@
+{
+    "name": "Hermans Simons",
+    "first_name": "Hermans",
+    "middle_name": "",
+    "last_name": "Simons",
+    "passport_number": "TH1392351",
+    "currency": "EUR",
+    "address": {
+        "city": "Liège",
+        "street name": "Rue des Bouchers",
+        "street number": 58,
+        "postal code": "6406"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0492 479 807",
+    "email_address": "hermans.simons@base.be"
+}

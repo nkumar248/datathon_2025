@@ -1,0 +1,75 @@
+{
+    "name": "Hagenbuch Kägi Riedo",
+    "address": {
+        "city": "Schaffhausen",
+        "street name": "Rue de l'Hôtel-de-Ville",
+        "street number": 18,
+        "postal code": "2525"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1963-02-09",
+    "nationality": "Swiss",
+    "passport_number": "QT6923857",
+    "passport_issue_date": "2024-12-02",
+    "passport_expiry_date": "2034-12-01",
+    "gender": "M",
+    "phone_number": "+41 021 494 32 35",
+    "email_address": "hagenbuch.riedo@teli.ch",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "École secondaire de Morges Vaud",
+        "graduation_year": 1982
+    },
+    "higher_education": [
+        {
+            "university": "University of Lausanne",
+            "graduation_year": 1986
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1986,
+            "end_year": 1988,
+            "company": "Georg Fischer Ltd.",
+            "position": "Plant Manager",
+            "salary": 60000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 1992,
+            "company": "ABB Ltd.",
+            "position": "Operations Director",
+            "salary": 88000
+        },
+        {
+            "start_year": 1992,
+            "end_year": 1997,
+            "company": "ABB Ltd.",
+            "position": "CEO",
+            "salary": 245000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 2023,
+            "company": "Siemens AG (Swiss branch)",
+            "position": "Chairman",
+            "salary": 1699000
+        }
+    ],
+    "aum": {
+        "savings": 2890000,
+        "inheritance": 0,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {},
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Finland"
+    ],
+    "currency": "CHF"
+}

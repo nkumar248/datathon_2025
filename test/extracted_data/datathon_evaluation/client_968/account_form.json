@@ -1,0 +1,17 @@
+{
+    "name": "Eleonora Ginevra Esposito",
+    "first_name": "Eleonora",
+    "middle_name": "Ginevra",
+    "last_name": "Esposito",
+    "passport_number": "QF8128062",
+    "currency": "EUR",
+    "address": {
+        "city": "Modena",
+        "street name": "Via Dante Alighieri",
+        "street number": 28,
+        "postal code": "02283"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 393 4599102",
+    "email_address": "eleonora.esposito@tiscali.it"
+}

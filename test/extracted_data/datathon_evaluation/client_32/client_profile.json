@@ -1,0 +1,77 @@
+{
+    "name": "Schäfer Schwarz Schmitt",
+    "address": {
+        "city": "Essen",
+        "street name": "Marienplatz",
+        "street number": 92,
+        "postal code": "92721"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1962-12-27",
+    "nationality": "German",
+    "passport_number": "QR7893737",
+    "passport_issue_date": "2019-07-09",
+    "passport_expiry_date": "2029-07-08",
+    "gender": "M",
+    "phone_number": "+49 5486 759683",
+    "email_address": "schafer.schmitt@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Erasmus-Grasser-Gymnasium München",
+        "graduation_year": 1982
+    },
+    "higher_education": [
+        {
+            "university": "University of Hamburg",
+            "graduation_year": 1986
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1986,
+            "end_year": 1991,
+            "company": "Deutsche Asset Management",
+            "position": "Stockbroker",
+            "salary": 52000
+        },
+        {
+            "start_year": 1992,
+            "end_year": 2023,
+            "company": "Allianz SE",
+            "position": "Portfolio Manager",
+            "salary": 360000
+        }
+    ],
+    "aum": {
+        "savings": 750000,
+        "inheritance": 0,
+        "real_estate_value": 5260000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1150000,
+            "property location": "Essen"
+        },
+        {
+            "property type": "villa",
+            "property value": 2430000,
+            "property location": "Monchengladbach"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1680000,
+            "property location": "Düsseldorf"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Belgium",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

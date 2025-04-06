@@ -1,0 +1,17 @@
+{
+    "name": " Jacobs Raes Moens",
+    "first_name": " Jacobs",
+    "middle_name": "Raes",
+    "last_name": "Moens",
+    "passport_number": "RD1086749",
+    "currency": "EUR",
+    "address": {
+        "city": "Tournai",
+        "street name": "Rue de la République",
+        "street number": 13,
+        "postal code": "7781"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0420 974 354",
+    "email_address": "jacobs.moens@skynet.be"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Anna Franziska Fuchs",
+    "first_name": "Anna",
+    "middle_name": "Franziska",
+    "last_name": "Fuchs",
+    "passport_number": "UV2232698",
+    "currency": "EUR",
+    "address": {
+        "city": "Vienna",
+        "street name": "Porzellangasse",
+        "street number": 76,
+        "postal code": "9208"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 191 944 2750",
+    "email_address": "anna.fuchs@kabsi.at"
+}

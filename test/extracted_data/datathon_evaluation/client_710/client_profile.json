@@ -1,0 +1,93 @@
+{
+    "name": "Muñoz Díaz López",
+    "address": {
+        "city": "Almería",
+        "street name": "Calle de la Victoria",
+        "street number": 60,
+        "postal code": "02197"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1969-11-14",
+    "nationality": "Spanish",
+    "passport_number": "WQ8876500",
+    "passport_issue_date": "2019-06-25",
+    "passport_expiry_date": "2029-06-24",
+    "gender": "M",
+    "phone_number": "+34 691 614 558",
+    "email_address": "munoz.lopez@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "IES Ginés Martínez de Aranda Albacete",
+        "graduation_year": 1988
+    },
+    "higher_education": [
+        {
+            "university": "Ramón Llull University",
+            "graduation_year": 1994
+        },
+        {
+            "university": "Valencia School of Fine Arts",
+            "graduation_year": 1998
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1994,
+            "end_year": 1999,
+            "company": "Mediaset España Comunicación S.A.",
+            "position": "Journalist",
+            "salary": 29000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2003,
+            "company": "Atresmedia Corporación de Medios de Comunicación S.A.",
+            "position": "Editor",
+            "salary": 38000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2007,
+            "company": "Mediaset España Comunicación S.A.",
+            "position": "Publisher",
+            "salary": 58000
+        },
+        {
+            "start_year": 2009,
+            "end_year": 2025,
+            "company": "PRISA Noticias S.A.",
+            "position": "TV/Radio Host",
+            "salary": 405000
+        }
+    ],
+    "aum": {
+        "savings": 690000,
+        "inheritance": 660000,
+        "real_estate_value": 3510000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2012,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2270000,
+            "property location": "Almería"
+        },
+        {
+            "property type": "house",
+            "property value": 1240000,
+            "property location": "Logroño"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

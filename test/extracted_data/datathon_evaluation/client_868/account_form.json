@@ -1,0 +1,17 @@
+{
+    "name": "Schäfer Schmidt Schmitz",
+    "first_name": "Schäfer",
+    "middle_name": "Schmidt",
+    "last_name": "Schmitz",
+    "passport_number": "AH8374888",
+    "currency": "EUR",
+    "address": {
+        "city": "Hanover",
+        "street name": "Holstenwall",
+        "street number": 39,
+        "postal code": "52316"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 0651 832248",
+    "email_address": "schafer.schmitz@freenet.de"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Wolf Neumann",
+    "first_name": "Wolf",
+    "middle_name": "",
+    "last_name": "Neumann",
+    "passport_number": "MH1831606",
+    "currency": "EUR",
+    "address": {
+        "city": "Freiburg im Breisgau",
+        "street name": "Kaiserstraße",
+        "street number": 29,
+        "postal code": "07125"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 3368 218286",
+    "email_address": "wolfneumann@t-onlinede"
+}

@@ -1,0 +1,87 @@
+{
+    "name": "Hansen Madsen Møller",
+    "address": {
+        "city": "Aarhus",
+        "street name": "Æbeløgade",
+        "street number": 25,
+        "postal code": "3615"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1979-08-29",
+    "nationality": "Danish",
+    "passport_number": "ER9387447",
+    "passport_issue_date": "2021-05-26",
+    "passport_expiry_date": "2031-05-25",
+    "gender": "M",
+    "phone_number": "+45 51 97 92 22",
+    "email_address": "hansen.mller@all.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Frederikshavn Gymnasium",
+        "graduation_year": 1997
+    },
+    "higher_education": [
+        {
+            "university": "University College Lillebælt",
+            "graduation_year": 2003
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2003,
+            "end_year": 2007,
+            "company": "Advent International Danmark A/S",
+            "position": "Analyst",
+            "salary": 292000
+        },
+        {
+            "start_year": 2007,
+            "end_year": 2010,
+            "company": "KKR & Co. Danmark A/S",
+            "position": "Associate",
+            "salary": 386000
+        },
+        {
+            "start_year": 2011,
+            "end_year": null,
+            "company": "Axcel Management A/S",
+            "position": "Investment Director",
+            "salary": 2047000
+        }
+    ],
+    "aum": {
+        "savings": 3000000,
+        "inheritance": 1660000,
+        "real_estate_value": 4011000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2013,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1711000,
+            "property location": "Aarhus"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1240000,
+            "property location": "Kolding"
+        },
+        {
+            "property type": "flat",
+            "property value": 1060000,
+            "property location": "Silkeborg"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Maier Meier",
+    "first_name": "Maier",
+    "middle_name": "",
+    "last_name": "Meier",
+    "passport_number": "HF3223562",
+    "currency": "EUR",
+    "address": {
+        "city": "Hanover",
+        "street name": "Bahnhofsplatz",
+        "street number": 56,
+        "postal code": "68006"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 9510 0372741",
+    "email_address": "maier.meier@yahoo.com"
+}

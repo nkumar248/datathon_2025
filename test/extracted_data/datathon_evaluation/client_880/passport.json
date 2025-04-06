@@ -1,0 +1,17 @@
+{
+    "first_name": "Hagenbuch",
+    "middle_name": "Kägi",
+    "last_name": "Riedo",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1963-02-09",
+    "passport_number": "QT6923857",
+    "passport_mrz": [
+        "P<CHERIEDO<<HAGENBUCH<KÄGI<<<<<<<<<<<<<<<<<<<",
+        "QT6923857CHE630209<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-12-02",
+    "passport_expiry_date": "2034-12-01"
+}

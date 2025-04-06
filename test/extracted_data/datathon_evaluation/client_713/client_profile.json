@@ -1,0 +1,44 @@
+{
+    "name": "Ahonen Salminen Hiltunen",
+    "address": {
+        "city": "Hämeenlinna",
+        "street name": "Kaisaniemenkatu",
+        "street number": 90,
+        "postal code": "92183"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "2002-11-08",
+    "nationality": "Finnish",
+    "passport_number": "BT2876967",
+    "passport_issue_date": "2021-03-27",
+    "passport_expiry_date": "2031-03-26",
+    "gender": "M",
+    "phone_number": "+358 046 702 72 62",
+    "email_address": "ahonen.hiltunen@outlook.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Kiteen lukio",
+        "graduation_year": 2020
+    },
+    "higher_education": [],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 2750000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2016,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

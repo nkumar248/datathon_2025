@@ -1,0 +1,75 @@
+{
+    "name": "Lynn Lena Keller",
+    "address": {
+        "city": "Kreuzlingen",
+        "street name": "Mühlegasse",
+        "street number": 12,
+        "postal code": "0624"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1991-05-30",
+    "nationality": "Swiss",
+    "passport_number": "TQ6140116",
+    "passport_issue_date": "2019-02-08",
+    "passport_expiry_date": "2029-02-07",
+    "gender": "F",
+    "phone_number": "",
+    "email_address": "lynn.keller@gmx.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Kantonsschule Frauenfeld Thurgau",
+        "graduation_year": 2010
+    },
+    "higher_education": [
+        {
+            "university": "University of Lucerne",
+            "graduation_year": 2016
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2015,
+            "end_year": 2017,
+            "company": "Varo Energy AG",
+            "position": "Drilling Engineer",
+            "salary": 69000
+        },
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "Varo Energy AG",
+            "position": "Reservoir Engineer",
+            "salary": 98000
+        }
+    ],
+    "aum": {
+        "savings": 100000,
+        "inheritance": 300000,
+        "real_estate_value": 5920000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 4250000,
+            "property location": "Kreuzlingen"
+        },
+        {
+            "property type": "flat",
+            "property value": 1670000,
+            "property location": "Vevey"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

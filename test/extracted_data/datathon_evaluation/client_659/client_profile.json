@@ -1,0 +1,84 @@
+{
+    "name": "Østergaard Olsen Lykke",
+    "address": {
+        "city": "Holbæk",
+        "street name": "Langebro",
+        "street number": 5,
+        "postal code": "2813"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1990-12-09",
+    "nationality": "Danish",
+    "passport_number": "WM3256515",
+    "passport_issue_date": "2023-12-08",
+    "passport_expiry_date": "2033-12-07",
+    "gender": "M",
+    "phone_number": "+45 57 59 62 97",
+    "email_address": "stergaard.lykke@all.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Frederikshavn Gymnasium",
+        "graduation_year": 2008
+    },
+    "higher_education": [
+        {
+            "university": "Aarhus University",
+            "graduation_year": 2014
+        },
+        {
+            "university": "University of Southern Denmark",
+            "graduation_year": 2017
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2014,
+            "end_year": 2018,
+            "company": "Scandic Hotels Danmark A/S",
+            "position": "Hotel Manager",
+            "salary": 246000
+        },
+        {
+            "start_year": 2018,
+            "end_year": null,
+            "company": "Scandic Hotels Danmark A/S",
+            "position": "General Manager",
+            "salary": 544000
+        }
+    ],
+    "aum": {
+        "savings": 610000,
+        "inheritance": 11390000,
+        "real_estate_value": 3762000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1300000,
+            "property location": "Holbæk"
+        },
+        {
+            "property type": "condo",
+            "property value": 1442000,
+            "property location": "Aarhus"
+        },
+        {
+            "property type": "flat",
+            "property value": 1020000,
+            "property location": "Kolding"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

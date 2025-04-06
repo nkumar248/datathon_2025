@@ -1,0 +1,17 @@
+{
+    "name": "Katharina Lina Schmitz",
+    "first_name": "Katharina",
+    "middle_name": "Lina",
+    "last_name": "Schmitz",
+    "passport_number": "KA7740165",
+    "currency": "EUR",
+    "address": {
+        "city": "Pisa",
+        "street name": "Via Dante",
+        "street number": 32,
+        "postal code": "35132"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 332 9513539",
+    "email_address": "katharina.schmitz@gmail.com"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Andrea Emma Burkart",
+    "first_name": "Andrea",
+    "middle_name": "Emma",
+    "last_name": "Burkart",
+    "passport_number": "MZ3657189",
+    "currency": "CHF",
+    "address": {
+        "city": "Solothurn",
+        "street name": "Rue de l'Athénée",
+        "street number": 94,
+        "postal code": "9353"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 014 540 40 11",
+    "email_address": "andrea.burkart@swisscom.ch"
+}

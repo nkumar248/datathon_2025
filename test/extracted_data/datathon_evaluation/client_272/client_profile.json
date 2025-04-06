@@ -1,0 +1,72 @@
+{
+    "name": "Wyss Huber Keller",
+    "address": {
+        "city": "Lausanne",
+        "street name": "Place des Halles",
+        "street number": 83,
+        "postal code": "2428"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1962-05-11",
+    "nationality": "Swiss",
+    "passport_number": "BH1659506",
+    "passport_issue_date": "2015-05-22",
+    "passport_expiry_date": "2025-05-21",
+    "gender": "M",
+    "phone_number": "+41 088 805 29 72",
+    "email_address": "wyss.keller@gmx.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "École secondaire de La Chaux-de-Fonds Neuchâtel",
+        "graduation_year": 1981
+    },
+    "higher_education": [
+        {
+            "university": "ETH Zurich",
+            "graduation_year": 1985
+        },
+        {
+            "university": "University of Geneva",
+            "graduation_year": 1990
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1987,
+            "end_year": 1990,
+            "company": "Pfizer AG (Swiss branch)",
+            "position": "Research Scientist",
+            "salary": 66000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 1991,
+            "company": "Pfizer AG (Swiss branch)",
+            "position": "Clinical Trials Manager",
+            "salary": 99000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 2023,
+            "company": "Pfizer AG (Swiss branch)",
+            "position": "Regulatory Affairs Director",
+            "salary": 1287000
+        }
+    ],
+    "aum": {
+        "savings": 2540000,
+        "inheritance": 0,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {},
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Austria"
+    ],
+    "currency": "CHF"
+}

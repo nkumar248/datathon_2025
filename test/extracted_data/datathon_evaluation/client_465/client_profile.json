@@ -1,0 +1,86 @@
+{
+    "name": "Barbara Amanda Frey",
+    "address": {
+        "city": "Lucerne",
+        "street name": "Untere Hauptgasse",
+        "street number": 77,
+        "postal code": "9596"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1986-05-31",
+    "nationality": "Swiss",
+    "passport_number": "MW0744329",
+    "passport_issue_date": "2021-07-07",
+    "passport_expiry_date": "2031-07-06",
+    "gender": "F",
+    "phone_number": "+41 018 973 18 77",
+    "email_address": "barbara.frey@icloud.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée des Templiers Fribourg",
+        "graduation_year": 2005
+    },
+    "higher_education": [
+        {
+            "university": "University of Basel",
+            "graduation_year": 2009
+        },
+        {
+            "university": "EPFL",
+            "graduation_year": 2015
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2015,
+            "company": "Akris AG",
+            "position": "Assistant Designer",
+            "salary": 71000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2019,
+            "company": "Swatch Group AG",
+            "position": "Senior Designer",
+            "salary": 96000
+        },
+        {
+            "start_year": 2021,
+            "end_year": null,
+            "company": "Bally Schuhfabriken AG",
+            "position": "Creative Director",
+            "salary": 125000
+        }
+    ],
+    "aum": {
+        "savings": 170000,
+        "inheritance": 4880000,
+        "real_estate_value": 4180000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 2170000,
+            "property location": "Lucerne"
+        },
+        {
+            "property type": "flat",
+            "property value": 2010000,
+            "property location": "Frauenfeld"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

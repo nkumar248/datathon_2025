@@ -1,0 +1,78 @@
+{
+    "name": "Greta Kristin Scholz",
+    "address": {
+        "city": "Erlangen",
+        "street name": "Kurfürstendamm",
+        "street number": 92,
+        "postal code": "81284"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1967-08-21",
+    "nationality": "Belgian",
+    "passport_number": "WC5036384",
+    "passport_issue_date": "2022-05-28",
+    "passport_expiry_date": "2032-05-27",
+    "gender": "F",
+    "phone_number": "+49 5847 149952",
+    "email_address": "greta.scholz@versatel.de",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Helmut-Schmidt-Gymnasium Hamburg",
+        "graduation_year": 1986
+    },
+    "higher_education": [
+        {
+            "university": "University of Heidelberg",
+            "graduation_year": 1990
+        },
+        {
+            "university": "Heidelberg University of Education",
+            "graduation_year": 1995
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1991,
+            "end_year": 1993,
+            "company": "Commerzbank Private Banking",
+            "position": "Financial Advisor",
+            "salary": 44000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 1996,
+            "company": "Deutsche Bank Private Wealth Management",
+            "position": "Portfolio Manager",
+            "salary": 56000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 2000,
+            "company": "Deutsche Bank Private Wealth Management",
+            "position": "Wealth Manager",
+            "salary": 81000
+        },
+        {
+            "start_year": 2000,
+            "end_year": null,
+            "company": "Commerzbank Private Banking",
+            "position": "Family Office Executive",
+            "salary": 971000
+        }
+    ],
+    "aum": {
+        "savings": 1740000,
+        "inheritance": 0,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {},
+    "real_estate_details": [],
+    "investment_risk_profile": "Conservative",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Germany"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Floriane Delphine Lambert",
+    "first_name": "Floriane",
+    "middle_name": "Delphine",
+    "last_name": "Lambert",
+    "passport_number": "KF5149323",
+    "currency": "EUR",
+    "address": {
+        "city": "Aix-en-Provence",
+        "street name": "Rue de la Paix",
+        "street number": 65,
+        "postal code": "76210"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 02 60 00 25 64",
+    "email_address": "floriane.lambert@neuf.fr"
+}

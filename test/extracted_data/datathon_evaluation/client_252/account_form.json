@@ -1,0 +1,17 @@
+{
+    "name": "Christensen Jensen Hansen",
+    "first_name": "Christensen",
+    "middle_name": "Jensen",
+    "last_name": "Hansen",
+    "passport_number": "XA1971179",
+    "currency": "DKK",
+    "address": {
+        "city": "Svendborg",
+        "street name": "Sølvgade",
+        "street number": 92,
+        "postal code": "4666"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "66 05 73 81",
+    "email_address": "christensen.hansen@cybercity.dk"
+}

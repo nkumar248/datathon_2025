@@ -1,0 +1,17 @@
+{
+    "name": "Fischer Zimmermann Herrmann",
+    "first_name": "Fischer",
+    "middle_name": "Zimmermann",
+    "last_name": "Herrmann",
+    "passport_number": "GB5110564",
+    "currency": "EUR",
+    "address": {
+        "city": "Leipzig",
+        "street name": "Berliner Straße",
+        "street number": 91,
+        "postal code": "59211"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 2766 972258",
+    "email_address": "fischer.herrmann@hotmail.com"
+}

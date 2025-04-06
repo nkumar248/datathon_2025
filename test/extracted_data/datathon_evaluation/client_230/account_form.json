@@ -1,0 +1,17 @@
+{
+    "name": "Maassen Kuipers",
+    "first_name": "Maassen",
+    "middle_name": "",
+    "last_name": "Kuipers",
+    "passport_number": "SB5948726",
+    "currency": "EUR",
+    "address": {
+        "city": "Emmen",
+        "street name": "Kinkerstraat",
+        "street number": 45,
+        "postal code": "8735 04"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 74027318",
+    "email_address": "maassen.kuipers@yahoo.com"
+}

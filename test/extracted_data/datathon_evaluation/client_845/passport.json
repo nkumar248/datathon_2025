@@ -1,0 +1,17 @@
+{
+    "first_name": "Valeria",
+    "middle_name": "Daniela",
+    "last_name": "Herrera",
+    "gender": "F",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "1990-07-16",
+    "passport_number": "CU8767740",
+    "passport_mrz": [
+        "P<ESPHERRERA<<VALERIA<DANIELA<<<<<<<<<<<<<<<<",
+        "CU8767740ESP900716<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-07-19",
+    "passport_expiry_date": "2032-07-18"
+}

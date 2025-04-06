@@ -1,0 +1,17 @@
+{
+    "name": "Joséphine Thiry",
+    "first_name": "Joséphine",
+    "middle_name": "",
+    "last_name": "Thiry",
+    "passport_number": "FF3531249",
+    "currency": "EUR",
+    "address": {
+        "city": "Kortrijk",
+        "street name": "Rue de la Convention",
+        "street number": 38,
+        "postal code": "7760"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0498 731 346",
+    "email_address": "josephine.thiry@outlook.com"
+}

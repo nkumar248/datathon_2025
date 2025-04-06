@@ -1,0 +1,17 @@
+{
+    "name": "Josefiina Aino Hiltunen",
+    "first_name": "Josefiina",
+    "middle_name": "Aino",
+    "last_name": "Hiltunen",
+    "passport_number": "XF0334776",
+    "currency": "EUR",
+    "address": {
+        "city": "Nurmijärvi",
+        "street name": "Pyynikintie",
+        "street number": 36,
+        "postal code": "36661"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 049 544 35 41",
+    "email_address": "josefiina.hiltunen@gmail.com"
+}

@@ -1,0 +1,17 @@
+{
+    "first_name": "Schmidt",
+    "middle_name": "Schäfer",
+    "last_name": "Richter",
+    "gender": "M",
+    "country": "Germany",
+    "country_code": "DEU",
+    "nationality": "German",
+    "birth_date": "1994-07-07",
+    "passport_number": "VG6200699",
+    "passport_mrz": [
+        "P<DEURICHTER<<SCHMIDT<SCHÄFER<<<<<<<<<<<<<<<<",
+        "VG6200699DEU940707<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2019-08-29",
+    "passport_expiry_date": "2029-08-28"
+}

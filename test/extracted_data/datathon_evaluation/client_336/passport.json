@@ -1,0 +1,17 @@
+{
+    "first_name": "Jost",
+    "middle_name": "Müller",
+    "last_name": "Kägi",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1965-04-28",
+    "passport_number": "RK3421779",
+    "passport_mrz": [
+        "P<CHEKÄGI<<JOST<MÜLLER<<<<<<<<<<<<<<<<<<<<<<<",
+        "RK3421779CHE650428<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-05-21",
+    "passport_expiry_date": "2033-05-20"
+}

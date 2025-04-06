@@ -1,0 +1,17 @@
+{
+    "name": "Mathilde Line Petersen",
+    "first_name": "Mathilde",
+    "middle_name": "Line",
+    "last_name": "Petersen",
+    "passport_number": "WR0162034",
+    "currency": "DKK",
+    "address": {
+        "city": "Esbjerg",
+        "street name": "Gråbrødretorv",
+        "street number": 27,
+        "postal code": "2581"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 42 82 86 65",
+    "email_address": "mathilde.petersen@siminn.dk"
+}

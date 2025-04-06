@@ -1,0 +1,17 @@
+{
+    "name": "Heikkinen Uusitalo Tolvanen",
+    "first_name": "Heikkinen",
+    "middle_name": "Uusitalo",
+    "last_name": "Tolvanen",
+    "passport_number": "UK4931623",
+    "currency": "EUR",
+    "address": {
+        "city": "Rauma",
+        "street name": "Kauppakartanonkatu",
+        "street number": 10,
+        "postal code": "34431"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "043 821 04 08",
+    "email_address": "heikkinen.tolvanen@elisa.fi"
+}

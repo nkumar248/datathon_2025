@@ -1,0 +1,17 @@
+{
+    "first_name": "Inès",
+    "middle_name": "Émilie",
+    "last_name": "Lemaître",
+    "gender": "F",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "2001-06-15",
+    "passport_number": "HX7459884",
+    "passport_mrz": [
+        "P<FRALEMAÎTRE<<INÈS<ÉMILIE<<<<<<<<<<<<<<<<<<<",
+        "HX7459884FRA010615<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2017-06-01",
+    "passport_expiry_date": "2027-05-31"
+}

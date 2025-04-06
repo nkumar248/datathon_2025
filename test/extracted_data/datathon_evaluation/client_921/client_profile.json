@@ -1,0 +1,60 @@
+{
+    "name": "Vázquez Torres Sánchez",
+    "address": {
+        "city": "Santa Cruz de Tenerife",
+        "street name": "Plaza de la Independencia",
+        "street number": 56,
+        "postal code": "32269"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1995-02-16",
+    "nationality": "Spanish",
+    "passport_number": "GD7221315",
+    "passport_issue_date": "2018-10-02",
+    "passport_expiry_date": "2028-10-01",
+    "gender": "M",
+    "phone_number": "683 962 861",
+    "email_address": "vazquez.sanchez@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Colegio San Ignacio de Loyola Valencia",
+        "graduation_year": 2012
+    },
+    "higher_education": [
+        {
+            "university": "Valencia School of Fine Arts",
+            "graduation_year": 2017
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2018,
+            "end_year": null,
+            "company": "Mediaset España Comunicación S.A.",
+            "position": "Journalist",
+            "salary": 28000
+        }
+    ],
+    "aum": {
+        "savings": 30000,
+        "inheritance": 0,
+        "real_estate_value": 1880000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 1880000,
+            "property location": "Santa Cruz de Tenerife"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

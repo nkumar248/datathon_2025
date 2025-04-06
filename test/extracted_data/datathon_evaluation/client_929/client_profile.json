@@ -1,0 +1,77 @@
+{
+    "name": "Daniela Idun Oddershede",
+    "address": {
+        "city": "Gentofte",
+        "street name": "Strøget",
+        "street number": 50,
+        "postal code": "4783"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1992-06-16",
+    "nationality": "Danish",
+    "passport_number": "PC3127983",
+    "passport_issue_date": "2016-12-09",
+    "passport_expiry_date": "2026-12-08",
+    "gender": "F",
+    "phone_number": "+45 85 30 38 71",
+    "email_address": "daniela.oddershede@all.dk",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Middelfart Gymnasium",
+        "graduation_year": 2010
+    },
+    "higher_education": [
+        {
+            "university": "The Royal Danish Academy of Fine Arts - Schools of Architecture, Design and Conservation",
+            "graduation_year": 2017
+        },
+        {
+            "university": "University of Copenhagen",
+            "graduation_year": 2020
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "Ordrupgaard Museum",
+            "position": "Art Dealer",
+            "salary": 337000
+        }
+    ],
+    "aum": {
+        "savings": 350000,
+        "inheritance": 17230000,
+        "real_estate_value": 5350000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1140000,
+            "property location": "Gentofte"
+        },
+        {
+            "property type": "villa",
+            "property value": 2530000,
+            "property location": "Aarhus"
+        },
+        {
+            "property type": "house",
+            "property value": 1680000,
+            "property location": "Vejle"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

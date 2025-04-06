@@ -1,0 +1,17 @@
+{
+    "name": " Joséphine Camille Moreau",
+    "first_name": " Joséphine",
+    "middle_name": "Camille",
+    "last_name": "Moreau",
+    "passport_number": "HY9695153",
+    "currency": "EUR",
+    "address": {
+        "city": "Clermont-Ferrand",
+        "street name": "Rue de la Convention",
+        "street number": 93,
+        "postal code": "61746"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 00 72 16 33 95",
+    "email_address": "josephine.moreau@bbox.fr"
+}

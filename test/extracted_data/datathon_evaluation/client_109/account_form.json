@@ -1,0 +1,17 @@
+{
+    "name": "Binder Graf Gruber",
+    "first_name": "Binder",
+    "middle_name": "Graf",
+    "last_name": "Gruber",
+    "passport_number": "WN4136195",
+    "currency": "EUR",
+    "address": {
+        "city": "Amstetten",
+        "street name": "Porzellangasse",
+        "street number": 86,
+        "postal code": "4029"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 215 938 0578",
+    "email_address": "binder.gruber@telekom.at"
+}

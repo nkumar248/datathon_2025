@@ -1,0 +1,17 @@
+{
+    "name": "Céline Gisèle Schneider",
+    "first_name": "Céline",
+    "middle_name": "Gisèle",
+    "last_name": "Schneider",
+    "passport_number": "FY4929466",
+    "currency": "CHF",
+    "address": {
+        "city": "St. Gallen",
+        "street name": "Rue des Délices",
+        "street number": 15,
+        "postal code": "3623"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 097 563 74 42",
+    "email_address": "celine.schneider@sunrise.ch"
+}

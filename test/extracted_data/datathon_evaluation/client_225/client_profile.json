@@ -1,0 +1,77 @@
+{
+    "name": "Julia Josefine Lang",
+    "address": {
+        "city": "Linz",
+        "street name": "Westbahnstraße",
+        "street number": 71,
+        "postal code": "4444"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1988-07-22",
+    "nationality": "Austrian",
+    "passport_number": "GZ5788709",
+    "passport_issue_date": "2024-02-01",
+    "passport_expiry_date": "2034-01-31",
+    "gender": "F",
+    "phone_number": "+43 895 199 7847",
+    "email_address": "julia.lang@vol.at",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Bundesgymnasium und Bundesrealgymnasium Leoben",
+        "graduation_year": 2008
+    },
+    "higher_education": [
+        {
+            "university": "University of Salzburg",
+            "graduation_year": 2012
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1987,
+            "end_year": 2015,
+            "company": "Conwert Immobilien Invest AG",
+            "position": "Property Manager",
+            "salary": 33000
+        },
+        {
+            "start_year": 2017,
+            "end_year": 2021,
+            "company": "Immofinanz AG",
+            "position": "Developer",
+            "salary": 44000
+        },
+        {
+            "start_year": 2023,
+            "end_year": 2025,
+            "company": "CA Immo",
+            "position": "Construction Company Owner",
+            "salary": 71000
+        }
+    ],
+    "aum": {
+        "savings": 50000,
+        "inheritance": 3970000,
+        "real_estate_value": 1730000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2020,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 1730000,
+            "property location": "Linz"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

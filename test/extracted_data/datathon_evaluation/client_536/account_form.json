@@ -1,0 +1,17 @@
+{
+    "name": "Haider Hofer Schmidt",
+    "first_name": "Haider",
+    "middle_name": "Hofer",
+    "last_name": "Schmidt",
+    "passport_number": "ZH6608805",
+    "currency": "EUR",
+    "address": {
+        "city": "Schwechat",
+        "street name": "Kaiserebersdorf",
+        "street number": 91,
+        "postal code": "0074"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 902 795 7912",
+    "email_address": "haider.schmidt@upc.at"
+}

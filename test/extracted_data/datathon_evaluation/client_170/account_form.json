@@ -1,0 +1,17 @@
+{
+    "name": "Angelica Claudia Livi",
+    "first_name": "Angelica",
+    "middle_name": "Claudia",
+    "last_name": "Liivi",
+    "passport_number": "OE6856419",
+    "currency": "EUR",
+    "address": {
+        "city": "Perugia",
+        "street name": "Via dei Banchi Vecchi",
+        "street number": 31,
+        "postal code": "62602"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 327 4845407",
+    "email_address": "angelica.livi@icloud.com"
+}

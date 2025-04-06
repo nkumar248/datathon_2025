@@ -1,0 +1,17 @@
+{
+    "name": "Floriane Margaux Legrand",
+    "first_name": "Floriane",
+    "middle_name": "Margaux",
+    "last_name": "Legrand",
+    "passport_number": "TU8631814",
+    "currency": "DKK",
+    "address": {
+        "city": "Ikast",
+        "street name": "Gyldenløvesgade",
+        "street number": 61,
+        "postal code": "7990"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "44 51 68 06",
+    "email_address": "floriane.legrand@wanadoo.dk"
+}

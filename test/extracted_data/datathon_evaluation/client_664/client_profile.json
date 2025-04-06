@@ -1,0 +1,77 @@
+{
+    "name": "Mayr Schnell Reiter",
+    "address": {
+        "city": "Klagenfurt",
+        "street name": "Gasometerstraße",
+        "street number": 35,
+        "postal code": "5506"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1962-05-03",
+    "nationality": "Austrian",
+    "passport_number": "YR6815215",
+    "passport_issue_date": "2018-09-18",
+    "passport_expiry_date": "2028-09-17",
+    "gender": "M",
+    "phone_number": "+43 517 875 3944",
+    "email_address": "mayr.reiter@chello.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Français de Vienne",
+        "graduation_year": 1982
+    },
+    "higher_education": [
+        {
+            "university": "FH Joanneum University of Applied Sciences",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1986,
+            "end_year": 1987,
+            "company": "Microsoft Austria GmbH",
+            "position": "Software Developer",
+            "salary": 32000
+        },
+        {
+            "start_year": 1988,
+            "end_year": 2023,
+            "company": "Microsoft Austria GmbH",
+            "position": "Startup Founder",
+            "salary": 420000
+        }
+    ],
+    "aum": {
+        "savings": 850000,
+        "inheritance": 0,
+        "real_estate_value": 3326000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 816000,
+            "property location": "Klagenfurt"
+        },
+        {
+            "property type": "villa",
+            "property value": 1790000,
+            "property location": "Tulln an der Donau"
+        },
+        {
+            "property type": "flat",
+            "property value": 720000,
+            "property location": "Bruck an der Mur"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Gasser Ackermann",
+    "first_name": "Gasser",
+    "middle_name": "",
+    "last_name": "Ackermann",
+    "passport_number": "UM3106268",
+    "currency": "CHF",
+    "address": {
+        "city": "Fribourg",
+        "street name": "Spitalgasse",
+        "street number": 92,
+        "postal code": "2756"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "030 935 49 91",
+    "email_address": "gasser.ackermann@sunrise.ch"
+}

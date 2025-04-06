@@ -1,0 +1,17 @@
+{
+    "name": "Rizzo Ricci Esposito",
+    "first_name": "Rizzo",
+    "middle_name": "Ricci",
+    "last_name": "Esposito",
+    "passport_number": "GG7132012",
+    "currency": "EUR",
+    "address": {
+        "city": "Bari",
+        "street name": "Piazza Farnese",
+        "street number": 39,
+        "postal code": "84585"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 352 0445879",
+    "email_address": "rizzo.esposito@fastweb.it"
+}

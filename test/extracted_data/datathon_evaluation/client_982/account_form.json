@@ -1,0 +1,17 @@
+{
+    "name": "Lang Koller Egger",
+    "first_name": "Lang",
+    "middle_name": "Koller",
+    "last_name": "Egger",
+    "passport_number": "UZ3983718",
+    "currency": "EUR",
+    "address": {
+        "city": "Linz",
+        "street name": "Leopoldstraße",
+        "street number": 99,
+        "postal code": "2348"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 057 770 6911",
+    "email_address": "lang.egger@gmx.at"
+}

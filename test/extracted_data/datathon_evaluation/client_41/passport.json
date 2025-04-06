@@ -1,0 +1,17 @@
+{
+    "first_name": "Garcia",
+    "middle_name": "Laurent",
+    "last_name": "Fournier",
+    "gender": "M",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1963-07-09",
+    "passport_number": "GD8199644",
+    "passport_mrz": [
+        "P<FRAFOURNIER<<GARCIA<LAURENT<<<<<<<<<<<<<<<<",
+        "GD8199644FRA630709<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2018-02-04",
+    "passport_expiry_date": "2028-02-03"
+}

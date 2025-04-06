@@ -1,0 +1,81 @@
+{
+    "name": "Mayer Weber Schulz",
+    "address": {
+        "city": "Fürth",
+        "street name": "Kaiserstraße",
+        "street number": 43,
+        "postal code": "90834"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1959-11-16",
+    "nationality": "German",
+    "passport_number": "ZJ5337488",
+    "passport_issue_date": "2021-05-28",
+    "passport_expiry_date": "2031-05-27",
+    "gender": "M",
+    "phone_number": "+49 6424 844264",
+    "email_address": "mayer.schulz@unitybox.de",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Albert-Schweitzer-Gymnasium Hamburg",
+        "graduation_year": 1979
+    },
+    "higher_education": [
+        {
+            "university": "Munich University of Applied Sciences",
+            "graduation_year": 1983
+        },
+        {
+            "university": "Heidelberg University of Education",
+            "graduation_year": 1987
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1983,
+            "end_year": 1986,
+            "company": "RUAG Aerospace Services GmbH",
+            "position": "Aerospace Engineer",
+            "salary": 42000
+        },
+        {
+            "start_year": 1987,
+            "end_year": 2020,
+            "company": "Liebherr-Aerospace GmbH",
+            "position": "Program Manager",
+            "salary": 391000
+        }
+    ],
+    "aum": {
+        "savings": 720000,
+        "inheritance": 0,
+        "real_estate_value": 4260000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2200000,
+            "property location": "Fürth"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1240000,
+            "property location": "Chemnitz"
+        },
+        {
+            "property type": "flat",
+            "property value": 820000,
+            "property location": "Augsburg"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

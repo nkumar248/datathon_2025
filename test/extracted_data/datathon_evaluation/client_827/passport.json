@@ -1,0 +1,17 @@
+{
+    "first_name": "Lambert",
+    "middle_name": "Richard",
+    "last_name": "Marchand",
+    "gender": "M",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1985-11-01",
+    "passport_number": "RR2975574",
+    "passport_mrz": [
+        "P<FRAMARCHAND<<LAMBERT<RICHARD<<<<<<<<<<<<<<<",
+        "RR2975574FRA851101<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-09-04",
+    "passport_expiry_date": "2033-09-03"
+}

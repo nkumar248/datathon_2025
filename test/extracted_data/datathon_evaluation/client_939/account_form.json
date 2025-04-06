@@ -1,0 +1,17 @@
+{
+    "name": "Anna Hanne Jørgensen",
+    "first_name": "Anna",
+    "middle_name": "Hanne",
+    "last_name": "Jørgensen",
+    "passport_number": "VD7460500",
+    "currency": "DKK",
+    "address": {
+        "city": "Fredericia",
+        "street name": "Strøget",
+        "street number": 59,
+        "postal code": "4293"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "62 80 17 94",
+    "email_address": "anna.jrgensen@outlook.com"
+}

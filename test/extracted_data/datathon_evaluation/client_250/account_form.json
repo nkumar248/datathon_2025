@@ -1,0 +1,17 @@
+{
+    "name": "Giulia  Leonardi",
+    "first_name": "Giulia",
+    "middle_name": "",
+    "last_name": " Leonardi",
+    "passport_number": "WZ6719976",
+    "currency": "EUR",
+    "address": {
+        "city": "Bologna",
+        "street name": "Via Po",
+        "street number": 96,
+        "postal code": "79544"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "337 5526089",
+    "email_address": "giulia.leonardi@wind.it"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Salo Mustonen Viitanen",
+    "first_name": "Salo",
+    "middle_name": "Mustonen",
+    "last_name": "Viitanen",
+    "passport_number": "WJ1011899",
+    "currency": "EUR",
+    "address": {
+        "city": "Vantaa",
+        "street name": "Karjalankatu",
+        "street number": 22,
+        "postal code": "24491"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 044 173 83 28",
+    "email_address": "salo.viitanen@icloud.com"
+}

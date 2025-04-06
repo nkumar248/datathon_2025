@@ -1,0 +1,83 @@
+{
+    "name": "Meier Weber",
+    "address": {
+        "city": "Frauenfeld",
+        "street name": "Bärenplatz",
+        "street number": 42,
+        "postal code": "6019"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1961-06-15",
+    "nationality": "Swiss",
+    "passport_number": "JU8949098",
+    "passport_issue_date": "2022-10-13",
+    "passport_expiry_date": "2032-10-12",
+    "gender": "M",
+    "phone_number": "021 413 60 82",
+    "email_address": "meier.weber@swissonline.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée des Templiers Fribourg",
+        "graduation_year": 1979
+    },
+    "higher_education": [
+        {
+            "university": "University of Fribourg",
+            "graduation_year": 1984
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1986,
+            "end_year": 1989,
+            "company": "Pilatus Aircraft Ltd.",
+            "position": "Aerospace Engineer",
+            "salary": 64000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 1991,
+            "company": "Pilatus Aircraft Ltd.",
+            "position": "Program Manager",
+            "salary": 93000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 2022,
+            "company": "SR Technics Switzerland Ltd.",
+            "position": "Director of Operations",
+            "salary": 1254000
+        }
+    ],
+    "aum": {
+        "savings": 2480000,
+        "inheritance": 0,
+        "real_estate_value": 6891000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1951000,
+            "property location": "Frauenfeld"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 2470000,
+            "property location": "Kreuzlingen"
+        },
+        {
+            "property type": "house",
+            "property value": 2470000,
+            "property location": "Lugano"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

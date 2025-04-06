@@ -1,0 +1,17 @@
+{
+    "name": "Celli Romano Ferrari",
+    "first_name": "Celli",
+    "middle_name": "Romano",
+    "last_name": "Ferrari",
+    "passport_number": "VG5082366",
+    "currency": "EUR",
+    "address": {
+        "city": "Rome",
+        "street name": "Piazza della Repubblica",
+        "street number": 35,
+        "postal code": "31617"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 391 5153080",
+    "email_address": "celli.ferrari@tiscali.it"
+}

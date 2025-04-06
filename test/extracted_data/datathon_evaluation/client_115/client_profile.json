@@ -1,0 +1,71 @@
+{
+    "name": "Françoise Aline Schneider",
+    "address": {
+        "city": "Neuchatel",
+        "street name": "Marktgasse",
+        "street number": 32,
+        "postal code": "0639"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1975-04-18",
+    "nationality": "Swiss",
+    "passport_number": "SW1438436",
+    "passport_issue_date": "2020-10-03",
+    "passport_expiry_date": "2030-10-02",
+    "gender": "F",
+    "phone_number": "+41 053 780 57 50",
+    "email_address": "francoise.schneider@swisscom.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Liceo scientifico Giovanni Polli Lugano",
+        "graduation_year": 1993
+    },
+    "higher_education": [
+        {
+            "university": "Franklin University Switzerland",
+            "graduation_year": 1986
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1999,
+            "end_year": 2000,
+            "company": "Akris AG",
+            "position": "Assistant Designer",
+            "salary": 57000
+        },
+        {
+            "start_year": 2000,
+            "end_year": null,
+            "company": "Akris AG",
+            "position": "Senior Designer",
+            "salary": 346000
+        }
+    ],
+    "aum": {
+        "savings": 600000,
+        "inheritance": 870000,
+        "real_estate_value": 2720000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2013,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 2720000,
+            "property location": "Neuchatel"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Denmark"
+    ],
+    "currency": "CHF"
+}

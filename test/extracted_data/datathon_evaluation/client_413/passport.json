@@ -1,0 +1,17 @@
+{
+    "first_name": "Soto",
+    "middle_name": "",
+    "last_name": "Ruiz",
+    "gender": "M",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "1954-11-17",
+    "passport_number": "ST9857697",
+    "passport_mrz": [
+        "P<ESPRUIZ<<SOTO<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+        "ST9857697ESP541117<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2015-03-23",
+    "passport_expiry_date": "2025-03-22"
+}

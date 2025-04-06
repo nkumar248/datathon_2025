@@ -1,0 +1,85 @@
+{
+    "name": "Florine Barbara Ackermann",
+    "address": {
+        "city": "Sion",
+        "street name": "Altstadt",
+        "street number": 51,
+        "postal code": "9857"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1993-01-21",
+    "nationality": "Swiss",
+    "passport_number": "MC5811207",
+    "passport_issue_date": "2021-05-22",
+    "passport_expiry_date": "2031-05-21",
+    "gender": "F",
+    "phone_number": "+41 083 205 49 50",
+    "email_address": "florine.ackermann@gmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Liceo scientifico Giovanni Polli Lugano",
+        "graduation_year": 2012
+    },
+    "higher_education": [
+        {
+            "university": "Suffolk University in Geneva",
+            "graduation_year": 2017
+        },
+        {
+            "university": "Hotel Institute Montreux",
+            "graduation_year": 2019
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2016,
+            "end_year": 2017,
+            "company": "Trafigura Beheer B.V. (Swiss branch)",
+            "position": "Junior Trader",
+            "salary": 67000
+        },
+        {
+            "start_year": 2018,
+            "end_year": null,
+            "company": "Mercuria Energy Trading SA",
+            "position": "Senior Trader",
+            "salary": 116000
+        }
+    ],
+    "aum": {
+        "savings": 120000,
+        "inheritance": 200000,
+        "real_estate_value": 8940000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 2480000,
+            "property location": "Sion"
+        },
+        {
+            "property type": "villa",
+            "property value": 4020000,
+            "property location": "Locarno"
+        },
+        {
+            "property type": "house",
+            "property value": 2440000,
+            "property location": "Locarno"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Netherlands"
+    ],
+    "currency": "CHF"
+}

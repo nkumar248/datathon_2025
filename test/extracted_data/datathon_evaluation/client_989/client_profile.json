@@ -1,0 +1,98 @@
+{
+    "name": "Schwarz Huber Fuchs",
+    "address": {
+        "city": "Bellinzona",
+        "street name": "Rue de l'Athénée",
+        "street number": 73,
+        "postal code": "6720"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1962-03-30",
+    "nationality": "Austrian",
+    "passport_number": "GO5401340",
+    "passport_issue_date": "2018-03-29",
+    "passport_expiry_date": "2028-03-28",
+    "gender": "M",
+    "phone_number": "008 553 27 76",
+    "email_address": "schwarz.fuchs@swissonline.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Bundesgymnasium und Bundesrealgymnasium Mattersburg",
+        "graduation_year": 1972
+    },
+    "higher_education": [
+        {
+            "university": "University of Salzburg",
+            "graduation_year": 1984
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1985,
+            "end_year": 1987,
+            "company": "Julius Baer Gruppe AG",
+            "position": "Family Office Manager",
+            "salary": 35000
+        },
+        {
+            "start_year": 1987,
+            "end_year": 1989,
+            "company": "UBS AG",
+            "position": "Investment Director",
+            "salary": 51000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 1990,
+            "company": "Lombard Odier Darier Hentsch & Cie",
+            "position": "CFO",
+            "salary": 62000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 1993,
+            "company": "Credit Suisse AG",
+            "position": "COO",
+            "salary": 117000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 2022,
+            "company": "Credit Suisse AG",
+            "position": "CEO",
+            "salary": 1498000
+        }
+    ],
+    "aum": {
+        "savings": 2870000,
+        "inheritance": 0,
+        "real_estate_value": 5240000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 3150000,
+            "property location": "Bellinzona"
+        },
+        {
+            "property type": "house",
+            "property value": 1260000,
+            "property location": "Steinbach am Attersee"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 830000,
+            "property location": "Salzburg"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Austria"
+    ],
+    "currency": "CHF"
+}

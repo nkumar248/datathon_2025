@@ -1,0 +1,65 @@
+{
+    "name": "Colombe Louna Lambert",
+    "address": {
+        "city": "Lille",
+        "street name": "Pont des Arts",
+        "street number": 35,
+        "postal code": "02781"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1995-04-27",
+    "nationality": "French",
+    "passport_number": "WJ9855079",
+    "passport_issue_date": "2018-12-30",
+    "passport_expiry_date": "2028-12-29",
+    "gender": "F",
+    "phone_number": "+33 01 28 98 74 60",
+    "email_address": "colombe.lambert@numericable.fr",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée Claude Debussy",
+        "graduation_year": 2014
+    },
+    "higher_education": [
+        {
+            "university": "École Normale Supérieure (ENS) Paris",
+            "graduation_year": 2018
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2020,
+            "end_year": 2021,
+            "company": "BNP Paribas S.A.",
+            "position": "Investment Banker",
+            "salary": 33000
+        },
+        {
+            "start_year": 2021,
+            "end_year": null,
+            "company": "Natixis S.A.",
+            "position": "Private Equity Investor",
+            "salary": 47000
+        }
+    ],
+    "aum": {
+        "savings": 30000,
+        "inheritance": 2480000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands",
+        "France"
+    ],
+    "currency": "EUR"
+}

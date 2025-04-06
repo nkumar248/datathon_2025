@@ -1,0 +1,17 @@
+{
+    "name": "Savolainen Heikkinen Piirainen",
+    "first_name": "Savolainen",
+    "middle_name": "Heikkinen",
+    "last_name": "Piirainen",
+    "passport_number": "UI6114622",
+    "currency": "EUR",
+    "address": {
+        "city": "Joensuu",
+        "street name": "Lönnrotinkatu",
+        "street number": 24,
+        "postal code": "76315"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 049 307 60 67",
+    "email_address": "savolainen.piirainen@saunalahti.fi"
+}

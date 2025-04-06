@@ -1,0 +1,57 @@
+{
+    "name": "Koskinen Virtanen Järvinen",
+    "address": {
+        "city": "Porvoo",
+        "street name": "Neljäs linja",
+        "street number": 35,
+        "postal code": "30836"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1999-07-16",
+    "nationality": "Finnish",
+    "passport_number": "ZG6569305",
+    "passport_issue_date": "2018-07-23",
+    "passport_expiry_date": "2028-07-22",
+    "gender": "M",
+    "phone_number": "+38 044 447 20 08",
+    "email_address": "koskinen.jarvinen@elisa.fi",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Kiteen lukio",
+        "graduation_year": 2019
+    },
+    "higher_education": [
+        {
+            "university": "University of Turku",
+            "graduation_year": 2023
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2023,
+            "end_year": null,
+            "company": "Fimmic Oy",
+            "position": "Research Scientist",
+            "salary": 42000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 2600000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

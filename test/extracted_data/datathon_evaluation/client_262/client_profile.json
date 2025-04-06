@@ -1,0 +1,83 @@
+{
+    "name": "Ilaria Giovanna Landi",
+    "address": {
+        "city": "Reggio Calabria",
+        "street name": "Piazza della Repubblica",
+        "street number": 6,
+        "postal code": "26819"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1984-10-09",
+    "nationality": "Italian",
+    "passport_number": "AE2251450",
+    "passport_issue_date": "2018-01-11",
+    "passport_expiry_date": "2028-01-10",
+    "gender": "F",
+    "phone_number": "+39 315 5282746",
+    "email_address": "ilaria.landi@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Istituto Tecnico Industriale Alessandro Volta Torino",
+        "graduation_year": 2002
+    },
+    "higher_education": [
+        {
+            "university": "Normal Superior School of Pisa",
+            "graduation_year": 2009
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2008,
+            "end_year": 2010,
+            "company": "Intesa Sanpaolo Private Banking",
+            "position": "Financial Advisor",
+            "salary": 24000
+        },
+        {
+            "start_year": 2011,
+            "end_year": 2013,
+            "company": "Allianz Bank Financial Advisors S.p.A.",
+            "position": "Portfolio Manager",
+            "salary": 41000
+        },
+        {
+            "start_year": 2015,
+            "end_year": null,
+            "company": "Allianz Bank Financial Advisors S.p.A.",
+            "position": "Wealth Manager",
+            "salary": 112000
+        }
+    ],
+    "aum": {
+        "savings": 160000,
+        "inheritance": 1080000,
+        "real_estate_value": 2667000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1317000,
+            "property location": "Reggio Calabria"
+        },
+        {
+            "property type": "house",
+            "property value": 1350000,
+            "property location": "Udine"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

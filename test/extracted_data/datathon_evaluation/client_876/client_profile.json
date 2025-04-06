@@ -1,0 +1,76 @@
+{
+    "name": "Mayr Bauer Maier",
+    "address": {
+        "city": "Tulln an der Donau",
+        "street name": "Opernring",
+        "street number": 57,
+        "postal code": "2923"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1989-04-25",
+    "nationality": "Austrian",
+    "passport_number": "NM2072347",
+    "passport_issue_date": "2019-01-29",
+    "passport_expiry_date": "2029-01-28",
+    "gender": "M",
+    "phone_number": "+43 692 198 2508",
+    "email_address": "mayr.maier@upc.at",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "BORG Graz Liebenau",
+        "graduation_year": 2009
+    },
+    "higher_education": [
+        {
+            "university": "Johannes Kepler University Linz",
+            "graduation_year": 2013
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2013,
+            "end_year": 2014,
+            "company": "UniCredit Private Banking",
+            "position": "Financial Advisor",
+            "salary": 35000
+        },
+        {
+            "start_year": 2015,
+            "end_year": null,
+            "company": "Erste Private Banking",
+            "position": "Portfolio Manager",
+            "salary": 68000
+        }
+    ],
+    "aum": {
+        "savings": 70000,
+        "inheritance": 1080000,
+        "real_estate_value": 1871000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1091000,
+            "property location": "Tulln an der Donau"
+        },
+        {
+            "property type": "condo",
+            "property value": 780000,
+            "property location": "Mödling"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

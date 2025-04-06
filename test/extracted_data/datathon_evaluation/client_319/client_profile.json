@@ -1,0 +1,94 @@
+{
+    "name": "Sofia Erika Martini",
+    "address": {
+        "city": "Parma",
+        "street name": "Via del Governo Vecchio",
+        "street number": 74,
+        "postal code": "99566"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1969-06-20",
+    "nationality": "Italian",
+    "passport_number": "ZP5115242",
+    "passport_issue_date": "2022-06-06",
+    "passport_expiry_date": "2032-06-05",
+    "gender": "F",
+    "phone_number": "398 1121987",
+    "email_address": "sofia.martini@outlook.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Liceo Scientifico Enrico Fermi Bologna",
+        "graduation_year": 1987
+    },
+    "higher_education": [
+        {
+            "university": "Luiss Guido Carli",
+            "graduation_year": 1993
+        },
+        {
+            "university": "Bocconi University",
+            "graduation_year": 1997
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1993,
+            "end_year": 1996,
+            "company": "Intesa Sanpaolo S.p.A.",
+            "position": "Stockbroker",
+            "salary": 27000
+        },
+        {
+            "start_year": 1996,
+            "end_year": 1998,
+            "company": "Intesa Sanpaolo S.p.A.",
+            "position": "Portfolio Manager",
+            "salary": 44000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2004,
+            "company": "UniCredit S.p.A.",
+            "position": "Hedge Fund Manager",
+            "salary": 111000
+        },
+        {
+            "start_year": 2005,
+            "end_year": null,
+            "company": "Intesa Sanpaolo S.p.A.",
+            "position": "Private Equity Investor",
+            "salary": 635000
+        }
+    ],
+    "aum": {
+        "savings": 1100000,
+        "inheritance": 1930000,
+        "real_estate_value": 2360000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2010,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1210000,
+            "property location": "Parma"
+        },
+        {
+            "property type": "house",
+            "property value": 1150000,
+            "property location": "Turin"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

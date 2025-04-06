@@ -1,0 +1,83 @@
+{
+    "name": "Léa Amélie Van den Berghe",
+    "address": {
+        "city": "Liège",
+        "street name": "Rue Wiertz",
+        "street number": 8,
+        "postal code": "0862"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1976-03-10",
+    "nationality": "Belgian",
+    "passport_number": "WF4706927",
+    "passport_issue_date": "2023-08-15",
+    "passport_expiry_date": "2030-08-14",
+    "gender": "F",
+    "phone_number": "0416 542 513",
+    "email_address": "lea.vandenberghe@hotmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Institut des Ursulines",
+        "graduation_year": 1994
+    },
+    "higher_education": [
+        {
+            "university": "Brussels School of International Studies",
+            "graduation_year": 1999
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1999,
+            "end_year": 2004,
+            "company": "UCB Pharma SA",
+            "position": "Research Scientist",
+            "salary": 42000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2009,
+            "company": "Takeda Pharmaceuticals Belgium",
+            "position": "Biotech Startup Founder",
+            "salary": 51000
+        },
+        {
+            "start_year": 2011,
+            "end_year": null,
+            "company": "UCB Pharma SA",
+            "position": "CEO",
+            "salary": 279000
+        }
+    ],
+    "aum": {
+        "savings": 460000,
+        "inheritance": 2570000,
+        "real_estate_value": 1860000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2008,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 917000,
+            "property location": "Liège"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 943000,
+            "property location": "Leuven"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

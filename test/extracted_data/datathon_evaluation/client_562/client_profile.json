@@ -1,0 +1,87 @@
+{
+    "name": "Lea Ackermann",
+    "address": {
+        "city": "Schaffhausen",
+        "street name": "Rue de l'Athénée",
+        "street number": 43,
+        "postal code": "7347"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1981-08-31",
+    "nationality": "Swiss",
+    "passport_number": "PC5034127",
+    "passport_issue_date": "2023-07-25",
+    "passport_expiry_date": "2033-07-24",
+    "gender": "F",
+    "phone_number": "+41 072 563 35 76",
+    "email_address": "lea.ackermann@outlook.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Gymnasium und Wirtschaftsmittelschule Sarnen Obwalden",
+        "graduation_year": 2000
+    },
+    "higher_education": [
+        {
+            "university": "Franklin University Switzerland",
+            "graduation_year": 2005
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2005,
+            "end_year": 2007,
+            "company": "NZZ Mediengruppe",
+            "position": "Journalist",
+            "salary": 67000
+        },
+        {
+            "start_year": 2008,
+            "end_year": 2011,
+            "company": "SRF Schweizer Radio und Fernsehen",
+            "position": "Editor",
+            "salary": 85000
+        },
+        {
+            "start_year": 2011,
+            "end_year": null,
+            "company": "NZZ Mediengruppe",
+            "position": "Publisher",
+            "salary": 514000
+        }
+    ],
+    "aum": {
+        "savings": 800000,
+        "inheritance": 1660000,
+        "real_estate_value": 10017000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2007,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1727000,
+            "property location": "Schaffhausen"
+        },
+        {
+            "property type": "villa",
+            "property value": 5030000,
+            "property location": "Baden"
+        },
+        {
+            "property type": "house",
+            "property value": 3260000,
+            "property location": "Bienna"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

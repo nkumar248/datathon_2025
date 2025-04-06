@@ -1,0 +1,17 @@
+{
+    "first_name": "Meier",
+    "middle_name": "",
+    "last_name": "Weber",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1961-06-15",
+    "passport_number": "JU8949098",
+    "passport_mrz": [
+        "P<CHEWEBER<<MEIER<<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+        "JU8949098CHE610615<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-10-13",
+    "passport_expiry_date": "2032-10-12"
+}

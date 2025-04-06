@@ -1,0 +1,81 @@
+{
+    "name": "Ackermann Riedo Kuhn",
+    "address": {
+        "city": "Zurich",
+        "street name": "Gerberngasse",
+        "street number": 97,
+        "postal code": "1253"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1970-09-15",
+    "nationality": "Swiss",
+    "passport_number": "TV5823842",
+    "passport_issue_date": "2021-11-17",
+    "passport_expiry_date": "2031-11-16",
+    "gender": "M",
+    "phone_number": "077 815 95 34",
+    "email_address": "ackermann.kuhn@bluewin.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Kantonsschule Liestal Basel-Landschaft",
+        "graduation_year": 1990
+    },
+    "higher_education": [
+        {
+            "university": "EPFL",
+            "graduation_year": 1993
+        },
+        {
+            "university": "Suffolk University in Geneva",
+            "graduation_year": 1999
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1994,
+            "end_year": 1995,
+            "company": "Microsoft Schweiz GmbH",
+            "position": "Software Developer",
+            "salary": 62000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 1996,
+            "company": "IBM Switzerland Ltd.",
+            "position": "Startup Founder",
+            "salary": 98000
+        },
+        {
+            "start_year": 1996,
+            "end_year": null,
+            "company": "Swisscom AG",
+            "position": "CEO",
+            "salary": 1203000
+        }
+    ],
+    "aum": {
+        "savings": 2010000,
+        "inheritance": 450000,
+        "real_estate_value": 3490000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2005,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 3490000,
+            "property location": "Zurich"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

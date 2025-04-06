@@ -1,0 +1,17 @@
+{
+    "name": "Beatrice Anna Rizzo",
+    "first_name": "Beatrice",
+    "middle_name": "Anna",
+    "last_name": "Rizzo",
+    "passport_number": "XZ0405264",
+    "currency": "EUR",
+    "address": {
+        "city": "Pisa",
+        "street name": "Via Veneto",
+        "street number": 28,
+        "postal code": "20002"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "339 1351867",
+    "email_address": "beatrice.rizzo@libero.it"
+}

@@ -1,0 +1,78 @@
+{
+    "name": "Lea Leonie Bauer",
+    "address": {
+        "city": "Stockerau",
+        "street name": "Ringstraße",
+        "street number": 15,
+        "postal code": "8203"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1988-02-15",
+    "nationality": "Austrian",
+    "passport_number": "YW8201724",
+    "passport_issue_date": "2021-09-26",
+    "passport_expiry_date": "2031-09-25",
+    "gender": "F",
+    "phone_number": "608 924 8581",
+    "email_address": "lea.bauer@chello.at",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Bischöfliches Gymnasium Petrinum",
+        "graduation_year": 2005
+    },
+    "higher_education": [
+        {
+            "university": "Vienna University of Technology",
+            "graduation_year": 2011
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2011,
+            "end_year": 2012,
+            "company": "Octapharma AG",
+            "position": "Research Scientist",
+            "salary": 34000
+        },
+        {
+            "start_year": 2012,
+            "end_year": 2015,
+            "company": "Intercell AG",
+            "position": "Biotech Startup Founder",
+            "salary": 52000
+        },
+        {
+            "start_year": 2015,
+            "end_year": null,
+            "company": "Marinomed Biotechnologie GmbH",
+            "position": "CEO",
+            "salary": 122000
+        }
+    ],
+    "aum": {
+        "savings": 170000,
+        "inheritance": 730000,
+        "real_estate_value": 1310000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1310000,
+            "property location": "Stockerau"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Hybrid",
+    "preferred_markets": [
+        "Finland",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

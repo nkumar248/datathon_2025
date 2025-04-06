@@ -1,0 +1,70 @@
+{
+    "name": "Élodie Daphné Maes",
+    "address": {
+        "city": "Aalst",
+        "street name": "Rue des Quatre Bras",
+        "street number": 20,
+        "postal code": "8924"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1974-08-28",
+    "nationality": "Belgian",
+    "passport_number": "SU6240598",
+    "passport_issue_date": "2023-08-10",
+    "passport_expiry_date": "2030-08-09",
+    "gender": "F",
+    "phone_number": "+32 0424 945 427",
+    "email_address": "elodie.maes@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Ecole Secondaire Libre du Sacré-Cœur",
+        "graduation_year": 1992
+    },
+    "higher_education": [
+        {
+            "university": "Université libre de Bruxelles",
+            "graduation_year": 1999
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1999,
+            "end_year": 2000,
+            "company": "GIMV NV",
+            "position": "Stockbroker",
+            "salary": 40000
+        },
+        {
+            "start_year": 2001,
+            "end_year": null,
+            "company": "GIMV NV",
+            "position": "Portfolio Manager",
+            "salary": 309000
+        }
+    ],
+    "aum": {
+        "savings": 480000,
+        "inheritance": 1460000,
+        "real_estate_value": 1540000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2008,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1540000,
+            "property location": "Aalst"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

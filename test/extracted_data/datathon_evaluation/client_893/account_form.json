@@ -1,0 +1,17 @@
+{
+    "name": "Andersen Jensen Mikkelsen",
+    "first_name": "Andersen",
+    "middle_name": "Jensen",
+    "last_name": "Mikkelsen",
+    "passport_number": "JA3902482",
+    "currency": "DKK",
+    "address": {
+        "city": "Copenhagen",
+        "street name": "Åboulevarden",
+        "street number": 5,
+        "postal code": "3658"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 24 56 76 38",
+    "email_address": "andersen.mikkelsen@yousee.dk"
+}

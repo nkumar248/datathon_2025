@@ -1,0 +1,17 @@
+{
+    "name": "Lucía Angela Ruiz",
+    "first_name": "Lucía",
+    "middle_name": "Angela",
+    "last_name": "Ruiz",
+    "passport_number": "OV6019912",
+    "currency": "EUR",
+    "address": {
+        "city": "Murcia",
+        "street name": "Plaza de la Libertad",
+        "street number": 10,
+        "postal code": "22468"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "++39661 397 931",
+    "email_address": "lucia.ruiz@outlook.com"
+}

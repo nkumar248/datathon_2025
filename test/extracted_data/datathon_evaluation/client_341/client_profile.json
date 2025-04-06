@@ -1,0 +1,82 @@
+{
+    "name": "Schneider Graf Egger",
+    "address": {
+        "city": "Amstetten",
+        "street name": "Obere Donaustraße",
+        "street number": 5,
+        "postal code": "6294"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1983-12-16",
+    "nationality": "Austrian",
+    "passport_number": "VI9294762",
+    "passport_issue_date": "2017-06-01",
+    "passport_expiry_date": "2027-05-31",
+    "gender": "M",
+    "phone_number": "+43 864 740 2075",
+    "email_address": "schneider.egger@vol.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Theresianum",
+        "graduation_year": 2002
+    },
+    "higher_education": [
+        {
+            "university": "Mozarteum University Salzburg",
+            "graduation_year": 2008
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2007,
+            "end_year": 2008,
+            "company": "Belvedere Museum",
+            "position": "Art Dealer",
+            "salary": 33000
+        },
+        {
+            "start_year": 2010,
+            "end_year": 2015,
+            "company": "MUMOK",
+            "position": "Gallery Owner",
+            "salary": 53000
+        },
+        {
+            "start_year": 2015,
+            "end_year": null,
+            "company": "Kunsthistorisches Museum",
+            "position": "Art Advisor",
+            "salary": 142000
+        }
+    ],
+    "aum": {
+        "savings": 210000,
+        "inheritance": 1470000,
+        "real_estate_value": 1880000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2005,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 861000,
+            "property location": "Amstetten"
+        },
+        {
+            "property type": "condo",
+            "property value": 1019000,
+            "property location": "Steinbach am Attersee"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

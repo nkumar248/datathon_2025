@@ -1,0 +1,17 @@
+{
+    "name": "Van den Berg Verhoeven Bakker",
+    "first_name": "Van den Berg",
+    "middle_name": "Verhoeven",
+    "last_name": "Bakker",
+    "passport_number": "HV8061341",
+    "currency": "EUR",
+    "address": {
+        "city": "Hengelo",
+        "street name": "Damrak",
+        "street number": 2,
+        "postal code": "2990 08"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 80723856",
+    "email_address": "vandenberg.bakker@hetnet.nl"
+}

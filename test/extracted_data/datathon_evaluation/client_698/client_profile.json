@@ -1,0 +1,68 @@
+{
+    "name": "Katriina Kaarin Lehtinen",
+    "address": {
+        "city": "Vantaa",
+        "street name": "Fabianinkatu",
+        "street number": 69,
+        "postal code": "48530"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1990-01-23",
+    "nationality": "Finnish",
+    "passport_number": "JW8184704",
+    "passport_issue_date": "2022-06-22",
+    "passport_expiry_date": "2032-06-21",
+    "gender": "F",
+    "phone_number": "+358 049 875 57 41",
+    "email_address": "katriina.lehtinen@saunalahti.fi",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Heinolan lukio",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "JAMK University of Applied Sciences",
+            "graduation_year": 2013
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "Neste Shipping Oy",
+            "position": "Ship Broker",
+            "salary": 93000
+        }
+    ],
+    "aum": {
+        "savings": 110000,
+        "inheritance": 3210000,
+        "real_estate_value": 1790000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 830000,
+            "property location": "Vantaa"
+        },
+        {
+            "property type": "condo",
+            "property value": 960000,
+            "property location": "Tuusula"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

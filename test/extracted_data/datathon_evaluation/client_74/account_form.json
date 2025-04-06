@@ -1,0 +1,17 @@
+{
+    "name": "Hortense Van den Berghe",
+    "first_name": "Hortense",
+    "middle_name": "",
+    "last_name": "Van den Berghe",
+    "passport_number": "VN6783139",
+    "currency": "EUR",
+    "address": {
+        "city": "Antwerp",
+        "street name": "Place Saint-Géry",
+        "street number": 18,
+        "postal code": "9877"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0437 734 127",
+    "email_address": "hortense.vandenberghe@telenet.be"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Gutiérrez Morales Vázquez",
+    "first_name": "Gutiérrez",
+    "middle_name": "Morales",
+    "last_name": "Vázquez",
+    "passport_number": "OK7427505",
+    "currency": "EUR",
+    "address": {
+        "city": "Barcelona",
+        "street name": "Calle de la Victoria",
+        "street number": 90,
+        "postal code": "06530"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "642 002 250",
+    "email_address": "gutierrez.vazquez@telefonica.es"
+}

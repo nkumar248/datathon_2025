@@ -1,0 +1,76 @@
+{
+    "name": "Émilie Laetitia Boucher",
+    "address": {
+        "city": "Rennes",
+        "street name": "Place Vendôme",
+        "street number": 70,
+        "postal code": "37353"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1979-02-28",
+    "nationality": "French",
+    "passport_number": "BG4617404",
+    "passport_issue_date": "2016-05-24",
+    "passport_expiry_date": "2026-05-23",
+    "gender": "F",
+    "phone_number": "+33 08 12 51 96 86",
+    "email_address": "emilie.boucher@numericable.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée du Parc",
+        "graduation_year": 1996
+    },
+    "higher_education": [
+        {
+            "university": "École Nationale d'Administration (ENA)",
+            "graduation_year": 1990
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2002,
+            "end_year": 2005,
+            "company": "Compagnie de Phalsbourg",
+            "position": "Property Manager",
+            "salary": 30000
+        },
+        {
+            "start_year": 2005,
+            "end_year": null,
+            "company": "Groupe Casino",
+            "position": "Developer",
+            "salary": 184000
+        }
+    ],
+    "aum": {
+        "savings": 330000,
+        "inheritance": 2290000,
+        "real_estate_value": 3430000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2009,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 2130000,
+            "property location": "Rennes"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1300000,
+            "property location": "Limoges"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

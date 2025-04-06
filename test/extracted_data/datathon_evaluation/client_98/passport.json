@@ -1,0 +1,17 @@
+{
+    "first_name": "Camille",
+    "middle_name": "Gabrielle",
+    "last_name": "Thomas",
+    "gender": "F",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1957-01-08",
+    "passport_number": "NG0555909",
+    "passport_mrz": [
+        "P<FRATHOMAS<<CAMILLE<GABRIELLE<<<<<<<<<<<<<<<",
+        "NG0555909FRA570108<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-04-13",
+    "passport_expiry_date": "2034-04-12"
+}

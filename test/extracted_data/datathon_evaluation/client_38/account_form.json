@@ -1,0 +1,17 @@
+{
+    "name": "Binder Wagner Schwarz",
+    "first_name": "Binder",
+    "middle_name": "Wagner",
+    "last_name": "Schwarz",
+    "passport_number": "XP3536027",
+    "currency": "EUR",
+    "address": {
+        "city": "Graz",
+        "street name": "Westbahnstraße",
+        "street number": 31,
+        "postal code": "1155"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 381 184 1929",
+    "email_address": "binder.schwarz@telekom.at"
+}

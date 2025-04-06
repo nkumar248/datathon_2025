@@ -1,0 +1,72 @@
+{
+    "name": "Anna Sarah Fischer",
+    "address": {
+        "city": "Zwettl",
+        "street name": "Naschmarkt",
+        "street number": 35,
+        "postal code": "7112"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1956-01-21",
+    "nationality": "Austrian",
+    "passport_number": "YS9261817",
+    "passport_issue_date": "2024-11-14",
+    "passport_expiry_date": "2034-11-13",
+    "gender": "F",
+    "phone_number": "+43 791 104 9078",
+    "email_address": "anna.fischer@vol.at",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Bundesrealgymnasium Salzburg",
+        "graduation_year": 1973
+    },
+    "higher_education": [
+        {
+            "university": "University of Klagenfurt",
+            "graduation_year": 1978
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1980,
+            "end_year": 1984,
+            "company": "Schoeller-Bleckmann AG",
+            "position": "Plant Manager",
+            "salary": 33000
+        },
+        {
+            "start_year": 1984,
+            "end_year": 2016,
+            "company": "AT&S Austria Technologie & Systemtechnik AG",
+            "position": "Operations Director",
+            "salary": 356000
+        }
+    ],
+    "aum": {
+        "savings": 760000,
+        "inheritance": 0,
+        "real_estate_value": 4160000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2320000,
+            "property location": "Zwettl"
+        },
+        {
+            "property type": "villa",
+            "property value": 1840000,
+            "property location": "Vienna"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

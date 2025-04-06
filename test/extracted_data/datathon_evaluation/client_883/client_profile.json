@@ -1,0 +1,82 @@
+{
+    "name": "Émilie Ingrid Dupont",
+    "address": {
+        "city": "Brest",
+        "street name": "Rue de Bretagne",
+        "street number": 5,
+        "postal code": "56485"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1969-02-26",
+    "nationality": "French",
+    "passport_number": "LN4793007",
+    "passport_issue_date": "2022-12-11",
+    "passport_expiry_date": "2032-12-10",
+    "gender": "F",
+    "phone_number": "08 78 34 14 98",
+    "email_address": "emilie.dupont@aliceadsl.fr",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée Janson-de-Sailly",
+        "graduation_year": 1987
+    },
+    "higher_education": [
+        {
+            "university": "University of Bordeaux",
+            "graduation_year": 1993
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1993,
+            "end_year": 1994,
+            "company": "Louis Vuitton Malletier S.A.",
+            "position": "Assistant Designer",
+            "salary": 28000
+        },
+        {
+            "start_year": 1996,
+            "end_year": 2000,
+            "company": "Dior S.A.",
+            "position": "Senior Designer",
+            "salary": 48000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2023,
+            "company": "Hermès International S.A.",
+            "position": "Creative Director",
+            "salary": 378000
+        }
+    ],
+    "aum": {
+        "savings": 600000,
+        "inheritance": 2610000,
+        "real_estate_value": 3190000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2009,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1460000,
+            "property location": "Brest"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1730000,
+            "property location": "Grenoble"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

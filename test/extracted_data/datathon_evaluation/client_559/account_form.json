@@ -1,0 +1,17 @@
+{
+    "name": "Hoffmann Koch Scholz",
+    "first_name": "Hoffmann",
+    "middle_name": "Koch",
+    "last_name": "Scholz",
+    "passport_number": "SF3180883",
+    "currency": "EUR",
+    "address": {
+        "city": "Münster",
+        "street name": "Luisenstraße",
+        "street number": 35,
+        "postal code": "93219"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 7512 7252777",
+    "email_address": "hoffmann.scholz@icloud.com"
+}

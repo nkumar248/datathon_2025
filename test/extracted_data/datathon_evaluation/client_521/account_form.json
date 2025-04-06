@@ -1,0 +1,17 @@
+{
+    "name": "Hortense Vandenberghe",
+    "first_name": "Hortense",
+    "middle_name": "",
+    "last_name": "Vandenberghe",
+    "passport_number": "TF0450921",
+    "currency": "EUR",
+    "address": {
+        "city": "Namur",
+        "street name": "Rue des Chartreux",
+        "street number": 93,
+        "postal code": "4429"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0449 828 286",
+    "email_address": "hortense.vandenberghe@edpnet.be"
+}

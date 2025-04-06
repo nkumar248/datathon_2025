@@ -1,0 +1,17 @@
+{
+    "name": "Helga Isabel Mayer",
+    "first_name": "Helga",
+    "middle_name": "Isabel",
+    "last_name": "Mayer",
+    "passport_number": "MR0296822",
+    "currency": "EUR",
+    "address": {
+        "city": "Mannheim",
+        "street name": "Bahnhofsplatz",
+        "street number": 57,
+        "postal code": "36330"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "4597 053824",
+    "email_address": "helga.mayer@arcor.de"
+}

@@ -1,0 +1,71 @@
+{
+    "name": "Janssens Peters Michiels",
+    "address": {
+        "city": "Liège",
+        "street name": "Avenue Louise",
+        "street number": 31,
+        "postal code": "5241"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1985-08-21",
+    "nationality": "Belgian",
+    "passport_number": "AU5045416",
+    "passport_issue_date": "2019-08-08",
+    "passport_expiry_date": "2026-08-07",
+    "gender": "M",
+    "phone_number": "+32 0450 158 582",
+    "email_address": "janssens.michiels@outlook.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Institut Saint-Joseph",
+        "graduation_year": 2003
+    },
+    "higher_education": [
+        {
+            "university": "Brussels School of International Studies",
+            "graduation_year": 2010
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2014,
+            "company": "ING Belgium SA/NV",
+            "position": "Family Office Manager",
+            "salary": 35000
+        },
+        {
+            "start_year": 2016,
+            "end_year": 2023,
+            "company": "KBC Bank NV",
+            "position": "Investment Director",
+            "salary": 59000
+        }
+    ],
+    "aum": {
+        "savings": 70000,
+        "inheritance": 4480000,
+        "real_estate_value": 1030000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2020,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1030000,
+            "property location": "Liège"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

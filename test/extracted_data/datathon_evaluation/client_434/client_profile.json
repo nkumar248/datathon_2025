@@ -1,0 +1,71 @@
+{
+    "name": "Lucía Angela Ruiz",
+    "address": {
+        "city": "Murcia",
+        "street name": "Plaza de la Libertad",
+        "street number": 10,
+        "postal code": "22468"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1994-09-16",
+    "nationality": "Spanish",
+    "passport_number": "OV6019912",
+    "passport_issue_date": "2024-05-26",
+    "passport_expiry_date": "2034-05-25",
+    "gender": "F",
+    "phone_number": "661 397 931",
+    "email_address": "lucia.ruiz@outlook.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "IES Vicente Aleixandre Santander",
+        "graduation_year": 2014
+    },
+    "higher_education": [
+        {
+            "university": "University of Granada",
+            "graduation_year": 2017
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2018,
+            "end_year": 2019,
+            "company": "Fidelity International (Spain)",
+            "position": "Stockbroker",
+            "salary": 27000
+        },
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "BlackRock Hispanic Markets S.A.",
+            "position": "Portfolio Manager",
+            "salary": 47000
+        }
+    ],
+    "aum": {
+        "savings": 40000,
+        "inheritance": 2800000,
+        "real_estate_value": 1240000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1240000,
+            "property location": "Murcia"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Short",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

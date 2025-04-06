@@ -1,0 +1,86 @@
+{
+    "name": "Lena Lea Huber",
+    "address": {
+        "city": "Stockerau",
+        "street name": "Naschmarkt",
+        "street number": 60,
+        "postal code": "2480"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1962-12-29",
+    "nationality": "Austrian",
+    "passport_number": "HU7085254",
+    "passport_issue_date": "2017-05-27",
+    "passport_expiry_date": "2027-05-26",
+    "gender": "F",
+    "phone_number": "+43 989 598 3861",
+    "email_address": "lena.huber@magenta.at",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Stiftsgymnasium Melk",
+        "graduation_year": 1981
+    },
+    "higher_education": [
+        {
+            "university": "University of Klagenfurt",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1986,
+            "end_year": 1990,
+            "company": "Raiffeisen Ware Austria",
+            "position": "Junior Trader",
+            "salary": 32000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 1991,
+            "company": "Gunvor Group",
+            "position": "Senior Trader",
+            "salary": 48000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 1994,
+            "company": "OMV AG",
+            "position": "Trading Desk Manager",
+            "salary": 67000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 2023,
+            "company": "Voestalpine AG",
+            "position": "Head of Commodities",
+            "salary": 964000
+        }
+    ],
+    "aum": {
+        "savings": 1670000,
+        "inheritance": 0,
+        "real_estate_value": 1950000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1040000,
+            "property location": "Stockerau"
+        },
+        {
+            "property type": "condo",
+            "property value": 910000,
+            "property location": "Tulln an der Donau"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

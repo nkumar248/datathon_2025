@@ -1,0 +1,17 @@
+{
+    "name": "Vilma Aurora Virtanen",
+    "first_name": "Vilma",
+    "middle_name": "Aurora",
+    "last_name": "Virtanen",
+    "passport_number": "IZ5198358",
+    "currency": "EUR",
+    "address": {
+        "city": "Kotka",
+        "street name": "Itäinen Teatterikuja",
+        "street number": 21,
+        "postal code": "98754"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "045 913 48 94",
+    "email_address": "vilma.virtanen@outlook.com"
+}

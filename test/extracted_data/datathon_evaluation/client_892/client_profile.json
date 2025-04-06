@@ -1,0 +1,80 @@
+{
+    "name": "Ginevra Chiara Livi",
+    "address": {
+        "city": "Padua",
+        "street name": "Piazza Navona",
+        "street number": 95,
+        "postal code": "34893"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1978-03-28",
+    "nationality": "Italian",
+    "passport_number": "TV6626721",
+    "passport_issue_date": "2020-08-14",
+    "passport_expiry_date": "2030-08-13",
+    "gender": "F",
+    "phone_number": "+39 341 6993875",
+    "email_address": "ginevra.livi@gmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Liceo Classico Marco Polo Venezia",
+        "graduation_year": 1997
+    },
+    "higher_education": [
+        {
+            "university": "University of Turin",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2001,
+            "end_year": 2005,
+            "company": "ENI S.p.A.",
+            "position": "Drilling Engineer",
+            "salary": 28000
+        },
+        {
+            "start_year": 2005,
+            "end_year": null,
+            "company": "Edison S.p.A.",
+            "position": "Reservoir Engineer",
+            "salary": 141000
+        }
+    ],
+    "aum": {
+        "savings": 240000,
+        "inheritance": 3850000,
+        "real_estate_value": 3190000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2005,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1240000,
+            "property location": "Padua"
+        },
+        {
+            "property type": "condo",
+            "property value": 1010000,
+            "property location": "Bologna"
+        },
+        {
+            "property type": "condo",
+            "property value": 940000,
+            "property location": "Trieste"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

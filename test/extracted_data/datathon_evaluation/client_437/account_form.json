@@ -1,0 +1,17 @@
+{
+    "name": "Lombardi De Luca",
+    "first_name": "Lombardi",
+    "middle_name": "",
+    "last_name": "De Luca",
+    "passport_number": "QD4022960",
+    "currency": "EUR",
+    "address": {
+        "city": "Messina",
+        "street name": "Via Ugo Bassi",
+        "street number": 5,
+        "postal code": "46923"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "336 3796544",
+    "email_address": "lombardi.deluca@aruba.it"
+}

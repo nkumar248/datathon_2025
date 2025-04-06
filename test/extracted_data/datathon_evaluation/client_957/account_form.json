@@ -1,0 +1,17 @@
+{
+    "name": "Julia Franziska Schmid",
+    "first_name": "Julia",
+    "middle_name": "Franziska",
+    "last_name": "Schmid",
+    "passport_number": "BC3597145",
+    "currency": "EUR",
+    "address": {
+        "city": "Wels",
+        "street name": "Naschmarkt",
+        "street number": 24,
+        "postal code": "6850"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "658 581 5391",
+    "email_address": "julia.schmid@upc.at"
+}

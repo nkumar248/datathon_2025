@@ -1,0 +1,17 @@
+{
+    "name": "Beatriz Vázquez",
+    "first_name": "Beatriz",
+    "middle_name": "",
+    "last_name": "Vázquez",
+    "passport_number": "VY7168230",
+    "currency": "EUR",
+    "address": {
+        "city": "Almería",
+        "street name": "Plaza de la Encarnación",
+        "street number": 51,
+        "postal code": "21178"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "++49601 493 264",
+    "email_address": "beatriz.vazquez@telefonica.es"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Roose Janssens Lambrechts",
+    "first_name": "Roose",
+    "middle_name": "Janssens",
+    "last_name": "Lambrechts",
+    "passport_number": "LD0121595",
+    "currency": "EUR",
+    "address": {
+        "city": "Maaseik",
+        "street name": "Rue de la Convention",
+        "street number": 50,
+        "postal code": "6823"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "++41 0422 313 081",
+    "email_address": "roose.lambrechts@outlook.com"
+}

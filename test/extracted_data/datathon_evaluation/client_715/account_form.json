@@ -1,0 +1,17 @@
+{
+    "name": "Egger Schmidt Rieder",
+    "first_name": "Egger",
+    "middle_name": "Schmidt",
+    "last_name": "Rieder",
+    "passport_number": "XY4161055",
+    "currency": "EUR",
+    "address": {
+        "city": "Saalfelden",
+        "street name": "Spiegelgasse",
+        "street number": 57,
+        "postal code": "1186"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 629 816 0807",
+    "email_address": "egger.rieder@yahoo.com"
+}

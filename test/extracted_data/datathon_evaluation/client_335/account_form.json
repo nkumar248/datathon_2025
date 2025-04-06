@@ -1,0 +1,17 @@
+{
+    "name": "Tolvanen Tiainen Hiltunen",
+    "first_name": "Tolvanen",
+    "middle_name": "Tiainen",
+    "last_name": "Hiltunen",
+    "passport_number": "NH5375419",
+    "currency": "EUR",
+    "address": {
+        "city": "Rauma",
+        "street name": "Kulosaarentie",
+        "street number": 82,
+        "postal code": "64317"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 048 068 92 14",
+    "email_address": "tolvanen.hiltunen@phoenix.fi"
+}

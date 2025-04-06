@@ -1,0 +1,17 @@
+{
+    "name": "Martini Malatesta Bianchi",
+    "first_name": "Martini",
+    "middle_name": "Malatesta",
+    "last_name": "Bianchi",
+    "passport_number": "QS6293524",
+    "currency": "EUR",
+    "address": {
+        "city": "Pisa",
+        "street name": "Via XX Settembre",
+        "street number": 82,
+        "postal code": "60308"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 361 0607483",
+    "email_address": "martini.bianchi@alice.it"
+}

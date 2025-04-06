@@ -1,0 +1,98 @@
+{
+    "name": "Simons  Jacobs",
+    "address": {
+        "city": "Namur",
+        "street name": "Rue du Marché aux Fromages",
+        "street number": 75,
+        "postal code": "3102"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1957-12-09",
+    "nationality": "Belgian",
+    "passport_number": "ZU5952859",
+    "passport_issue_date": "2018-07-17",
+    "passport_expiry_date": "2025-12-07",
+    "gender": "M",
+    "phone_number": "+32 0496 145 129",
+    "email_address": "simons.jacobs@proximus.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Koninklijk Atheneum Gent",
+        "graduation_year": 1976
+    },
+    "higher_education": [
+        {
+            "university": "University of Liège",
+            "graduation_year": 1982
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1981,
+            "end_year": 1982,
+            "company": "Option NV",
+            "position": "Software Developer",
+            "salary": 37000
+        },
+        {
+            "start_year": 1982,
+            "end_year": 1986,
+            "company": "Option NV",
+            "position": "Startup Founder",
+            "salary": 60000
+        },
+        {
+            "start_year": 1988,
+            "end_year": 1990,
+            "company": "Option NV",
+            "position": "CEO",
+            "salary": 74000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 1993,
+            "company": "Barco NV",
+            "position": "Venture Capitalist",
+            "salary": 120000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 2018,
+            "company": "EVS Broadcast Equipment SA",
+            "position": "Tech Industry Leader",
+            "salary": 1170000
+        }
+    ],
+    "aum": {
+        "savings": 2100000,
+        "inheritance": 0,
+        "real_estate_value": 2453000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 883000,
+            "property location": "Namur"
+        },
+        {
+            "property type": "flat",
+            "property value": 740000,
+            "property location": "Ostend"
+        },
+        {
+            "property type": "flat",
+            "property value": 830000,
+            "property location": "Hasselt"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

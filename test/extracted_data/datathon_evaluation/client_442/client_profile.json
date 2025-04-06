@@ -1,0 +1,57 @@
+{
+    "name": "Lotta Emilia Heikkinen",
+    "address": {
+        "city": "Joensuu",
+        "street name": "Neitsytpolku",
+        "street number": 66,
+        "postal code": "07835"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1998-05-14",
+    "nationality": "Finnish",
+    "passport_number": "WL9096762",
+    "passport_issue_date": "2019-12-07",
+    "passport_expiry_date": "2029-12-06",
+    "gender": "F",
+    "phone_number": "+358 043 991 59 14",
+    "email_address": "lotta.heikkinen@pp.inet.fi",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Joensuu Christian College",
+        "graduation_year": 2016
+    },
+    "higher_education": [
+        {
+            "university": "University of Turku",
+            "graduation_year": 2022
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2023,
+            "end_year": null,
+            "company": "Sentica Partners Oy",
+            "position": "Analyst",
+            "salary": 43000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 1240000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

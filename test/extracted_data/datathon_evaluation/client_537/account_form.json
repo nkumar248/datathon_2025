@@ -1,0 +1,17 @@
+{
+    "name": "Lefebvre Lambert David",
+    "first_name": "Lefebvre",
+    "middle_name": "Lambert",
+    "last_name": "David",
+    "passport_number": "KA2391951",
+    "currency": "EUR",
+    "address": {
+        "city": "Rouen",
+        "street name": "Place Vendôme",
+        "street number": 79,
+        "postal code": "73540"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 00 56 87 73 77",
+    "email_address": "lefebvre.david@numericable.fr"
+}

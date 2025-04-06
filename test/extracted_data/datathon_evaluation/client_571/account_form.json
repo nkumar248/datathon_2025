@@ -1,0 +1,17 @@
+{
+    "name": "Lynn Julia Roth",
+    "first_name": "Lynn",
+    "middle_name": "Julia",
+    "last_name": "Roth",
+    "passport_number": "AQ1449756",
+    "currency": "CHF",
+    "address": {
+        "city": "Lugano",
+        "street name": "Place des Halles",
+        "street number": 38,
+        "postal code": "5948"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 006 005 06 63",
+    "email_address": "lynn.roth@swisscom.ch"
+}

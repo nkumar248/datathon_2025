@@ -1,0 +1,17 @@
+{
+    "name": "Maja Beatrix Lechner",
+    "first_name": "Maja",
+    "middle_name": "Beatrix",
+    "last_name": "Lechner",
+    "passport_number": "MM0821630",
+    "currency": "EUR",
+    "address": {
+        "city": "Innsbruck",
+        "street name": "Simmeringer Hauptstraße",
+        "street number": 49,
+        "postal code": "9002"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "409 151 2707",
+    "email_address": "maja.lechner@aon.at"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Ackermann Egli Burkart",
+    "first_name": "Ackermann",
+    "middle_name": "Egli",
+    "last_name": "Burkart",
+    "passport_number": "CK0679421",
+    "currency": "CHF",
+    "address": {
+        "city": "Baden",
+        "street name": "Münstergasse",
+        "street number": 10,
+        "postal code": "1643"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 084 522 81 99",
+    "email_address": "ackermann.burkart@sunrise.ch"
+}

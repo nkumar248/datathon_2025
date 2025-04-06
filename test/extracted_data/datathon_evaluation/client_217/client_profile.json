@@ -1,0 +1,71 @@
+{
+    "name": "Benedetta Martina Silvestri",
+    "address": {
+        "city": "Venice",
+        "street name": "Piazza del Popolo",
+        "street number": 42,
+        "postal code": "12755"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1986-06-18",
+    "nationality": "Italian",
+    "passport_number": "UK6059319",
+    "passport_issue_date": "2016-07-27",
+    "passport_expiry_date": "2026-07-26",
+    "gender": "F",
+    "phone_number": "+39 396 3860629",
+    "email_address": "benedetta.silvestri@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Liceo Classico Giovanni Paolo II Catania",
+        "graduation_year": 2005
+    },
+    "higher_education": [
+        {
+            "university": "Luiss Guido Carli",
+            "graduation_year": 2010
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2012,
+            "company": "UBM S.p.A.",
+            "position": "Investment Banker",
+            "salary": 28000
+        },
+        {
+            "start_year": 2012,
+            "end_year": null,
+            "company": "Banca Monte dei Paschi di Siena S.p.A.",
+            "position": "Private Equity Investor",
+            "salary": 93000
+        }
+    ],
+    "aum": {
+        "savings": 130000,
+        "inheritance": 7480000,
+        "real_estate_value": 1370000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1370000,
+            "property location": "Venice"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

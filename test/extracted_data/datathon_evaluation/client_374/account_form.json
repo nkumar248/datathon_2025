@@ -1,0 +1,17 @@
+{
+    "name": "Andrea Aline Furrer",
+    "first_name": "Andrea",
+    "middle_name": "Aline",
+    "last_name": "Furrer",
+    "passport_number": "FX1455754",
+    "currency": "CHF",
+    "address": {
+        "city": "Chur",
+        "street name": "Waisenhausplatz",
+        "street number": 66,
+        "postal code": "6892"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 040 495 77 01",
+    "email_address": "andrea.furrer@hotmail.com"
+}

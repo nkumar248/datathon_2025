@@ -1,0 +1,44 @@
+{
+    "name": "Fischer Rieder Reiter",
+    "address": {
+        "city": "Helmond",
+        "street name": "Willemsparkweg",
+        "street number": 99,
+        "postal code": "3289 53"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "2002-11-20",
+    "nationality": "Austrian",
+    "passport_number": "LZ4297812",
+    "passport_issue_date": "2017-09-16",
+    "passport_expiry_date": "2027-09-15",
+    "gender": "M",
+    "phone_number": "+31 06 07384178",
+    "email_address": "fischer.reiter@upcmail.nl",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Gymnasium Bregenz",
+        "graduation_year": 2021
+    },
+    "higher_education": [],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1930000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

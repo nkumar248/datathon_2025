@@ -1,0 +1,17 @@
+{
+    "name": "Alexandra Clémence Michiels",
+    "first_name": "Alexandra",
+    "middle_name": "Clémence",
+    "last_name": "Michiels",
+    "passport_number": "TQ3999645",
+    "currency": "EUR",
+    "address": {
+        "city": "La Louvière",
+        "street name": "Rue des Sœurs Noires",
+        "street number": 100,
+        "postal code": "2994"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0410 834 795",
+    "email_address": "alexandra.michiels@edpnet.be"
+}

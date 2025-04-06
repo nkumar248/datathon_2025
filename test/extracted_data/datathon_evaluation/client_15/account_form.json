@@ -1,0 +1,17 @@
+{
+    "name": "Matilda Mari Hiltunen",
+    "first_name": "Matilda",
+    "middle_name": "Mari",
+    "last_name": "Hiltunen",
+    "passport_number": "NC5651084",
+    "currency": "EUR",
+    "address": {
+        "city": "Mödling",
+        "street name": "Mariahilfer Straße",
+        "street number": 59,
+        "postal code": "9169"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "088 037 2678",
+    "email_address": "matilda.hiltunen@chello.at"
+}

@@ -1,0 +1,80 @@
+{
+    "name": "Miettinen Laaksonen Niskanen",
+    "address": {
+        "city": "Vaasa",
+        "street name": "Iso Roobertinkatu",
+        "street number": 90,
+        "postal code": "71357"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1989-11-19",
+    "nationality": "Finnish",
+    "passport_number": "JO8856971",
+    "passport_issue_date": "2019-09-19",
+    "passport_expiry_date": "2029-09-18",
+    "gender": "M",
+    "phone_number": "043 347 20 21",
+    "email_address": "miettinen.niskanen@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Varkauden lukio",
+        "graduation_year": 2009
+    },
+    "higher_education": [
+        {
+            "university": "Aalto University",
+            "graduation_year": 2012
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2014,
+            "end_year": 2015,
+            "company": "Handelsbanken plc",
+            "position": "Family Office Manager",
+            "salary": 42000
+        },
+        {
+            "start_year": 2017,
+            "end_year": null,
+            "company": "Danske Bank A/S",
+            "position": "Investment Director",
+            "salary": 65000
+        }
+    ],
+    "aum": {
+        "savings": 70000,
+        "inheritance": 2840000,
+        "real_estate_value": 4074000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2020,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1464000,
+            "property location": "Vaasa"
+        },
+        {
+            "property type": "flat",
+            "property value": 800000,
+            "property location": "Sipoo"
+        },
+        {
+            "property type": "villa",
+            "property value": 1810000,
+            "property location": "Pori"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

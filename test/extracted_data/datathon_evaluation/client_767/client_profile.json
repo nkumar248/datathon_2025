@@ -1,0 +1,78 @@
+{
+    "name": "Hedwig Imke Weber",
+    "address": {
+        "city": "Leipzig",
+        "street name": "Leipziger Straße",
+        "street number": 54,
+        "postal code": "24387"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1983-09-17",
+    "nationality": "German",
+    "passport_number": "TD4193807",
+    "passport_issue_date": "2018-11-21",
+    "passport_expiry_date": "2028-11-20",
+    "gender": "F",
+    "phone_number": "+49 3273 446192",
+    "email_address": "hedwig.weber@gmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Wilhelm-von-Humboldt-Gymnasium Berlin",
+        "graduation_year": 2002
+    },
+    "higher_education": [
+        {
+            "university": "Weingarten University of Education",
+            "graduation_year": 2008
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2008,
+            "end_year": 2012,
+            "company": "Hamburger Kunsthalle",
+            "position": "Art Dealer",
+            "salary": 39000
+        },
+        {
+            "start_year": 2014,
+            "end_year": 2019,
+            "company": "Museum Folkwang Essen",
+            "position": "Gallery Owner",
+            "salary": 62000
+        },
+        {
+            "start_year": 2021,
+            "end_year": null,
+            "company": "Nationalgalerie Berlin",
+            "position": "Art Advisor",
+            "salary": 84000
+        }
+    ],
+    "aum": {
+        "savings": 110000,
+        "inheritance": 730000,
+        "real_estate_value": 1200000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2010,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1200000,
+            "property location": "Leipzig"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

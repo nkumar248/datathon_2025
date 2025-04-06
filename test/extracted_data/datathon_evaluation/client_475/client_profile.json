@@ -1,0 +1,58 @@
+{
+    "name": "Tiainen Salo Uusitalo",
+    "address": {
+        "city": "Espoo",
+        "street name": "Kaisaniemenkatu",
+        "street number": 75,
+        "postal code": "30767"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1998-09-29",
+    "nationality": "Finnish",
+    "passport_number": "UL1134847",
+    "passport_issue_date": "2020-07-12",
+    "passport_expiry_date": "2030-07-11",
+    "gender": "M",
+    "phone_number": "042 007 99 55",
+    "email_address": "tiainen.uusitalo@finet.fi",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Pieksämäki lukio",
+        "graduation_year": 2018
+    },
+    "higher_education": [
+        {
+            "university": "University of Jyväskylä",
+            "graduation_year": 2022
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2022,
+            "end_year": 2025,
+            "company": "Finnair Oyj",
+            "position": "Aerospace Engineer",
+            "salary": 35000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 2300000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "France"
+    ],
+    "currency": "EUR"
+}

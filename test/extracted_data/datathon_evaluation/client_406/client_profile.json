@@ -1,0 +1,65 @@
+{
+    "name": "Lambrechts Sanders Michiels",
+    "address": {
+        "city": "Ieper",
+        "street name": "Grand Place",
+        "street number": 10,
+        "postal code": "2676"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1995-05-04",
+    "nationality": "Belgian",
+    "passport_number": "HW0045474",
+    "passport_issue_date": "2023-05-05",
+    "passport_expiry_date": "2030-05-04",
+    "gender": "M",
+    "phone_number": "0476 966 046",
+    "email_address": "lambrechts.michiels@belgacom.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Institut Saint-Stanislas",
+        "graduation_year": 2014
+    },
+    "higher_education": [
+        {
+            "university": "University of Namur",
+            "graduation_year": 2020
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2019,
+            "end_year": 2022,
+            "company": "Stella McCartney Belgium",
+            "position": "Assistant Designer",
+            "salary": 35000
+        },
+        {
+            "start_year": 2023,
+            "end_year": null,
+            "company": "Walter Van Beirendonck BVBA",
+            "position": "Senior Designer",
+            "salary": 53000
+        }
+    ],
+    "aum": {
+        "savings": 30000,
+        "inheritance": 1060000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2020,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

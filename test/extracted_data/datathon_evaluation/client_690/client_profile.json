@@ -1,0 +1,91 @@
+{
+    "name": "Greta Ida Bauer",
+    "address": {
+        "city": "Cologne",
+        "street name": "Wilhelm-Leuschner-Platz",
+        "street number": 66,
+        "postal code": "87325"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1971-05-20",
+    "nationality": "German",
+    "passport_number": "UC6981851",
+    "passport_issue_date": "2016-06-25",
+    "passport_expiry_date": "2026-06-24",
+    "gender": "F",
+    "phone_number": "+49 4051 670898",
+    "email_address": "greta.bauer@arcor.de",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Gymnasium zum Grauen Kloster",
+        "graduation_year": 1990
+    },
+    "higher_education": [
+        {
+            "university": "Bucerius Law School",
+            "graduation_year": 1996
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1995,
+            "end_year": 1998,
+            "company": "Deutsche Bank AG",
+            "position": "Family Office Manager",
+            "salary": 40000
+        },
+        {
+            "start_year": 1998,
+            "end_year": 2000,
+            "company": "Commerzbank AG",
+            "position": "Investment Director",
+            "salary": 57000
+        },
+        {
+            "start_year": 2002,
+            "end_year": 2004,
+            "company": "Commerzbank AG",
+            "position": "CFO",
+            "salary": 92000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2007,
+            "company": "Commerzbank AG",
+            "position": "COO",
+            "salary": 170000
+        },
+        {
+            "start_year": 2009,
+            "end_year": null,
+            "company": "Dresdner Bank AG",
+            "position": "CEO",
+            "salary": 654000
+        }
+    ],
+    "aum": {
+        "savings": 1010000,
+        "inheritance": 6370000,
+        "real_estate_value": 1340000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2005,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1340000,
+            "property location": "Cologne"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Germany"
+    ],
+    "currency": "EUR"
+}

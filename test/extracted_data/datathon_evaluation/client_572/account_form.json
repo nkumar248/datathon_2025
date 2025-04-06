@@ -1,0 +1,17 @@
+{
+    "name": "Hagenbuch Suter Schmid",
+    "first_name": "Hagenbuch",
+    "middle_name": "Suter",
+    "last_name": "Lehmann",
+    "passport_number": "UA6577534",
+    "currency": "EUR",
+    "address": {
+        "city": "Ieper",
+        "street name": "Rue de la Paix",
+        "street number": 60,
+        "postal code": "8086"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0473 882 533",
+    "email_address": "hagenbuch.schmid@edpnet.be"
+}

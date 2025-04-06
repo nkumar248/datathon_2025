@@ -1,0 +1,17 @@
+{
+    "first_name": "Rieder",
+    "middle_name": "Reiter",
+    "last_name": "Steiner",
+    "gender": "M",
+    "country": "Austria",
+    "country_code": "AUT",
+    "nationality": "Austrian",
+    "birth_date": "1990-06-13",
+    "passport_number": "FH1078082",
+    "passport_mrz": [
+        "P<AUTSTEINER<<RIEDER<REITER<<<<<<<<<<<<<<<<<<",
+        "FH1078082AUT900613<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-07-09",
+    "passport_expiry_date": "2034-07-08"
+}

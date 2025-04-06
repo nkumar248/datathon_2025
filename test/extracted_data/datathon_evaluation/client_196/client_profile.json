@@ -1,0 +1,75 @@
+{
+    "name": "Bernard Richard",
+    "address": {
+        "city": "Rouen",
+        "street name": "Avenue George V",
+        "street number": 18,
+        "postal code": "60829"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1987-01-06",
+    "nationality": "French",
+    "passport_number": "BF6256422",
+    "passport_issue_date": "2023-02-28",
+    "passport_expiry_date": "2033-02-27",
+    "gender": "M",
+    "phone_number": "06 47 18 98 51",
+    "email_address": "bernard.richard@outlook.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée Victor Hugo",
+        "graduation_year": 2004
+    },
+    "higher_education": [
+        {
+            "university": "École Polytechnique",
+            "graduation_year": 2011
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2011,
+            "end_year": 2014,
+            "company": "Musée Rodin",
+            "position": "Art Dealer",
+            "salary": 32000
+        },
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "Musée Rodin",
+            "position": "Gallery Owner",
+            "salary": 108000
+        }
+    ],
+    "aum": {
+        "savings": 140000,
+        "inheritance": 4340000,
+        "real_estate_value": 2660000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1660000,
+            "property location": "Rouen"
+        },
+        {
+            "property type": "flat",
+            "property value": 1000000,
+            "property location": "Montpellier"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

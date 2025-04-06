@@ -1,0 +1,17 @@
+{
+    "name": "Julia Sophia Zbinden",
+    "first_name": "Julia",
+    "middle_name": "Sophia",
+    "last_name": "Zbinden",
+    "passport_number": "AS8908394",
+    "currency": "CHF",
+    "address": {
+        "city": "Chur",
+        "street name": "Bärenplatz",
+        "street number": 29,
+        "postal code": "6047"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 055 840 99 29",
+    "email_address": "julia.zbinden@teli.ch"
+}

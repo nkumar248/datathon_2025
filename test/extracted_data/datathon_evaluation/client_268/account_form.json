@@ -1,0 +1,17 @@
+{
+    "name": "Ricci Moretti De Luca",
+    "first_name": "Ricci",
+    "middle_name": "Moretti",
+    "last_name": "De Luca",
+    "passport_number": "GJ7906151",
+    "currency": "EUR",
+    "address": {
+        "city": "Pisa",
+        "street name": "Piazza Maggiore",
+        "street number": 31,
+        "postal code": "40338"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 336 6025899",
+    "email_address": "ricci.deluca@wind.it"
+}

@@ -1,0 +1,17 @@
+{
+    "first_name": "Anaïs",
+    "middle_name": "Inès",
+    "last_name": "Bernard",
+    "gender": "F",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1966-08-14",
+    "passport_number": "TJ0920615",
+    "passport_mrz": [
+        "P<FRABERNARD<<ANAÏS<INÈS<<<<<<<<<<<<<<<<<<<<<",
+        "TJ0920615FRA660814<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-02-04",
+    "passport_expiry_date": "2032-02-03"
+}

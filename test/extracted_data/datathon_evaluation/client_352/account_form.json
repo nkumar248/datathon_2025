@@ -1,0 +1,17 @@
+{
+    "name": "Laura Josephine Lykke",
+    "first_name": "Laura",
+    "middle_name": "Josephine",
+    "last_name": "Lykke",
+    "passport_number": "JP4894559",
+    "currency": "DKK",
+    "address": {
+        "city": "Aarhus",
+        "street name": "Israels Plads",
+        "street number": 57,
+        "postal code": "6030"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "43 10 78 53",
+    "email_address": "laura.lykke@yousee.dk"
+}

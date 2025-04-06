@@ -1,0 +1,17 @@
+{
+    "name": "Frey Meier Werner",
+    "first_name": "Frey",
+    "middle_name": "Meier",
+    "last_name": "Werner",
+    "passport_number": "MI7948054",
+    "currency": "CHF",
+    "address": {
+        "city": "Sion",
+        "street name": "Elfenstrasse",
+        "street number": 5,
+        "postal code": "1515"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 016 428 06 77",
+    "email_address": "frey.werner@lycos.ch"
+}

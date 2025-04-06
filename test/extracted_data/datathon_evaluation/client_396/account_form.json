@@ -1,0 +1,17 @@
+{
+    "name": "Johanna Josefiina Voutilainen",
+    "first_name": "Johanna",
+    "middle_name": "Josefiina",
+    "last_name": "Voutilainen",
+    "passport_number": "XP2127699",
+    "currency": "EUR",
+    "address": {
+        "city": "Turku",
+        "street name": "Radiokatu",
+        "street number": 3,
+        "postal code": "62772"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "044 280 66 93",
+    "email_address": "johanna.voutilainen@icloud.com"
+}

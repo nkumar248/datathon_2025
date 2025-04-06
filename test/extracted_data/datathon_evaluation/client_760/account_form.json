@@ -1,0 +1,17 @@
+{
+    "name": "Françoise Sophia Kägi",
+    "first_name": "Françoise",
+    "middle_name": "Sophia",
+    "last_name": "Kägi",
+    "passport_number": "WO8872440",
+    "currency": "CHF",
+    "address": {
+        "city": "Bern",
+        "street name": "Place des Halles",
+        "street number": 97,
+        "postal code": "9508"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 039 220 05 85",
+    "email_address": "francoise.kagi@swisscom.ch"
+}

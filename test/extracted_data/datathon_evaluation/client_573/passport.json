@@ -1,0 +1,17 @@
+{
+    "first_name": "Lotti",
+    "middle_name": "Landi",
+    "last_name": "Marini",
+    "gender": "M",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1963-02-01",
+    "passport_number": "CJ7097826",
+    "passport_mrz": [
+        "P<ITAMARINI<<LOTTI<LANDI<<<<<<<<<<<<<<<<<<<<<",
+        "CJ7097826ITA630201<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2020-02-01",
+    "passport_expiry_date": "2030-01-31"
+}

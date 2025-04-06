@@ -1,0 +1,86 @@
+{
+    "name": "Schwarz Becker Scholz",
+    "address": {
+        "city": "Hamburg",
+        "street name": "Sendlinger-Tor-Platz",
+        "street number": 25,
+        "postal code": "37830"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1958-12-25",
+    "nationality": "German",
+    "passport_number": "NV2885298",
+    "passport_issue_date": "2021-06-05",
+    "passport_expiry_date": "2031-06-04",
+    "gender": "M",
+    "phone_number": "+49 8919 047673",
+    "email_address": "schwarz.scholz@outlook.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Maria-Theresia-Gymnasium München",
+        "graduation_year": 1977
+    },
+    "higher_education": [
+        {
+            "university": "University of Berlin",
+            "graduation_year": 1969
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1982,
+            "end_year": 1986,
+            "company": "Credit Suisse (Deutschland) AG",
+            "position": "Financial Advisor",
+            "salary": 43000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 1987,
+            "company": "Commerzbank Private Banking",
+            "position": "Portfolio Manager",
+            "salary": 58000
+        },
+        {
+            "start_year": 1988,
+            "end_year": 1989,
+            "company": "Deutsche Bank Private Wealth Management",
+            "position": "Wealth Manager",
+            "salary": 92000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 2019,
+            "company": "Credit Suisse (Deutschland) AG",
+            "position": "Family Office Executive",
+            "salary": 1239000
+        }
+    ],
+    "aum": {
+        "savings": 2160000,
+        "inheritance": 0,
+        "real_estate_value": 3914000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 924000,
+            "property location": "Hamburg"
+        },
+        {
+            "property type": "villa",
+            "property value": 2990000,
+            "property location": "Düsseldorf"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Hybrid",
+    "preferred_markets": [
+        "Switzerland",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

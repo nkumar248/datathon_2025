@@ -1,0 +1,17 @@
+{
+    "name": "Fournier Robert Laurent",
+    "first_name": "Fournier",
+    "middle_name": "Robert",
+    "last_name": "Luarent",
+    "passport_number": "DM3613964",
+    "currency": "EUR",
+    "address": {
+        "city": "Tours",
+        "street name": "Rue Cujas",
+        "street number": 51,
+        "postal code": "23097"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "02 28 74 75 27",
+    "email_address": "fournier.laurent@sfr.fr"
+}

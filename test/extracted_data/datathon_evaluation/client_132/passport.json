@@ -1,0 +1,17 @@
+{
+    "first_name": "Suárez",
+    "middle_name": "Muñoz",
+    "last_name": "Romero",
+    "gender": "M",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "2003-06-20",
+    "passport_number": "KU1034339",
+    "passport_mrz": [
+        "P<ESPSUÁREZ<<ROMERO<MUÑOZ<<<<<<<<<<<<<<<<<<<<",
+        "KU1034339ESP030620<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-01-19",
+    "passport_expiry_date": "2028-01-18"
+}

@@ -1,0 +1,83 @@
+{
+    "name": "Koch Schneider Maier",
+    "address": {
+        "city": "Berlin",
+        "street name": "Tauentzienstraße",
+        "street number": 74,
+        "postal code": "25713"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1979-07-11",
+    "nationality": "German",
+    "passport_number": "TR7686238",
+    "passport_issue_date": "2019-06-02",
+    "passport_expiry_date": "2029-06-01",
+    "gender": "M",
+    "phone_number": "+49 2656 541886",
+    "email_address": "koch.maier@gmx.de",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Bismarck-Gymnasium Karlsruhe",
+        "graduation_year": 1998
+    },
+    "higher_education": [
+        {
+            "university": "Ludwig Maximilian University of Munich",
+            "graduation_year": 2004
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2003,
+            "end_year": 2005,
+            "company": "Deutsche Bank AG",
+            "position": "Investment Banker",
+            "salary": 43000
+        },
+        {
+            "start_year": 2007,
+            "end_year": 2011,
+            "company": "Dresdner Bank AG",
+            "position": "Private Equity Investor",
+            "salary": 56000
+        },
+        {
+            "start_year": 2011,
+            "end_year": null,
+            "company": "Commerzbank AG",
+            "position": "Hedge Fund Manager",
+            "salary": 243000
+        }
+    ],
+    "aum": {
+        "savings": 340000,
+        "inheritance": 4360000,
+        "real_estate_value": 3140000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2014,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 2020000,
+            "property location": "Berlin"
+        },
+        {
+            "property type": "flat",
+            "property value": 1120000,
+            "property location": "Braunschweig"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

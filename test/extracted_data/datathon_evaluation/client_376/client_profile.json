@@ -1,0 +1,50 @@
+{
+    "name": "Ferrari Rizzo Celli",
+    "address": {
+        "city": "Catania",
+        "street name": "Via XXV Aprile",
+        "street number": 95,
+        "postal code": "01447"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "2002-01-23",
+    "nationality": "Italian",
+    "passport_number": "BO2654125",
+    "passport_issue_date": "2018-06-10",
+    "passport_expiry_date": "2028-06-09",
+    "gender": "M",
+    "phone_number": "+39 352 5362295",
+    "email_address": "ferrari.celli@wind.it",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Istituto Tecnico Agrario Statale Francesco De Sanctis Foggia",
+        "graduation_year": 2020
+    },
+    "higher_education": [
+        {
+            "university": "University of Turin",
+            "graduation_year": 2025
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1110000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2019,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

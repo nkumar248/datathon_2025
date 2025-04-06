@@ -1,0 +1,82 @@
+{
+    "name": "Lea Anna Jost",
+    "address": {
+        "city": "Varde",
+        "street name": "Krimsvej",
+        "street number": 56,
+        "postal code": "5684"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1991-01-07",
+    "nationality": "Swiss",
+    "passport_number": "XC6285217",
+    "passport_issue_date": "2016-06-09",
+    "passport_expiry_date": "2026-06-08",
+    "gender": "F",
+    "phone_number": "35 30 36 01",
+    "email_address": "lea.jost@siminn.dk",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Kantonsschule Sursee Luzern",
+        "graduation_year": 2008
+    },
+    "higher_education": [
+        {
+            "university": "Suffolk University in Geneva",
+            "graduation_year": 2014
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2014,
+            "end_year": 2017,
+            "company": "JP/Politikens Hus A/S",
+            "position": "Journalist",
+            "salary": 66000
+        },
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "DR (Danish Broadcasting Corporation)",
+            "position": "Editor",
+            "salary": 122000
+        }
+    ],
+    "aum": {
+        "savings": 140000,
+        "inheritance": 9970000,
+        "real_estate_value": 8930000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2770000,
+            "property location": "Varde"
+        },
+        {
+            "property type": "flat",
+            "property value": 2150000,
+            "property location": "Appenzell"
+        },
+        {
+            "property type": "villa",
+            "property value": 4010000,
+            "property location": "Baden"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Denmark",
+        "France"
+    ],
+    "currency": "DKK"
+}

@@ -1,0 +1,85 @@
+{
+    "name": "Ingrid Lucas Roose",
+    "address": {
+        "city": "Turnhout",
+        "street name": "Rue de l'Hôtel des Monnaies",
+        "street number": 96,
+        "postal code": "7832"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1988-11-11",
+    "nationality": "Belgian",
+    "passport_number": "CT3847033",
+    "passport_issue_date": "2016-04-20",
+    "passport_expiry_date": "2023-04-19",
+    "gender": "F",
+    "phone_number": "0426 888 761",
+    "email_address": "ingrid.roose@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Institut des Ursulines",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "Thomas More University of Applied Sciences",
+            "graduation_year": 2011
+        },
+        {
+            "university": "University of Liège",
+            "graduation_year": 2015
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2013,
+            "end_year": 2014,
+            "company": "Sonaca SA",
+            "position": "Aerospace Engineer",
+            "salary": 37000
+        },
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "Asco Industries NV",
+            "position": "Program Manager",
+            "salary": 114000
+        }
+    ],
+    "aum": {
+        "savings": 140000,
+        "inheritance": 360000,
+        "real_estate_value": 3587000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1750000,
+            "property location": "Turnhout"
+        },
+        {
+            "property type": "flat",
+            "property value": 1057000,
+            "property location": "La Louvière"
+        },
+        {
+            "property type": "condo",
+            "property value": 780000,
+            "property location": "Bruges"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

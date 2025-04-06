@@ -1,0 +1,85 @@
+{
+    "name": "Giovanna Giorgia Moretti",
+    "address": {
+        "city": "Reggio Calabria",
+        "street name": "Corso Vittorio Emanuele II",
+        "street number": 76,
+        "postal code": "04760"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1974-10-15",
+    "nationality": "Italian",
+    "passport_number": "WO5850910",
+    "passport_issue_date": "2022-06-20",
+    "passport_expiry_date": "2032-06-19",
+    "gender": "F",
+    "phone_number": "+39 345 5013419",
+    "email_address": "giovanna.moretti@icloud.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Liceo Artistico Michelangelo Buonarroti Venezia",
+        "graduation_year": 1994
+    },
+    "higher_education": [
+        {
+            "university": "University of Milan",
+            "graduation_year": 1998
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1998,
+            "end_year": 2000,
+            "company": "Enel S.p.A.",
+            "position": "Junior Trader",
+            "salary": 25000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2003,
+            "company": "Enel S.p.A.",
+            "position": "Senior Trader",
+            "salary": 39000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2008,
+            "company": "Edison S.p.A.",
+            "position": "Trading Desk Manager",
+            "salary": 61000
+        },
+        {
+            "start_year": 2009,
+            "end_year": null,
+            "company": "Enel S.p.A.",
+            "position": "Head of Commodities",
+            "salary": 321000
+        }
+    ],
+    "aum": {
+        "savings": 470000,
+        "inheritance": 1900000,
+        "real_estate_value": 2490000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2013,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2490000,
+            "property location": "Reggio Calabria"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Daniela Idun Oddershede",
+    "first_name": "Daniela",
+    "middle_name": "Idun",
+    "last_name": "Oddershede",
+    "passport_number": "PC3127983",
+    "currency": "DKK",
+    "address": {
+        "city": "Gentofte",
+        "street name": "Strøget",
+        "street number": 50,
+        "postal code": "4783"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 85 30 38 71",
+    "email_address": "daniela.oddershede@all.dk"
+}

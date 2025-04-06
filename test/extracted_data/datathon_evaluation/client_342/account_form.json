@@ -1,0 +1,17 @@
+{
+    "name": "Laurent Bonnet Richard",
+    "first_name": "Laurent",
+    "middle_name": "Bonnet",
+    "last_name": "Richard",
+    "passport_number": "VT2782989",
+    "currency": "EUR",
+    "address": {
+        "city": "Le Havre",
+        "street name": "Avenue George V",
+        "street number": 24,
+        "postal code": "19380"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 08 92 82 01 74",
+    "email_address": "laurent.richard@hotmail.com"
+}

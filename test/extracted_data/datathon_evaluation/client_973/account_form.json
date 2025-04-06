@@ -1,0 +1,17 @@
+{
+    "name": "Sørensen Jespersen Krog",
+    "first_name": "Sørensen",
+    "middle_name": "Jespersen",
+    "last_name": "Krog",
+    "passport_number": "DB5289774",
+    "currency": "DKK",
+    "address": {
+        "city": "Esbjerg Ø",
+        "street name": "Vesterbrogade",
+        "street number": 75,
+        "postal code": "4259"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "02 60 20 22",
+    "email_address": "srensen.krog@yahoo.com"
+}

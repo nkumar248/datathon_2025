@@ -1,0 +1,17 @@
+{
+    "name": "Lena Petra Hinterleitner",
+    "first_name": "Lena",
+    "middle_name": "Petra",
+    "last_name": "Hinterleitner",
+    "passport_number": "JL9041621",
+    "currency": "EUR",
+    "address": {
+        "city": "Bregenz",
+        "street name": "Leopoldstraße",
+        "street number": 25,
+        "postal code": "9467"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 299 916 1975",
+    "email_address": "lena.hinterleitner@outlook.com"
+}

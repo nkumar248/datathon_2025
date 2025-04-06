@@ -1,0 +1,17 @@
+{
+    "name": "Isabella Alma Nørregaard",
+    "first_name": "Isabella",
+    "middle_name": "Alma",
+    "last_name": "Nørregaard",
+    "passport_number": "SE8343694",
+    "currency": "DKK",
+    "address": {
+        "city": "Skanderborg",
+        "street name": "Sølvgade",
+        "street number": 20,
+        "postal code": "3040"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 65 42 22 41",
+    "email_address": "isabella.nrregaard@webspace.dk"
+}

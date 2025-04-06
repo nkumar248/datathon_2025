@@ -1,0 +1,77 @@
+{
+    "name": "Jansen Stevens Meijer",
+    "address": {
+        "city": "Arnhem",
+        "street name": "Zuidas",
+        "street number": 23,
+        "postal code": "7774 85"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1980-02-02",
+    "nationality": "Dutch",
+    "passport_number": "XH6237583",
+    "passport_issue_date": "2016-07-26",
+    "passport_expiry_date": "2026-07-25",
+    "gender": "M",
+    "phone_number": "+31 06 62595611",
+    "email_address": "jansen.meijer@home.nl",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Scholengroep Carmel Maastricht",
+        "graduation_year": 1997
+    },
+    "higher_education": [
+        {
+            "university": "Amsterdam University College",
+            "graduation_year": 1989
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2004,
+            "end_year": 2007,
+            "company": "Victor & Rolf B.V.",
+            "position": "Assistant Designer",
+            "salary": 42000
+        },
+        {
+            "start_year": 2009,
+            "end_year": 2014,
+            "company": "G-Star Raw C.V.",
+            "position": "Senior Designer",
+            "salary": 84000
+        },
+        {
+            "start_year": 2012,
+            "end_year": null,
+            "company": "Victor & Rolf B.V.",
+            "position": "Creative Director",
+            "salary": 160000
+        }
+    ],
+    "aum": {
+        "savings": 230000,
+        "inheritance": 4430000,
+        "real_estate_value": 1210000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2012,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1210000,
+            "property location": "Arnhem"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

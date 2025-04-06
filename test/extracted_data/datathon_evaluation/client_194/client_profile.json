@@ -1,0 +1,83 @@
+{
+    "name": "Adèle Vandenberghe",
+    "address": {
+        "city": "Hasselt",
+        "street name": "Rue des Champs-Élysées",
+        "street number": 88,
+        "postal code": "2226"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1986-02-04",
+    "nationality": "Belgian",
+    "passport_number": "AN2564348",
+    "passport_issue_date": "2024-05-09",
+    "passport_expiry_date": "2031-05-08",
+    "gender": "F",
+    "phone_number": "+32 0412 705 183",
+    "email_address": "adele.vandenberghe@outlook.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Atheneum Antwerpen Linkeroever",
+        "graduation_year": 2003
+    },
+    "higher_education": [
+        {
+            "university": "Erasmus University College Brussels",
+            "graduation_year": 2009
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2009,
+            "end_year": 2012,
+            "company": "Sonaca SA",
+            "position": "Aerospace Engineer",
+            "salary": 36000
+        },
+        {
+            "start_year": 2014,
+            "end_year": 2015,
+            "company": "Asco Industries NV",
+            "position": "Program Manager",
+            "salary": 54000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "Asco Industries NV",
+            "position": "Director of Operations",
+            "salary": 138000
+        }
+    ],
+    "aum": {
+        "savings": 160000,
+        "inheritance": 5540000,
+        "real_estate_value": 2015000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 765000,
+            "property location": "Hasselt"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1250000,
+            "property location": "Menen"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Belgium",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

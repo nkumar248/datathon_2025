@@ -1,0 +1,74 @@
+{
+    "name": "Fuchs Koller Hofer",
+    "address": {
+        "city": "Gmunden",
+        "street name": "Enzersdorfer Straße",
+        "street number": 98,
+        "postal code": "1756"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1987-07-16",
+    "nationality": "Austrian",
+    "passport_number": "ES5296816",
+    "passport_issue_date": "2019-06-20",
+    "passport_expiry_date": "2029-06-19",
+    "gender": "M",
+    "phone_number": "+43 621 632 2204",
+    "email_address": "fuchs.hofer@magenta.at",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Bundesgymnasium und Bundesrealgymnasium Wien I",
+        "graduation_year": 2005
+    },
+    "higher_education": [
+        {
+            "university": "IMC University of Applied Sciences Krems",
+            "graduation_year": 2012
+        },
+        {
+            "university": "Danube Private University Krems",
+            "graduation_year": 2014
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2012,
+            "end_year": 2013,
+            "company": "Quadriga Capital GmbH",
+            "position": "Analyst",
+            "salary": 34000
+        },
+        {
+            "start_year": 2013,
+            "end_year": 2024,
+            "company": "Equity Partners Investment GmbH",
+            "position": "Associate",
+            "salary": 123000
+        }
+    ],
+    "aum": {
+        "savings": 160000,
+        "inheritance": 7930000,
+        "real_estate_value": 780000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 780000,
+            "property location": "Gmunden"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

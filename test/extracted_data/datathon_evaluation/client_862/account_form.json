@@ -1,0 +1,17 @@
+{
+    "name": "Soto Morales Navarro",
+    "first_name": "Soto",
+    "middle_name": "Morales",
+    "last_name": "Navarro",
+    "passport_number": "GG7333783",
+    "currency": "EUR",
+    "address": {
+        "city": "Granada",
+        "street name": "Plaza de la Encarnación",
+        "street number": 82,
+        "postal code": "46079"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 623 801 064",
+    "email_address": "soto.navarro@wanadoo.es"
+}

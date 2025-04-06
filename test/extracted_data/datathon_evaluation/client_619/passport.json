@@ -1,0 +1,17 @@
+{
+    "first_name": "Ginevra",
+    "middle_name": "Erika",
+    "last_name": "Ferrari",
+    "gender": "F",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1976-06-18",
+    "passport_number": "UU4099878",
+    "passport_mrz": [
+        "P<ITAFERRARI<<GINEVRA<ERIKA<<<<<<<<<<<<<<<<<<",
+        "UU4099878ITA760618<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2020-02-19",
+    "passport_expiry_date": "2030-02-18"
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Melanie Sabrina Schmid",
+    "address": {
+        "city": "Linz",
+        "street name": "Kärntner Straße",
+        "street number": 54,
+        "postal code": "9155"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1961-08-21",
+    "nationality": "Austrian",
+    "passport_number": "EP1839038",
+    "passport_issue_date": "2024-04-21",
+    "passport_expiry_date": "2034-04-20",
+    "gender": "F",
+    "phone_number": "+43 555 324 6966",
+    "email_address": "melanie.schmid@gmx.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "HTL Mödling",
+        "graduation_year": 1981
+    },
+    "higher_education": [
+        {
+            "university": "St. Pölten University of Applied Sciences",
+            "graduation_year": 1984
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1986,
+            "end_year": 1989,
+            "company": "Sandoz International GmbH",
+            "position": "Research Scientist",
+            "salary": 32000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 2022,
+            "company": "Novartis Austria GmbH",
+            "position": "Clinical Trials Manager",
+            "salary": 328000
+        }
+    ],
+    "aum": {
+        "savings": 700000,
+        "inheritance": 0,
+        "real_estate_value": 2500000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1430000,
+            "property location": "Linz"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1070000,
+            "property location": "Traun"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

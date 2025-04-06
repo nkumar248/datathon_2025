@@ -1,0 +1,17 @@
+{
+    "name": "Daphné Alexandra Lemaire",
+    "first_name": "Daphné",
+    "middle_name": "Alexandra",
+    "last_name": "Lemaire",
+    "passport_number": "MH5152471",
+    "currency": "EUR",
+    "address": {
+        "city": "Kerava",
+        "street name": "Kalliolanpuisto",
+        "street number": 92,
+        "postal code": "28092"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "043 145 63 21",
+    "email_address": "daphne.lemaire@dnainternet.fi"
+}

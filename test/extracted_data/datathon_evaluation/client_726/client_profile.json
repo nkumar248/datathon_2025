@@ -1,0 +1,50 @@
+{
+    "name": "Amanda Emilie Larsen",
+    "address": {
+        "city": "Aarhus",
+        "street name": "Sølvgade",
+        "street number": 86,
+        "postal code": "7570"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "2002-03-31",
+    "nationality": "Danish",
+    "passport_number": "EA4669848",
+    "passport_issue_date": "2018-12-18",
+    "passport_expiry_date": "2028-12-17",
+    "gender": "F",
+    "phone_number": "+45 19 73 01 69",
+    "email_address": "amanda.larsen@dk-hostmaster.dk",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Rysensteen Gymnasium",
+        "graduation_year": 2019
+    },
+    "higher_education": [
+        {
+            "university": "The National Film School of Denmark",
+            "graduation_year": 2024
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 18850000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Germany"
+    ],
+    "currency": "DKK"
+}

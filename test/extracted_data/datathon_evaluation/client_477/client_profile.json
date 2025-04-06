@@ -1,0 +1,71 @@
+{
+    "name": "Margaux Flore Renault",
+    "address": {
+        "city": "Nantes",
+        "street name": "Avenue d'Italie",
+        "street number": 47,
+        "postal code": "12270"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1995-03-01",
+    "nationality": "French",
+    "passport_number": "ZD5028692",
+    "passport_issue_date": "2018-03-01",
+    "passport_expiry_date": "2028-02-29",
+    "gender": "F",
+    "phone_number": "02 29 54 77 10",
+    "email_address": "margaux.renault@aliceadsl.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée René Descartes",
+        "graduation_year": 2013
+    },
+    "higher_education": [
+        {
+            "university": "École Normale Supérieure (ENS) Paris",
+            "graduation_year": 2018
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2018,
+            "end_year": 2021,
+            "company": "Sanofi S.A.",
+            "position": "Research Scientist",
+            "salary": 32000
+        },
+        {
+            "start_year": 2022,
+            "end_year": null,
+            "company": "Ipsen S.A.",
+            "position": "Clinical Trials Manager",
+            "salary": 45000
+        }
+    ],
+    "aum": {
+        "savings": 30000,
+        "inheritance": 940000,
+        "real_estate_value": 1660000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1660000,
+            "property location": "Nantes"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

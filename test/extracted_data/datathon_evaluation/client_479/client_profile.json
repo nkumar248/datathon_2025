@@ -1,0 +1,64 @@
+{
+    "name": "Floriane Delphine Lambert",
+    "address": {
+        "city": "Aix-en-Provence",
+        "street name": "Rue de la Paix",
+        "street number": 65,
+        "postal code": "76210"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1992-12-16",
+    "nationality": "French",
+    "passport_number": "KF5149323",
+    "passport_issue_date": "2018-11-10",
+    "passport_expiry_date": "2028-11-09",
+    "gender": "F",
+    "phone_number": "+33 02 60 00 25 64",
+    "email_address": "floriane.lambert@neuf.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Frédéric Chopin",
+        "graduation_year": 2010
+    },
+    "higher_education": [
+        {
+            "university": "American Graduate School of Business in Paris",
+            "graduation_year": 2017
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2017,
+            "end_year": null,
+            "company": "Apax Partners SAS",
+            "position": "Analyst",
+            "salary": 41000
+        }
+    ],
+    "aum": {
+        "savings": 40000,
+        "inheritance": 1600000,
+        "real_estate_value": 1510000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2019,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1510000,
+            "property location": "Aix-en-Provence"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

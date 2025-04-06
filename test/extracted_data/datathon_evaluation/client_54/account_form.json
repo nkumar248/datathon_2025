@@ -1,0 +1,17 @@
+{
+    "name": "Amanda Anna Kuhn",
+    "first_name": "Amanda",
+    "middle_name": "Anna",
+    "last_name": "Kuhn",
+    "passport_number": "KC1194403",
+    "currency": "CHF",
+    "address": {
+        "city": "Chur",
+        "street name": "Rue de la Paix",
+        "street number": 12,
+        "postal code": "7277"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 004 742 11 36",
+    "email_address": "amanda.kuhn@gmx.ch"
+}

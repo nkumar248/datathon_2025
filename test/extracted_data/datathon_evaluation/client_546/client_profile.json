@@ -1,0 +1,94 @@
+{
+    "name": "Olivia Adèle Dupont",
+    "address": {
+        "city": "Aalst",
+        "street name": "Rue de la Croix-Rouge",
+        "street number": 68,
+        "postal code": "7853"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1977-08-19",
+    "nationality": "Belgian",
+    "passport_number": "GZ5774343",
+    "passport_issue_date": "2020-09-21",
+    "passport_expiry_date": "2027-09-20",
+    "gender": "F",
+    "phone_number": "+32 0493 383 144",
+    "email_address": "olivia.dupont@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Institut Saint-Joseph",
+        "graduation_year": 1995
+    },
+    "higher_education": [
+        {
+            "university": "Hasselt University",
+            "graduation_year": 1987
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2001,
+            "end_year": 2002,
+            "company": "ING Belgium SA/NV",
+            "position": "Family Office Manager",
+            "salary": 42000
+        },
+        {
+            "start_year": 2003,
+            "end_year": 2006,
+            "company": "ING Belgium SA/NV",
+            "position": "Investment Director",
+            "salary": 56000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2007,
+            "company": "ING Belgium SA/NV",
+            "position": "CFO",
+            "salary": 75000
+        },
+        {
+            "start_year": 2007,
+            "end_year": null,
+            "company": "",
+            "position": "COO",
+            "salary": 661000
+        }
+    ],
+    "aum": {
+        "savings": 980000,
+        "inheritance": 660000,
+        "real_estate_value": 4439000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2014,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1369000,
+            "property location": "Aalst"
+        },
+        {
+            "property type": "villa",
+            "property value": 2160000,
+            "property location": "Tournai"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 910000,
+            "property location": "La Louvière"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

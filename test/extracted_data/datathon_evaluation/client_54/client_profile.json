@@ -1,0 +1,102 @@
+{
+    "name": "Amanda Anna Kuhn",
+    "address": {
+        "city": "Chur",
+        "street name": "Rue de la Paix",
+        "street number": 12,
+        "postal code": "7277"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1978-08-04",
+    "nationality": "Swiss",
+    "passport_number": "KC1194403",
+    "passport_issue_date": "2016-06-12",
+    "passport_expiry_date": "2026-06-11",
+    "gender": "F",
+    "phone_number": "+41 004 742 11 36",
+    "email_address": "amanda.kuhn@gmx.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Kantonschule Solothurn Solothurn",
+        "graduation_year": 1996
+    },
+    "higher_education": [
+        {
+            "university": "University of Fribourg",
+            "graduation_year": 2003
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2003,
+            "end_year": 2008,
+            "company": "Credit Suisse Asset Management",
+            "position": "Stockbroker",
+            "salary": 69000
+        },
+        {
+            "start_year": 2010,
+            "end_year": 2015,
+            "company": "Pictet Asset Management SA",
+            "position": "Portfolio Manager",
+            "salary": 115000
+        },
+        {
+            "start_year": 2016,
+            "end_year": 2017,
+            "company": "Pictet Asset Management SA",
+            "position": "Hedge Fund Manager",
+            "salary": 113000
+        },
+        {
+            "start_year": 2018,
+            "end_year": 2021,
+            "company": "Pictet Asset Management SA",
+            "position": "Private Equity Investor",
+            "salary": 185000
+        },
+        {
+            "start_year": 2021,
+            "end_year": 2024,
+            "company": "Julius Baer Asset Management",
+            "position": "Angel Investor",
+            "salary": 343000
+        }
+    ],
+    "aum": {
+        "savings": 360000,
+        "inheritance": 1910000,
+        "real_estate_value": 6760000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2008,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 3400000,
+            "property location": "Chur"
+        },
+        {
+            "property type": "flat",
+            "property value": 1760000,
+            "property location": "Bern"
+        },
+        {
+            "property type": "flat",
+            "property value": 1600000,
+            "property location": "Locarno"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Austria"
+    ],
+    "currency": "CHF"
+}

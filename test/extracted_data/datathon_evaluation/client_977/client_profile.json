@@ -1,0 +1,57 @@
+{
+    "name": "Yara Daniëlle Brinkman",
+    "address": {
+        "city": "Leeuwarden",
+        "street name": "Markt",
+        "street number": 25,
+        "postal code": "6904 87"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1997-12-29",
+    "nationality": "Dutch",
+    "passport_number": "SA3933734",
+    "passport_issue_date": "2021-11-09",
+    "passport_expiry_date": "2031-11-08",
+    "gender": "F",
+    "phone_number": "+31 06 22735008",
+    "email_address": "yara brinkman@gmail com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Christelijk Lyceum Zandvoort",
+        "graduation_year": 2015
+    },
+    "higher_education": [
+        {
+            "university": "Gerrit Rietveld Academy",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2022,
+            "end_year": null,
+            "company": "Mauritshuis",
+            "position": "Art Dealer",
+            "salary": 41000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 1500000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

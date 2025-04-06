@@ -1,0 +1,71 @@
+{
+    "name": "Valeria Sofía Pérez",
+    "address": {
+        "city": "Padua",
+        "street name": "Via Giulia",
+        "street number": 50,
+        "postal code": "32573"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1976-09-09",
+    "nationality": "Spanish",
+    "passport_number": "WY0858251",
+    "passport_issue_date": "2021-07-14",
+    "passport_expiry_date": "2031-07-13",
+    "gender": "F",
+    "phone_number": "",
+    "email_address": "valeria.perez@unidata.it",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "IES Rafael Alberti Cádiz",
+        "graduation_year": 1996
+    },
+    "higher_education": [
+        {
+            "university": "University of Valencia",
+            "graduation_year": 1986
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2000,
+            "end_year": 2002,
+            "company": "Sky Italia S.r.l.",
+            "position": "Journalist",
+            "salary": 24000
+        },
+        {
+            "start_year": 2003,
+            "end_year": 2023,
+            "company": "RAI Radiotelevisione Italiana S.p.A.",
+            "position": "Editor",
+            "salary": 119000
+        }
+    ],
+    "aum": {
+        "savings": 190000,
+        "inheritance": 3750000,
+        "real_estate_value": 1570000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2005,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1570000,
+            "property location": "Padua"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Italy"
+    ],
+    "currency": "EUR"
+}

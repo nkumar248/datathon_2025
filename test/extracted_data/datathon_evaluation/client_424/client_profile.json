@@ -1,0 +1,58 @@
+{
+    "name": "Pedersen Gundersen Larsen",
+    "address": {
+        "city": "Stuttgart",
+        "street name": "Schlossplatz",
+        "street number": 6,
+        "postal code": "93723"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1998-01-13",
+    "nationality": "Danish",
+    "passport_number": "TJ0064767",
+    "passport_issue_date": "2022-03-07",
+    "passport_expiry_date": "2032-03-06",
+    "gender": "M",
+    "phone_number": "+49 6881 874682",
+    "email_address": "pedersen.larsen@vodafone.de",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Sønderborg Statsskole",
+        "graduation_year": 2015
+    },
+    "higher_education": [
+        {
+            "university": "Roskilde University",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2021,
+            "end_year": 2023,
+            "company": "Blackstone Deutschland GmbH",
+            "position": "Analyst",
+            "salary": 297000
+        }
+    ],
+    "aum": {
+        "savings": 90000,
+        "inheritance": 1940000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2016,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

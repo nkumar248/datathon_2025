@@ -1,0 +1,17 @@
+{
+    "name": "Anna Larissa Frey",
+    "first_name": "Anna",
+    "middle_name": "Larissa",
+    "last_name": "Frey",
+    "passport_number": "YX2021931",
+    "currency": "CHF",
+    "address": {
+        "city": "Lausanne",
+        "street name": "Gerberngasse",
+        "street number": 28,
+        "postal code": "1282"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "042 877 73 59",
+    "email_address": "anna.frey@swisscom.ch"
+}

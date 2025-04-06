@@ -1,0 +1,17 @@
+{
+    "name": "Maja Emma Krämer",
+    "first_name": "Maja",
+    "middle_name": "Emma",
+    "last_name": "Krämer",
+    "passport_number": "CA9620037",
+    "currency": "EUR",
+    "address": {
+        "city": "Baden bei Wien",
+        "street name": "Liechtensteinstraße",
+        "street number": 18,
+        "postal code": "2012"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 014 435 1424",
+    "email_address": "maja.kramer@aon.at"
+}

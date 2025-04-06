@@ -1,0 +1,75 @@
+{
+    "name": "Burkart Bühler Jost",
+    "address": {
+        "city": "Lucerne",
+        "street name": "Quai du Général-Guisan",
+        "street number": 9,
+        "postal code": "8520"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1979-04-14",
+    "nationality": "Swiss",
+    "passport_number": "LC2012688",
+    "passport_issue_date": "2022-09-19",
+    "passport_expiry_date": "2032-09-18",
+    "gender": "M",
+    "phone_number": "053 133 08 40",
+    "email_address": "burkart.jost@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Gymnasium Stadelhofen Luzern",
+        "graduation_year": 1999
+    },
+    "higher_education": [
+        {
+            "university": "University of Lausanne",
+            "graduation_year": 2004
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2004,
+            "end_year": 2005,
+            "company": "SRF Schweizer Radio und Fernsehen",
+            "position": "Journalist",
+            "salary": 62000
+        },
+        {
+            "start_year": 2006,
+            "end_year": null,
+            "company": "Tamedia AG",
+            "position": "Editor",
+            "salary": 296000
+        }
+    ],
+    "aum": {
+        "savings": 420000,
+        "inheritance": 3010000,
+        "real_estate_value": 7850000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2007,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 2530000,
+            "property location": "Lucerne"
+        },
+        {
+            "property type": "villa",
+            "property value": 5320000,
+            "property location": "Fribourg"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

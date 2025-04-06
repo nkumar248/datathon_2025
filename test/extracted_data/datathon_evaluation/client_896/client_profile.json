@@ -1,0 +1,57 @@
+{
+    "name": "Østergaard Friis Jensen",
+    "address": {
+        "city": "Århus N",
+        "street name": "Fiolgade",
+        "street number": 44,
+        "postal code": "3776"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1999-03-31",
+    "nationality": "Danish",
+    "passport_number": "YX1073080",
+    "passport_issue_date": "2023-03-28",
+    "passport_expiry_date": "2033-03-27",
+    "gender": "M",
+    "phone_number": "56 40 21 01",
+    "email_address": "stergaard.jensen@dk-hostmaster.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Randers Statsskole",
+        "graduation_year": 2018
+    },
+    "higher_education": [
+        {
+            "university": "Copenhagen Business School",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2023,
+            "end_year": 2025,
+            "company": "Skanska Danmark A/S",
+            "position": "Property Manager",
+            "salary": 265000
+        }
+    ],
+    "aum": {
+        "savings": 70000,
+        "inheritance": 17720000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2019,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

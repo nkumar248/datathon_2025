@@ -1,0 +1,17 @@
+{
+    "name": "Ilaria Chiara Donati",
+    "first_name": "Ilaria",
+    "middle_name": "Chiara",
+    "last_name": "Donati",
+    "passport_number": "HF9142997",
+    "currency": "EUR",
+    "address": {
+        "city": "Modena",
+        "street name": "Via Po",
+        "street number": 14,
+        "postal code": "42785"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "352 4379247",
+    "email_address": "ilaria.donati@tin.it"
+}

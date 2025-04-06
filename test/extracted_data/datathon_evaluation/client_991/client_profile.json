@@ -1,0 +1,45 @@
+{
+    "name": "Hoffmann Scholz Schmitz",
+    "address": {
+        "city": "Wuppertal",
+        "street name": "Kronprinzstraße",
+        "street number": 40,
+        "postal code": "78985"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "2004-02-08",
+    "nationality": "German",
+    "passport_number": "CZ9993538",
+    "passport_issue_date": "2022-09-22",
+    "passport_expiry_date": "2032-09-21",
+    "gender": "M",
+    "phone_number": "+49 4936 792365",
+    "email_address": "hoffmann.schmitz@arcor.de",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Maria-Theresia-Gymnasium München",
+        "graduation_year": 2021
+    },
+    "higher_education": [],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1900000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

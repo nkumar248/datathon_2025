@@ -1,0 +1,66 @@
+{
+    "name": "Díaz Pérez Álvarez",
+    "address": {
+        "city": "Cartagena",
+        "street name": "Plaza de la Independencia",
+        "street number": 71,
+        "postal code": "79488"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1957-12-12",
+    "nationality": "Spanish",
+    "passport_number": "MO5576987",
+    "passport_issue_date": "2024-06-08",
+    "passport_expiry_date": "2034-06-07",
+    "gender": "M",
+    "phone_number": "638 192 321",
+    "email_address": "diaz.alvarez@wanadoo.es",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Instituto de Educación Secundaria IES Pedro Salinas Jaén",
+        "graduation_year": 1975
+    },
+    "higher_education": [
+        {
+            "university": "ESADE Business & Law School",
+            "graduation_year": 1982
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1981,
+            "end_year": 1986,
+            "company": "Cepsa Trading S.A.U.",
+            "position": "Junior Trader",
+            "salary": 30000
+        },
+        {
+            "start_year": 1988,
+            "end_year": 2018,
+            "company": "Repsol S.A.",
+            "position": "Senior Trader",
+            "salary": 197000
+        }
+    ],
+    "aum": {
+        "savings": 420000,
+        "inheritance": 0,
+        "real_estate_value": 1220000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1220000,
+            "property location": "Cartagena"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

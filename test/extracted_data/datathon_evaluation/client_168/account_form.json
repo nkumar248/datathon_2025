@@ -1,0 +1,17 @@
+{
+    "name": "Valeria Dácil Morales",
+    "first_name": "Valeria",
+    "middle_name": "Dácil",
+    "last_name": "Morales",
+    "passport_number": "FB2402072",
+    "currency": "EUR",
+    "address": {
+        "city": "Santa Cruz de Tenerife",
+        "street name": "Calle de San Bernardo",
+        "street number": 83,
+        "postal code": "19776"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "677 209 499",
+    "email_address": "valeria.morales@orange.es"
+}

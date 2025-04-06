@@ -1,0 +1,58 @@
+{
+    "name": "Larsen Andersen Østergaard",
+    "address": {
+        "city": "Kolding",
+        "street name": "Fiolgade",
+        "street number": 47,
+        "postal code": "0410"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1996-06-06",
+    "nationality": "Danish",
+    "passport_number": "RM9599687",
+    "passport_issue_date": "2023-06-15",
+    "passport_expiry_date": "2033-06-14",
+    "gender": "M",
+    "phone_number": "+45 18 37 53 93",
+    "email_address": "larsen.stergaard@siminn.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Faaborg Gymnasium",
+        "graduation_year": 2015
+    },
+    "higher_education": [
+        {
+            "university": "University of Copenhagen",
+            "graduation_year": 2019
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2021,
+            "end_year": null,
+            "company": "Norden A/S",
+            "position": "Junior Trader",
+            "salary": 281000
+        }
+    ],
+    "aum": {
+        "savings": 190000,
+        "inheritance": 12400000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2020,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Germany"
+    ],
+    "currency": "DKK"
+}

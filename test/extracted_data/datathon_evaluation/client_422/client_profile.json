@@ -1,0 +1,57 @@
+{
+    "name": "Maes Janssens Lemaire",
+    "address": {
+        "city": "Sint-Niklaas",
+        "street name": "Rue des Sœurs Noires",
+        "street number": 2,
+        "postal code": "9188"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1998-01-29",
+    "nationality": "Belgian",
+    "passport_number": "ZT6552005",
+    "passport_issue_date": "2017-03-24",
+    "passport_expiry_date": "2024-03-23",
+    "gender": "M",
+    "phone_number": "0412 363 282",
+    "email_address": "maes.lemaire@belgacom.be",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "College Patroklia",
+        "graduation_year": 2017
+    },
+    "higher_education": [
+        {
+            "university": "PXL University of Applied Sciences and Arts",
+            "graduation_year": 2020
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2022,
+            "end_year": 2025,
+            "company": "Telenet Group NV",
+            "position": "Software Developer",
+            "salary": 41000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 1760000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

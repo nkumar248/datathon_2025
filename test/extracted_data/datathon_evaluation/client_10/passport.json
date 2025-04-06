@@ -1,0 +1,17 @@
+{
+    "first_name": "Fischer",
+    "middle_name": "Egger",
+    "last_name": "Schnell",
+    "gender": "M",
+    "country": "Austria",
+    "country_code": "AUT",
+    "nationality": "Austrian",
+    "birth_date": "1958-07-11",
+    "passport_number": "BC4460180",
+    "passport_mrz": [
+        "P<AUTSCHNELL<<FISCHER<EGGER<<<<<<<<<<<<<<<<<<",
+        "BC4460180AUT580711<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-09-15",
+    "passport_expiry_date": "2033-09-14"
+}

@@ -1,0 +1,17 @@
+{
+    "first_name": "Dubois",
+    "middle_name": "Bernard",
+    "last_name": "Garcia",
+    "gender": "M",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1979-07-08",
+    "passport_number": "LR8576608",
+    "passport_mrz": [
+        "P<FRAGARCIA<<DUBOIS<BERNARD<<<<<<<<<<<<<<<<<<",
+        "LR8576608FRA790708<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2020-11-30",
+    "passport_expiry_date": "2030-11-29"
+}

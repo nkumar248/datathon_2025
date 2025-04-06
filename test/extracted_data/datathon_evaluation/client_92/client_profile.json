@@ -1,0 +1,76 @@
+{
+    "name": "Lehmann Roth Kägi",
+    "address": {
+        "city": "Frauenfeld",
+        "street name": "Limmatquai",
+        "street number": 75,
+        "postal code": "4904"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1982-02-08",
+    "nationality": "Swiss",
+    "passport_number": "CE1411186",
+    "passport_issue_date": "2022-07-22",
+    "passport_expiry_date": "2032-07-21",
+    "gender": "M",
+    "phone_number": "+41 062 647 78 40",
+    "email_address": "lehmann.kagi@outlook.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Wirtschaftsgymnasium Olten Solothurn",
+        "graduation_year": 1999
+    },
+    "higher_education": [
+        {
+            "university": "Hotel Institute Montreux",
+            "graduation_year": 2005
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2006,
+            "end_year": 2009,
+            "company": "Maersk Line (Switzerland) A/S",
+            "position": "Ship Broker",
+            "salary": 57000
+        },
+        {
+            "start_year": 2011,
+            "end_year": null,
+            "company": "Maersk Line (Switzerland) A/S",
+            "position": "Shipping Company Owner",
+            "salary": 230000
+        }
+    ],
+    "aum": {
+        "savings": 310000,
+        "inheritance": 2210000,
+        "real_estate_value": 8500000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2013,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 5390000,
+            "property location": "Frauenfeld"
+        },
+        {
+            "property type": "house",
+            "property value": 3110000,
+            "property location": "Wil"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "France"
+    ],
+    "currency": "CHF"
+}

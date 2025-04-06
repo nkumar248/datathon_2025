@@ -1,0 +1,83 @@
+{
+    "name": "Gitte Amanda Østergaard",
+    "address": {
+        "city": "Randers",
+        "street name": "Linnemannsgade",
+        "street number": 67,
+        "postal code": "1891"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1957-05-25",
+    "nationality": "Danish",
+    "passport_number": "GZ7603695",
+    "passport_issue_date": "2024-04-09",
+    "passport_expiry_date": "2034-04-08",
+    "gender": "F",
+    "phone_number": "+45 05 58 03 41",
+    "email_address": "gitte.stergaard@telia.dk",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Skive Gymnasium",
+        "graduation_year": 1976
+    },
+    "higher_education": [
+        {
+            "university": "The National Film School of Denmark",
+            "graduation_year": 1980
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1981,
+            "end_year": 1983,
+            "company": "Won Hundred A/S",
+            "position": "Assistant Designer",
+            "salary": 265000
+        },
+        {
+            "start_year": 1985,
+            "end_year": 1988,
+            "company": "Bestseller A/S",
+            "position": "Senior Designer",
+            "salary": 394000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 2018,
+            "company": "Ganni A/S",
+            "position": "Creative Director",
+            "salary": 3761000
+        }
+    ],
+    "aum": {
+        "savings": 7540000,
+        "inheritance": 0,
+        "real_estate_value": 4192000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1060000,
+            "property location": "Randers"
+        },
+        {
+            "property type": "condo",
+            "property value": 1052000,
+            "property location": "Fredericia"
+        },
+        {
+            "property type": "villa",
+            "property value": 2080000,
+            "property location": "Slagelse"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

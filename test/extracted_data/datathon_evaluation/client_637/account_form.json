@@ -1,0 +1,17 @@
+{
+    "name": "Ingrid Ambre Guillaume",
+    "first_name": "Ingrid",
+    "middle_name": "Ambre",
+    "last_name": "Guillaume",
+    "passport_number": "JR3637984",
+    "currency": "EUR",
+    "address": {
+        "city": "Aix-en-Provence",
+        "street name": "Avenue de Choisy",
+        "street number": 43,
+        "postal code": "12277"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 02 64 02 74 79",
+    "email_address": "ingrid.guillaume@aliceadsl.fr"
+}

@@ -1,0 +1,96 @@
+{
+    "name": "Becker Schulz Hoffmann",
+    "address": {
+        "city": "Augsburg",
+        "street name": "Weinstrasse",
+        "street number": 30,
+        "postal code": "24103"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1972-08-13",
+    "nationality": "German",
+    "passport_number": "GN1922821",
+    "passport_issue_date": "2023-01-20",
+    "passport_expiry_date": "2033-01-19",
+    "gender": "M",
+    "phone_number": "0978 875691",
+    "email_address": "becker.hoffmann@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Walther-Rathenau-Schule",
+        "graduation_year": 1992
+    },
+    "higher_education": [
+        {
+            "university": "WHU – Otto Beisheim School of Management",
+            "graduation_year": 1997
+        },
+        {
+            "university": "Leipzig Graduate School of Management",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1997,
+            "end_year": 2000,
+            "company": "KKR Deutschland GmbH",
+            "position": "Analyst",
+            "salary": 37000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2001,
+            "company": "Cinven Deutschland GmbH",
+            "position": "Associate",
+            "salary": 68000
+        },
+        {
+            "start_year": 2003,
+            "end_year": 2004,
+            "company": "KKR Deutschland GmbH",
+            "position": "Investment Director",
+            "salary": 85000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2006,
+            "company": "Blackstone Deutschland GmbH",
+            "position": "Partner",
+            "salary": 160000
+        },
+        {
+            "start_year": 2007,
+            "end_year": null,
+            "company": "Cinven Deutschland GmbH",
+            "position": "Fund Manager",
+            "salary": 1119000
+        }
+    ],
+    "aum": {
+        "savings": 1820000,
+        "inheritance": 2670000,
+        "real_estate_value": 1750000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2010,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1750000,
+            "property location": "Augsburg"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

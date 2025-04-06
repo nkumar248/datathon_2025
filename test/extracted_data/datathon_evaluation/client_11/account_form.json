@@ -1,0 +1,17 @@
+{
+    "name": "Ève Capucine Pierre",
+    "first_name": "Ève",
+    "middle_name": "Capucine",
+    "last_name": "Pierre",
+    "passport_number": "CK1617743",
+    "currency": "EUR",
+    "address": {
+        "city": "Saint-Denis",
+        "street name": "Boulevard Raspail",
+        "street number": 34,
+        "postal code": "87570"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 06 62 64 13 45",
+    "email_address": "eve.pierre@live.fr"
+}

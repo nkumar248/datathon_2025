@@ -1,0 +1,17 @@
+{
+    "first_name": "Marini",
+    "middle_name": "Bianchi",
+    "last_name": "Lotti",
+    "gender": "M",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1981-06-26",
+    "passport_number": "QF2460987",
+    "passport_mrz": [
+        "P<ITALOTTI<<MARINI<BIANCHI<<<<<<<<<<<<<<<<<<<",
+        "QF2460987ITA810626<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-04-01",
+    "passport_expiry_date": "2033-03-31"
+}

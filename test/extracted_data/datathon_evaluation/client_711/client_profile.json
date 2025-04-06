@@ -1,0 +1,82 @@
+{
+    "name": "Sanders Lemaire Smets",
+    "address": {
+        "city": "Ghent",
+        "street name": "Rue de l'Église",
+        "street number": 23,
+        "postal code": "9779"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1988-01-07",
+    "nationality": "Belgian",
+    "passport_number": "QB3035995",
+    "passport_issue_date": "2022-06-15",
+    "passport_expiry_date": "2029-06-14",
+    "gender": "M",
+    "phone_number": "+32 0436 102 557",
+    "email_address": "sanders.smets@yahoo.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Atheneum Brugge Centrum",
+        "graduation_year": 2005
+    },
+    "higher_education": [
+        {
+            "university": "Brussels School of International Studies",
+            "graduation_year": 2011
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2011,
+            "end_year": 2013,
+            "company": "ING Belgium SA/NV",
+            "position": "Family Office Manager",
+            "salary": 36000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2019,
+            "company": "KBC Bank NV",
+            "position": "Investment Director",
+            "salary": 53000
+        },
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "Belfius Bank SA",
+            "position": "CFO",
+            "salary": 157000
+        }
+    ],
+    "aum": {
+        "savings": 160000,
+        "inheritance": 940000,
+        "real_estate_value": 3400000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2020,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2220000,
+            "property location": "Ghent"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1180000,
+            "property location": "Binche"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

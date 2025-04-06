@@ -1,0 +1,17 @@
+{
+    "name": "Schneider Wagner Lang",
+    "first_name": "Schneider",
+    "middle_name": "Wagner",
+    "last_name": "Lang",
+    "passport_number": "DQ2466295",
+    "currency": "EUR",
+    "address": {
+        "city": "Bregenz",
+        "street name": "Kärntner Straße",
+        "street number": 91,
+        "postal code": "6824"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 613 069 5393",
+    "email_address": "schneider.lang@liwest.at"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Mayer Meier Scholz",
+    "address": {
+        "city": "Berlin",
+        "street name": "Breitscheidplatz",
+        "street number": 92,
+        "postal code": "86945"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "2003-12-20",
+    "nationality": "German",
+    "passport_number": "HK4611764",
+    "passport_issue_date": "2022-11-08",
+    "passport_expiry_date": "2032-11-07",
+    "gender": "M",
+    "phone_number": "5008 947687",
+    "email_address": "mayer.scholz@icloud.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lessing-Gymnasium Frankfurt",
+        "graduation_year": 2023
+    },
+    "higher_education": [],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 2750000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2020,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Germany"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,91 @@
+{
+    "name": "Maassen Veenhoven Van Dijk",
+    "address": {
+        "city": "Rotterdam",
+        "street name": "Waldeck Pyrmontkade",
+        "street number": 23,
+        "postal code": "2518 19"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1960-08-31",
+    "nationality": "Dutch",
+    "passport_number": "JG7842444",
+    "passport_issue_date": "2023-09-11",
+    "passport_expiry_date": "2033-09-10",
+    "gender": "M",
+    "phone_number": "+31 06 75331817",
+    "email_address": "maassen.vandijk@hotmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Zwijsen College Veghel",
+        "graduation_year": 1979
+    },
+    "higher_education": [
+        {
+            "university": "Utrecht University",
+            "graduation_year": 1983
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1985,
+            "end_year": 1989,
+            "company": "Airbus Netherlands B.V.",
+            "position": "Aerospace Engineer",
+            "salary": 39000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 1994,
+            "company": "Fokker Technologies B.V.",
+            "position": "Program Manager",
+            "salary": 65000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 2000,
+            "company": "Airbus Netherlands B.V.",
+            "position": "Director of Operations",
+            "salary": 157000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2021,
+            "company": "NLR - Netherlands Aerospace Centre",
+            "position": "VP of Business Development",
+            "salary": 679000
+        }
+    ],
+    "aum": {
+        "savings": 1220000,
+        "inheritance": 0,
+        "real_estate_value": 4672000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 1952000,
+            "property location": "Rotterdam"
+        },
+        {
+            "property type": "flat",
+            "property value": 1090000,
+            "property location": "Haarlem"
+        },
+        {
+            "property type": "house",
+            "property value": 1630000,
+            "property location": "Almere"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

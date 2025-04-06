@@ -1,0 +1,94 @@
+{
+    "name": "Andersen Friis",
+    "address": {
+        "city": "Helsingør",
+        "street name": "Østerbrogade",
+        "street number": 92,
+        "postal code": "5068"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1976-02-05",
+    "nationality": "Danish",
+    "passport_number": "QN0187494",
+    "passport_issue_date": "2024-03-02",
+    "passport_expiry_date": "2034-03-01",
+    "gender": "M",
+    "phone_number": "+45 93 27 42 73",
+    "email_address": "andersen.friis@telia.dk",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Aabenraa Gymnasium",
+        "graduation_year": 1995
+    },
+    "higher_education": [
+        {
+            "university": "University of Copenhagen",
+            "graduation_year": 1998
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2000,
+            "end_year": 2002,
+            "company": "Bavarian Nordic A/S",
+            "position": "Research Scientist",
+            "salary": 251000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2006,
+            "company": "Novo Nordisk A/S",
+            "position": "Biotech Startup Founder",
+            "salary": 390000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2008,
+            "company": "Bavarian Nordic A/S",
+            "position": "CEO",
+            "salary": 488000
+        },
+        {
+            "start_year": 2009,
+            "end_year": null,
+            "company": "Genmab A/S",
+            "position": "Venture Capitalist",
+            "salary": 3487000
+        }
+    ],
+    "aum": {
+        "savings": 5740000,
+        "inheritance": 6090000,
+        "real_estate_value": 4380000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2009,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1430000,
+            "property location": "Helsingør"
+        },
+        {
+            "property type": "flat",
+            "property value": 900000,
+            "property location": "Helsingør"
+        },
+        {
+            "property type": "house",
+            "property value": 2050000,
+            "property location": "Vejle"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

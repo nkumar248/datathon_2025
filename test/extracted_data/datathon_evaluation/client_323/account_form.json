@@ -1,0 +1,17 @@
+{
+    "name": "Scholz Müller Schulz",
+    "first_name": "Scholz",
+    "middle_name": "Müller",
+    "last_name": "Schulz",
+    "passport_number": "OE2565540",
+    "currency": "EUR",
+    "address": {
+        "city": "Leipzig",
+        "street name": "Breitscheidplatz",
+        "street number": 20,
+        "postal code": "66079"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 2557 896791",
+    "email_address": "scholz.schulz@outlook.com"
+}

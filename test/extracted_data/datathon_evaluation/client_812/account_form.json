@@ -1,0 +1,17 @@
+{
+    "name": "Lechner Fischer Bauer",
+    "first_name": "Lechner",
+    "middle_name": "Fischer",
+    "last_name": "Bauer",
+    "passport_number": "BZ9107794",
+    "currency": "EUR",
+    "address": {
+        "city": "Krems an der Donau",
+        "street name": "Enzersdorfer Straße",
+        "street number": 68,
+        "postal code": ""
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "++49 966 612 0200",
+    "email_address": "lechner.bauer@gmx.at"
+}

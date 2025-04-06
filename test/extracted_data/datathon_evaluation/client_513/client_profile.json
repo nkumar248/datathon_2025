@@ -1,0 +1,68 @@
+{
+    "name": "Beatrix Gertrud Lechner",
+    "address": {
+        "city": "Eisenstadt",
+        "street name": "Untere Donaustraße",
+        "street number": 98,
+        "postal code": "1894"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1995-04-09",
+    "nationality": "Austrian",
+    "passport_number": "MY7900092",
+    "passport_issue_date": "2019-10-13",
+    "passport_expiry_date": "2029-10-12",
+    "gender": "F",
+    "phone_number": "+43 213 298 4538",
+    "email_address": "beatrix.lechner@web.at",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Walser Gymnasium",
+        "graduation_year": 2015
+    },
+    "higher_education": [
+        {
+            "university": "University of Vienna",
+            "graduation_year": 2019
+        },
+        {
+            "university": "Graz University of Technology",
+            "graduation_year": 2023
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2020,
+            "end_year": 2022,
+            "company": "Conwert Immobilien Invest AG",
+            "position": "Stockbroker",
+            "salary": 35000
+        },
+        {
+            "start_year": 2023,
+            "end_year": 2025,
+            "company": "Immofinanz AG",
+            "position": "Portfolio Manager",
+            "salary": 45000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 1780000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2019,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

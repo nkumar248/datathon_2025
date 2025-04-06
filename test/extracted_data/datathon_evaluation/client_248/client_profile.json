@@ -1,0 +1,81 @@
+{
+    "name": "Romane Maes",
+    "address": {
+        "city": "Hasselt",
+        "street name": "Rue du Marché aux Fromages",
+        "street number": 40,
+        "postal code": "0797"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1960-12-22",
+    "nationality": "Belgian",
+    "passport_number": "NO9627553",
+    "passport_issue_date": "2017-11-25",
+    "passport_expiry_date": "2024-11-24",
+    "gender": "F",
+    "phone_number": "+32 0402 921 904",
+    "email_address": "romane.maes@proximus.be",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Collège Notre-Dame de la Consolation",
+        "graduation_year": 1978
+    },
+    "higher_education": [
+        {
+            "university": "University of Liège",
+            "graduation_year": 1984
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1985,
+            "end_year": 1990,
+            "company": "Linklaters LLP",
+            "position": "Associate Attorney",
+            "salary": 44000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 1991,
+            "company": "Linklaters LLP",
+            "position": "Senior Associate",
+            "salary": 53000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 1995,
+            "company": "Clifford Chance LLP",
+            "position": "Partner",
+            "salary": 77000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 1999,
+            "company": "Allen & Overy LLP",
+            "position": "Managing Partner",
+            "salary": 135000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2021,
+            "company": "Linklaters LLP",
+            "position": "Law Firm Chairman",
+            "salary": 1081000
+        }
+    ],
+    "aum": {
+        "savings": 1650000,
+        "inheritance": 0,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {},
+    "real_estate_details": [],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

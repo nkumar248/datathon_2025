@@ -1,0 +1,17 @@
+{
+    "name": "Sánchez Muñoz González",
+    "first_name": "Sánchez",
+    "middle_name": "Muñoz",
+    "last_name": "González",
+    "passport_number": "UD3333636",
+    "currency": "EUR",
+    "address": {
+        "city": "Barcelona",
+        "street name": "Calle de San Vicente Mártir",
+        "street number": 64,
+        "postal code": "93771"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 675 060 117",
+    "email_address": "sanchez.gonzalez@hotmail.com"
+}

@@ -1,0 +1,17 @@
+{
+    "first_name": "Huber",
+    "middle_name": "Kaufmann",
+    "last_name": "Lehmann",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "nationality": "Swiss",
+    "birth_date": "1988-11-08",
+    "passport_number": "CR7317808",
+    "passport_mrz": [
+        "P<CHELEHMANN<<HUBER<KAUFMANN<<<<<<<<<<<<<<<<<",
+        "CR7317808CHE881108<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2019-12-08",
+    "passport_expiry_date": "2029-12-07"
+}

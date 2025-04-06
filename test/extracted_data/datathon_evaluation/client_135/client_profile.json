@@ -1,0 +1,57 @@
+{
+    "name": "Ophélie Margot Lemaire",
+    "address": {
+        "city": "Herstal",
+        "street name": "Rue des Quatre Bras",
+        "street number": 20,
+        "postal code": "2838"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1997-01-29",
+    "nationality": "Belgian",
+    "passport_number": "JL1723475",
+    "passport_issue_date": "2024-12-12",
+    "passport_expiry_date": "2031-12-11",
+    "gender": "F",
+    "phone_number": "+32 0487 318 260",
+    "email_address": "ophelie.lemaire@scarlet.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Heilige Familiecollege",
+        "graduation_year": 2015
+    },
+    "higher_education": [
+        {
+            "university": "Ghent University",
+            "graduation_year": 2019
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2020,
+            "end_year": null,
+            "company": "BNP Paribas Fortis SA/NV",
+            "position": "Family Office Manager",
+            "salary": 58000
+        }
+    ],
+    "aum": {
+        "savings": 40000,
+        "inheritance": 1240000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

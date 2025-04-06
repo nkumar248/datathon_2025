@@ -1,0 +1,17 @@
+{
+    "name": "Alexandra Roelandts",
+    "first_name": "Alexandra",
+    "middle_name": "",
+    "last_name": "Roelandts",
+    "passport_number": "FI3187909",
+    "currency": "EUR",
+    "address": {
+        "city": "Tournai",
+        "street name": "Rue des Dominicains",
+        "street number": 37,
+        "postal code": "9297"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0491 005 994",
+    "email_address": "alexandra.roelandts@belgacom.be"
+}

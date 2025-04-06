@@ -1,0 +1,17 @@
+{
+    "name": "Venla Laura Virtanen",
+    "first_name": "Venla",
+    "middle_name": "Laura",
+    "last_name": "Virtanen",
+    "passport_number": "WM0808367",
+    "currency": "EUR",
+    "address": {
+        "city": "Rauma",
+        "street name": "Neljäs linja",
+        "street number": 50,
+        "postal code": "92849"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "043 616 05 06",
+    "email_address": "venla.virtanen@hotmail.com"
+}

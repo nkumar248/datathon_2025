@@ -1,0 +1,80 @@
+{
+    "name": "Sofia Daniela De Luca",
+    "address": {
+        "city": "Venice",
+        "street name": "Campo Santa Marina",
+        "street number": 65,
+        "postal code": "11470"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1985-04-21",
+    "nationality": "Italian",
+    "passport_number": "VA1473369",
+    "passport_issue_date": "2023-02-28",
+    "passport_expiry_date": "2033-02-27",
+    "gender": "F",
+    "phone_number": "326 1068226",
+    "email_address": "sofia.deluca@icloud.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Scuola Media Statale Giovanni Pascoli Napoli",
+        "graduation_year": 2005
+    },
+    "higher_education": [
+        {
+            "university": "Polytechnic University of Milan",
+            "graduation_year": 2010
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2013,
+            "company": "Novartis Farma S.p.A.",
+            "position": "Research Scientist",
+            "salary": 25000
+        },
+        {
+            "start_year": 2013,
+            "end_year": null,
+            "company": "Pfizer Italia S.r.l.",
+            "position": "Biotech Startup Founder",
+            "salary": 120000
+        }
+    ],
+    "aum": {
+        "savings": 150000,
+        "inheritance": 1560000,
+        "real_estate_value": 3030000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 990000,
+            "property location": "Venice"
+        },
+        {
+            "property type": "condo",
+            "property value": 720000,
+            "property location": "Parma"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1320000,
+            "property location": "Bologna"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

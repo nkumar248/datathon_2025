@@ -1,0 +1,17 @@
+{
+    "name": "Mayer Hoffmann Meier",
+    "first_name": "Mayer",
+    "middle_name": "Hoffmann",
+    "last_name": "Meier",
+    "passport_number": "ML5059622",
+    "currency": "EUR",
+    "address": {
+        "city": "Porvoo",
+        "street name": "Reijolankuja",
+        "street number": 42,
+        "postal code": "30343"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "047 109 06 175",
+    "email_address": "mayer.meier@surffi.net"
+}

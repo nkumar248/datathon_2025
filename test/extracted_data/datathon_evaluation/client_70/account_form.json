@@ -1,0 +1,17 @@
+{
+    "name": "Brandstetter Schmidt Hinterleitner",
+    "first_name": "Brandstetter",
+    "middle_name": "Schmidt",
+    "last_name": "Hinterleitner",
+    "passport_number": "ZF6451190",
+    "currency": "EUR",
+    "address": {
+        "city": "Stockerau",
+        "street name": "Kärntner Straße",
+        "street number": 68,
+        "postal code": "2110"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 202 616 3321",
+    "email_address": "brandstetter.hinterleitner@liwest.at"
+}

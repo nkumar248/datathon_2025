@@ -1,0 +1,45 @@
+{
+    "name": "Bauer Kaiser Hofer",
+    "address": {
+        "city": "Salzburg",
+        "street name": "Schönlaterngasse",
+        "street number": 86,
+        "postal code": "8125"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "2004-03-03",
+    "nationality": "Austrian",
+    "passport_number": "IH3888111",
+    "passport_issue_date": "2017-11-06",
+    "passport_expiry_date": "2027-11-05",
+    "gender": "M",
+    "phone_number": "789 305 9372",
+    "email_address": "bauer.hofer@gmx.at",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Musisches Gymnasium Wien",
+        "graduation_year": 2022
+    },
+    "higher_education": [],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1290000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

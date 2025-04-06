@@ -1,0 +1,70 @@
+{
+    "name": "Julia Dominique Bühler",
+    "address": {
+        "city": "Zurich",
+        "street name": "Marktgasse",
+        "street number": 19,
+        "postal code": "7468"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1984-10-28",
+    "nationality": "Swiss",
+    "passport_number": "UR3017937",
+    "passport_issue_date": "2023-08-30",
+    "passport_expiry_date": "2033-08-29",
+    "gender": "F",
+    "phone_number": "+41 076 583 55 28",
+    "email_address": "julia.buhler@gmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Kantonsschule Wettingen Wettingen",
+        "graduation_year": 2003
+    },
+    "higher_education": [
+        {
+            "university": "University of Fribourg",
+            "graduation_year": 2007
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2008,
+            "end_year": 2009,
+            "company": "UBS AG",
+            "position": "Investment Banker",
+            "salary": 69000
+        },
+        {
+            "start_year": 2011,
+            "end_year": null,
+            "company": "UBS AG",
+            "position": "Private Equity Investor",
+            "salary": 236000
+        }
+    ],
+    "aum": {
+        "savings": 300000,
+        "inheritance": 1910000,
+        "real_estate_value": 2420000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 2420000,
+            "property location": "Zurich"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

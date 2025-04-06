@@ -1,0 +1,17 @@
+{
+    "name": "Moens Vandenberghe Hermans",
+    "first_name": "Moens",
+    "middle_name": "Vandenberghe",
+    "last_name": "Hermans",
+    "passport_number": "MG1741214",
+    "currency": "EUR",
+    "address": {
+        "city": "Geel",
+        "street name": "Rue Royale",
+        "street number": 57,
+        "postal code": "7584"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0435 349 894",
+    "email_address": "moens.hermans@yahoo.com"
+}

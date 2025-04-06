@@ -1,0 +1,17 @@
+{
+    "name": "Rissanen Heikkinen Savolainen",
+    "first_name": "Rissanen",
+    "middle_name": "Heikkinen",
+    "last_name": "Savolainen",
+    "passport_number": "LZ4134761",
+    "currency": "EUR",
+    "address": {
+        "city": "Vaasa",
+        "street name": "Lönnrotinkatu",
+        "street number": 95,
+        "postal code": "89986"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "040 767 56 88",
+    "email_address": "rissanen.savolainen@elisa.fi"
+}

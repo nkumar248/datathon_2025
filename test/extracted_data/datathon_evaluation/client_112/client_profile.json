@@ -1,0 +1,71 @@
+{
+    "name": "Beatriz Araceli Sánchez",
+    "address": {
+        "city": "Castellón de la Plana",
+        "street name": "Plaza de la Trinidad",
+        "street number": 34,
+        "postal code": "69304"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1966-09-18",
+    "nationality": "Spanish",
+    "passport_number": "LM1530566",
+    "passport_issue_date": "2023-10-08",
+    "passport_expiry_date": "2033-10-07",
+    "gender": "F",
+    "phone_number": "+34 687 640 837",
+    "email_address": "beatriz.sanchez@orange.es",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "IES Federico García Lorca Granada",
+        "graduation_year": 1984
+    },
+    "higher_education": [
+        {
+            "university": "University of Seville",
+            "graduation_year": 1990
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1990,
+            "end_year": 1991,
+            "company": "Realia Business S.A.",
+            "position": "Property Manager",
+            "salary": 26000
+        },
+        {
+            "start_year": 1992,
+            "end_year": null,
+            "company": "Metrovacesa S.A.",
+            "position": "Developer",
+            "salary": 232000
+        }
+    ],
+    "aum": {
+        "savings": 440000,
+        "inheritance": 6100000,
+        "real_estate_value": 680000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2006,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 680000,
+            "property location": "Castellón de la Plana"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Finland"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Castro Rodríguez",
+    "first_name": "Castro",
+    "middle_name": "",
+    "last_name": "Rodríguez",
+    "passport_number": "CY1317963",
+    "currency": "EUR",
+    "address": {
+        "city": "Bilbao",
+        "street name": "Plaza de la Libertad",
+        "street number": 85,
+        "postal code": "46177"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "696 294 0852",
+    "email_address": "castro.rodriguez@gmail.es"
+}

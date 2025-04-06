@@ -1,0 +1,17 @@
+{
+    "name": "Nørregaard Pedersen Friis",
+    "first_name": "Nørregaard",
+    "middle_name": "Pedersen",
+    "last_name": "Friis",
+    "passport_number": "CW9098698",
+    "currency": "DKK",
+    "address": {
+        "city": "Esbjerg Ø",
+        "street name": "Kattesundet",
+        "street number": 32,
+        "postal code": "6668"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "79 76 17 08",
+    "email_address": "nrregaard.friis@dk-hostmaster.dk"
+}

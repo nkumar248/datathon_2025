@@ -1,0 +1,17 @@
+{
+    "name": "Madsen Bjerregaard Pedersen",
+    "first_name": "Madsen",
+    "middle_name": "Bjerregaard",
+    "last_name": "Pedersen",
+    "passport_number": "ZV9148670",
+    "currency": "DKK",
+    "address": {
+        "city": "Frederiksberg",
+        "street name": "Nørrebrogade",
+        "street number": 4,
+        "postal code": "7032"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+4 38 60 08 80",
+    "email_address": "madsen.pedersen@webspace.dk"
+}

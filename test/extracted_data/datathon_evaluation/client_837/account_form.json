@@ -1,0 +1,17 @@
+{
+    "name": "Meier Weber",
+    "first_name": "Meier",
+    "middle_name": "",
+    "last_name": "Weber",
+    "passport_number": "JU8949098",
+    "currency": "CHF",
+    "address": {
+        "city": "Frauenfeld",
+        "street name": "Bärenplatz",
+        "street number": 42,
+        "postal code": "6019"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "021 413 60 82",
+    "email_address": "meier.weber@swissonline.ch"
+}

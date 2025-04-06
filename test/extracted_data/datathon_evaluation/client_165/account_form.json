@@ -1,0 +1,17 @@
+{
+    "name": "Martínez Fernández Ruiz",
+    "first_name": "Martínez",
+    "middle_name": "Fernández",
+    "last_name": "Ruiz",
+    "passport_number": "IX0242942",
+    "currency": "EUR",
+    "address": {
+        "city": "Almería",
+        "street name": "Turia Gardens",
+        "street number": 90,
+        "postal code": "11941"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 605 940 606",
+    "email_address": "martinez.ruiz@icloud.com"
+}

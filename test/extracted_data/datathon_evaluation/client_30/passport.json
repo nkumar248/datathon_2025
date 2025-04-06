@@ -1,0 +1,17 @@
+{
+    "first_name": "Anna",
+    "middle_name": "Nina",
+    "last_name": "Baumgartner",
+    "gender": "F",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1998-09-28",
+    "passport_number": "NP4560759",
+    "passport_mrz": [
+        "P<CHEBAUMGARTNER<<ANNA<NINA<<<<<<<<<<<<<<<<<<",
+        "NP4560759CHE980928<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2020-03-18",
+    "passport_expiry_date": "2030-03-17"
+}

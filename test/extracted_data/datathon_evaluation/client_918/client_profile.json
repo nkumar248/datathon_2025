@@ -1,0 +1,80 @@
+{
+    "name": "Isabella Josephine Hansen",
+    "address": {
+        "city": "Esbjerg Ø",
+        "street name": "Gyldenløvesgade",
+        "street number": 62,
+        "postal code": "1821"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1993-05-07",
+    "nationality": "Danish",
+    "passport_number": "YH1377765",
+    "passport_issue_date": "2019-03-19",
+    "passport_expiry_date": "2029-03-18",
+    "gender": "F",
+    "phone_number": "+45 90 90 71 11",
+    "email_address": "isabella.hansen@wanadoo.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Ålborg Katedralskole",
+        "graduation_year": 2011
+    },
+    "higher_education": [
+        {
+            "university": "University of Copenhagen",
+            "graduation_year": 2016
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2017,
+            "end_year": 2019,
+            "company": "Spectronic A/S",
+            "position": "Aerospace Engineer",
+            "salary": 286000
+        },
+        {
+            "start_year": 2020,
+            "end_year": 2025,
+            "company": "Weibel Scientific A/S",
+            "position": "Program Manager",
+            "salary": 467000
+        }
+    ],
+    "aum": {
+        "savings": 460000,
+        "inheritance": 5780000,
+        "real_estate_value": 4216000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 1972000,
+            "property location": "Esbjerg Ø"
+        },
+        {
+            "property type": "condo",
+            "property value": 934000,
+            "property location": "Vejle"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1310000,
+            "property location": "Ikast"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

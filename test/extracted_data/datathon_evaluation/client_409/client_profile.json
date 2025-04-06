@@ -1,0 +1,88 @@
+{
+    "name": "Anna Katharina Weber",
+    "address": {
+        "city": "Grenoble",
+        "street name": "Rue Gay-Lussac",
+        "street number": 74,
+        "postal code": "64926"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1972-09-16",
+    "nationality": "German",
+    "passport_number": "NV5885872",
+    "passport_issue_date": "2016-05-16",
+    "passport_expiry_date": "2026-05-15",
+    "gender": "F",
+    "phone_number": "07 59 87 08 75",
+    "email_address": "anna.weber@numericable.fr",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Canisius-Kolleg Berlin",
+        "graduation_year": 1982
+    },
+    "higher_education": [
+        {
+            "university": "Cologne University of Music and Dance",
+            "graduation_year": 1996
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1996,
+            "end_year": 1998,
+            "company": "M6 Métropole Télévision",
+            "position": "Journalist",
+            "salary": 40000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2002,
+            "company": "Canal+ Group",
+            "position": "Editor",
+            "salary": 68000
+        },
+        {
+            "start_year": 2003,
+            "end_year": null,
+            "company": "Vivendi S.A.",
+            "position": "Publisher",
+            "salary": 387000
+        }
+    ],
+    "aum": {
+        "savings": 670000,
+        "inheritance": 1640000,
+        "real_estate_value": 4010000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2005,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 2240000,
+            "property location": "Grenoble"
+        },
+        {
+            "property type": "flat",
+            "property value": 1070000,
+            "property location": "Mannheim"
+        },
+        {
+            "property type": "flat",
+            "property value": 700000,
+            "property location": "Heidelberg"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

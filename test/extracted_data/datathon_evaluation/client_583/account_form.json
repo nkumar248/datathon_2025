@@ -1,0 +1,17 @@
+{
+    "name": "Hermans Jacobs Peeters",
+    "first_name": "Hermans",
+    "middle_name": " Jacobs",
+    "last_name": "Peeters",
+    "passport_number": "PF5401443",
+    "currency": "EUR",
+    "address": {
+        "city": "Poperinge",
+        "street name": "Rue Wiertz",
+        "street number": 79,
+        "postal code": "5547"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0427 380 259",
+    "email_address": "hermans.peeters@edpnet.be"
+}

@@ -1,0 +1,96 @@
+{
+    "name": "Geertje Julia Schipper",
+    "address": {
+        "city": "Enschede",
+        "street name": "Meent",
+        "street number": 44,
+        "postal code": "1243 15"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1975-05-09",
+    "nationality": "Dutch",
+    "passport_number": "UE7172597",
+    "passport_issue_date": "2020-01-08",
+    "passport_expiry_date": "2030-01-07",
+    "gender": "F",
+    "phone_number": "06 83744121",
+    "email_address": "geertje.schipper@hetnet.nl",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Montessori Lyceum Rotterdam",
+        "graduation_year": 1995
+    },
+    "higher_education": [
+        {
+            "university": "Erasmus University Rotterdam",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1999,
+            "end_year": 2002,
+            "company": "De Brauw Blackstone Westbroek N.V.",
+            "position": "Associate Attorney",
+            "salary": 43000
+        },
+        {
+            "start_year": 2003,
+            "end_year": 2006,
+            "company": "Allen & Overy LLP",
+            "position": "Senior Associate",
+            "salary": 68000
+        },
+        {
+            "start_year": 2008,
+            "end_year": 2010,
+            "company": "Freshfields Bruckhaus Deringer LLP",
+            "position": "Partner",
+            "salary": 79000
+        },
+        {
+            "start_year": 2012,
+            "end_year": 2017,
+            "company": "Allen & Overy LLP",
+            "position": "Managing Partner",
+            "salary": 180000
+        },
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "De Brauw Blackstone Westbroek N.V.",
+            "position": "Law Firm Chairman",
+            "salary": 369000
+        }
+    ],
+    "aum": {
+        "savings": 480000,
+        "inheritance": 250000,
+        "real_estate_value": 3200000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2008,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1740000,
+            "property location": "Enschede"
+        },
+        {
+            "property type": "house",
+            "property value": 1460000,
+            "property location": "Roosendaal"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,76 @@
+{
+    "name": "Celli Romano Ferrari",
+    "address": {
+        "city": "Rome",
+        "street name": "Piazza della Repubblica",
+        "street number": 35,
+        "postal code": "31617"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1960-12-19",
+    "nationality": "Italian",
+    "passport_number": "VG5082366",
+    "passport_issue_date": "2023-08-07",
+    "passport_expiry_date": "2033-08-06",
+    "gender": "M",
+    "phone_number": "+39 391 5153080",
+    "email_address": "celli.ferrari@tiscali.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Liceo Artistico Michelangelo Buonarroti Venezia",
+        "graduation_year": 1979
+    },
+    "higher_education": [
+        {
+            "university": "University of Milan",
+            "graduation_year": 1984
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1964,
+            "end_year": 1988,
+            "company": "Gianni, Origoni, Grippo, Cappelli & Partners",
+            "position": "Associate Attorney",
+            "salary": 27000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 2021,
+            "company": "Studio Legale Associato",
+            "position": "Senior Associate",
+            "salary": 225000
+        }
+    ],
+    "aum": {
+        "savings": 420000,
+        "inheritance": 0,
+        "real_estate_value": 3963000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1090000,
+            "property location": "Rome"
+        },
+        {
+            "property type": "villa",
+            "property value": 1593000,
+            "property location": "Bari"
+        },
+        {
+            "property type": "house",
+            "property value": 1280000,
+            "property location": "Cagliari"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

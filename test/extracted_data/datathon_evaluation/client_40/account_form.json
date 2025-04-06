@@ -1,0 +1,17 @@
+{
+    "name": "Kaiser Hofer",
+    "first_name": "Kaiser",
+    "middle_name": "",
+    "last_name": "Hofer",
+    "passport_number": "ZD7279310",
+    "currency": "EUR",
+    "address": {
+        "city": "Linz",
+        "street name": "Rotenturmstraße",
+        "street number": 56,
+        "postal code": "9996"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 647 816 2085",
+    "email_address": "kaiser.hofer@web.at"
+}

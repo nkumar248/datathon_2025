@@ -1,0 +1,71 @@
+{
+    "name": "Peiren Van den Berghe Maes",
+    "address": {
+        "city": "Lokeren",
+        "street name": "Rue des Bouchers",
+        "street number": 61,
+        "postal code": "3526"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1954-06-07",
+    "nationality": "Belgian",
+    "passport_number": "LF7203851",
+    "passport_issue_date": "2024-04-17",
+    "passport_expiry_date": "2031-04-16",
+    "gender": "M",
+    "phone_number": "+32 0468 062 195",
+    "email_address": "peiren.maes@proximus.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Vrij Technisch Instituut Gent",
+        "graduation_year": 1974
+    },
+    "higher_education": [
+        {
+            "university": "Ghent University",
+            "graduation_year": 1979
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1978,
+            "end_year": 1981,
+            "company": "Exmar NV",
+            "position": "Ship Broker",
+            "salary": 40000
+        },
+        {
+            "start_year": 1983,
+            "end_year": 2015,
+            "company": "Wallenius Wilhelmsen Logistics Belgium NV",
+            "position": "Shipping Company Owner",
+            "salary": 356000
+        }
+    ],
+    "aum": {
+        "savings": 630000,
+        "inheritance": 0,
+        "real_estate_value": 1669000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 709000,
+            "property location": "Lokeren"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 960000,
+            "property location": "Mol"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Voorn Schipper Wagemakers",
+    "first_name": "Voorn",
+    "middle_name": "Schipper",
+    "last_name": "Wagemakers",
+    "passport_number": "HU4935863",
+    "currency": "EUR",
+    "address": {
+        "city": "Boxtel",
+        "street name": "Koninginnegracht",
+        "street number": 89,
+        "postal code": "1274 37"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 78092939",
+    "email_address": "voorn.wagemakers@tele2.nl"
+}

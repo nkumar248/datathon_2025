@@ -1,0 +1,17 @@
+{
+    "name": "Roelandts Peiren Thiry",
+    "first_name": "Roelandts",
+    "middle_name": "Peiren",
+    "last_name": "Thiry",
+    "passport_number": "YR2402830",
+    "currency": "EUR",
+    "address": {
+        "city": "Ghent",
+        "street name": "Chaussée de Waterloo",
+        "street number": 66,
+        "postal code": "8370"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0416 740 378",
+    "email_address": "roelandts.thiry@telenet.be"
+}

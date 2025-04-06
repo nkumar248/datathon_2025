@@ -1,0 +1,71 @@
+{
+    "name": "Fischer Zimmermann Herrmann",
+    "address": {
+        "city": "Leipzig",
+        "street name": "Berliner Straße",
+        "street number": 91,
+        "postal code": "59211"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1973-11-13",
+    "nationality": "German",
+    "passport_number": "GB5110564",
+    "passport_issue_date": "2021-03-31",
+    "passport_expiry_date": "2031-03-30",
+    "gender": "M",
+    "phone_number": "+49 2766 972258",
+    "email_address": "fischer.herrmann@hotmail.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Albert-Einstein-Gymnasium Ulm",
+        "graduation_year": 1991
+    },
+    "higher_education": [
+        {
+            "university": "Ludwig Maximilian University of Munich",
+            "graduation_year": 1998
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1998,
+            "end_year": 1999,
+            "company": "RWE AG",
+            "position": "Drilling Engineer",
+            "salary": 41000
+        },
+        {
+            "start_year": 1999,
+            "end_year": null,
+            "company": "Wintershall DEA GmbH",
+            "position": "Reservoir Engineer",
+            "salary": 248000
+        }
+    ],
+    "aum": {
+        "savings": 460000,
+        "inheritance": 4360000,
+        "real_estate_value": 1020000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2011,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1020000,
+            "property location": "Leipzig"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

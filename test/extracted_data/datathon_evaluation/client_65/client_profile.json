@@ -1,0 +1,71 @@
+{
+    "name": "Giulia Emanuela Moretti",
+    "address": {
+        "city": "Siena",
+        "street name": "Via Condotti",
+        "street number": 20,
+        "postal code": "89316"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1970-08-22",
+    "nationality": "Italian",
+    "passport_number": "AW4470669",
+    "passport_issue_date": "2020-08-16",
+    "passport_expiry_date": "2030-08-15",
+    "gender": "F",
+    "phone_number": "+39 397 1568819",
+    "email_address": "giulia.moretti@infinito.it",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Istituto Tecnico Agrario Statale Giuseppe Garibaldi Parma",
+        "graduation_year": 1988
+    },
+    "higher_education": [
+        {
+            "university": "Ca' Foscari University of Venice",
+            "graduation_year": 1995
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1994,
+            "end_year": 1998,
+            "company": "Alcedo SGR S.p.A.",
+            "position": "Analyst",
+            "salary": 26000
+        },
+        {
+            "start_year": 2000,
+            "end_year": null,
+            "company": "Alcedo SGR S.p.A.",
+            "position": "Associate",
+            "salary": 202000
+        }
+    ],
+    "aum": {
+        "savings": 370000,
+        "inheritance": 1980000,
+        "real_estate_value": 810000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2010,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 810000,
+            "property location": "Siena"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

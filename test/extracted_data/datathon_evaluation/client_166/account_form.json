@@ -1,0 +1,17 @@
+{
+    "name": "Lechner Krämer Huber",
+    "first_name": "Lechner",
+    "middle_name": "Krämer",
+    "last_name": "Huber",
+    "passport_number": "XT7062688",
+    "currency": "EUR",
+    "address": {
+        "city": "Eisenstadt",
+        "street name": "Enzersdorfer Straße",
+        "street number": 12,
+        "postal code": "4545"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "212 484 4038",
+    "email_address": "lechner.huber@vol.at"
+}

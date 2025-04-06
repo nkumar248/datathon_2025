@@ -1,0 +1,17 @@
+{
+    "name": "Elisabetta Benedetta Leonardi",
+    "first_name": "Elisabetta",
+    "middle_name": "Benedetta",
+    "last_name": " Leonardi",
+    "passport_number": "LC3109815",
+    "currency": "EUR",
+    "address": {
+        "city": "Treviso",
+        "street name": "Via Ugo Bassi",
+        "street number": 56,
+        "postal code": "70179"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 303 5088615",
+    "email_address": "elisabetta.leonardi@alice.it"
+}

@@ -1,0 +1,80 @@
+{
+    "name": "Léa Ophélie Marchand",
+    "address": {
+        "city": "Rouen",
+        "street name": "Rue de Belleville",
+        "street number": 80,
+        "postal code": "80405"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1989-03-06",
+    "nationality": "French",
+    "passport_number": "QI6196753",
+    "passport_issue_date": "2020-02-15",
+    "passport_expiry_date": "2030-02-14",
+    "gender": "F",
+    "phone_number": "+33 09 93 69 81 37",
+    "email_address": "lea.marchand@hotmail.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Lycée Fustel de Coulanges",
+        "graduation_year": 1997
+    },
+    "higher_education": [
+        {
+            "university": "IUT de Rennes",
+            "graduation_year": 2011
+        },
+        {
+            "university": "ESSEC Business School",
+            "graduation_year": 2015
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2012,
+            "end_year": 2016,
+            "company": "Louis Dreyfus Armateurs",
+            "position": "Ship Broker",
+            "salary": 30000
+        },
+        {
+            "start_year": 2018,
+            "end_year": null,
+            "company": "Neptune Lines France",
+            "position": "Shipping Company Owner",
+            "salary": 60000
+        }
+    ],
+    "aum": {
+        "savings": 70000,
+        "inheritance": 480000,
+        "real_estate_value": 2360000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1280000,
+            "property location": "Rouen"
+        },
+        {
+            "property type": "condo",
+            "property value": 1080000,
+            "property location": "Clermont-Ferrand"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "France"
+    ],
+    "currency": "EUR"
+}

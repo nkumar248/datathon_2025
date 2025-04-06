@@ -1,0 +1,71 @@
+{
+    "name": "Bernard Moreau Legrand",
+    "address": {
+        "city": "Grenoble",
+        "street name": "Avenue de l'Opéra",
+        "street number": 12,
+        "postal code": "70830"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1988-08-20",
+    "nationality": "French",
+    "passport_number": "BB4214113",
+    "passport_issue_date": "2024-12-02",
+    "passport_expiry_date": "2034-12-01",
+    "gender": "M",
+    "phone_number": "+33 07 84 43 11 03",
+    "email_address": "bernard.legrand@neuf.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Condorcet",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "École Nationale d'Administration (ENA)",
+            "graduation_year": 2013
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2012,
+            "end_year": 2013,
+            "company": "CNP Assurances S.A.",
+            "position": "Stockbroker",
+            "salary": 28000
+        },
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "AXA S.A.",
+            "position": "Portfolio Manager",
+            "salary": 134000
+        }
+    ],
+    "aum": {
+        "savings": 150000,
+        "inheritance": 4210000,
+        "real_estate_value": 2210000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2019,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 2210000,
+            "property location": "Grenoble"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy",
+        "France"
+    ],
+    "currency": "EUR"
+}

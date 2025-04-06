@@ -1,0 +1,68 @@
+{
+    "name": "Louise Gundersen",
+    "address": {
+        "city": "Wavre",
+        "street name": "Rue des Dominicains",
+        "street number": 33,
+        "postal code": "9465"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1977-06-14",
+    "nationality": "Danish",
+    "passport_number": "AX5667093",
+    "passport_issue_date": "2021-09-24",
+    "passport_expiry_date": "2031-09-23",
+    "gender": "F",
+    "phone_number": "+32 0425 173 643",
+    "email_address": "louise.gundersen@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Birkerød Gymnasium",
+        "graduation_year": 1985
+    },
+    "higher_education": [
+        {
+            "university": "University of Southern Denmark",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2001,
+            "end_year": 2002,
+            "company": "Glencore Belgium",
+            "position": "Junior Trader",
+            "salary": 259000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2008,
+            "company": "Cargill NV",
+            "position": "Senior Trader",
+            "salary": 371000
+        },
+        {
+            "start_year": 2008,
+            "end_year": null,
+            "company": "Glencore Belgium",
+            "position": "Trading Desk Manager",
+            "salary": 2789000
+        }
+    ],
+    "aum": {
+        "savings": 4090000,
+        "inheritance": 0,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {},
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

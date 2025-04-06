@@ -1,0 +1,17 @@
+{
+    "first_name": "Moretti",
+    "middle_name": "De Luca",
+    "last_name": "Bruno",
+    "gender": "M",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1994-02-08",
+    "passport_number": "XN3327204",
+    "passport_mrz": [
+        "P<ITABRUNO<<MORETTI<DE LUCA<<<<<<<<<<<<<<<<<<",
+        "XN3327204ITA940208<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2019-02-02",
+    "passport_expiry_date": "2029-02-01"
+}

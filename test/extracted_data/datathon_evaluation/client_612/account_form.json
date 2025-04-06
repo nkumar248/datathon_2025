@@ -1,0 +1,17 @@
+{
+    "name": "Celli Donati",
+    "first_name": "Celli",
+    "middle_name": "",
+    "last_name": "Donati",
+    "passport_number": "DW2858101",
+    "currency": "EUR",
+    "address": {
+        "city": "Livorno",
+        "street name": "Piazza del Duomo",
+        "street number": 35,
+        "postal code": "52220"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 367 7452211",
+    "email_address": "celli.donati@icloud.com"
+}

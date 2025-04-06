@@ -1,0 +1,83 @@
+{
+    "name": "David Fournier Nicolas",
+    "address": {
+        "city": "Orléans",
+        "street name": "Rue de la Butte-aux-Cailles",
+        "street number": 53,
+        "postal code": "79411"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1988-02-13",
+    "nationality": "French",
+    "passport_number": "FZ4441836",
+    "passport_issue_date": "2022-01-27",
+    "passport_expiry_date": "2032-01-26",
+    "gender": "M",
+    "phone_number": "+33 03 55 25 10 95",
+    "email_address": "david.nicolas@aliceadsl.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Louis-le-Grand",
+        "graduation_year": 2006
+    },
+    "higher_education": [
+        {
+            "university": "University of Lyon",
+            "graduation_year": 2012
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2011,
+            "end_year": 2014,
+            "company": "CMA CGM S.A.",
+            "position": "Ship Broker",
+            "salary": 29000
+        },
+        {
+            "start_year": 2016,
+            "end_year": 2019,
+            "company": "Neptune Lines France",
+            "position": "Shipping Company Owner",
+            "salary": 44000
+        },
+        {
+            "start_year": 2020,
+            "end_year": null,
+            "company": "Jumbo Shipping France",
+            "position": "Fleet Manager",
+            "salary": 99000
+        }
+    ],
+    "aum": {
+        "savings": 110000,
+        "inheritance": 5640000,
+        "real_estate_value": 4780000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2020,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1510000,
+            "property location": "Orléans"
+        },
+        {
+            "property type": "villa",
+            "property value": 3270000,
+            "property location": "Limoges"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "France"
+    ],
+    "currency": "EUR"
+}

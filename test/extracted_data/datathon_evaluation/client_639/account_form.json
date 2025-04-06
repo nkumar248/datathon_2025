@@ -1,0 +1,17 @@
+{
+    "name": "Laurent Garcia Thomas",
+    "first_name": "Laurent",
+    "middle_name": "Garcia",
+    "last_name": "Thomas",
+    "passport_number": "OM8795378",
+    "currency": "EUR",
+    "address": {
+        "city": "Reims",
+        "street name": "Rue de Vaugirard",
+        "street number": 66,
+        "postal code": "25387"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "03 19 26 43 148",
+    "email_address": "laurent.thomas@yahoo.com"
+}

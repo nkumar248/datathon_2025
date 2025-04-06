@@ -1,0 +1,45 @@
+{
+    "name": "Sanders Wouters Mertens",
+    "address": {
+        "city": "Maaseik",
+        "street name": "Boulevard Anspach",
+        "street number": 31,
+        "postal code": "7504"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "2003-08-09",
+    "nationality": "Belgian",
+    "passport_number": "RO5746557",
+    "passport_issue_date": "2018-11-27",
+    "passport_expiry_date": "2025-11-26",
+    "gender": "M",
+    "phone_number": "+32 0413 599 667",
+    "email_address": "sanders.mertens@skype.be",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Institut Saint-Stanislas",
+        "graduation_year": 2013
+    },
+    "higher_education": [],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1050000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2019,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

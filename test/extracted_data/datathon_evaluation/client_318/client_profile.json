@@ -1,0 +1,76 @@
+{
+    "name": "Estefanía Alba Muñoz",
+    "address": {
+        "city": "Castellón de la Plana",
+        "street name": "Plaza de la Constitución",
+        "street number": 91,
+        "postal code": "48498"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1984-05-18",
+    "nationality": "Spanish",
+    "passport_number": "BW2165885",
+    "passport_issue_date": "2022-10-27",
+    "passport_expiry_date": "2032-10-26",
+    "gender": "F",
+    "phone_number": "+34 609 925 225",
+    "email_address": "estefania.munoz@outlook.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "IES José Manuel Blecua Pamplona",
+        "graduation_year": 2003
+    },
+    "higher_education": [
+        {
+            "university": "Seville School of Fine Arts",
+            "graduation_year": 2009
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2008,
+            "end_year": 2012,
+            "company": "Telefónica S.A.",
+            "position": "Journalist",
+            "salary": 26000
+        },
+        {
+            "start_year": 2013,
+            "end_year": null,
+            "company": "Atresmedia Corporación de Medios de Comunicación S.A.",
+            "position": "Editor",
+            "salary": 0
+        }
+    ],
+    "aum": {
+        "savings": 130000,
+        "inheritance": 5570000,
+        "real_estate_value": 3410000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1190000,
+            "property location": "Castellón de la Plana"
+        },
+        {
+            "property type": "villa",
+            "property value": 2220000,
+            "property location": "Castellón de la Plana"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "France"
+    ],
+    "currency": "EUR"
+}

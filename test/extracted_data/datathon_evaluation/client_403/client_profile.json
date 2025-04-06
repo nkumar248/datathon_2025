@@ -1,0 +1,50 @@
+{
+    "name": "Jansen Stam Maassen",
+    "address": {
+        "city": "Maastricht",
+        "street name": "Lijnbaan",
+        "street number": 96,
+        "postal code": "5798 83"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "2001-02-15",
+    "nationality": "Dutch",
+    "passport_number": "GW7207711",
+    "passport_issue_date": "2022-05-04",
+    "passport_expiry_date": "2032-05-03",
+    "gender": "M",
+    "phone_number": "+31 06 27522248",
+    "email_address": "jansen.maassen@upcmail.nl",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Openbaar Lyceum Hengelo",
+        "graduation_year": 2020
+    },
+    "higher_education": [
+        {
+            "university": "Vrije Universiteit Amsterdam - School of Business and Economics",
+            "graduation_year": 2025
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1080000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

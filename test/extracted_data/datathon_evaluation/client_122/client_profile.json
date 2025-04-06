@@ -1,0 +1,71 @@
+{
+    "name": "Saar Carlijn Bakker",
+    "address": {
+        "city": "Rouen",
+        "street name": "Rue Royale",
+        "street number": 92,
+        "postal code": "62020"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1968-09-08",
+    "nationality": "Dutch",
+    "passport_number": "AY1514645",
+    "passport_issue_date": "2019-03-30",
+    "passport_expiry_date": "2029-03-29",
+    "gender": "F",
+    "phone_number": "+33 05 75 77 61 96",
+    "email_address": "saar.bakker@free.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Hervormd Lyceum Zutphen",
+        "graduation_year": 1987
+    },
+    "higher_education": [
+        {
+            "university": "Delft University of Technology",
+            "graduation_year": 1993
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1993,
+            "end_year": 1996,
+            "company": "Dassault Aviation SA",
+            "position": "Aerospace Engineer",
+            "salary": 43000
+        },
+        {
+            "start_year": 1998,
+            "end_year": null,
+            "company": "Safran S.A.",
+            "position": "Program Manager",
+            "salary": 294000
+        }
+    ],
+    "aum": {
+        "savings": 560000,
+        "inheritance": 1140000,
+        "real_estate_value": 1990000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2008,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1990000,
+            "property location": "Rouen"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy",
+        "France"
+    ],
+    "currency": "EUR"
+}

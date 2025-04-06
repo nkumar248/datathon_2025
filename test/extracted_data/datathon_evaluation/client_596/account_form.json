@@ -1,0 +1,17 @@
+{
+    "name": "Joris Simons Jacobs",
+    "first_name": " Jacobs",
+    "middle_name": "Simons",
+    "last_name": "Joris",
+    "passport_number": "SY0403109",
+    "currency": "EUR",
+    "address": {
+        "city": "Genk",
+        "street name": "Avenue Franklin Roosevelt",
+        "street number": 22,
+        "postal code": "3125"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0447 520 703",
+    "email_address": "joris.jacobs@icloud.com"
+}

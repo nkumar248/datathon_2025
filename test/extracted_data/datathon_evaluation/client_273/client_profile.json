@@ -1,0 +1,78 @@
+{
+    "name": "Yara Zoë Van Dijk",
+    "address": {
+        "city": "Maastricht",
+        "street name": "Lijnbaan",
+        "street number": 38,
+        "postal code": "2188 97"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1986-09-27",
+    "nationality": "Dutch",
+    "passport_number": "EW8309842",
+    "passport_issue_date": "2017-10-07",
+    "passport_expiry_date": "2027-10-06",
+    "gender": "F",
+    "phone_number": "+31 06 72625770",
+    "email_address": "yara.vandijk@gmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Oosterlicht College Groningen",
+        "graduation_year": 2005
+    },
+    "higher_education": [
+        {
+            "university": "Webster University Leiden",
+            "graduation_year": 1999
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2013,
+            "company": "Bouwinvest REIM B.V.",
+            "position": "Property Manager",
+            "salary": 40000
+        },
+        {
+            "start_year": 2014,
+            "end_year": 2015,
+            "company": "PGGM Real Estate",
+            "position": "Developer",
+            "salary": 65000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "PGGM Real Estate",
+            "position": "Construction Company Owner",
+            "salary": 167000
+        }
+    ],
+    "aum": {
+        "savings": 180000,
+        "inheritance": 4460000,
+        "real_estate_value": 1910000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1910000,
+            "property location": "Maastricht"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

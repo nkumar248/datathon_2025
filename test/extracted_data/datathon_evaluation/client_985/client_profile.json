@@ -1,0 +1,71 @@
+{
+    "name": "Rossi Silvestri Donati",
+    "address": {
+        "city": "Perugia",
+        "street name": "Via del Governo Vecchio",
+        "street number": 61,
+        "postal code": "18216"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1959-09-05",
+    "nationality": "Italian",
+    "passport_number": "CF8312708",
+    "passport_issue_date": "2022-08-12",
+    "passport_expiry_date": "2032-08-11",
+    "gender": "M",
+    "phone_number": "306 7122234",
+    "email_address": "rossi.donati@outlook.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Istituto Tecnico Industriale Statale Enrico Mattei Roma",
+        "graduation_year": 1978
+    },
+    "higher_education": [
+        {
+            "university": "University of Milan",
+            "graduation_year": 1982
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1984,
+            "end_year": 1989,
+            "company": "UBM S.p.A.",
+            "position": "Investment Banker",
+            "salary": 28000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 2020,
+            "company": "Intesa Sanpaolo S.p.A.",
+            "position": "Private Equity Investor",
+            "salary": 278000
+        }
+    ],
+    "aum": {
+        "savings": 570000,
+        "inheritance": 0,
+        "real_estate_value": 1495000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 675000,
+            "property location": "Perugia"
+        },
+        {
+            "property type": "condo",
+            "property value": 820000,
+            "property location": "Perugia"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

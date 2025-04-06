@@ -1,0 +1,17 @@
+{
+    "name": "Gabriela Andrea Wyss",
+    "first_name": "Gabriela",
+    "middle_name": "Andrea",
+    "last_name": "Wyss",
+    "passport_number": "GU8441406",
+    "currency": "CHF",
+    "address": {
+        "city": "Lucerne",
+        "street name": "Place de la Navigation",
+        "street number": 81,
+        "postal code": "6380"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "060 299 74 32",
+    "email_address": "gabriela.wyss@swisscom.ch"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Charlotte Hedwig Koch",
+    "first_name": "Charlotte",
+    "middle_name": "Hedwig",
+    "last_name": "Koch",
+    "passport_number": "IE6254871",
+    "currency": "EUR",
+    "address": {
+        "city": "Leipzig",
+        "street name": "Bismarckallee",
+        "street number": 40,
+        "postal code": "03844"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 4670 795499",
+    "email_address": "charlotte.koch@versatel.de"
+}

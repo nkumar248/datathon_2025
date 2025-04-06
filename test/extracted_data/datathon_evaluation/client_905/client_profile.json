@@ -1,0 +1,70 @@
+{
+    "name": "Ophélie Jade Boucher",
+    "address": {
+        "city": "Besançon",
+        "street name": "Rue de Bretagne",
+        "street number": 35,
+        "postal code": "13180"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1988-03-13",
+    "nationality": "French",
+    "passport_number": "CP8718523",
+    "passport_issue_date": "2017-04-17",
+    "passport_expiry_date": "2027-04-16",
+    "gender": "F",
+    "phone_number": "+33 09 85 43 20 98",
+    "email_address": "ophelie.boucher@live.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Ampère",
+        "graduation_year": 2005
+    },
+    "higher_education": [
+        {
+            "university": "EMIC de Nice",
+            "graduation_year": 2010
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2012,
+            "end_year": 2015,
+            "company": "Total S.A.",
+            "position": "Junior Trader",
+            "salary": 29000
+        },
+        {
+            "start_year": 2015,
+            "end_year": null,
+            "company": "Total S.A.",
+            "position": "Senior Trader",
+            "salary": 50000
+        }
+    ],
+    "aum": {
+        "savings": 70000,
+        "inheritance": 100000,
+        "real_estate_value": 1680000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1680000,
+            "property location": "Besançon"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

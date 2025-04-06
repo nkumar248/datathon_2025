@@ -1,0 +1,81 @@
+{
+    "name": "Mayer Hoffmann Meier",
+    "address": {
+        "city": "Porvoo",
+        "street name": "Reijolankuja",
+        "street number": 42,
+        "postal code": "30343"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1988-07-01",
+    "nationality": "German",
+    "passport_number": "ML5059622",
+    "passport_issue_date": "2022-12-14",
+    "passport_expiry_date": "2032-12-13",
+    "gender": "M",
+    "phone_number": "047 109 06 17",
+    "email_address": "mayer.meier@surffi.net",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Bismarck-Gymnasium Karlsruhe",
+        "graduation_year": 2008
+    },
+    "higher_education": [
+        {
+            "university": "RWTH Aachen University",
+            "graduation_year": 2011
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2012,
+            "end_year": 2014,
+            "company": "Godby Shipping Ab",
+            "position": "Ship Broker",
+            "salary": 43000
+        },
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "Meriaura Oy",
+            "position": "Shipping Company Owner",
+            "salary": 152000
+        }
+    ],
+    "aum": {
+        "savings": 200000,
+        "inheritance": 3380000,
+        "real_estate_value": 3378000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 598000,
+            "property location": "Porvoo"
+        },
+        {
+            "property type": "flat",
+            "property value": 1090000,
+            "property location": "Braunschweig"
+        },
+        {
+            "property type": "house",
+            "property value": 1690000,
+            "property location": "Erlangen"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

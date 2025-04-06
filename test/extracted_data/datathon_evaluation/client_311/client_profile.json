@@ -1,0 +1,90 @@
+{
+    "name": "Kägi Brunner Wyss",
+    "address": {
+        "city": "Chur",
+        "street name": "Marktgasse",
+        "street number": "",
+        "postal code": "0897"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1962-05-23",
+    "nationality": "Swiss",
+    "passport_number": "WW7653196",
+    "passport_issue_date": "2020-08-10",
+    "passport_expiry_date": "2030-08-09",
+    "gender": "M",
+    "phone_number": "+41 059 657 97 66",
+    "email_address": "kagi.wyss@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Kantonschule Solothurn Solothurn",
+        "graduation_year": 1981
+    },
+    "higher_education": [
+        {
+            "university": "Hotel Institute Montreux",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1987,
+            "end_year": 1992,
+            "company": "Lombard Odier Darier Hentsch & Cie",
+            "position": "Family Office Manager",
+            "salary": 77000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 1998,
+            "company": "Julius Baer Gruppe AG",
+            "position": "Investment Director",
+            "salary": 103000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2003,
+            "company": "Julius Baer Gruppe AG",
+            "position": "CFO",
+            "salary": 128000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2023,
+            "company": "Lombard Odier Darier Hentsch & Cie",
+            "position": "COO",
+            "salary": 1382000
+        }
+    ],
+    "aum": {
+        "savings": 2350000,
+        "inheritance": 0,
+        "real_estate_value": 6530000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 2170000,
+            "property location": "Chur"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 2380000,
+            "property location": "Locarno"
+        },
+        {
+            "property type": "flat",
+            "property value": 1980000,
+            "property location": "Brugg"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

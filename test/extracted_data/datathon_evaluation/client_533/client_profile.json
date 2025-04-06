@@ -1,0 +1,101 @@
+{
+    "name": "Lena Renate Schwarz",
+    "address": {
+        "city": "Wels",
+        "street name": "Graben",
+        "street number": 100,
+        "postal code": "9367"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1979-02-19",
+    "nationality": "Austrian",
+    "passport_number": "XH7221152",
+    "passport_issue_date": "2017-07-20",
+    "passport_expiry_date": "2027-07-19",
+    "gender": "F",
+    "phone_number": "059 773 9258",
+    "email_address": "lena.schwarz@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Musisches Gymnasium Wien",
+        "graduation_year": 1997
+    },
+    "higher_education": [
+        {
+            "university": "IMC University of Applied Sciences Krems",
+            "graduation_year": 2001
+        },
+        {
+            "university": "Sigmund Freud University Vienna",
+            "graduation_year": 2006
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2003,
+            "end_year": 2006,
+            "company": "Erste Group Bank AG",
+            "position": "Investment Banker",
+            "salary": 34000
+        },
+        {
+            "start_year": 2007,
+            "end_year": 2011,
+            "company": "UniCredit Bank Austria AG",
+            "position": "Private Equity Investor",
+            "salary": 49000
+        },
+        {
+            "start_year": 2011,
+            "end_year": 2015,
+            "company": "Oesterreichische Kontrollbank AG",
+            "position": "Hedge Fund Manager",
+            "salary": 75000
+        },
+        {
+            "start_year": 2017,
+            "end_year": 2018,
+            "company": "Raiffeisen Bank International AG",
+            "position": "Venture Capitalist",
+            "salary": 118000
+        },
+        {
+            "start_year": 2018,
+            "end_year": null,
+            "company": "Raiffeisen Bank International AG",
+            "position": "Billionaire Investor",
+            "salary": 275000
+        }
+    ],
+    "aum": {
+        "savings": 330000,
+        "inheritance": 1040000,
+        "real_estate_value": 2040000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2008,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1070000,
+            "property location": "Wels"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 970000,
+            "property location": "Bregenz"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

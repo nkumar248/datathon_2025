@@ -1,0 +1,92 @@
+{
+    "name": "Ambre Laurène Simon",
+    "address": {
+        "city": "Paris",
+        "street name": "Rue de Rivoli",
+        "street number": 49,
+        "postal code": "83835"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1975-06-25",
+    "nationality": "French",
+    "passport_number": "RY1273860",
+    "passport_issue_date": "2018-07-10",
+    "passport_expiry_date": "2028-07-09",
+    "gender": "F",
+    "phone_number": "+33 04 18 84 75 27",
+    "email_address": "ambre.simon@numericable.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Louis-le-Grand",
+        "graduation_year": 1993
+    },
+    "higher_education": [
+        {
+            "university": "École Normale Supérieure (ENS) Paris",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1999,
+            "end_year": 2000,
+            "company": "Ipsen S.A.",
+            "position": "Research Scientist",
+            "salary": 30000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2002,
+            "company": "Ipsen S.A.",
+            "position": "Clinical Trials Manager",
+            "salary": 45000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2008,
+            "company": "Servier Laboratories",
+            "position": "Regulatory Affairs Director",
+            "salary": 67000
+        },
+        {
+            "start_year": 2010,
+            "end_year": 2014,
+            "company": "Ipsen S.A.",
+            "position": "CEO",
+            "salary": 110000
+        },
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "Pierre Fabre S.A.",
+            "position": "Industry Leader",
+            "salary": 585000
+        }
+    ],
+    "aum": {
+        "savings": 830000,
+        "inheritance": 1360000,
+        "real_estate_value": 1410000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2012,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1410000,
+            "property location": "Paris"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria",
+        "France"
+    ],
+    "currency": "EUR"
+}

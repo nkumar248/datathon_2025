@@ -1,0 +1,17 @@
+{
+    "name": "Anna Carolin Wolf",
+    "first_name": "Anna",
+    "middle_name": "Carolin",
+    "last_name": "Wolf",
+    "passport_number": "",
+    "currency": "EUR",
+    "address": {
+        "city": "Braunschweig",
+        "street name": "Friedrich-Ebert-Anlage",
+        "street number": 83,
+        "postal code": "57339"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "6036 013678",
+    "email_address": "anna.wolf@gmail.com"
+}

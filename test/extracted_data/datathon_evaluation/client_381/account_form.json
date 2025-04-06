@@ -1,0 +1,17 @@
+{
+    "name": "Miettinen Laaksonen Niskanen",
+    "first_name": "Miettinen",
+    "middle_name": "Laaksonen",
+    "last_name": "Niskanen",
+    "passport_number": "JO8856971",
+    "currency": "EUR",
+    "address": {
+        "city": "Vaasa",
+        "street name": "Iso Roobertinkatu",
+        "street number": 90,
+        "postal code": "71357"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "043 347 20 21",
+    "email_address": "miettinen.niskanen@hotmail.com"
+}

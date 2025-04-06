@@ -1,0 +1,17 @@
+{
+    "name": "Carlotta Costanza Russo",
+    "first_name": "Carlotta",
+    "middle_name": "Costanza",
+    "last_name": "Russo",
+    "passport_number": "PT8193018",
+    "currency": "EUR",
+    "address": {
+        "city": "Guadalajara",
+        "street name": "Paseo de Gracia",
+        "street number": 94,
+        "postal code": "80963"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "645 084 055",
+    "email_address": "carlotta.russo@yahoo.es"
+}

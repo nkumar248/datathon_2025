@@ -1,0 +1,75 @@
+{
+    "name": "Gisèle Weber",
+    "address": {
+        "city": "Lugano",
+        "street name": "Rathausgasse",
+        "street number": 22,
+        "postal code": "3772"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1995-03-20",
+    "nationality": "Swiss",
+    "passport_number": "IN3185363",
+    "passport_issue_date": "2023-03-14",
+    "passport_expiry_date": "2033-03-13",
+    "gender": "F",
+    "phone_number": "007 134 96 98",
+    "email_address": "gisele.weber@teli.ch",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée cantonal de Porrentruy Jura",
+        "graduation_year": 2014
+    },
+    "higher_education": [
+        {
+            "university": "University of Lucerne",
+            "graduation_year": 2019
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2019,
+            "end_year": 2023,
+            "company": "Tamedia AG",
+            "position": "Journalist",
+            "salary": 69000
+        },
+        {
+            "start_year": 2025,
+            "end_year": 2025,
+            "company": "NZZ Mediengruppe",
+            "position": "Editor",
+            "salary": 85000
+        }
+    ],
+    "aum": {
+        "savings": 40000,
+        "inheritance": 1650000,
+        "real_estate_value": 4940000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 2320000,
+            "property location": "Lugano"
+        },
+        {
+            "property type": "condo",
+            "property value": 2620000,
+            "property location": "Neuchatel"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

@@ -1,0 +1,88 @@
+{
+    "name": "Johanna Josefiina Voutilainen",
+    "address": {
+        "city": "Turku",
+        "street name": "Radiokatu",
+        "street number": 3,
+        "postal code": "62772"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1986-08-26",
+    "nationality": "Finnish",
+    "passport_number": "XP2127699",
+    "passport_issue_date": "2019-04-06",
+    "passport_expiry_date": "2029-04-05",
+    "gender": "F",
+    "phone_number": "044 280 66 93",
+    "email_address": "johanna.voutilainen@icloud.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Lieksan lukio",
+        "graduation_year": 2005
+    },
+    "higher_education": [
+        {
+            "university": "Åbo Akademi University School of Economics",
+            "graduation_year": 2010
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2012,
+            "company": "Nordea Bank ABp",
+            "position": "Investment Banker",
+            "salary": 41000
+        },
+        {
+            "start_year": 2014,
+            "end_year": 2017,
+            "company": "Nordea Bank ABp",
+            "position": "Private Equity Investor",
+            "salary": 59000
+        },
+        {
+            "start_year": 2018,
+            "end_year": null,
+            "company": "Danske Bank A/S",
+            "position": "Hedge Fund Manager",
+            "salary": 149000
+        }
+    ],
+    "aum": {
+        "savings": 170000,
+        "inheritance": 2930000,
+        "real_estate_value": 3230000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2020,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1550000,
+            "property location": "Turku"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 930000,
+            "property location": "Kajaani"
+        },
+        {
+            "property type": "flat",
+            "property value": 750000,
+            "property location": "Kajaani"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Finland"
+    ],
+    "currency": "EUR"
+}

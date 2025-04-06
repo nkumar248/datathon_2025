@@ -1,0 +1,17 @@
+{
+    "name": "Peters Vandenberghe Moens",
+    "first_name": "Peters",
+    "middle_name": "Vandenberghe",
+    "last_name": "Moens",
+    "passport_number": "HC5195304",
+    "currency": "EUR",
+    "address": {
+        "city": "Mechelen",
+        "street name": "Rue de la Convention",
+        "street number": 5,
+        "postal code": "4448"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0477 886 756",
+    "email_address": "peters.moens@outlook.com"
+}

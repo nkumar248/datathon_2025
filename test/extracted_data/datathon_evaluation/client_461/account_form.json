@@ -1,0 +1,17 @@
+{
+    "name": "Emanuela Francesca Conti",
+    "first_name": "Emanuela",
+    "middle_name": "Francesca",
+    "last_name": "Conti",
+    "passport_number": "SH9144599",
+    "currency": "EUR",
+    "address": {
+        "city": "Modena",
+        "street name": "Piazza Maggiore",
+        "street number": 98,
+        "postal code": "44012"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "347 0669749",
+    "email_address": "emanuela.conti@libero.it"
+}

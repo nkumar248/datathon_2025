@@ -1,0 +1,17 @@
+{
+    "first_name": "Sofia",
+    "middle_name": "Erika",
+    "last_name": "Martini",
+    "gender": "F",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1969-06-20",
+    "passport_number": "ZP5115242",
+    "passport_mrz": [
+        "P<ITAMARTINI<<SOFIA<ERIKA<<<<<<<<<<<<<<<<<<<<",
+        "ZP5115242ITA690620<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-06-06",
+    "passport_expiry_date": "2032-06-05"
+}

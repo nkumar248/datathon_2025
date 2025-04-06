@@ -1,0 +1,17 @@
+{
+    "name": "Gómez Fernández Rodríguez",
+    "first_name": "Gómez",
+    "middle_name": "Fernández",
+    "last_name": "Rodríguez",
+    "passport_number": "HS6360346",
+    "currency": "EUR",
+    "address": {
+        "city": "Salamanca",
+        "street name": "Plaza de la Merced",
+        "street number": 40,
+        "postal code": "24814"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 680 461 888",
+    "email_address": "gomez.rodriguez@gmail.es"
+}

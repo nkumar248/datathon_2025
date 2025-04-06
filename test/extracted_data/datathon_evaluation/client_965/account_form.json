@@ -1,0 +1,17 @@
+{
+    "name": "Lea Leonie Bauer",
+    "first_name": "Lea",
+    "middle_name": "Leonie",
+    "last_name": "Bauer",
+    "passport_number": "YW8207124",
+    "currency": "EUR",
+    "address": {
+        "city": "Stockerau",
+        "street name": "Ringstraße",
+        "street number": 15,
+        "postal code": "8203"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "608 924 8581",
+    "email_address": "lea.bauer@chello.at"
+}

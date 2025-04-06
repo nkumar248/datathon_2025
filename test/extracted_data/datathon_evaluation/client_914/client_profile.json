@@ -1,0 +1,82 @@
+{
+    "name": "Carlotta Costanza Russo",
+    "address": {
+        "city": "Guadalajara",
+        "street name": "Paseo de Gracia",
+        "street number": 94,
+        "postal code": "80963"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1991-02-20",
+    "nationality": "Italian",
+    "passport_number": "PT8193018",
+    "passport_issue_date": "2024-12-09",
+    "passport_expiry_date": "2034-12-08",
+    "gender": "F",
+    "phone_number": "645 084 055",
+    "email_address": "carlotta.russo@yahoo.es",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Scuola Media Statale Giovanni Pascoli Napoli",
+        "graduation_year": 2009
+    },
+    "higher_education": [
+        {
+            "university": "Italian Institute of Industrial Automation (IAS)",
+            "graduation_year": 2015
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2014,
+            "end_year": 2017,
+            "company": "Alestis Aerospace S.L.",
+            "position": "Aerospace Engineer",
+            "salary": 28000
+        },
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "Indra Sistemas S.A.",
+            "position": "Program Manager",
+            "salary": 53000
+        }
+    ],
+    "aum": {
+        "savings": 50000,
+        "inheritance": 1620000,
+        "real_estate_value": 3399000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 857000,
+            "property location": "Guadalajara"
+        },
+        {
+            "property type": "flat",
+            "property value": 692000,
+            "property location": "Milan"
+        },
+        {
+            "property type": "villa",
+            "property value": 1850000,
+            "property location": "Ancona"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Italy",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Schultz Mayer Hoffmann",
+    "first_name": "Schultz",
+    "middle_name": "Mayer",
+    "last_name": "Hoffmann",
+    "passport_number": "FM2990303",
+    "currency": "EUR",
+    "address": {
+        "city": "Fürth",
+        "street name": "Schlachte",
+        "street number": 12,
+        "postal code": "45948"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 4102 716789",
+    "email_address": "schultz.hoffmann@gmx.de"
+}

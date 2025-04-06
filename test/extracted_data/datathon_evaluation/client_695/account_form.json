@@ -1,0 +1,17 @@
+{
+    "name": "Kristin Mia Mayer",
+    "first_name": "Kristin",
+    "middle_name": "Mia",
+    "last_name": "Mayer",
+    "passport_number": "RA6414741",
+    "currency": "EUR",
+    "address": {
+        "city": "Heidelberg",
+        "street name": "Kaiserstraße",
+        "street number": 48,
+        "postal code": "10883"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "1852 152631",
+    "email_address": "kristin.mayer@outlook.com"
+}

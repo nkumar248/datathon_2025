@@ -1,0 +1,59 @@
+{
+    "name": "Sofia Eva Bjerregaard",
+    "address": {
+        "city": "Ancona",
+        "street name": "Via dei Tribunali",
+        "street number": 48,
+        "postal code": "57516"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1997-04-18",
+    "nationality": "Danish",
+    "passport_number": "CZ1986044",
+    "passport_issue_date": "2023-11-21",
+    "passport_expiry_date": "2033-11-20",
+    "gender": "F",
+    "phone_number": "+39 301 9747908",
+    "email_address": "sofia.bjerregaard@tiscali.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Ålborg Katedralskole",
+        "graduation_year": 2015
+    },
+    "higher_education": [
+        {
+            "university": "University College Lillebælt",
+            "graduation_year": 2022
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2022,
+            "end_year": null,
+            "company": "Menarini Industrie Farmaceutiche Riunite S.r.l.",
+            "position": "Research Scientist",
+            "salary": 273000
+        }
+    ],
+    "aum": {
+        "savings": 110000,
+        "inheritance": 2580000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2019,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Italy",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

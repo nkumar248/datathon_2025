@@ -1,0 +1,82 @@
+{
+    "name": "Goossens Van den Berghe Roelandts",
+    "address": {
+        "city": "Frederiksberg",
+        "street name": "Nytorv",
+        "street number": 73,
+        "postal code": "7443"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1982-02-23",
+    "nationality": "Belgian",
+    "passport_number": "QN3091807",
+    "passport_issue_date": "2021-04-19",
+    "passport_expiry_date": "2028-04-18",
+    "gender": "M",
+    "phone_number": "65 24 77 17",
+    "email_address": "goossens.roelandts@cybercity.dk",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Xaverius College",
+        "graduation_year": 2000
+    },
+    "higher_education": [
+        {
+            "university": "Solvay Brussels School of Economics and Management",
+            "graduation_year": 2006
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2005,
+            "end_year": 2009,
+            "company": "Torm A/S",
+            "position": "Ship Broker",
+            "salary": 38000
+        },
+        {
+            "start_year": 2009,
+            "end_year": 2025,
+            "company": "Torm A/S",
+            "position": "Shipping Company Owner",
+            "salary": 120000
+        }
+    ],
+    "aum": {
+        "savings": 170000,
+        "inheritance": 37440000,
+        "real_estate_value": 5444000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 2160000,
+            "property location": "Frederiksberg"
+        },
+        {
+            "property type": "condo",
+            "property value": 1014000,
+            "property location": "Poperinge"
+        },
+        {
+            "property type": "villa",
+            "property value": 2270000,
+            "property location": "Mol"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Denmark",
+        "Belgium"
+    ],
+    "currency": "DKK"
+}

@@ -1,0 +1,97 @@
+{
+    "name": "Vilma Helmi Seppälä",
+    "address": {
+        "city": "Toledo",
+        "street name": "Turia Gardens",
+        "street number": 91,
+        "postal code": "63689"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1961-01-06",
+    "nationality": "Finnish",
+    "passport_number": "VL5331103",
+    "passport_issue_date": "2023-04-04",
+    "passport_expiry_date": "2033-04-03",
+    "gender": "F",
+    "phone_number": "+34 661 167 704",
+    "email_address": "vilma.seppala@ya.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Kirkkonummen lukio",
+        "graduation_year": 1980
+    },
+    "higher_education": [
+        {
+            "university": "University of Jyväskylä",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1985,
+            "end_year": 1988,
+            "company": "Iberostar Hotels & Resorts S.A.",
+            "position": "Hotel Manager",
+            "salary": 40000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 1991,
+            "company": "Barceló Hotels & Resorts S.A.",
+            "position": "General Manager",
+            "salary": 57000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 1996,
+            "company": "Barceló Hotels & Resorts S.A.",
+            "position": "Regional Vice President",
+            "salary": 150000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 2000,
+            "company": "Iberostar Hotels & Resorts S.A.",
+            "position": "CEO",
+            "salary": 173000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2021,
+            "company": "Iberostar Hotels & Resorts S.A.",
+            "position": "Hospitality Industry Leader",
+            "salary": 959000
+        }
+    ],
+    "aum": {
+        "savings": 1720000,
+        "inheritance": 0,
+        "real_estate_value": 3032000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1080000,
+            "property location": "Toledo"
+        },
+        {
+            "property type": "house",
+            "property value": 1092000,
+            "property location": "Siilinjärvi"
+        },
+        {
+            "property type": "flat",
+            "property value": 860000,
+            "property location": "Jyväskylä"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

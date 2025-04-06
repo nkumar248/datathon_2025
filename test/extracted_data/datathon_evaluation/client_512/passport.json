@@ -1,0 +1,17 @@
+{
+    "first_name": "Pérez",
+    "middle_name": "Navarro",
+    "last_name": "López",
+    "gender": "M",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "1956-01-29",
+    "passport_number": "VO7922475",
+    "passport_mrz": [
+        "P<ESPLÓPEZ<<PÉREZ<NAVARRO<<<<<<<<<<<<<<<<<<<<",
+        "VO7922475ESP560129<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-09-05",
+    "passport_expiry_date": "2033-09-04"
+}

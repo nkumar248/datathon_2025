@@ -1,0 +1,71 @@
+{
+    "name": "Lisa Graf",
+    "address": {
+        "city": "Vienna",
+        "street name": "Spiegelgasse",
+        "street number": 83,
+        "postal code": "0316"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1982-07-29",
+    "nationality": "Austrian",
+    "passport_number": "UK4860155",
+    "passport_issue_date": "2024-01-17",
+    "passport_expiry_date": "2034-01-16",
+    "gender": "F",
+    "phone_number": "+43 742 941 2031",
+    "email_address": "lisa.graf@magenta.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "BORG Deutschlandsberg",
+        "graduation_year": 2002
+    },
+    "higher_education": [
+        {
+            "university": "University of Innsbruck",
+            "graduation_year": 2006
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2007,
+            "end_year": 2010,
+            "company": "Raiffeisen Bank International AG",
+            "position": "Investment Banker",
+            "salary": 35000
+        },
+        {
+            "start_year": 2012,
+            "end_year": null,
+            "company": "Raiffeisen Bank International AG",
+            "position": "Private Equity Investor",
+            "salary": 105000
+        }
+    ],
+    "aum": {
+        "savings": 140000,
+        "inheritance": 1670000,
+        "real_estate_value": 900000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2013,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 900000,
+            "property location": "Vienna"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "Giovanna Eleonora Galli",
+    "address": {
+        "city": "Bari",
+        "street name": "Via Dora Riparia",
+        "street number": 42,
+        "postal code": "36618"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1999-08-07",
+    "nationality": "Italian",
+    "passport_number": "KO1513989",
+    "passport_issue_date": "2024-09-06",
+    "passport_expiry_date": "2034-09-05",
+    "gender": "F",
+    "phone_number": "+39 337 0500871",
+    "email_address": "giovanna.galli@yahoo.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Liceo Linguistico Internazionale Galileo Galilei Firenze",
+        "graduation_year": 2019
+    },
+    "higher_education": [
+        {
+            "university": "Luiss Guido Carli",
+            "graduation_year": 2023
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2023,
+            "end_year": 2025,
+            "company": " Marriott International Italia S.r.l.",
+            "position": "Hotel Manager",
+            "salary": 27000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 1150000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2020,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Italy"
+    ],
+    "currency": "EUR"
+}

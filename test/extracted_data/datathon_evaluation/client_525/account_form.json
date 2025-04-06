@@ -1,0 +1,17 @@
+{
+    "name": "Lehmann Weber Zbinden",
+    "first_name": "Lehmann",
+    "middle_name": "Weber",
+    "last_name": "Zbinden",
+    "passport_number": "SI5626860",
+    "currency": "CHF",
+    "address": {
+        "city": "Vevey",
+        "street name": "Rue des Délices",
+        "street number": 91,
+        "postal code": "9902"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 099 102 82 37",
+    "email_address": "lehmann zbinden@outlook com"
+}

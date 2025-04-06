@@ -1,0 +1,17 @@
+{
+    "name": "Fabienne Baumgartner",
+    "first_name": "Fabienne",
+    "middle_name": "",
+    "last_name": "Baumgartner",
+    "passport_number": "FX8917470",
+    "currency": "CHF",
+    "address": {
+        "city": "Vevey",
+        "street name": "Bahnhofstrasse",
+        "street number": 74,
+        "postal code": "6364"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 088 784 44 04",
+    "email_address": "fabienne.baumgartner@yahoo.com"
+}

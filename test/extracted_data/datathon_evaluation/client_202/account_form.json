@@ -1,0 +1,17 @@
+{
+    "name": "Schulze Fischer Becker",
+    "first_name": "Schulze",
+    "middle_name": "Fischer",
+    "last_name": "Becker",
+    "passport_number": "YV9305521",
+    "currency": "EUR",
+    "address": {
+        "city": "Bochum",
+        "street name": "Brandenburgische Straße",
+        "street number": 53,
+        "postal code": "98990"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "7811 763241",
+    "email_address": "schulze.becker@versatel.de"
+}

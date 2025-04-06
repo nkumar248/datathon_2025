@@ -1,0 +1,80 @@
+{
+    "name": "Lang Koller Egger",
+    "address": {
+        "city": "Linz",
+        "street name": "Leopoldstraße",
+        "street number": 99,
+        "postal code": "2348"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1993-08-12",
+    "nationality": "Austrian",
+    "passport_number": "UZ3983718",
+    "passport_issue_date": "2022-12-22",
+    "passport_expiry_date": "2032-12-21",
+    "gender": "M",
+    "phone_number": "",
+    "email_address": "lang.egger@gmx.at",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Musisches Gymnasium Wien",
+        "graduation_year": 2012
+    },
+    "higher_education": [
+        {
+            "university": "Modul University Vienna",
+            "graduation_year": 2018
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2018,
+            "end_year": 2023,
+            "company": "Novartis Austria GmbH",
+            "position": "Research Scientist",
+            "salary": 38000
+        },
+        {
+            "start_year": 2023,
+            "end_year": null,
+            "company": "Baxter BioScience",
+            "position": "Clinical Trials Manager",
+            "salary": 50000
+        }
+    ],
+    "aum": {
+        "savings": 50000,
+        "inheritance": 370000,
+        "real_estate_value": 3685000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 1820000,
+            "property location": "Linz"
+        },
+        {
+            "property type": "house",
+            "property value": 845000,
+            "property location": "Dornbirn"
+        },
+        {
+            "property type": "condo",
+            "property value": 1020000,
+            "property location": "Steinbach am Attersee"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

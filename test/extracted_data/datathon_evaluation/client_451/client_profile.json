@@ -1,0 +1,75 @@
+{
+    "name": "Schäfer Wagner Fischer",
+    "address": {
+        "city": "Heidelberg",
+        "street name": "Kurfürstendamm",
+        "street number": 65,
+        "postal code": "48438"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1983-06-15",
+    "nationality": "German",
+    "passport_number": "ZP2945924",
+    "passport_issue_date": "2022-12-13",
+    "passport_expiry_date": "2032-12-12",
+    "gender": "M",
+    "phone_number": "2705 347914",
+    "email_address": "schafer.fischer@outlook.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Fichte-Gymnasium Halle",
+        "graduation_year": 2002
+    },
+    "higher_education": [
+        {
+            "university": "ESMT Berlin",
+            "graduation_year": 2007
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2008,
+            "end_year": 2013,
+            "company": "Cinven Deutschland GmbH",
+            "position": "Analyst",
+            "salary": 52000
+        },
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "Apollo Global Management GmbH",
+            "position": "Associate",
+            "salary": 147000
+        }
+    ],
+    "aum": {
+        "savings": 190000,
+        "inheritance": 2310000,
+        "real_estate_value": 2900000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2009,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 970000,
+            "property location": "Heidelberg"
+        },
+        {
+            "property type": "house",
+            "property value": 1930000,
+            "property location": "Leipzig"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Germany"
+    ],
+    "currency": "EUR"
+}

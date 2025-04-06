@@ -1,0 +1,17 @@
+{
+    "first_name": "Gisèle",
+    "middle_name": "",
+    "last_name": "Weber",
+    "gender": "F",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1995-03-20",
+    "passport_number": "IN3185363",
+    "passport_mrz": [
+        "P<CHEWEBER<<GISÈLE<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+        "IN3185363CHE950320<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-03-14",
+    "passport_expiry_date": "2033-03-13"
+}

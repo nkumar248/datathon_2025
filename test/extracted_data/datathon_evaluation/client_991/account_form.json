@@ -1,0 +1,17 @@
+{
+    "name": "Hoffmann Scholz Schmitz",
+    "first_name": "Hoffmann",
+    "middle_name": "Scholz",
+    "last_name": "Schmitz",
+    "passport_number": "CZ9993538",
+    "currency": "EUR",
+    "address": {
+        "city": "Wuppertal",
+        "street name": "Kronprinzstraße",
+        "street number": 40,
+        "postal code": "78985"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 4936 792365",
+    "email_address": "hoffmann.schmitz@arcor.de"
+}

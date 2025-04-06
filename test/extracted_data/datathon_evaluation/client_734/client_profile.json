@@ -1,0 +1,81 @@
+{
+    "name": "Ida Ellen Andersen",
+    "address": {
+        "city": "Vejle",
+        "street name": "Gammel Torv",
+        "street number": 36,
+        "postal code": "8521"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1971-08-20",
+    "nationality": "Danish",
+    "passport_number": "RL7071937",
+    "passport_issue_date": "2019-05-09",
+    "passport_expiry_date": "2029-05-08",
+    "gender": "F",
+    "phone_number": "76 84 94 25",
+    "email_address": "ida.andersen@telia.dk",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Holstebro Gymnasium",
+        "graduation_year": 1991
+    },
+    "higher_education": [
+        {
+            "university": "Zealand Institute of Business and Technology",
+            "graduation_year": 1994
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1995,
+            "end_year": 1996,
+            "company": "NCC Danmark A/S",
+            "position": "Property Manager",
+            "salary": 262000
+        },
+        {
+            "start_year": 1996,
+            "end_year": null,
+            "company": "Skanska Danmark A/S",
+            "position": "Developer",
+            "salary": 2035000
+        }
+    ],
+    "aum": {
+        "savings": 3540000,
+        "inheritance": 22300000,
+        "real_estate_value": 4710000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2012,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 950000,
+            "property location": "Vejle"
+        },
+        {
+            "property type": "villa",
+            "property value": 2050000,
+            "property location": "Odense"
+        },
+        {
+            "property type": "house",
+            "property value": 1710000,
+            "property location": "Esbjerg Ø"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Netherlands"
+    ],
+    "currency": "DKK"
+}

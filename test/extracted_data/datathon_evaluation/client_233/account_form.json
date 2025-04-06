@@ -1,0 +1,17 @@
+{
+    "name": "Freja Eva Pedersen",
+    "first_name": "Freja",
+    "middle_name": "Eva",
+    "last_name": "Pedersen",
+    "passport_number": "EQ9803792",
+    "currency": "DKK",
+    "address": {
+        "city": "Helsingør",
+        "street name": "Vandkunsten",
+        "street number": 41,
+        "postal code": "2175"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "++31 94 17 14 61",
+    "email_address": "freja.pedersen@webspace.dk"
+}

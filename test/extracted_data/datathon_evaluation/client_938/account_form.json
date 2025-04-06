@@ -1,0 +1,17 @@
+{
+    "name": "Lynn Andrea Kammermann",
+    "first_name": "Lynn",
+    "middle_name": "Andrea",
+    "last_name": "Kammermann",
+    "passport_number": "UA1592431",
+    "currency": "CHF",
+    "address": {
+        "city": "Locarno",
+        "street name": "Gerberngasse",
+        "street number": 28,
+        "postal code": "8868"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 067 382 59 63",
+    "email_address": "lynn.kammermann@swisscom.ch"
+}

@@ -1,0 +1,77 @@
+{
+    "name": "Fabbri Livi Donati",
+    "address": {
+        "city": "Udine",
+        "street name": "Galleria Vittorio Emanuele II",
+        "street number": 84,
+        "postal code": "47759"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1963-03-26",
+    "nationality": "Italian",
+    "passport_number": "PE8512156",
+    "passport_issue_date": "2018-10-22",
+    "passport_expiry_date": "2028-10-21",
+    "gender": "M",
+    "phone_number": "+39 372 3662975",
+    "email_address": "fabbri.donati@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Istituto Tecnico Industriale Alessandro Volta Torino",
+        "graduation_year": 1981
+    },
+    "higher_education": [
+        {
+            "university": "American University of Rome",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1987,
+            "end_year": 1988,
+            "company": "Roche S.p.A.",
+            "position": "Research Scientist",
+            "salary": 27000
+        },
+        {
+            "start_year": 1988,
+            "end_year": 2023,
+            "company": "Roche S.p.A.",
+            "position": "Clinical Trials Manager",
+            "salary": 296000
+        }
+    ],
+    "aum": {
+        "savings": 520000,
+        "inheritance": 0,
+        "real_estate_value": 2750000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1440000,
+            "property location": "Udine"
+        },
+        {
+            "property type": "flat",
+            "property value": 700000,
+            "property location": "Livorno"
+        },
+        {
+            "property type": "flat",
+            "property value": 610000,
+            "property location": "Modena"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,76 @@
+{
+    "name": "Heikkinen Järvinen Miettinen",
+    "address": {
+        "city": "Kauniainen",
+        "street name": "Lönnrotinkatu",
+        "street number": 8,
+        "postal code": "31691"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1982-07-14",
+    "nationality": "Finnish",
+    "passport_number": "PE3049813",
+    "passport_issue_date": "2018-05-09",
+    "passport_expiry_date": "2028-05-08",
+    "gender": "M",
+    "phone_number": "+358 046 188 49 04",
+    "email_address": "heikkinen.miettinen@suomi24.fi",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lappeenranta Lyceum",
+        "graduation_year": 2000
+    },
+    "higher_education": [
+        {
+            "university": "University of Turku",
+            "graduation_year": 2005
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2007,
+            "end_year": 2011,
+            "company": "Valmet Oyj",
+            "position": "Plant Manager",
+            "salary": 38000
+        },
+        {
+            "start_year": 2013,
+            "end_year": 2023,
+            "company": "Valmet Oyj",
+            "position": "Operations Director",
+            "salary": 72000
+        }
+    ],
+    "aum": {
+        "savings": 110000,
+        "inheritance": 4100000,
+        "real_estate_value": 2113000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2007,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1133000,
+            "property location": "Kauniainen"
+        },
+        {
+            "property type": "condo",
+            "property value": 980000,
+            "property location": "Joensuu"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

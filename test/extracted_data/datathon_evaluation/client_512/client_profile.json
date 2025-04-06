@@ -1,0 +1,74 @@
+{
+    "name": "Pérez Navarro López",
+    "address": {
+        "city": "Vigo",
+        "street name": "Calle de San Vicente Mártir",
+        "street number": 77,
+        "postal code": "64999"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1956-01-29",
+    "nationality": "Spanish",
+    "passport_number": "VO7922475",
+    "passport_issue_date": "2023-09-05",
+    "passport_expiry_date": "2033-09-04",
+    "gender": "M",
+    "phone_number": "+34 659 507 513",
+    "email_address": "perez.lopez@yahoo.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Instituto de Bachillerato Artístico IES Reina Sofia Tenerife",
+        "graduation_year": 1974
+    },
+    "higher_education": [
+        {
+            "university": "IE University",
+            "graduation_year": 1978
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1979,
+            "end_year": 1982,
+            "company": "KKR Iberia Asesoramiento S.A.",
+            "position": "Analyst",
+            "salary": 26000
+        },
+        {
+            "start_year": 1982,
+            "end_year": 1984,
+            "company": "KKR Iberia Asesoramiento S.A.",
+            "position": "Associate",
+            "salary": 41000
+        },
+        {
+            "start_year": 1984,
+            "end_year": 1986,
+            "company": "ProA Capital de Inversión SGEIC S.A.",
+            "position": "Investment Director",
+            "salary": 54000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 2016,
+            "company": "ProA Capital de Inversión SGEIC S.A.",
+            "position": "Partner",
+            "salary": 1061000
+        }
+    ],
+    "aum": {
+        "savings": 1990000,
+        "inheritance": 0,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {},
+    "real_estate_details": [],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

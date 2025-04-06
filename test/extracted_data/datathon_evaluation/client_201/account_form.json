@@ -1,0 +1,17 @@
+{
+    "name": "Ingrid Ève Guillaume",
+    "first_name": "Ingrid",
+    "middle_name": "Ève",
+    "last_name": "Guillaume",
+    "passport_number": "AR5611049",
+    "currency": "EUR",
+    "address": {
+        "city": "Paris",
+        "street name": "Rue Cujas",
+        "street number": 6,
+        "postal code": "17253"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 09 12 70 99 78",
+    "email_address": "ingrid.guillaume@icloud.com"
+}

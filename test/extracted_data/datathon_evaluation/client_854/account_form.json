@@ -1,0 +1,17 @@
+{
+    "name": "Lucas Juliette Dumont",
+    "first_name": "Lucas",
+    "middle_name": "Juliette",
+    "last_name": "Dumont",
+    "passport_number": "VW0273497",
+    "currency": "EUR",
+    "address": {
+        "city": "Liège",
+        "street name": "Rue de la Révolution Belge",
+        "street number": 73,
+        "postal code": "6050"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0430 420 9711",
+    "email_address": "lucas.dumont@belgacom.be"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Juliane Schmitz",
+    "first_name": "Juliane",
+    "middle_name": "",
+    "last_name": "Schmitz",
+    "passport_number": "PZ3189286",
+    "currency": "EUR",
+    "address": {
+        "city": "Oviedo",
+        "street name": "Plaza de la Magdalena",
+        "street number": 74,
+        "postal code": "13246"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "625 584 388",
+    "email_address": "juliane.schmitz@vodafone.es"
+}

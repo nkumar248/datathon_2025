@@ -1,0 +1,17 @@
+{
+    "name": "Dupont Peiren Lambrechts",
+    "first_name": "Dupont",
+    "middle_name": "Peiren",
+    "last_name": "Lambrechts",
+    "passport_number": "AW6413009",
+    "currency": "EUR",
+    "address": {
+        "city": "Sint-Niklaas",
+        "street name": "Rue des Sœurs Noires",
+        "street number": 39,
+        "postal code": "5477"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0424 439 686",
+    "email_address": "dupont.lambrechts@icloud.com"
+}

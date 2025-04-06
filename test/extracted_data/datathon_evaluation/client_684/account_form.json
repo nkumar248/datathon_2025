@@ -1,0 +1,17 @@
+{
+    "name": "Gruber Hinterleitner Schnell",
+    "first_name": "Gruber",
+    "middle_name": "Hinterleitner",
+    "last_name": "Schnell",
+    "passport_number": "OE2665473",
+    "currency": "EUR",
+    "address": {
+        "city": "Rosenheim",
+        "street name": "Gasometerstraße",
+        "street number": 82,
+        "postal code": "2489"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "027 046 97745",
+    "email_address": "gruber.schnell@vol.at"
+}

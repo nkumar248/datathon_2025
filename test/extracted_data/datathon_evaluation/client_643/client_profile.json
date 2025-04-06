@@ -1,0 +1,80 @@
+{
+    "name": "Floriane Capucine Boucher",
+    "address": {
+        "city": "Saint-Denis",
+        "street name": "Avenue d'Italie",
+        "street number": 52,
+        "postal code": "61193"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1983-08-19",
+    "nationality": "French",
+    "passport_number": "KH5464590",
+    "passport_issue_date": "2023-06-09",
+    "passport_expiry_date": "2033-06-08",
+    "gender": "F",
+    "phone_number": "+33 05 07 43 10 93",
+    "email_address": "floriane.boucher@bbox.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée René Descartes",
+        "graduation_year": 2003
+    },
+    "higher_education": [
+        {
+            "university": "École Nationale d'Administration (ENA)",
+            "graduation_year": 2006
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2007,
+            "end_year": 2011,
+            "company": "Louvre Museum",
+            "position": "Art Dealer",
+            "salary": 28000
+        },
+        {
+            "start_year": 2013,
+            "end_year": 2017,
+            "company": "Musée d'Orsay",
+            "position": "Gallery Owner",
+            "salary": 45000
+        }
+    ],
+    "aum": {
+        "savings": 130000,
+        "inheritance": 640000,
+        "real_estate_value": 6830000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2013,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 3180000,
+            "property location": "Saint-Denis"
+        },
+        {
+            "property type": "house",
+            "property value": 2150000,
+            "property location": "Saint-Denis"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1500000,
+            "property location": "Montpellier"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

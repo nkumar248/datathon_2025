@@ -1,0 +1,17 @@
+{
+    "name": "Beatriz Araceli Sánchez",
+    "first_name": "Beatriz",
+    "middle_name": "Araceli",
+    "last_name": "Sánchez",
+    "passport_number": "LM1530566",
+    "currency": "EUR",
+    "address": {
+        "city": "Castellón de la Plana",
+        "street name": "Plaza de la Trinidad",
+        "street number": 34,
+        "postal code": "69304"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 687 640 837",
+    "email_address": "beatriz.sanchez@orange.es"
+}

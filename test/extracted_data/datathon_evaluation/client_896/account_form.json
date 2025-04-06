@@ -1,0 +1,17 @@
+{
+    "name": "Østergaard Friis Jensen",
+    "first_name": "Østergaard",
+    "middle_name": "Friis",
+    "last_name": "Jensen",
+    "passport_number": "YX1073080",
+    "currency": "DKK",
+    "address": {
+        "city": "Århus N",
+        "street name": "Fiolgade",
+        "street number": 44,
+        "postal code": "3776"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "56 40 21 01",
+    "email_address": "stergaard.jensen@dk-hostmaster.dk"
+}

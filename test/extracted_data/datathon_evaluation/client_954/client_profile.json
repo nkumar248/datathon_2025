@@ -1,0 +1,75 @@
+{
+    "name": "Marini Bianchi Lotti",
+    "address": {
+        "city": "Siena",
+        "street name": "Via Po",
+        "street number": 94,
+        "postal code": "26252"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1981-06-26",
+    "nationality": "Italian",
+    "passport_number": "QF2460987",
+    "passport_issue_date": "2023-04-01",
+    "passport_expiry_date": "2033-03-31",
+    "gender": "M",
+    "phone_number": "+39 337 2039077",
+    "email_address": "marini.lotti@infinito.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Istituto Tecnico Agrario Statale Francesco De Sanctis Foggia",
+        "graduation_year": 2000
+    },
+    "higher_education": [
+        {
+            "university": "Italian Institute of Nuclear Physics (INFN)",
+            "graduation_year": 2006
+        },
+        {
+            "university": "IMT Institute for Advanced Studies Lucca",
+            "graduation_year": 2008
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2005,
+            "end_year": 2010,
+            "company": "Edison S.p.A.",
+            "position": "Drilling Engineer",
+            "salary": 38000
+        },
+        {
+            "start_year": 2012,
+            "end_year": null,
+            "company": "ERGA S.p.A.",
+            "position": "Reservoir Engineer",
+            "salary": 97000
+        }
+    ],
+    "aum": {
+        "savings": 150000,
+        "inheritance": 6990000,
+        "real_estate_value": 1130000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2009,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1130000,
+            "property location": "Siena"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "Italy"
+    ],
+    "currency": "EUR"
+}

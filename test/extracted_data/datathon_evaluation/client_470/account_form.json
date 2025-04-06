@@ -1,0 +1,17 @@
+{
+    "name": "Wagemakers Teunissen Brinkman",
+    "first_name": "Wagemakers",
+    "middle_name": "Teunissen",
+    "last_name": "Brinkman",
+    "passport_number": "XG0366283",
+    "currency": "EUR",
+    "address": {
+        "city": "Herstal",
+        "street name": "Rue de la Croix-Rouge",
+        "street number": 54,
+        "postal code": "0337"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0459 896 376",
+    "email_address": "wagemakers.brinkman@outlook.com"
+}

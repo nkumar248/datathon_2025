@@ -1,0 +1,17 @@
+{
+    "name": "Martina Giovanna Belli",
+    "first_name": "Martina",
+    "middle_name": "Giovanna",
+    "last_name": "Belli",
+    "passport_number": "QC6543463",
+    "currency": "EUR",
+    "address": {
+        "city": "Venice",
+        "street name": "Corso Como",
+        "street number": 3,
+        "postal code": "90117"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 357 7854820",
+    "email_address": "martina.belli@tiscali.it"
+}

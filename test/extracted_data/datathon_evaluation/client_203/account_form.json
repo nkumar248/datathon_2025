@@ -1,0 +1,17 @@
+{
+    "name": "Durand Robert Garcia",
+    "first_name": "Durand",
+    "middle_name": "Robert",
+    "last_name": "Garcia",
+    "passport_number": "AJ7683655",
+    "currency": "EUR",
+    "address": {
+        "city": "Limoges",
+        "street name": "Rue de Bretagne",
+        "street number": 85,
+        "postal code": "08876"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "04 66 73 08 65",
+    "email_address": "durand.garcia@yahoo.com"
+}

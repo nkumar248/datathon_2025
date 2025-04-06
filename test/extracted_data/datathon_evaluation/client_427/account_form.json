@@ -1,0 +1,17 @@
+{
+    "name": "Dubois Gauthier Dupont",
+    "first_name": "Dubois",
+    "middle_name": "Gauthier",
+    "last_name": "Dupont",
+    "passport_number": "CT7861459",
+    "currency": "EUR",
+    "address": {
+        "city": "Lyon",
+        "street name": "Avenue George V",
+        "street number": 48,
+        "postal code": "50006"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 08 98 50 44 85",
+    "email_address": "dubois.dupont@wanadoo.fr"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Smeets Verhoeven De Jong",
+    "first_name": "Smeets",
+    "middle_name": "Verhoeven",
+    "last_name": "De Jong",
+    "passport_number": "KN1600201",
+    "currency": "EUR",
+    "address": {
+        "city": "Helmond",
+        "street name": "IJsselkade",
+        "street number": 32,
+        "postal code": "3976 11"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "06 55784134",
+    "email_address": "smeets.dejong@chello.nl"
+}

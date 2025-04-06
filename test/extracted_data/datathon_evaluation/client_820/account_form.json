@@ -1,0 +1,17 @@
+{
+    "name": "Sanders Dumont Sterckx",
+    "first_name": "Sanders",
+    "middle_name": "Dumont",
+    "last_name": "Sterckx",
+    "passport_number": "NC4164897",
+    "currency": "EUR",
+    "address": {
+        "city": "Lokeren",
+        "street name": "Rue Neuve",
+        "street number": 63,
+        "postal code": "2681"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0445 634 583",
+    "email_address": "sanders.sterckx@scarlet.be"
+}

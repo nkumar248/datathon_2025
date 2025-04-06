@@ -1,0 +1,17 @@
+{
+    "name": "Ophélie Jade Boucher",
+    "first_name": "Ophélie",
+    "middle_name": "Jade",
+    "last_name": "Boucher",
+    "passport_number": "CP8718523",
+    "currency": "EUR",
+    "address": {
+        "city": "Besançon",
+        "street name": "Rue de Bretagne",
+        "street number": 35,
+        "postal code": "13180"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 09 85 43 20 98",
+    "email_address": "ophelie.boucher@live.fr"
+}

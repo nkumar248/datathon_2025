@@ -1,0 +1,59 @@
+{
+    "name": "Maja Lena Koller",
+    "address": {
+        "city": "Ancona",
+        "street name": "Via Ugo Bassi",
+        "street number": 71,
+        "postal code": "98665"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1999-04-15",
+    "nationality": "Austrian",
+    "passport_number": "LL1997814",
+    "passport_issue_date": "2024-01-16",
+    "passport_expiry_date": "2034-01-15",
+    "gender": "F",
+    "phone_number": "+39 322 1127232",
+    "email_address": "maja.koller@infinito.it",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Gymnasium Sacré Coeur Pressbaum",
+        "graduation_year": 2019
+    },
+    "higher_education": [
+        {
+            "university": "University of Innsbruck",
+            "graduation_year": 2022
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2023,
+            "end_year": null,
+            "company": "Pinacoteca di Brera",
+            "position": "Art Dealer",
+            "salary": 30000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 2250000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2020,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Italy",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

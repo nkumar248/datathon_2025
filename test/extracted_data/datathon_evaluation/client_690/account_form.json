@@ -1,0 +1,17 @@
+{
+    "name": "Greta Ida Bauer",
+    "first_name": "Greta",
+    "middle_name": "Ida",
+    "last_name": "Bauer",
+    "passport_number": "UC6981G51",
+    "currency": "EUR",
+    "address": {
+        "city": "Cologne",
+        "street name": "Wilhelm-Leuschner-Platz",
+        "street number": 66,
+        "postal code": "87325"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 4051 670898",
+    "email_address": "greta.bauer@arcor.de"
+}

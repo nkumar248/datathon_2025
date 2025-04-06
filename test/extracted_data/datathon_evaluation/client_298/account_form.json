@@ -1,0 +1,17 @@
+{
+    "name": "Bernard Louis Durand",
+    "first_name": "Bernard",
+    "middle_name": "Louis",
+    "last_name": "Durand",
+    "passport_number": "CV7309528",
+    "currency": "EUR",
+    "address": {
+        "city": "Lille",
+        "street name": "Rue Gay-Lussac",
+        "street number": 84,
+        "postal code": "68367"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 00 66 37 87 79",
+    "email_address": "bernard.durand@laposte.net"
+}

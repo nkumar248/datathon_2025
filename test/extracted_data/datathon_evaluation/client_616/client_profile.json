@@ -1,0 +1,79 @@
+{
+    "name": "Isabella Gaia Fantini",
+    "address": {
+        "city": "Verona",
+        "street name": "Via Dante Alighieri",
+        "street number": 18,
+        "postal code": "84701"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1967-05-26",
+    "nationality": "Italian",
+    "passport_number": "UM1368457",
+    "passport_issue_date": "2019-06-25",
+    "passport_expiry_date": "2029-06-24",
+    "gender": "F",
+    "phone_number": "+39 315 7675736",
+    "email_address": "isabella.fantini@wind.it",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Scuola Media Statale Antonio Meucci Firenze",
+        "graduation_year": 1986
+    },
+    "higher_education": [
+        {
+            "university": "University of Turin",
+            "graduation_year": 1991
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1992,
+            "end_year": 1996,
+            "company": "Alcedo SGR S.p.A.",
+            "position": "Analyst",
+            "salary": 27000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 2000,
+            "company": "Syntegra SGR S.p.A.",
+            "position": "Associate",
+            "salary": 37000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2002,
+            "company": "Clessidra SGR S.p.A.",
+            "position": "Investment Director",
+            "salary": 61000
+        },
+        {
+            "start_year": 2002,
+            "end_year": null,
+            "company": "Fondo Italiano d'Investimento SGR S.p.A.",
+            "position": "Partner",
+            "salary": 773000
+        }
+    ],
+    "aum": {
+        "savings": 1410000,
+        "inheritance": 800000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2011,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Italy"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "González Martín",
+    "first_name": "González",
+    "middle_name": "",
+    "last_name": "Martín",
+    "passport_number": "GZ4555758",
+    "currency": "EUR",
+    "address": {
+        "city": "Bilbao",
+        "street name": "Calle de Alcalá",
+        "street number": 47,
+        "postal code": "76823"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 653 929 713",
+    "email_address": "gonzalez.martin@hotmail.com"
+}

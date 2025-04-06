@@ -1,0 +1,76 @@
+{
+    "name": "Chiara Costanza Esposito",
+    "address": {
+        "city": "Rome",
+        "street name": "Piazza Farnese",
+        "street number": 76,
+        "postal code": "70149"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1981-08-22",
+    "nationality": "Italian",
+    "passport_number": "KA3379595",
+    "passport_issue_date": "2022-11-18",
+    "passport_expiry_date": "2032-11-17",
+    "gender": "F",
+    "phone_number": "345 6102185",
+    "email_address": "chiara.esposito@tiscali.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Scuola Media Statale Giovanni Pascoli Napoli",
+        "graduation_year": 1999
+    },
+    "higher_education": [
+        {
+            "university": "University of Turin",
+            "graduation_year": 2005
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2005,
+            "end_year": 2006,
+            "company": "Menarini Industrie Farmaceutiche Riunite S.r.l.",
+            "position": "Research Scientist",
+            "salary": 28000
+        },
+        {
+            "start_year": 2007,
+            "end_year": null,
+            "company": "Novartis Farma S.p.A.",
+            "position": "Clinical Trials Manager",
+            "salary": 155000
+        }
+    ],
+    "aum": {
+        "savings": 230000,
+        "inheritance": 3260000,
+        "real_estate_value": 1636000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2007,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1036000,
+            "property location": "Rome"
+        },
+        {
+            "property type": "flat",
+            "property value": 600000,
+            "property location": "Pisa"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

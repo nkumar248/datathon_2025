@@ -1,0 +1,58 @@
+{
+    "name": "Neumann Schultz",
+    "address": {
+        "city": "Menen",
+        "street name": "Chaussée de Waterloo",
+        "street number": 4,
+        "postal code": "0510"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1996-06-25",
+    "nationality": "German",
+    "passport_number": "XG4643645",
+    "passport_issue_date": "2019-10-26",
+    "passport_expiry_date": "2029-10-25",
+    "gender": "M",
+    "phone_number": "0457 382 294",
+    "email_address": "neumann.schultz@edpnet.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Caspar-Olevian-Gymnasium Trier",
+        "graduation_year": 2016
+    },
+    "higher_education": [
+        {
+            "university": "University of Heidelberg",
+            "graduation_year": 2020
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2020,
+            "end_year": null,
+            "company": "ExxonMobil Belgium NV",
+            "position": "Drilling Engineer",
+            "salary": 54000
+        }
+    ],
+    "aum": {
+        "savings": 40000,
+        "inheritance": 1620000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2020,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

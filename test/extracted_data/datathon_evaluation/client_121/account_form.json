@@ -1,0 +1,17 @@
+{
+    "name": "Kaiser Hofer Rieder",
+    "first_name": "Kaiser",
+    "middle_name": "Hofer",
+    "last_name": "Rieder",
+    "passport_number": "JB5209167",
+    "currency": "EUR",
+    "address": {
+        "city": "Ried im Innkreis",
+        "street name": "Westbahnstraße",
+        "street number": 33,
+        "postal code": "3370"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 087 720 1708",
+    "email_address": "kaiser.rieder@kabsi.at"
+}

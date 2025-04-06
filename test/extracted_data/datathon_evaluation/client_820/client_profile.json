@@ -1,0 +1,84 @@
+{
+    "name": "Sanders Dumont Sterckx",
+    "address": {
+        "city": "Lokeren",
+        "street name": "Rue Neuve",
+        "street number": 63,
+        "postal code": "2681"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1968-11-16",
+    "nationality": "Belgian",
+    "passport_number": "NC4164897",
+    "passport_issue_date": "2018-06-01",
+    "passport_expiry_date": "2025-05-31",
+    "gender": "M",
+    "phone_number": "0445 634 583",
+    "email_address": "sanders.sterckx@scarlet.be",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Institut des Ursulines",
+        "graduation_year": 1988
+    },
+    "higher_education": [
+        {
+            "university": "Ghent University",
+            "graduation_year": 1991
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1992,
+            "end_year": 1997,
+            "company": "UCB Pharma SA",
+            "position": "Research Scientist",
+            "salary": 36000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2002,
+            "company": "GSK Vaccines SA",
+            "position": "Clinical Trials Manager",
+            "salary": 51000
+        },
+        {
+            "start_year": 2002,
+            "end_year": 2007,
+            "company": "Pfizer Belgium SA",
+            "position": "Regulatory Affairs Director",
+            "salary": 141000
+        },
+        {
+            "start_year": 2008,
+            "end_year": null,
+            "company": "UCB Pharma SA",
+            "position": "CEO",
+            "salary": 654000
+        }
+    ],
+    "aum": {
+        "savings": 1030000,
+        "inheritance": 440000,
+        "real_estate_value": 1020000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2005,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1020000,
+            "property location": "Lokeren"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

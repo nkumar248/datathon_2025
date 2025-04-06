@@ -1,0 +1,17 @@
+{
+    "name": "Richard Nicolas Bernard",
+    "first_name": "Richard",
+    "middle_name": "Nicolas",
+    "last_name": "Bernard",
+    "passport_number": "XI8842191",
+    "currency": "EUR",
+    "address": {
+        "city": "Caen",
+        "street name": "Rue Gay-Lussac",
+        "street number": 42,
+        "postal code": "41316"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 03 68 59 36 31",
+    "email_address": "richard.bernard@wanadoo.fr"
+}

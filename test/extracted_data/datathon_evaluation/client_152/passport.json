@@ -1,0 +1,17 @@
+{
+    "first_name": "Brunner",
+    "middle_name": "Gmür",
+    "last_name": "Kammermann",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1981-08-04",
+    "passport_number": "IY5160064",
+    "passport_mrz": [
+        "P<CHEKAMMERMANN<<BRUNNER<GMÜR<<<<<<<<<<<<<<<<",
+        "IY5160064CHE810804<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2021-10-24",
+    "passport_expiry_date": "2031-10-23"
+}

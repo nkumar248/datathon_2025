@@ -1,0 +1,17 @@
+{
+    "name": "Colombe Louise Marchand",
+    "first_name": "Colombe",
+    "middle_name": "Louise",
+    "last_name": "Marchand",
+    "passport_number": "VZ0369002",
+    "currency": "EUR",
+    "address": {
+        "city": "Treviso",
+        "street name": "Via Nazionale",
+        "street number": 66,
+        "postal code": "12048"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 309 2341562",
+    "email_address": "colombe.marchand@tin.it"
+}

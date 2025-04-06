@@ -1,0 +1,76 @@
+{
+    "name": "Vilma Matilda Ahonen",
+    "address": {
+        "city": "Rouen",
+        "street name": "Rue de la Paix",
+        "street number": 96,
+        "postal code": "63529"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1990-12-21",
+    "nationality": "Finnish",
+    "passport_number": "MH1649299",
+    "passport_issue_date": "2016-11-28",
+    "passport_expiry_date": "2026-11-27",
+    "gender": "F",
+    "phone_number": "08 27 27 54 60",
+    "email_address": "vilma.ahonen@icloud.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Kiteen lukio",
+        "graduation_year": 2008
+    },
+    "higher_education": [
+        {
+            "university": "University of Oulu",
+            "graduation_year": 2015
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2014,
+            "end_year": 2015,
+            "company": "Société Générale Private Banking",
+            "position": "Financial Advisor",
+            "salary": 38000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "Société Générale Private Banking",
+            "position": "Portfolio Manager",
+            "salary": 77000
+        }
+    ],
+    "aum": {
+        "savings": 90000,
+        "inheritance": 3080000,
+        "real_estate_value": 2760000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1510000,
+            "property location": "Rouen"
+        },
+        {
+            "property type": "house",
+            "property value": 1250000,
+            "property location": "Kuopio"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "France"
+    ],
+    "currency": "EUR"
+}

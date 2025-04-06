@@ -1,0 +1,77 @@
+{
+    "name": "Marchand Renault",
+    "address": {
+        "city": "Nice",
+        "street name": "Quai d'Orsay",
+        "street number": 65,
+        "postal code": "30260"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1966-08-22",
+    "nationality": "French",
+    "passport_number": "AT5466269",
+    "passport_issue_date": "2023-09-01",
+    "passport_expiry_date": "2033-08-31",
+    "gender": "M",
+    "phone_number": "+33 03 15 84 17 64",
+    "email_address": "marchand.renault@aliceadsl.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée du Parc",
+        "graduation_year": 1984
+    },
+    "higher_education": [
+        {
+            "university": "University of Montpellier",
+            "graduation_year": 1991
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1991,
+            "end_year": 1993,
+            "company": "La Banque Postale Private Banking",
+            "position": "Financial Advisor",
+            "salary": 33000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 1998,
+            "company": "La Banque Postale Private Banking",
+            "position": "Portfolio Manager",
+            "salary": 46000
+        },
+        {
+            "start_year": 1999,
+            "end_year": null,
+            "company": "La Banque Postale Private Banking",
+            "position": "Wealth Manager",
+            "salary": 501000
+        }
+    ],
+    "aum": {
+        "savings": 960000,
+        "inheritance": 2760000,
+        "real_estate_value": 1240000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2010,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1240000,
+            "property location": "Nice"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

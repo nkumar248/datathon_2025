@@ -1,0 +1,17 @@
+{
+    "name": "Isa Hannelore Verhoeven",
+    "first_name": "Isa",
+    "middle_name": "Hannelore",
+    "last_name": "Verhoeven",
+    "passport_number": "EN5182424",
+    "currency": "EUR",
+    "address": {
+        "city": "Apeldoorn",
+        "street name": "Koninginnegracht",
+        "street number": 90,
+        "postal code": "3310 61"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 69858449",
+    "email_address": "isa.verhoeven@gmail.com"
+}

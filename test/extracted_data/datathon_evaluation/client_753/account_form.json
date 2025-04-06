@@ -1,0 +1,17 @@
+{
+    "name": "Olsen Krog Pedersen",
+    "first_name": "Olsen",
+    "middle_name": "Krog",
+    "last_name": "Pedersen",
+    "passport_number": "AN0276475",
+    "currency": "DKK",
+    "address": {
+        "city": "Roskilde",
+        "street name": "Store Kongensgade",
+        "street number": 10,
+        "postal code": "2167"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 40 70 33 54",
+    "email_address": "olsen.pedersen@webspace.dk"
+}

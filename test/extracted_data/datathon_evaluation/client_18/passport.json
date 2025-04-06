@@ -1,0 +1,17 @@
+{
+    "first_name": "Elisabeth",
+    "middle_name": "Lea",
+    "last_name": "Gmür",
+    "gender": "F",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1965-03-27",
+    "passport_number": "EE4289662",
+    "passport_mrz": [
+        "P<CHEGMÜR<<ELISABETH<LEA<<<<<<<<<<<<<<<<<<<<<",
+        "EE4289662CHE650327<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-03-22",
+    "passport_expiry_date": "2033-03-21"
+}

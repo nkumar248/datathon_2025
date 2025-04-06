@@ -1,0 +1,17 @@
+{
+    "name": "Joyce Julia Kuipers",
+    "first_name": "Joyce",
+    "middle_name": "Julia",
+    "last_name": "Kuipers",
+    "passport_number": "KU6652771",
+    "currency": "EUR",
+    "address": {
+        "city": "Almere",
+        "street name": "Kalverstraat",
+        "street number": 78,
+        "postal code": "0293 76"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 87709230",
+    "email_address": "joyce.kuipers@planet.nl"
+}

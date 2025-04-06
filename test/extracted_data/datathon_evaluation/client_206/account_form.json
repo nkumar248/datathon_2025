@@ -1,0 +1,17 @@
+{
+    "name": "Lea Leonie Schnell",
+    "first_name": "Lea",
+    "middle_name": "Leonie",
+    "last_name": "Schnell",
+    "passport_number": "LC5165000",
+    "currency": "EUR",
+    "address": {
+        "city": "Baden bei Wien",
+        "street name": "Porzellangasse",
+        "street number": 86,
+        "postal code": "3438"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 719 318 0690",
+    "email_address": "lea.schnell@aon.at"
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Sofia Eleonora Fabbri",
+    "address": {
+        "city": "Santa Cruz de Tenerife",
+        "street name": "Calle de la Universidad",
+        "street number": 36,
+        "postal code": "94872"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1995-07-09",
+    "nationality": "Italian",
+    "passport_number": "EO2009260",
+    "passport_issue_date": "2023-04-03",
+    "passport_expiry_date": "2033-04-02",
+    "gender": "F",
+    "phone_number": "+34 625 798 872",
+    "email_address": "sofia.fabbri@telefonica.es",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Scuola Media Statale Giancarlo Siani Napoli",
+        "graduation_year": 2013
+    },
+    "higher_education": [
+        {
+            "university": "Bocconi University",
+            "graduation_year": 2019
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2019,
+            "end_year": 2020,
+            "company": "Banco Santander S.A.",
+            "position": "Family Office Manager",
+            "salary": 28000
+        },
+        {
+            "start_year": 2020,
+            "end_year": null,
+            "company": "Banco Santander S.A.",
+            "position": "Investment Director",
+            "salary": 51000
+        }
+    ],
+    "aum": {
+        "savings": 50000,
+        "inheritance": 2140000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Italy",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

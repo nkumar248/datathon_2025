@@ -1,0 +1,17 @@
+{
+    "name": "Benedetta Daniela Fabbri",
+    "first_name": "Benedetta",
+    "middle_name": "Daniela",
+    "last_name": "Fabbri",
+    "passport_number": "GG5209235",
+    "currency": "EUR",
+    "address": {
+        "city": "Parma",
+        "street name": "Piazza della Repubblica",
+        "street number": 41,
+        "postal code": "07975"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "310 4098833",
+    "email_address": "benedetta.fabbri@libero.it"
+}

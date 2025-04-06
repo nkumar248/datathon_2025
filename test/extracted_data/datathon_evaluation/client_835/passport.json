@@ -1,0 +1,17 @@
+{
+    "first_name": "Ackermann",
+    "middle_name": "Egli",
+    "last_name": "Burkart",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1997-08-19",
+    "passport_number": "CK0679421",
+    "passport_mrz": [
+        "P<CHEBURKART<<ACKERMANN<EGLI<<<<<<<<<<<<<<<<<",
+        "CK0679421CHE970819<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2018-09-19",
+    "passport_expiry_date": "2028-09-18"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Olsen Andersen Kristensen",
+    "first_name": "Olsen",
+    "middle_name": "Andersen",
+    "last_name": "Kristensen",
+    "passport_number": "EH3621771",
+    "currency": "DKK",
+    "address": {
+        "city": "Kolding",
+        "street name": "Store Kongensgade",
+        "street number": 68,
+        "postal code": "7624"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "00 33 93 43",
+    "email_address": "olsen.kristensen@tiscali.dk"
+}

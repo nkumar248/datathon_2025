@@ -1,0 +1,91 @@
+{
+    "name": "Gruber Fuchs Koller",
+    "address": {
+        "city": "Spittal an der Drau",
+        "street name": "Gasometerstraße",
+        "street number": 61,
+        "postal code": "9343"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1979-01-15",
+    "nationality": "Austrian",
+    "passport_number": "AT2793405",
+    "passport_issue_date": "2017-11-19",
+    "passport_expiry_date": "2027-11-18",
+    "gender": "M",
+    "phone_number": "+43 181 104 4696",
+    "email_address": "gruber.koller@icloud.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "BRG/BORG Marchfeldstraße",
+        "graduation_year": 1996
+    },
+    "higher_education": [
+        {
+            "university": "Vienna University of Economics and Business",
+            "graduation_year": 1987
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2003,
+            "end_year": 2008,
+            "company": "Conwert Immobilien Invest AG",
+            "position": "Property Manager",
+            "salary": 34000
+        },
+        {
+            "start_year": 2008,
+            "end_year": 2010,
+            "company": "Immofinanz AG",
+            "position": "Developer",
+            "salary": 51000
+        },
+        {
+            "start_year": 2011,
+            "end_year": 2014,
+            "company": "Immofinanz AG",
+            "position": "Construction Company Owner",
+            "salary": 69000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2016,
+            "company": "CA Immo",
+            "position": "Real Estate Investment Trust (REIT) CEO",
+            "salary": 126000
+        },
+        {
+            "start_year": 2018,
+            "end_year": null,
+            "company": "Conwert Immobilien Invest AG",
+            "position": "Landlord",
+            "salary": 288000
+        }
+    ],
+    "aum": {
+        "savings": 340000,
+        "inheritance": 360000,
+        "real_estate_value": 870000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2006,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 870000,
+            "property location": "Spittal an der Drau"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

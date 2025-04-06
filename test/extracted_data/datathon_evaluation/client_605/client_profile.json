@@ -1,0 +1,65 @@
+{
+    "name": "Nicolas Marchand",
+    "address": {
+        "city": "Murcia",
+        "street name": "Calle de la Universidad",
+        "street number": 14,
+        "postal code": "50382"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1993-02-23",
+    "nationality": "French",
+    "passport_number": "DM7929307",
+    "passport_issue_date": "2024-07-02",
+    "passport_expiry_date": "2034-07-01",
+    "gender": "M",
+    "phone_number": "+34 651 217 922",
+    "email_address": "nicolas.marchand@gmail.es",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Lycée Stanislas",
+        "graduation_year": 2010
+    },
+    "higher_education": [
+        {
+            "university": "American Graduate School of Business in Paris",
+            "graduation_year": 2015
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2017,
+            "end_year": null,
+            "company": "KKR Iberia Asesoramiento S.A.",
+            "position": "Analyst",
+            "salary": 36000
+        }
+    ],
+    "aum": {
+        "savings": 40000,
+        "inheritance": 1420000,
+        "real_estate_value": 770000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 770000,
+            "property location": "Murcia"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Italy",
+        "France"
+    ],
+    "currency": "EUR"
+}

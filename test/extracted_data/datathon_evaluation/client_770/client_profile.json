@@ -1,0 +1,85 @@
+{
+    "name": "Donati Marini Esposito",
+    "address": {
+        "city": "Siena",
+        "street name": "Corso Garibaldi",
+        "street number": 38,
+        "postal code": "76822"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1966-11-13",
+    "nationality": "Italian",
+    "passport_number": "MW6778541",
+    "passport_issue_date": "2019-08-10",
+    "passport_expiry_date": "2029-08-09",
+    "gender": "M",
+    "phone_number": "+39 350 9125794",
+    "email_address": "donati.esposito@icloud.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Liceo Artistico Michelangelo Buonarroti Venezia",
+        "graduation_year": 1986
+    },
+    "higher_education": [
+        {
+            "university": "Normal Superior School of Pisa",
+            "graduation_year": 1990
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1991,
+            "end_year": 1992,
+            "company": "Menarini Industrie Farmaceutiche Riunite S.r.l.",
+            "position": "Research Scientist",
+            "salary": 24000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 1997,
+            "company": "Roche S.p.A.",
+            "position": "Biotech Startup Founder",
+            "salary": 43000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2000,
+            "company": "Novartis Farma S.p.A.",
+            "position": "CEO",
+            "salary": 59000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2004,
+            "company": "Novartis Farma S.p.A.",
+            "position": "Venture Capitalist",
+            "salary": 92000
+        },
+        {
+            "start_year": 2006,
+            "end_year": null,
+            "company": "Menarini Industrie Farmaceutiche Riunite S.r.l.",
+            "position": "Industry Leader",
+            "salary": 735000
+        }
+    ],
+    "aum": {
+        "savings": 1110000,
+        "inheritance": 350000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2006,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

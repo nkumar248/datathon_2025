@@ -1,0 +1,17 @@
+{
+    "name": "Émilie Ingrid Dupont",
+    "first_name": "Émilie",
+    "middle_name": "Ingrid",
+    "last_name": "Dupont",
+    "passport_number": "LN4793007",
+    "currency": "EUR",
+    "address": {
+        "city": "Brest",
+        "street name": "Rue de Bretagne",
+        "street number": 5,
+        "postal code": "56485"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "08 78 34 14 98",
+    "email_address": "emilie.dupont@aliceadsl.fr"
+}

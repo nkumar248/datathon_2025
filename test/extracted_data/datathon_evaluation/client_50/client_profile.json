@@ -1,0 +1,81 @@
+{
+    "name": "Niemi Peltola Salo",
+    "address": {
+        "city": "Rauma",
+        "street name": "Neljäs linja",
+        "street number": 6,
+        "postal code": "31173"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1983-08-12",
+    "nationality": "Finnish",
+    "passport_number": "HC5977538",
+    "passport_issue_date": "2020-07-27",
+    "passport_expiry_date": "2030-07-26",
+    "gender": "M",
+    "phone_number": "+358 048 110 48 79",
+    "email_address": "niemi.salo@suomi24.fi",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lohjan lukio",
+        "graduation_year": 2001
+    },
+    "higher_education": [
+        {
+            "university": "Haaga-Helia University of Applied Sciences",
+            "graduation_year": 2008
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2011,
+            "end_year": 2015,
+            "company": "Pharmia Sinensis Oy",
+            "position": "Clinical Trials Manager",
+            "salary": 54000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "Pharmia Sinensis Oy",
+            "position": "Regulatory Affairs Director",
+            "salary": 136000
+        }
+    ],
+    "aum": {
+        "savings": 190000,
+        "inheritance": 1450000,
+        "real_estate_value": 4580000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2009,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2280000,
+            "property location": "Rauma"
+        },
+        {
+            "property type": "house",
+            "property value": 1430000,
+            "property location": "Seinäjoki"
+        },
+        {
+            "property type": "condo",
+            "property value": 870000,
+            "property location": "Lappeenranta"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "France"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Luna Jasmijn Van den Berg",
+    "address": {
+        "city": "Boxtel",
+        "street name": "Lijnbaan",
+        "street number": 75,
+        "postal code": "5723 42"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1961-10-26",
+    "nationality": "Dutch",
+    "passport_number": "HW0249807",
+    "passport_issue_date": "2023-09-11",
+    "passport_expiry_date": "2033-09-10",
+    "gender": "F",
+    "phone_number": "+31 06 65221125",
+    "email_address": "luna.vandenberg@hetnet.nl",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Wesselink College Amersfoort",
+        "graduation_year": 1980
+    },
+    "higher_education": [
+        {
+            "university": "Erasmus University Rotterdam",
+            "graduation_year": 1984
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1986,
+            "end_year": 1987,
+            "company": "PGGM Real Estate",
+            "position": "Property Manager",
+            "salary": 45000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 2022,
+            "company": "Unibail-Rodamco-Westfield Nederland B.V.",
+            "position": "Developer",
+            "salary": 340000
+        }
+    ],
+    "aum": {
+        "savings": 590000,
+        "inheritance": 0,
+        "real_estate_value": 4410000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2870000,
+            "property location": "Boxtel"
+        },
+        {
+            "property type": "condo",
+            "property value": 1540000,
+            "property location": "Haarlem"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

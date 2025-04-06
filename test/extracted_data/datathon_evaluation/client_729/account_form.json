@@ -1,0 +1,17 @@
+{
+    "name": "Friis Jespersen Lykke",
+    "first_name": "Friis",
+    "middle_name": "Jespersen",
+    "last_name": "Lykke",
+    "passport_number": "VX2152927",
+    "currency": "DKK",
+    "address": {
+        "city": "Næstved",
+        "street name": "Østerbrogade",
+        "street number": 67,
+        "postal code": "9329"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 06 63 47 27",
+    "email_address": "friis.lykke@telenor.dk"
+}

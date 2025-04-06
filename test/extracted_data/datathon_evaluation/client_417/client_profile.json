@@ -1,0 +1,44 @@
+{
+    "name": "Katharina Greta Klein",
+    "address": {
+        "city": "Fürth",
+        "street name": "Unter den Linden",
+        "street number": 45,
+        "postal code": "46725"
+    },
+    "country_of_domicile": "Germany,Netherlands",
+    "birth_date": "2002-04-07",
+    "nationality": "German",
+    "passport_number": "HH0946570",
+    "passport_issue_date": "2019-03-07",
+    "passport_expiry_date": "2029-03-06",
+    "gender": "F",
+    "phone_number": "3378 880113",
+    "email_address": "katharina.klein@outlook.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Otto-Hahn-Gymnasium Karlsruhe",
+        "graduation_year": 2021
+    },
+    "higher_education": [],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1030000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Germany"
+    ],
+    "currency": "EUR"
+}

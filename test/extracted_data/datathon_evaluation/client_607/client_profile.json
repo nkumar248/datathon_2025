@@ -1,0 +1,91 @@
+{
+    "name": "Robert Pierre Robin",
+    "address": {
+        "city": "Brest",
+        "street name": "Rue Marbeuf",
+        "street number": 96,
+        "postal code": "58371"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1977-06-28",
+    "nationality": "French",
+    "passport_number": "NA4159614",
+    "passport_issue_date": "2023-08-11",
+    "passport_expiry_date": "2033-08-10",
+    "gender": "M",
+    "phone_number": "+33 05 52 35 42 64",
+    "email_address": "robert.robin@bbox.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Fustel de Coulanges",
+        "graduation_year": 1995
+    },
+    "higher_education": [
+        {
+            "university": "University of Toulouse",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2002,
+            "end_year": 2005,
+            "company": "Ipsen S.A.",
+            "position": "Research Scientist",
+            "salary": 31000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2007,
+            "company": "Cellectis S.A.",
+            "position": "Biotech Startup Founder",
+            "salary": 43000
+        },
+        {
+            "start_year": 2008,
+            "end_year": 2009,
+            "company": "Transgene S.A.",
+            "position": "CEO",
+            "salary": 65000
+        },
+        {
+            "start_year": 2011,
+            "end_year": 2016,
+            "company": "Cellectis S.A.",
+            "position": "Venture Capitalist",
+            "salary": 184000
+        },
+        {
+            "start_year": 2017,
+            "end_year": 2025,
+            "company": "Sanofi S.A.",
+            "position": "Industry Leader",
+            "salary": 215000
+        }
+    ],
+    "aum": {
+        "savings": 350000,
+        "inheritance": 4590000,
+        "real_estate_value": 2080000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2008,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 2080000,
+            "property location": "Brest"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Mayer Meier Scholz",
+    "first_name": "Mayer",
+    "middle_name": "Meier",
+    "last_name": "Scholz",
+    "passport_number": "HK4611764",
+    "currency": "EUR",
+    "address": {
+        "city": "Berlin",
+        "street name": "Breitscheidplatz",
+        "street number": 92,
+        "postal code": "86945"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "5008 947687",
+    "email_address": "mayer.scholz@icloud.com"
+}

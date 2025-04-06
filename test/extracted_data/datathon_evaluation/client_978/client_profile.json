@@ -1,0 +1,89 @@
+{
+    "name": "Antonia Estefanía Jiménez",
+    "address": {
+        "city": "Santa Cruz de Tenerife",
+        "street name": "Plaza de la Trinidad",
+        "street number": 72,
+        "postal code": "84656"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1977-02-16",
+    "nationality": "Spanish",
+    "passport_number": "HN8144023",
+    "passport_issue_date": "2024-06-19",
+    "passport_expiry_date": "2034-06-18",
+    "gender": "F",
+    "phone_number": "+34 622 768 488",
+    "email_address": "antonia.jimenez@telefonica.es",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Instituto de Educación Secundaria IES Ramiro de Maeztu Madrid",
+        "graduation_year": 1994
+    },
+    "higher_education": [
+        {
+            "university": "University of Granada",
+            "graduation_year": 1999
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2001,
+            "end_year": 2005,
+            "company": "Inditex S.A.",
+            "position": "Assistant Designer",
+            "salary": 24000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2007,
+            "company": "Mango MNG Holdings S.L.",
+            "position": "Senior Designer",
+            "salary": 37000
+        },
+        {
+            "start_year": 2008,
+            "end_year": 2012,
+            "company": "Desigual S.A.",
+            "position": "Creative Director",
+            "salary": 60000
+        },
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "Mango MNG Holdings S.L.",
+            "position": "Founder/Designer",
+            "salary": 362000
+        }
+    ],
+    "aum": {
+        "savings": 520000,
+        "inheritance": 3510000,
+        "real_estate_value": 2389000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2012,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 789000,
+            "property location": "Santa Cruz de Tenerife"
+        },
+        {
+            "property type": "house",
+            "property value": 1600000,
+            "property location": "Santa Cruz de Tenerife"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

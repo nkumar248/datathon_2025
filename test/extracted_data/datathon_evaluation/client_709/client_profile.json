@@ -1,0 +1,76 @@
+{
+    "name": "Gaia Sofia De Luca",
+    "address": {
+        "city": "Modena",
+        "street name": "Piazza Farnese",
+        "street number": 32,
+        "postal code": "20518"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1992-08-17",
+    "nationality": "Italian",
+    "passport_number": "NT7125129",
+    "passport_issue_date": "2021-04-10",
+    "passport_expiry_date": "2031-04-09",
+    "gender": "F",
+    "phone_number": "+39 334 2972750",
+    "email_address": "gaia.deluca@virgilio.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Istituto Tecnico Commerciale Statale Luigi Einaudi Torino",
+        "graduation_year": 2010
+    },
+    "higher_education": [
+        {
+            "university": "University of Naples Federico II",
+            "graduation_year": 2016
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1995,
+            "end_year": 2018,
+            "company": "Intesa Sanpaolo S.p.A.",
+            "position": "Investment Banker",
+            "salary": 27000
+        },
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "UBM S.p.A.",
+            "position": "Private Equity Investor",
+            "salary": 48000
+        }
+    ],
+    "aum": {
+        "savings": 40000,
+        "inheritance": 2040000,
+        "real_estate_value": 1832000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2020,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 892000,
+            "property location": "Modena"
+        },
+        {
+            "property type": "condo",
+            "property value": 940000,
+            "property location": "Ancona"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Italy"
+    ],
+    "currency": "EUR"
+}

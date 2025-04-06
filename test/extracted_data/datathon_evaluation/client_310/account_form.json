@@ -1,0 +1,17 @@
+{
+    "name": "Roose Sanders Mertens",
+    "first_name": "Roose",
+    "middle_name": "Sanders",
+    "last_name": "Mertens",
+    "passport_number": "MB0173468",
+    "currency": "EUR",
+    "address": {
+        "city": "La Louvière",
+        "street name": "Rue de la Loi",
+        "street number": 98,
+        "postal code": "9199"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0435 729 076",
+    "email_address": "roose.mertens@yahoo.com"
+}

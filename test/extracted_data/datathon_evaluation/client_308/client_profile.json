@@ -1,0 +1,85 @@
+{
+    "name": "Lucas Juliette Lemaire",
+    "address": {
+        "city": "Lokeren",
+        "street name": "Rue de la Révolution Belge",
+        "street number": 5,
+        "postal code": "9313"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1975-04-11",
+    "nationality": "Belgian",
+    "passport_number": "PJ1729203",
+    "passport_issue_date": "2018-12-06",
+    "passport_expiry_date": "2025-12-05",
+    "gender": "F",
+    "phone_number": "++43 0436 408 994",
+    "email_address": "lucas.lemaire@scarlet.be",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Xaverius College",
+        "graduation_year": 1994
+    },
+    "higher_education": [
+        {
+            "university": "Vrije Universiteit Brussel",
+            "graduation_year": 1999
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2000,
+            "end_year": 2004,
+            "company": "Umicore SA",
+            "position": "Plant Manager",
+            "salary": 35000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2010,
+            "company": "Nyrstar NV",
+            "position": "Operations Director",
+            "salary": 63000
+        },
+        {
+            "start_year": 2011,
+            "end_year": 2016,
+            "company": "ArcelorMittal Belgium NV",
+            "position": "CEO",
+            "salary": 131000
+        },
+        {
+            "start_year": 2018,
+            "end_year": 2023,
+            "company": "Bekaert SA",
+            "position": "Chairman",
+            "salary": 222000
+        }
+    ],
+    "aum": {
+        "savings": 320000,
+        "inheritance": 560000,
+        "real_estate_value": 1440000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2005,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1440000,
+            "property location": "Lokeren"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

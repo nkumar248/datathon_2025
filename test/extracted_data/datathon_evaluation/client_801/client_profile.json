@@ -1,0 +1,98 @@
+{
+    "name": "Rizzo Marino Romano",
+    "address": {
+        "city": "Turin",
+        "street name": "Via Nazionale",
+        "street number": 28,
+        "postal code": "50201"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1963-04-23",
+    "nationality": "Italian",
+    "passport_number": "WS3476799",
+    "passport_issue_date": "2022-10-22",
+    "passport_expiry_date": "2032-10-21",
+    "gender": "M",
+    "phone_number": "336 1404238",
+    "email_address": "rizzo.romano@alice.it",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Liceo Musicale Arrigo Boito Parma",
+        "graduation_year": 1981
+    },
+    "higher_education": [
+        {
+            "university": "Luiss Guido Carli",
+            "graduation_year": 1987
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1987,
+            "end_year": 1991,
+            "company": "Pinacoteca di Brera",
+            "position": "Art Dealer",
+            "salary": 25000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 1994,
+            "company": "Galleria degli Uffizi",
+            "position": "Gallery Owner",
+            "salary": 42000
+        },
+        {
+            "start_year": 1996,
+            "end_year": 1998,
+            "company": "Galleria degli Uffizi",
+            "position": "Art Advisor",
+            "salary": 59000
+        },
+        {
+            "start_year": 1998,
+            "end_year": 2003,
+            "company": "Galleria Borghese",
+            "position": "Curator",
+            "salary": 189000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2024,
+            "company": "Galleria degli Uffizi",
+            "position": "Museum Director",
+            "salary": 566000
+        }
+    ],
+    "aum": {
+        "savings": 1000000,
+        "inheritance": 0,
+        "real_estate_value": 3302000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 622000,
+            "property location": "Turin"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1030000,
+            "property location": "Palermo"
+        },
+        {
+            "property type": "house",
+            "property value": 1650000,
+            "property location": "Perugia"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy",
+        "France"
+    ],
+    "currency": "EUR"
+}

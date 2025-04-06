@@ -1,0 +1,89 @@
+{
+    "name": "Josefine Beatrix Koller",
+    "address": {
+        "city": "Vienna",
+        "street name": "Graben",
+        "street number": 70,
+        "postal code": "5204"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1977-06-01",
+    "nationality": "Austrian",
+    "passport_number": "WA9794379",
+    "passport_issue_date": "2019-01-23",
+    "passport_expiry_date": "2029-01-22",
+    "gender": "F",
+    "phone_number": "+43 361 740 3223",
+    "email_address": "josefine.koller@aon.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Privatgymnasium der Dominikanerinnen",
+        "graduation_year": 1997
+    },
+    "higher_education": [
+        {
+            "university": "FH Upper Austria University of Applied Sciences",
+            "graduation_year": 2002
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2002,
+            "end_year": 2003,
+            "company": "Schoeller-Bleckmann AG",
+            "position": "Plant Manager",
+            "salary": 31000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2006,
+            "company": "Schoeller-Bleckmann AG",
+            "position": "Operations Director",
+            "salary": 47000
+        },
+        {
+            "start_year": 2008,
+            "end_year": 2011,
+            "company": "AT&S Austria Technologie & Systemtechnik AG",
+            "position": "CEO",
+            "salary": 65000
+        },
+        {
+            "start_year": 2012,
+            "end_year": null,
+            "company": "Palfinger AG",
+            "position": "Chairman",
+            "salary": 440000
+        }
+    ],
+    "aum": {
+        "savings": 650000,
+        "inheritance": 1920000,
+        "real_estate_value": 2770000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2007,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 800000,
+            "property location": "Vienna"
+        },
+        {
+            "property type": "villa",
+            "property value": 1970000,
+            "property location": "Traun"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

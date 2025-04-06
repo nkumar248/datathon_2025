@@ -1,0 +1,57 @@
+{
+    "name": "Salo Mustonen Viitanen",
+    "address": {
+        "city": "Vantaa",
+        "street name": "Karjalankatu",
+        "street number": 22,
+        "postal code": "24491"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1999-05-08",
+    "nationality": "Finnish",
+    "passport_number": "WJ1011899",
+    "passport_issue_date": "2024-11-03",
+    "passport_expiry_date": "2034-11-02",
+    "gender": "M",
+    "phone_number": "+358 044 173 83 28",
+    "email_address": "salo.viitanen@icloud.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lehmo lukio",
+        "graduation_year": 2017
+    },
+    "higher_education": [
+        {
+            "university": "Centria University of Applied Sciences",
+            "graduation_year": 2023
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2023,
+            "end_year": 2025,
+            "company": "Patria Aviation Oy",
+            "position": "Aerospace Engineer",
+            "salary": 39000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 2890000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2019,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

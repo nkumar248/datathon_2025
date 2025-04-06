@@ -1,0 +1,17 @@
+{
+    "name": "Hagenbuch Kägi Riedo",
+    "first_name": "Hagenbuch",
+    "middle_name": "Kägi",
+    "last_name": "Riedo",
+    "passport_number": "QT6923857",
+    "currency": "CHF",
+    "address": {
+        "city": "Schaffhausen",
+        "street name": "Rue de l'Hôtel-de-Ville",
+        "street number": 18,
+        "postal code": "2525"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 021 494 32 35",
+    "email_address": "hagenbuch.riedo@teli.ch"
+}

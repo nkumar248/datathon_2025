@@ -1,0 +1,17 @@
+{
+    "first_name": "Giovanna",
+    "middle_name": "Martina",
+    "last_name": "Marini",
+    "gender": "",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1999-07-15",
+    "passport_number": "FT5346757",
+    "passport_mrz": [
+        "P<ITAMARINI<<GIOVANNA<MARTINA<<<<<<<<<<<<<<<<",
+        "FT5346757ITA990715<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-06-04",
+    "passport_expiry_date": "2033-06-03"
+}

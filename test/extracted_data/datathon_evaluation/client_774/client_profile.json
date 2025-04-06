@@ -1,0 +1,75 @@
+{
+    "name": "Ingrid Chloé Legrand",
+    "address": {
+        "city": "Strasbourg",
+        "street name": "Boulevard Auguste Blanqui",
+        "street number": 30,
+        "postal code": "47104"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1987-01-10",
+    "nationality": "French",
+    "passport_number": "DZ7700791",
+    "passport_issue_date": "2020-10-25",
+    "passport_expiry_date": "2030-10-24",
+    "gender": "F",
+    "phone_number": "04 17 26 59 98",
+    "email_address": "ingrid.legrand@orange.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Blaise Pascal",
+        "graduation_year": 2005
+    },
+    "higher_education": [
+        {
+            "university": "Skema Business School",
+            "graduation_year": 2009
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2011,
+            "company": "CNP Assurances S.A.",
+            "position": "Stockbroker",
+            "salary": 28000
+        },
+        {
+            "start_year": 2013,
+            "end_year": null,
+            "company": "Amundi S.A.",
+            "position": "Portfolio Manager",
+            "salary": 101000
+        }
+    ],
+    "aum": {
+        "savings": 130000,
+        "inheritance": 900000,
+        "real_estate_value": 4570000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2020,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2470000,
+            "property location": "Strasbourg"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 2100000,
+            "property location": "Montpellier"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

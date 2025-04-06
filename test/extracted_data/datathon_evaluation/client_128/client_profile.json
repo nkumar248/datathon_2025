@@ -1,0 +1,84 @@
+{
+    "name": "Romane Chloé Mertens",
+    "address": {
+        "city": "Leuven",
+        "street name": "Rue de l'Église",
+        "street number": 12,
+        "postal code": "1926"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1961-07-07",
+    "nationality": "Belgian",
+    "passport_number": "BC0629320",
+    "passport_issue_date": "2021-06-17",
+    "passport_expiry_date": "2028-06-16",
+    "gender": "F",
+    "phone_number": "+32 0483 583 341",
+    "email_address": "romane.mertens@belgacom.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Onze-Lieve-Vrouwecollege",
+        "graduation_year": 1980
+    },
+    "higher_education": [
+        {
+            "university": "University of Liège",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1985,
+            "end_year": 1990,
+            "company": "BNP Paribas Fortis SA/NV",
+            "position": "Family Office Manager",
+            "salary": 49000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 1995,
+            "company": "Belfius Bank SA",
+            "position": "Investment Director",
+            "salary": 58000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 2022,
+            "company": "Belfius Bank SA",
+            "position": "CFO",
+            "salary": 447000
+        }
+    ],
+    "aum": {
+        "savings": 800000,
+        "inheritance": 0,
+        "real_estate_value": 4860000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1020000,
+            "property location": "Leuven"
+        },
+        {
+            "property type": "villa",
+            "property value": 1940000,
+            "property location": "Wavre"
+        },
+        {
+            "property type": "house",
+            "property value": 1900000,
+            "property location": "Menen"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

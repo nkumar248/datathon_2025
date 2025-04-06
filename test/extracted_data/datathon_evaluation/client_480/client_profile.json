@@ -1,0 +1,92 @@
+{
+    "name": "Muñoz Gómez Morales",
+    "address": {
+        "city": "Gijón",
+        "street name": "Diagonal",
+        "street number": 36,
+        "postal code": "98257"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1974-07-27",
+    "nationality": "Spanish",
+    "passport_number": "KJ8921579",
+    "passport_issue_date": "2018-01-21",
+    "passport_expiry_date": "2028-01-20",
+    "gender": "M",
+    "phone_number": "602 787 103",
+    "email_address": "munoz.morales@vodafone.es",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "IES José Manuel Blecua Pamplona",
+        "graduation_year": 1984
+    },
+    "higher_education": [
+        {
+            "university": "University of Valencia",
+            "graduation_year": 1998
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1998,
+            "end_year": 2003,
+            "company": "Telefónica S.A.",
+            "position": "Journalist",
+            "salary": 34000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2007,
+            "company": "Mediaset España Comunicación S.A.",
+            "position": "Editor",
+            "salary": 37000
+        },
+        {
+            "start_year": 2007,
+            "end_year": 2010,
+            "company": "PRISA Noticias S.A.",
+            "position": "Publisher",
+            "salary": 55000
+        },
+        {
+            "start_year": 2011,
+            "end_year": 2015,
+            "company": "Atresmedia Corporación de Medios de Comunicación S.A.",
+            "position": "TV/Radio Host",
+            "salary": 116000
+        },
+        {
+            "start_year": 2016,
+            "end_year": 2024,
+            "company": "Telefónica S.A.",
+            "position": "Media Conglomerate Owner",
+            "salary": 343000
+        }
+    ],
+    "aum": {
+        "savings": 470000,
+        "inheritance": 2730000,
+        "real_estate_value": 770000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2010,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 770000,
+            "property location": "Gijón"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

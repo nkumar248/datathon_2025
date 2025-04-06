@@ -1,0 +1,58 @@
+{
+    "name": "Goossens Lemaire Thiry",
+    "address": {
+        "city": "Ghent",
+        "street name": "Rue des Sœurs Noires",
+        "street number": 96,
+        "postal code": "4297"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1999-09-18",
+    "nationality": "Belgian",
+    "passport_number": "YU6756588",
+    "passport_issue_date": "2019-08-26",
+    "passport_expiry_date": "2026-08-25",
+    "gender": "M",
+    "phone_number": "+32 0445 596 108",
+    "email_address": "goossens.thiry@icloud.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Institut Saint-Stanislas",
+        "graduation_year": 2019
+    },
+    "higher_education": [
+        {
+            "university": "Université catholique de Louvain",
+            "graduation_year": 2023
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2023,
+            "end_year": null,
+            "company": "UCB Pharma SA",
+            "position": "Research Scientist",
+            "salary": 35000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 2880000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

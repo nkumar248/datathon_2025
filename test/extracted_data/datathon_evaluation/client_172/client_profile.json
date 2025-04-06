@@ -1,0 +1,97 @@
+{
+    "name": "Belli Landi Donati",
+    "address": {
+        "city": "Treviso",
+        "street name": "Via Condotti",
+        "street number": 73,
+        "postal code": "01009"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1978-10-01",
+    "nationality": "Italian",
+    "passport_number": "VK0360169",
+    "passport_issue_date": "2021-12-03",
+    "passport_expiry_date": "2031-12-02",
+    "gender": "M",
+    "phone_number": "390 7087234",
+    "email_address": "belli.donati@unidata.it",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Liceo Classico Annibale Mariotti Siena",
+        "graduation_year": 1996
+    },
+    "higher_education": [
+        {
+            "university": "Luiss Guido Carli",
+            "graduation_year": 2003
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2003,
+            "end_year": 2005,
+            "company": "Banca Monte dei Paschi di Siena S.p.A.",
+            "position": "Investment Banker",
+            "salary": 23000
+        },
+        {
+            "start_year": 2007,
+            "end_year": 2008,
+            "company": "UniCredit S.p.A.",
+            "position": "Private Equity Investor",
+            "salary": 39000
+        },
+        {
+            "start_year": 2008,
+            "end_year": 2012,
+            "company": "UniCredit S.p.A.",
+            "position": "Hedge Fund Manager",
+            "salary": 64000
+        },
+        {
+            "start_year": 2013,
+            "end_year": 2016,
+            "company": "UBM S.p.A.",
+            "position": "Venture Capitalist",
+            "salary": 91000
+        },
+        {
+            "start_year": 2016,
+            "end_year": 2025,
+            "company": "Intesa Sanpaolo S.p.A.",
+            "position": "Billionaire Investor",
+            "salary": 212000
+        }
+    ],
+    "aum": {
+        "savings": 340000,
+        "inheritance": 1630000,
+        "real_estate_value": 1390000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2009,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 740000,
+            "property location": "Treviso"
+        },
+        {
+            "property type": "flat",
+            "property value": 650000,
+            "property location": "Trieste"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Italy"
+    ],
+    "currency": "EUR"
+}

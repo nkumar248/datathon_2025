@@ -1,0 +1,17 @@
+{
+    "name": "Laursen Andersen Hansen",
+    "first_name": "Laursen",
+    "middle_name": "Andersen",
+    "last_name": "Hansen",
+    "passport_number": "HD8128281",
+    "currency": "DKK",
+    "address": {
+        "city": "Horsens",
+        "street name": "Kongens Nytorv",
+        "street number": 22,
+        "postal code": "9420"
+    },
+    "country_of_domicile": "Denmark,Germany",
+    "phone_number": "+45 83 80 35 36",
+    "email_address": "laursen.hansen@siminn.dk"
+}

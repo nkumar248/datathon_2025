@@ -1,0 +1,17 @@
+{
+    "name": "Gómez Torres Martín",
+    "first_name": "Gómez",
+    "middle_name": "Torres",
+    "last_name": "Martín",
+    "passport_number": "KZ2341061",
+    "currency": "EUR",
+    "address": {
+        "city": "Toledo",
+        "street name": "Puerta del Sol",
+        "street number": 57,
+        "postal code": "55075"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 697 748 366",
+    "email_address": "gomez.martin@yahoo.es"
+}

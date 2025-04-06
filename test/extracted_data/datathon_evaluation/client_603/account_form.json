@@ -1,0 +1,17 @@
+{
+    "name": "Peeters Goossens Mertens",
+    "first_name": "Peeters",
+    "middle_name": "Goossens",
+    "last_name": "Mertens",
+    "passport_number": "IE8369643",
+    "currency": "EUR",
+    "address": {
+        "city": "Leuven",
+        "street name": "Rue Royale",
+        "street number": 36,
+        "postal code": "9065"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0487 939 577",
+    "email_address": "peeters.mertens@voo.be"
+}

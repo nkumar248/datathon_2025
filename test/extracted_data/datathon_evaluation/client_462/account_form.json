@@ -1,0 +1,17 @@
+{
+    "name": "Peltola Paananen",
+    "first_name": "Peltola",
+    "middle_name": "",
+    "last_name": "Paananen",
+    "passport_number": "DT1658591",
+    "currency": "EUR",
+    "address": {
+        "city": "Rauma",
+        "street name": "Ruoholahteenkatu",
+        "street number": 45,
+        "postal code": "60517"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 043 677 26 77",
+    "email_address": "peltola.paananen@outlook.com"
+}

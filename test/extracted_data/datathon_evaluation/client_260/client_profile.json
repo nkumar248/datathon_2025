@@ -1,0 +1,71 @@
+{
+    "name": "Martin Richard Renault",
+    "address": {
+        "city": "Strasbourg",
+        "street name": "Rue de la Paix",
+        "street number": 32,
+        "postal code": "46098"
+    },
+    "country_of_domicile": "France,Denmark",
+    "birth_date": "1986-07-16",
+    "nationality": "French",
+    "passport_number": "FQ8784022",
+    "passport_issue_date": "2020-10-20",
+    "passport_expiry_date": "2030-10-19",
+    "gender": "M",
+    "phone_number": "02 54 98 94 82",
+    "email_address": "martin.renault@icloud.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Lycée Chaptal",
+        "graduation_year": 2005
+    },
+    "higher_education": [
+        {
+            "university": "École Nationale d'Administration (ENA)",
+            "graduation_year": 2011
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2015,
+            "company": "Freshfields Bruckhaus Deringer LLP",
+            "position": "Associate Attorney",
+            "salary": 45000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2024,
+            "company": "Freshfields Bruckhaus Deringer LLP",
+            "position": "Senior Associate",
+            "salary": 62000
+        }
+    ],
+    "aum": {
+        "savings": 90000,
+        "inheritance": 2710000,
+        "real_estate_value": 1220000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1220000,
+            "property location": "Strasbourg"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "France"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Furrer Frey Müller",
+    "first_name": "Furrer",
+    "middle_name": "Frey",
+    "last_name": "Müller",
+    "passport_number": "OS2465747",
+    "currency": "CHF",
+    "address": {
+        "city": "Bern",
+        "street name": "Limmatquai",
+        "street number": 89,
+        "postal code": "5951"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 066 202 80 658",
+    "email_address": "furrer.muller@lycos.ch"
+}

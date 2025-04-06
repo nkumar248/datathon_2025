@@ -1,0 +1,17 @@
+{
+    "name": "Christine Anna Mikkelsen",
+    "first_name": "Christine",
+    "middle_name": "Anna",
+    "last_name": "Mikkelsen",
+    "passport_number": "TQ8330027",
+    "currency": "DKK",
+    "address": {
+        "city": "Skanderborg",
+        "street name": "Vesterbrogade",
+        "street number": 65,
+        "postal code": "4216"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 52 28 01 64",
+    "email_address": "christine.mikkelsen@yahoo.com"
+}

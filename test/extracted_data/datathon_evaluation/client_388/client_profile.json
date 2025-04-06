@@ -1,0 +1,81 @@
+{
+    "name": "Russo Belli",
+    "address": {
+        "city": "Catania",
+        "street name": "Via IV Novembre",
+        "street number": 70,
+        "postal code": "06126"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1990-12-08",
+    "nationality": "Italian",
+    "passport_number": "WO7579358",
+    "passport_issue_date": "2020-08-08",
+    "passport_expiry_date": "2030-08-07",
+    "gender": "M",
+    "phone_number": "+39 312 5177390",
+    "email_address": "russo.belli@gmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Scuola Superiore di Lingue e Letterature Straniere per Interpreti e Traduttori Milano",
+        "graduation_year": 2009
+    },
+    "higher_education": [
+        {
+            "university": "University of Naples Federico II",
+            "graduation_year": 2013
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1992,
+            "end_year": 2017,
+            "company": "Luxottica Group S.p.A.",
+            "position": "Plant Manager",
+            "salary": 28000
+        },
+        {
+            "start_year": 2018,
+            "end_year": 2023,
+            "company": "Fiat Chrysler Automobiles N.V.",
+            "position": "Operations Director",
+            "salary": 52000
+        }
+    ],
+    "aum": {
+        "savings": 50000,
+        "inheritance": 2050000,
+        "real_estate_value": 2400000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 730000,
+            "property location": "Catania"
+        },
+        {
+            "property type": "condo",
+            "property value": 830000,
+            "property location": "Modena"
+        },
+        {
+            "property type": "flat",
+            "property value": 840000,
+            "property location": "Rome"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "France"
+    ],
+    "currency": "EUR"
+}

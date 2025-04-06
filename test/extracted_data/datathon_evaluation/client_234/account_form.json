@@ -1,0 +1,17 @@
+{
+    "name": "Dekkers Willems",
+    "first_name": "Dekkers",
+    "middle_name": "",
+    "last_name": "Willems",
+    "passport_number": "OT0459204",
+    "currency": "EUR",
+    "address": {
+        "city": "Tilburg",
+        "street name": "Markt",
+        "street number": 76,
+        "postal code": "8483 25"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 10650417",
+    "email_address": "dekkers.willems@casema.nl"
+}

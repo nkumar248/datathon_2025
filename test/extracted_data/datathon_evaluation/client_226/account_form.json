@@ -1,0 +1,17 @@
+{
+    "name": "Lucas Louna Lecomte",
+    "first_name": "Lucas",
+    "middle_name": "Louna",
+    "last_name": "Lecomte",
+    "passport_number": "QG3408553",
+    "currency": "EUR",
+    "address": {
+        "city": "Herstal",
+        "street name": "Rue du Houblon",
+        "street number": 39,
+        "postal code": "4739"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0422 694 560",
+    "email_address": "lucas.lecomte@gmail.com"
+}

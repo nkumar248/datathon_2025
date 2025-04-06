@@ -1,0 +1,17 @@
+{
+    "name": "Heidi Luisa Fuchs",
+    "first_name": "Heidi",
+    "middle_name": "Luisa",
+    "last_name": "Fuchs",
+    "passport_number": "QH9080954",
+    "currency": "EUR",
+    "address": {
+        "city": "Baden bei Wien",
+        "street name": "Porzellangasse",
+        "street number": 17,
+        "postal code": "0891"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 081 245 9120",
+    "email_address": "heidi.fuchs@chello.at"
+}

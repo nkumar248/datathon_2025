@@ -1,0 +1,17 @@
+{
+    "name": "Frieda Benita Lorenz",
+    "first_name": "Frieda",
+    "middle_name": "Benita",
+    "last_name": "Lorenz",
+    "passport_number": "QD1349769",
+    "currency": "EUR",
+    "address": {
+        "city": "Nuremberg",
+        "street name": "Alexanderplatz",
+        "street number": 1,
+        "postal code": "18441"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 3532 073919",
+    "email_address": "frieda.lorenz@1und1.de"
+}

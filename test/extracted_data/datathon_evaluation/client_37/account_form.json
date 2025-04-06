@@ -1,0 +1,17 @@
+{
+    "name": "Zbinden Riedo Kägi",
+    "first_name": "Zbinden",
+    "middle_name": "Riedo",
+    "last_name": "Kägi",
+    "passport_number": "JD3983084",
+    "currency": "CHF",
+    "address": {
+        "city": "Geneva",
+        "street name": "Gerberngasse",
+        "street number": 49,
+        "postal code": "9658"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "031 431 79 36",
+    "email_address": "zbinden.kagi@swisscom.ch"
+}

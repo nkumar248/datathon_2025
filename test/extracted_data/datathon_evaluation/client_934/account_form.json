@@ -1,0 +1,17 @@
+{
+    "name": "Bakker Janssen Maassen",
+    "first_name": "Bakker",
+    "middle_name": "Janssen",
+    "last_name": "Maassen",
+    "passport_number": "OI3208538",
+    "currency": "EUR",
+    "address": {
+        "city": "Enschede",
+        "street name": " Stationsplein",
+        "street number": 30,
+        "postal code": "6613 43"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 00023227",
+    "email_address": "bakker.maassen@icloud.com"
+}

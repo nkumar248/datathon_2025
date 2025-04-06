@@ -1,0 +1,17 @@
+{
+    "name": "Dekkers Mulders Verhoeven",
+    "first_name": "Dekkers",
+    "middle_name": "Mulders",
+    "last_name": "Verhoeven",
+    "passport_number": "BU9263208",
+    "currency": "EUR",
+    "address": {
+        "city": "Arnhem",
+        "street name": "Overtoom",
+        "street number": 96,
+        "postal code": "9412 46"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 60679386",
+    "email_address": "dekkers.verhoeven@casema.nl"
+}

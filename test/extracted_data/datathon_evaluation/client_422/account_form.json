@@ -1,0 +1,17 @@
+{
+    "name": "Maes Janssens Lemaire",
+    "first_name": "Maes",
+    "middle_name": "Janssens",
+    "last_name": "Lemaire",
+    "passport_number": "ZT6552005",
+    "currency": "EUR",
+    "address": {
+        "city": "Sint-Niklaas",
+        "street name": "Rue des Sœurs Noires",
+        "street number": 2,
+        "postal code": "9188"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0412 363 282",
+    "email_address": "maes.lemaire@belgacom.be"
+}

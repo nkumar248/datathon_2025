@@ -1,0 +1,83 @@
+{
+    "name": "Beatrice Cecilia Ricci",
+    "address": {
+        "city": "Reggio Calabria",
+        "street name": "Piazza Venezia",
+        "street number": 42,
+        "postal code": "77062"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1961-01-10",
+    "nationality": "Italian",
+    "passport_number": "JP3731458",
+    "passport_issue_date": "2022-06-21",
+    "passport_expiry_date": "2032-06-20",
+    "gender": "F",
+    "phone_number": "+39 323 3565233",
+    "email_address": "beatrice.ricci@outlook.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Istituto Tecnico Industriale Statale Enrico Mattei Roma",
+        "graduation_year": 1978
+    },
+    "higher_education": [
+        {
+            "university": "Superior School of Advanced Studies of Pisa",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1984,
+            "end_year": 1985,
+            "company": "Roche S.p.A.",
+            "position": "Research Scientist",
+            "salary": 24000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 1990,
+            "company": "Roche S.p.A.",
+            "position": "Clinical Trials Manager",
+            "salary": 42000
+        },
+        {
+            "start_year": 1992,
+            "end_year": 2021,
+            "company": "Menarini Industrie Farmaceutiche Riunite S.r.l.",
+            "position": "Regulatory Affairs Director",
+            "salary": 546000
+        }
+    ],
+    "aum": {
+        "savings": 990000,
+        "inheritance": 0,
+        "real_estate_value": 3652000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1380000,
+            "property location": "Reggio Calabria"
+        },
+        {
+            "property type": "villa",
+            "property value": 1712000,
+            "property location": "Catania"
+        },
+        {
+            "property type": "flat",
+            "property value": 560000,
+            "property location": "Livorno"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Díaz Morales Vázquez",
+    "first_name": "Díaz",
+    "middle_name": "Morales",
+    "last_name": "Vázquez",
+    "passport_number": "YQ4034091",
+    "currency": "DKK",
+    "address": {
+        "city": "Randers",
+        "street name": "Pile Alle",
+        "street number": 81,
+        "postal code": "6666"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 62 90 49 07",
+    "email_address": "diaz.vazquez@all.dk"
+}

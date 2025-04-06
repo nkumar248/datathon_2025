@@ -1,0 +1,17 @@
+{
+    "first_name": "Lotti",
+    "middle_name": "Martini",
+    "last_name": "Fantini",
+    "gender": "M",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1985-10-11",
+    "passport_number": "BI0229085",
+    "passport_mrz": [
+        "P<ITAFANTINI<<LOTTI<MARTINI<<<<<<<<<<<<<<<<<<",
+        "BI0229085ITA851011<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2017-09-24",
+    "passport_expiry_date": "2027-09-23"
+}

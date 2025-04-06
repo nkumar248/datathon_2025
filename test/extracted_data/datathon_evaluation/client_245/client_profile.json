@@ -1,0 +1,67 @@
+{
+    "name": "Clémence Romane Van den Berghe",
+    "address": {
+        "city": "Hasselt",
+        "street name": "Rue de l'Église",
+        "street number": 66,
+        "postal code": "8507"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1989-11-07",
+    "nationality": "Belgian",
+    "passport_number": "EN8164942",
+    "passport_issue_date": "2021-01-10",
+    "passport_expiry_date": "2028-01-09",
+    "gender": "F",
+    "phone_number": "+32 0405 729 225",
+    "email_address": "clemence.vandenberghe@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Atheneum Antwerpen Linkeroever",
+        "graduation_year": 2009
+    },
+    "higher_education": [
+        {
+            "university": "Université catholique de Louvain",
+            "graduation_year": 2014
+        },
+        {
+            "university": "Vrije Universiteit Brussel",
+            "graduation_year": 2017
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2013,
+            "end_year": 2024,
+            "company": "Gimv NV",
+            "position": "Analyst",
+            "salary": 97000
+        }
+    ],
+    "aum": {
+        "savings": 110000,
+        "inheritance": 100000,
+        "real_estate_value": 860000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 860000,
+            "property location": "Hasselt"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

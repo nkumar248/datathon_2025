@@ -1,0 +1,82 @@
+{
+    "name": " Joséphine Camille Moreau",
+    "address": {
+        "city": "Clermont-Ferrand",
+        "street name": "Rue de la Convention",
+        "street number": 93,
+        "postal code": "61746"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1981-12-28",
+    "nationality": "French",
+    "passport_number": "HY9695153",
+    "passport_issue_date": "2022-06-06",
+    "passport_expiry_date": "2032-06-05",
+    "gender": "F",
+    "phone_number": "+33 00 72 16 33 95",
+    "email_address": "josephine.moreau@bbox.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Victor Hugo",
+        "graduation_year": 1992
+    },
+    "higher_education": [
+        {
+            "university": "IUT de Lyon",
+            "graduation_year": 2004
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2005,
+            "end_year": 2007,
+            "company": "Thales S.A.",
+            "position": "Software Developer",
+            "salary": 29000
+        },
+        {
+            "start_year": 2009,
+            "end_year": 2014,
+            "company": "STMicroelectronics S.A.",
+            "position": "Startup Founder",
+            "salary": 43000
+        },
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "STMicroelectronics S.A.",
+            "position": "CEO",
+            "salary": 259000
+        }
+    ],
+    "aum": {
+        "savings": 330000,
+        "inheritance": 4190000,
+        "real_estate_value": 3450000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2013,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1580000,
+            "property location": "Clermont-Ferrand"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1870000,
+            "property location": "Reims"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

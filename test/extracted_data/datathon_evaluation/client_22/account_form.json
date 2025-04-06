@@ -1,0 +1,17 @@
+{
+    "name": "Lemaître Legrand",
+    "first_name": "Lemaître",
+    "middle_name": "",
+    "last_name": "Legrand",
+    "passport_number": "DL6208863",
+    "currency": "EUR",
+    "address": {
+        "city": "Limoges",
+        "street name": "Avenue de la Bourdonnais",
+        "street number": 57,
+        "postal code": "00830"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "09 22 55 14 56",
+    "email_address": "lemaitre.legrand@laposte.net"
+}

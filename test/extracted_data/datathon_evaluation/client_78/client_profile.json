@@ -1,0 +1,65 @@
+{
+    "name": "Järvinen Seppälä Tolvanen",
+    "address": {
+        "city": "Pori",
+        "street name": "Salmisaarenranta",
+        "street number": 57,
+        "postal code": "37645"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1995-08-02",
+    "nationality": "Finnish",
+    "passport_number": "ZU2671253",
+    "passport_issue_date": "2019-07-28",
+    "passport_expiry_date": "2029-07-27",
+    "gender": "M",
+    "phone_number": "+358 041 468 49 81",
+    "email_address": "jarvinen.tolvanen@luukku.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lappeenranta Lyceum",
+        "graduation_year": 2014
+    },
+    "higher_education": [
+        {
+            "university": "University of Turku",
+            "graduation_year": 2018
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2020,
+            "end_year": 2025,
+            "company": "Danske Bank A/S",
+            "position": "Investment Banker",
+            "salary": 53000
+        },
+        {
+            "start_year": 2025,
+            "end_year": null,
+            "company": "OP Financial Group",
+            "position": "Private Equity Investor",
+            "salary": 56000
+        }
+    ],
+    "aum": {
+        "savings": 40000,
+        "inheritance": 2300000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Finland"
+    ],
+    "currency": "EUR"
+}

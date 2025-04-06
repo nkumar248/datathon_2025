@@ -1,0 +1,17 @@
+{
+    "name": "Burkart Bühler Jost",
+    "first_name": "Burkart",
+    "middle_name": "Bühler",
+    "last_name": "Jost",
+    "passport_number": "LC2012688",
+    "currency": "CHF",
+    "address": {
+        "city": "Lucerne",
+        "street name": "Quai du Général-Guisan",
+        "street number": 9,
+        "postal code": "8520"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "053 133 08 40",
+    "email_address": "burkart.jost@yahoo.com"
+}

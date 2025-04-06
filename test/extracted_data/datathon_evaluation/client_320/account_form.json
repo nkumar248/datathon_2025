@@ -1,0 +1,17 @@
+{
+    "name": "Dumont Joris Smets",
+    "first_name": "Dumont",
+    "middle_name": "Joris",
+    "last_name": "Smets",
+    "passport_number": "ZY6846011",
+    "currency": "EUR",
+    "address": {
+        "city": "Kortrijk",
+        "street name": "Rue des Champs-Élysées",
+        "street number": 91,
+        "postal code": "4926"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0456 146 834",
+    "email_address": "dumont.smets@base.be"
+}

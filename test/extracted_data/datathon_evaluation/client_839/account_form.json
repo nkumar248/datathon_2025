@@ -1,0 +1,17 @@
+{
+    "name": "Peters Janssens Hermans",
+    "first_name": "Peters",
+    "middle_name": "Janssens",
+    "last_name": "Hermans",
+    "passport_number": "GQ8961270",
+    "currency": "EUR",
+    "address": {
+        "city": "Maaseik",
+        "street name": "Rue du Marché aux Fromages",
+        "street number": 38,
+        "postal code": "3670"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0469 106 668",
+    "email_address": "peters.hermans@edpnet.be"
+}

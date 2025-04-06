@@ -1,0 +1,17 @@
+{
+    "name": "Sanders Raes Vandenberghe",
+    "first_name": "Sanders",
+    "middle_name": "Raes",
+    "last_name": "Vandenberghe",
+    "passport_number": "MR6101033",
+    "currency": "EUR",
+    "address": {
+        "city": "Wavre",
+        "street name": "Rue des Champs-Élysées",
+        "street number": 83,
+        "postal code": "3049"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0426 733 447",
+    "email_address": "sanders.vandenberghe@hotmail.com"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Dekkers Terpstra",
+    "first_name": "Dekkers",
+    "middle_name": "",
+    "last_name": "Terpstra",
+    "passport_number": "OO3562302",
+    "currency": "EUR",
+    "address": {
+        "city": "Tilburg",
+        "street name": "Leidseplein",
+        "street number": 97,
+        "postal code": "9480 01"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 85244605",
+    "email_address": "dekkers.terpstra@hotmail.com"
+}

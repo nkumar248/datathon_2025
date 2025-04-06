@@ -1,0 +1,17 @@
+{
+    "name": "Emma Evelyne Suter",
+    "first_name": "Emma",
+    "middle_name": "Evelyne",
+    "last_name": "Suter",
+    "passport_number": "BJ5840698",
+    "currency": "CHF",
+    "address": {
+        "city": "Bern",
+        "street name": "Niederdorf",
+        "street number": 33,
+        "postal code": "2498"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 094 046 26 556",
+    "email_address": "emma.suter@gmail.com"
+}

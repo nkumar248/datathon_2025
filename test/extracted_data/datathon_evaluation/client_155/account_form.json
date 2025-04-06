@@ -1,0 +1,17 @@
+{
+    "name": "Evelien Floor Vogel",
+    "first_name": "Evelien",
+    "middle_name": "Floor",
+    "last_name": "Vogel",
+    "passport_number": "AI9759237",
+    "currency": "EUR",
+    "address": {
+        "city": "Amsterdam",
+        "street name": "Nieuwegeinseweg",
+        "street number": 47,
+        "postal code": "5508 25"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "06 01852823",
+    "email_address": "evelien.vogel@hotspots.nl"
+}

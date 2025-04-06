@@ -1,0 +1,17 @@
+{
+    "name": "Stam Wagemakers Kuipers",
+    "first_name": "Stam",
+    "middle_name": "Wagemakers",
+    "last_name": "Kuipers",
+    "passport_number": "FH0943985",
+    "currency": "EUR",
+    "address": {
+        "city": "Delft",
+        "street name": "Spoorweghaven",
+        "street number": 21,
+        "postal code": "2377 59"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 40014824",
+    "email_address": "stam.kuipers@planet.nl"
+}

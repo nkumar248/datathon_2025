@@ -1,0 +1,85 @@
+{
+    "name": "Zimmermann Fischer Schultz",
+    "address": {
+        "city": "Erlangen",
+        "street name": "Kaiserstraße",
+        "street number": 47,
+        "postal code": "72702"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1993-08-19",
+    "nationality": "German",
+    "passport_number": "WL6754619",
+    "passport_issue_date": "2018-06-12",
+    "passport_expiry_date": "2028-06-11",
+    "gender": "M",
+    "phone_number": "7863 574096",
+    "email_address": "zimmermann.schultz@t-online.de",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Augusta-Gymnasium Koblenz",
+        "graduation_year": 2011
+    },
+    "higher_education": [
+        {
+            "university": "University of Heidelberg",
+            "graduation_year": 2017
+        },
+        {
+            "university": "Weingarten University of Education",
+            "graduation_year": 2020
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2018,
+            "end_year": 2020,
+            "company": "MTU Aero Engines AG",
+            "position": "Aerospace Engineer",
+            "salary": 37000
+        },
+        {
+            "start_year": 2020,
+            "end_year": null,
+            "company": "RUAG Aerospace Services GmbH",
+            "position": "Program Manager",
+            "salary": 79000
+        }
+    ],
+    "aum": {
+        "savings": 70000,
+        "inheritance": 1730000,
+        "real_estate_value": 5190000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1271000,
+            "property location": "Erlangen"
+        },
+        {
+            "property type": "condo",
+            "property value": 1423000,
+            "property location": "Braunschweig"
+        },
+        {
+            "property type": "villa",
+            "property value": 2496000,
+            "property location": "Stuttgart"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

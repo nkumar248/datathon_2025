@@ -1,0 +1,82 @@
+{
+    "name": "Gasser Ackermann",
+    "address": {
+        "city": "Fribourg",
+        "street name": "Spitalgasse",
+        "street number": 92,
+        "postal code": "2756"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1967-07-31",
+    "nationality": "Swiss",
+    "passport_number": "UM3106268",
+    "passport_issue_date": "2016-07-19",
+    "passport_expiry_date": "2026-07-18",
+    "gender": "M",
+    "phone_number": "030 935 49 91",
+    "email_address": "gasser.ackermann@sunrise.ch",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Gymnasium und Wirtschaftsmittelschule Sarnen Obwalden",
+        "graduation_year": 1985
+    },
+    "higher_education": [
+        {
+            "university": "University of Zurich",
+            "graduation_year": 1991
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1992,
+            "end_year": 1995,
+            "company": "Homburger AG",
+            "position": "Associate Attorney",
+            "salary": 59000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 1997,
+            "company": "Niederer Kraft Frey AG",
+            "position": "Senior Associate",
+            "salary": 92000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2002,
+            "company": "Schellenberg Wittmer Ltd.",
+            "position": "Partner",
+            "salary": 129000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2009,
+            "company": "Schellenberg Wittmer Ltd.",
+            "position": "Managing Partner",
+            "salary": 405000
+        },
+        {
+            "start_year": 2010,
+            "end_year": null,
+            "company": "Niederer Kraft Frey AG",
+            "position": "Law Firm Chairman",
+            "salary": 962000
+        }
+    ],
+    "aum": {
+        "savings": 1700000,
+        "inheritance": 0,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {},
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Denmark"
+    ],
+    "currency": "CHF"
+}

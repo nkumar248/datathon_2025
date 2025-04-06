@@ -1,0 +1,17 @@
+{
+    "name": "Laurène Ève Dubois",
+    "first_name": "Laurène",
+    "middle_name": "Ève",
+    "last_name": "Dubois",
+    "passport_number": "XK0654293",
+    "currency": "CHF",
+    "address": {
+        "city": "Bern",
+        "street name": "Place des Halles",
+        "street number": 76,
+        "postal code": "7634"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 036 810 57 22",
+    "email_address": "laurene.dubois@freedom.ch"
+}

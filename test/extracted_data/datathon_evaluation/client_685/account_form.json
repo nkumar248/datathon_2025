@@ -1,0 +1,17 @@
+{
+    "name": "Colombe Laurène Louis",
+    "first_name": "Colombe",
+    "middle_name": "Laurène",
+    "last_name": "Louis",
+    "passport_number": "AT7587335",
+    "currency": "EUR",
+    "address": {
+        "city": "Lyon",
+        "street name": "Rue Royale",
+        "street number": 87,
+        "postal code": "31457"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 01 27 03 97 25",
+    "email_address": "colombe.louis@laposte.net"
+}

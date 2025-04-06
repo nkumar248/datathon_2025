@@ -1,0 +1,17 @@
+{
+    "name": "Geertje Julia Schipper",
+    "first_name": "Geertje",
+    "middle_name": "Julia",
+    "last_name": "Schipper",
+    "passport_number": "UE7172597",
+    "currency": "EUR",
+    "address": {
+        "city": "Enschede",
+        "street name": "Meent",
+        "street number": 44,
+        "postal code": "1243 15"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "06 83744121",
+    "email_address": "geertje.schipper@hetnet.nl"
+}

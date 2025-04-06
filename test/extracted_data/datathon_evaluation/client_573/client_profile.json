@@ -1,0 +1,83 @@
+{
+    "name": "Lotti Landi Marini",
+    "address": {
+        "city": "Palermo",
+        "street name": "Via XX Settembre",
+        "street number": 87,
+        "postal code": "25376"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1963-02-01",
+    "nationality": "Italian",
+    "passport_number": "CJ7097826",
+    "passport_issue_date": "2020-02-01",
+    "passport_expiry_date": "2030-01-31",
+    "gender": "M",
+    "phone_number": "+39 309 3463196",
+    "email_address": "lotti.marini@unidata.it",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Scuola Media Statale Antonio Meucci Firenze",
+        "graduation_year": 1981
+    },
+    "higher_education": [
+        {
+            "university": "European University of Rome",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1987,
+            "end_year": 1992,
+            "company": "Fondo Atlante SGR S.p.A.",
+            "position": "Property Manager",
+            "salary": 24000
+        },
+        {
+            "start_year": 1994,
+            "end_year": 1996,
+            "company": "Risanamento S.p.A.",
+            "position": "Developer",
+            "salary": 39000
+        },
+        {
+            "start_year": 1998,
+            "end_year": 2023,
+            "company": "Coima RES S.p.A.",
+            "position": "Construction Company Owner",
+            "salary": 390000
+        }
+    ],
+    "aum": {
+        "savings": 700000,
+        "inheritance": 0,
+        "real_estate_value": 3387000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 1917000,
+            "property location": "Palermo"
+        },
+        {
+            "property type": "flat",
+            "property value": 710000,
+            "property location": "Messina"
+        },
+        {
+            "property type": "condo",
+            "property value": 760000,
+            "property location": "Treviso"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

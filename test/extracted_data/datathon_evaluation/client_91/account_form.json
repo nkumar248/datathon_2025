@@ -1,0 +1,17 @@
+{
+    "name": "Charlotte Lorenz",
+    "first_name": "Charlotte",
+    "middle_name": "",
+    "last_name": "Lorenz",
+    "passport_number": "VF0319804",
+    "currency": "EUR",
+    "address": {
+        "city": "Mannheim",
+        "street name": "Potsdamer Platz",
+        "street number": 43,
+        "postal code": "21171"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 3373 961737",
+    "email_address": "charlotte.lorenz@arcor.de"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Mathilde Isabella Nielsen",
+    "first_name": "Mathilde",
+    "middle_name": "Isabella",
+    "last_name": "Nielsen",
+    "passport_number": "HV9521039",
+    "currency": "DKK",
+    "address": {
+        "city": "Aalborg",
+        "street name": "Store Kongensgade",
+        "street number": 16,
+        "postal code": "1326"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 17 66 73 34",
+    "email_address": "mathilde.nielsen@telia.dk"
+}

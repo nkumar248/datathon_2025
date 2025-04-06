@@ -1,0 +1,17 @@
+{
+    "name": "Ève Emma Guillaume",
+    "first_name": "Ève",
+    "middle_name": "Emma",
+    "last_name": "Guillaume",
+    "passport_number": "WX6551490",
+    "currency": "DKK",
+    "address": {
+        "city": "Taastrup",
+        "street name": "Langebro",
+        "street number": 61,
+        "postal code": "6140"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 26 62 55 80",
+    "email_address": "eve.guillaume@telia.dk"
+}

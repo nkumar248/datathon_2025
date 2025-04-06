@@ -1,0 +1,79 @@
+{
+    "name": "Jost Kuhn Weber",
+    "address": {
+        "city": "Olten",
+        "street name": "Quai du Général-Guisan",
+        "street number": 40,
+        "postal code": "8302"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1985-11-11",
+    "nationality": "Swiss",
+    "passport_number": "PF6703626",
+    "passport_issue_date": "2017-09-01",
+    "passport_expiry_date": "2027-08-31",
+    "gender": "M",
+    "phone_number": "+41 049 164 71 67",
+    "email_address": "jost.weber@swisscom.ch",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Wirtschaftsgymnasium Basel Basel",
+        "graduation_year": 1968
+    },
+    "higher_education": [
+        {
+            "university": "University of Zurich",
+            "graduation_year": 1981
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1982,
+            "end_year": 1985,
+            "company": "Swatch Group AG",
+            "position": "Assistant Designer",
+            "salary": 60000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 1988,
+            "company": "Richemont International SA",
+            "position": "Senior Designer",
+            "salary": 86000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 2019,
+            "company": "Bally Schuhfabriken AG",
+            "position": "Creative Director",
+            "salary": 912000
+        }
+    ],
+    "aum": {
+        "savings": 1820000,
+        "inheritance": 0,
+        "real_estate_value": 7260000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1620000,
+            "property location": "Olten"
+        },
+        {
+            "property type": "villa",
+            "property value": 5640000,
+            "property location": "Bienna"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "",
+    "preferred_markets": [
+        "Switzerland",
+        "France"
+    ],
+    "currency": "CHF"
+}

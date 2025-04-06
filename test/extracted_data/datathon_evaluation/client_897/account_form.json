@@ -1,0 +1,17 @@
+{
+    "name": "Karen Agnes Kristensen",
+    "first_name": "Karen",
+    "middle_name": "Agnes",
+    "last_name": "Kristensen",
+    "passport_number": "RQ8453724",
+    "currency": "DKK",
+    "address": {
+        "city": "Svendborg",
+        "street name": "Æbeløgade",
+        "street number": 67,
+        "postal code": "4574"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 09 44 53 0",
+    "email_address": "karen.kristensen@yahoo.com"
+}

@@ -1,0 +1,87 @@
+{
+    "name": "Hortense Capucine Martin",
+    "address": {
+        "city": "Toulon",
+        "street name": "Rue de la Santé",
+        "street number": 32,
+        "postal code": "59768"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1974-02-04",
+    "nationality": "French",
+    "passport_number": "HF3918706",
+    "passport_issue_date": "2016-06-29",
+    "passport_expiry_date": "2026-06-28",
+    "gender": "F",
+    "phone_number": "03 88 84 74 01",
+    "email_address": "hortense.martin@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Camille Claudel",
+        "graduation_year": 1992
+    },
+    "higher_education": [
+        {
+            "university": "University of Bordeaux",
+            "graduation_year": 1997
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1997,
+            "end_year": 1998,
+            "company": "EDF S.A.",
+            "position": "Junior Trader",
+            "salary": 29000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2000,
+            "company": "EDF S.A.",
+            "position": "Senior Trader",
+            "salary": 48000
+        },
+        {
+            "start_year": 2002,
+            "end_year": null,
+            "company": "ArcelorMittal S.A.",
+            "position": "Trading Desk Manager",
+            "salary": 502000
+        }
+    ],
+    "aum": {
+        "savings": 780000,
+        "inheritance": 860000,
+        "real_estate_value": 6550000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2010,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2680000,
+            "property location": "Toulon"
+        },
+        {
+            "property type": "condo",
+            "property value": 1740000,
+            "property location": "Saint-Denis"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 2130000,
+            "property location": "Tours"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

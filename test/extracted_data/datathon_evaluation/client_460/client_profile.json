@@ -1,0 +1,98 @@
+{
+    "name": "Richard Nicolas Bernard",
+    "address": {
+        "city": "Caen",
+        "street name": "Rue Gay-Lussac",
+        "street number": 42,
+        "postal code": "41316"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1954-08-03",
+    "nationality": "French",
+    "passport_number": "XI8842191",
+    "passport_issue_date": "2021-12-17",
+    "passport_expiry_date": "2031-12-16",
+    "gender": "M",
+    "phone_number": "+33 03 68 59 36 31",
+    "email_address": "richard.bernard@wanadoo.fr",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée René Descartes",
+        "graduation_year": 1972
+    },
+    "higher_education": [
+        {
+            "university": "HEC Paris",
+            "graduation_year": 1978
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1978,
+            "end_year": 1981,
+            "company": "Hilton Worldwide France",
+            "position": "Hotel Manager",
+            "salary": 29000
+        },
+        {
+            "start_year": 1983,
+            "end_year": 1985,
+            "company": "Marriott International France",
+            "position": "General Manager",
+            "salary": 46000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 1987,
+            "company": "Hilton Worldwide France",
+            "position": "Regional Vice President",
+            "salary": 67000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 1991,
+            "company": "Hilton Worldwide France",
+            "position": "CEO",
+            "salary": 113000
+        },
+        {
+            "start_year": 1992,
+            "end_year": 2015,
+            "company": "Accor S.A.",
+            "position": "Hospitality Industry Leader",
+            "salary": 1011000
+        }
+    ],
+    "aum": {
+        "savings": 1580000,
+        "inheritance": 0,
+        "real_estate_value": 6090000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 2370000,
+            "property location": "Caen"
+        },
+        {
+            "property type": "house",
+            "property value": 1870000,
+            "property location": "Saint-Denis"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1850000,
+            "property location": "Nantes"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "France"
+    ],
+    "currency": "EUR"
+}

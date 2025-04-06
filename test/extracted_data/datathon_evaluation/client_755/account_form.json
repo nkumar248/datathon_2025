@@ -1,0 +1,17 @@
+{
+    "name": "Tiainen Lehtinen Tolvanen",
+    "first_name": "Tiainen",
+    "middle_name": "Lehtinen",
+    "last_name": "Tolvanen",
+    "passport_number": "ID1733000",
+    "currency": "EUR",
+    "address": {
+        "city": "Herstal",
+        "street name": "Rue de la République",
+        "street number": 62,
+        "postal code": "5170"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0464 400 002",
+    "email_address": "tiainen.tolvanen@icloud.com"
+}

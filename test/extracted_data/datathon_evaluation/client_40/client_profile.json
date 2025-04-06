@@ -1,0 +1,76 @@
+{
+    "name": "Kaiser Hofer",
+    "address": {
+        "city": "Linz",
+        "street name": "Rotenturmstraße",
+        "street number": 56,
+        "postal code": "9996"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1989-05-10",
+    "nationality": "Austrian",
+    "passport_number": "ZD7279310",
+    "passport_issue_date": "2018-05-23",
+    "passport_expiry_date": "2028-05-22",
+    "gender": "M",
+    "phone_number": "+43 647 816 2085",
+    "email_address": "kaiser.hofer@web.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Akademisches Gymnasium Graz",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "University of Innsbruck",
+            "graduation_year": 2014
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2014,
+            "end_year": 2016,
+            "company": "OMV AG",
+            "position": "Junior Trader",
+            "salary": 33000
+        },
+        {
+            "start_year": 2017,
+            "end_year": null,
+            "company": "Gunvor Group",
+            "position": "Senior Trader",
+            "salary": 59000
+        }
+    ],
+    "aum": {
+        "savings": 70000,
+        "inheritance": 1040000,
+        "real_estate_value": 1850000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2020,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1010000,
+            "property location": "Linz"
+        },
+        {
+            "property type": "condo",
+            "property value": 840000,
+            "property location": "Krems an der Donau"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

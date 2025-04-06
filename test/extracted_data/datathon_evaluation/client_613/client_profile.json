@@ -1,0 +1,89 @@
+{
+    "name": "Schneider Hagenbuch Gasser",
+    "address": {
+        "city": "Geneva",
+        "street name": "Altstadt",
+        "street number": 25,
+        "postal code": "9745"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1970-09-28",
+    "nationality": "Swiss",
+    "passport_number": "IJ6004700",
+    "passport_issue_date": "2022-07-03",
+    "passport_expiry_date": "2032-07-02",
+    "gender": "M",
+    "phone_number": "039 607 02 38",
+    "email_address": "schneider.gasser@gmx.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Kantonschule Solothurn Solothurn",
+        "graduation_year": 1989
+    },
+    "higher_education": [
+        {
+            "university": "Suffolk University in Geneva",
+            "graduation_year": 1994
+        },
+        {
+            "university": "Franklin University Switzerland",
+            "graduation_year": 1997
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1994,
+            "end_year": 1999,
+            "company": "RUAG Schweiz AG",
+            "position": "Aerospace Engineer",
+            "salary": 76000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2002,
+            "company": "Pilatus Aircraft Ltd.",
+            "position": "Program Manager",
+            "salary": 90000
+        },
+        {
+            "start_year": 2003,
+            "end_year": 2006,
+            "company": "SR Technics Switzerland Ltd.",
+            "position": "Director of Operations",
+            "salary": 134000
+        },
+        {
+            "start_year": 2007,
+            "end_year": null,
+            "company": "SR Technics Switzerland Ltd.",
+            "position": "VP of Business Development",
+            "salary": 874000
+        }
+    ],
+    "aum": {
+        "savings": 1500000,
+        "inheritance": 7050000,
+        "real_estate_value": 2680000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2009,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 2680000,
+            "property location": "Geneva"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Germany"
+    ],
+    "currency": "CHF"
+}

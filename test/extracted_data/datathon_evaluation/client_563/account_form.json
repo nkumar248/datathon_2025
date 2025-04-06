@@ -1,0 +1,17 @@
+{
+    "name": "Caroline Gitte Rasmussen",
+    "first_name": "Caroline",
+    "middle_name": "Gitte",
+    "last_name": "Rasmussen",
+    "passport_number": "MT6779225",
+    "currency": "DKK",
+    "address": {
+        "city": "Hillerød",
+        "street name": "Åboulevarden",
+        "street number": 46,
+        "postal code": "7103"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 85 53 31 99",
+    "email_address": "caroline.rasmussen@wanadoo.dk"
+}

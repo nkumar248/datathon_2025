@@ -1,0 +1,74 @@
+{
+    "name": "Joris Jacobs De Smet",
+    "address": {
+        "city": "Poperinge",
+        "street name": "Rue des Deux Portes",
+        "street number": 30,
+        "postal code": "0092"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1955-12-17",
+    "nationality": "Belgian",
+    "passport_number": "OI5079567",
+    "passport_issue_date": "2021-07-24",
+    "passport_expiry_date": "2028-07-23",
+    "gender": "M",
+    "phone_number": "0461 208 407",
+    "email_address": "joris.desmet@proximus.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Koninklijk Atheneum Gent",
+        "graduation_year": 1973
+    },
+    "higher_education": [
+        {
+            "university": "ICHEC Brussels Management School",
+            "graduation_year": 1965
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1979,
+            "end_year": 1984,
+            "company": "PMV NV",
+            "position": "Analyst",
+            "salary": 49000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 1990,
+            "company": "Sofina SA",
+            "position": "Associate",
+            "salary": 60000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 1995,
+            "company": "Sofina SA",
+            "position": "Partner",
+            "salary": 111000
+        },
+        {
+            "start_year": 1996,
+            "end_year": 2016,
+            "company": "Verlinvest SA",
+            "position": "Fund Manager",
+            "salary": 1140000
+        }
+    ],
+    "aum": {
+        "savings": 1820000,
+        "inheritance": 0,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {},
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,76 @@
+{
+    "name": "Dupont Boucher Dubois",
+    "address": {
+        "city": "Tours",
+        "street name": "Boulevard Sébastopol",
+        "street number": 93,
+        "postal code": "01830"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1982-05-18",
+    "nationality": "French",
+    "passport_number": "HB4868898",
+    "passport_issue_date": "2019-12-27",
+    "passport_expiry_date": "2029-12-26",
+    "gender": "M",
+    "phone_number": "+33 01 47 11 90 99",
+    "email_address": "dupont.dubois@live.fr",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Lycée Polyvalent François Mauriac",
+        "graduation_year": 2000
+    },
+    "higher_education": [
+        {
+            "university": "La Fémis",
+            "graduation_year": 2006
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2009,
+            "end_year": 2010,
+            "company": "Servier Laboratories",
+            "position": "Clinical Trials Manager",
+            "salary": 45000
+        },
+        {
+            "start_year": 2011,
+            "end_year": null,
+            "company": "Servier Laboratories",
+            "position": "Regulatory Affairs Director",
+            "salary": 225000
+        }
+    ],
+    "aum": {
+        "savings": 280000,
+        "inheritance": 2340000,
+        "real_estate_value": 5430000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2012,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 3530000,
+            "property location": "Tours"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1900000,
+            "property location": "Saint-Denis"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

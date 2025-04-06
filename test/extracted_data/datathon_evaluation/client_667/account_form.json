@@ -1,0 +1,17 @@
+{
+    "name": "Erika Gabriella Livi",
+    "first_name": "Erika",
+    "middle_name": "Gabriella",
+    "last_name": "Livi",
+    "passport_number": "EQ1601376",
+    "currency": "EUR",
+    "address": {
+        "city": "Palermo",
+        "street name": "Piazza San Marco",
+        "street number": 17,
+        "postal code": "00234"
+    },
+    "country_of_domicile": "Italy,Belgium",
+    "phone_number": "+39 315 1488239",
+    "email_address": "erika.livi@outlook.com"
+}

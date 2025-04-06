@@ -1,0 +1,85 @@
+{
+    "name": "Roose Janssens Lambrechts",
+    "address": {
+        "city": "Maaseik",
+        "street name": "Rue de la Convention",
+        "street number": 50,
+        "postal code": "6823"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1977-12-20",
+    "nationality": "Belgian",
+    "passport_number": "LD0121595",
+    "passport_issue_date": "2023-03-18",
+    "passport_expiry_date": "2030-03-17",
+    "gender": "M",
+    "phone_number": "+32 0422 313 081",
+    "email_address": "roose.lambrechts@outlook.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Atheneum Brugge Centrum",
+        "graduation_year": 1997
+    },
+    "higher_education": [
+        {
+            "university": "Brussels School of International Studies",
+            "graduation_year": 2002
+        },
+        {
+            "university": "KU Leuven",
+            "graduation_year": 2004
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2001,
+            "end_year": 2003,
+            "company": "Cofinimmo SA",
+            "position": "Property Manager",
+            "salary": 41000
+        },
+        {
+            "start_year": 2005,
+            "end_year": null,
+            "company": "AG Real Estate SA",
+            "position": "Developer",
+            "salary": 178000
+        }
+    ],
+    "aum": {
+        "savings": 310000,
+        "inheritance": 2910000,
+        "real_estate_value": 4061000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2012,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 850000,
+            "property location": "Maaseik"
+        },
+        {
+            "property type": "villa",
+            "property value": 1881000,
+            "property location": "Maaseik"
+        },
+        {
+            "property type": "house",
+            "property value": 1330000,
+            "property location": "La Louvière"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

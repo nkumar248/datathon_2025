@@ -1,0 +1,17 @@
+{
+    "name": "Friis Østergaard Krog",
+    "first_name": "Friis",
+    "middle_name": "Østergaard",
+    "last_name": "Krog",
+    "passport_number": "IA7017636",
+    "currency": "DKK",
+    "address": {
+        "city": "Slagelse",
+        "street name": "Nørrebrogade",
+        "street number": 83,
+        "postal code": "9204"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 69 48 10 44",
+    "email_address": "friis.krog@cybercity.dk"
+}

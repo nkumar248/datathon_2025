@@ -1,0 +1,81 @@
+{
+    "name": "Celli Donati",
+    "address": {
+        "city": "Livorno",
+        "street name": "Piazza del Duomo",
+        "street number": 35,
+        "postal code": "52220"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1970-07-02",
+    "nationality": "Italian",
+    "passport_number": "DW2858101",
+    "passport_issue_date": "2019-11-15",
+    "passport_expiry_date": "2029-11-14",
+    "gender": "M",
+    "phone_number": "+39 367 7452211",
+    "email_address": "celli.donati@icloud.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Liceo Musicale Ottorino Respighi Bologna",
+        "graduation_year": 1990
+    },
+    "higher_education": [
+        {
+            "university": "American University of Rome",
+            "graduation_year": 1993
+        },
+        {
+            "university": "Bocconi University",
+            "graduation_year": 1997
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1994,
+            "end_year": 1996,
+            "company": "UBM S.p.A.",
+            "position": "Investment Banker",
+            "salary": 27000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 2001,
+            "company": "Intesa Sanpaolo S.p.A.",
+            "position": "Private Equity Investor",
+            "salary": 36000
+        },
+        {
+            "start_year": 2002,
+            "end_year": null,
+            "company": "UBM S.p.A.",
+            "position": "Hedge Fund Manager",
+            "salary": 419000
+        }
+    ],
+    "aum": {
+        "savings": 790000,
+        "inheritance": 190000,
+        "real_estate_value": 600000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2012,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 600000,
+            "property location": "Livorno"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

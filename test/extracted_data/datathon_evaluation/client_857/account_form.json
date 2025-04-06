@@ -1,0 +1,17 @@
+{
+    "name": "Schneider Hoffmann Schmidt",
+    "first_name": "Schneider",
+    "middle_name": "Hoffmann",
+    "last_name": "Schmidt",
+    "passport_number": "PZ1604315",
+    "currency": "EUR",
+    "address": {
+        "city": "Hanover",
+        "street name": "Speicherstadt",
+        "street number": 44,
+        "postal code": "82388"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 8613 914771",
+    "email_address": "schneider.schmidt@freenet.de"
+}

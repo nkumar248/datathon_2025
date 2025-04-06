@@ -1,0 +1,58 @@
+{
+    "name": "Mulders Kuipers Van Dijk",
+    "address": {
+        "city": "Deventer",
+        "street name": "Lijnbaan",
+        "street number": 61,
+        "postal code": "3951 30"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1999-08-16",
+    "nationality": "Dutch",
+    "passport_number": "NK8032348",
+    "passport_issue_date": "2020-05-04",
+    "passport_expiry_date": "2030-05-03",
+    "gender": "M",
+    "phone_number": "+31 06 39068056",
+    "email_address": "mulders.vandijk@live.",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Bonaventura College Leiden",
+        "graduation_year": 2018
+    },
+    "higher_education": [
+        {
+            "university": "Utrecht University",
+            "graduation_year": 2008
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2024,
+            "end_year": null,
+            "company": "Freshfields Bruckhaus Deringer LLP",
+            "position": "Associate Attorney",
+            "salary": 41000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 2920000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

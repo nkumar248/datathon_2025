@@ -1,0 +1,17 @@
+{
+    "name": "Becker Schulz Hoffmann",
+    "first_name": "Becker",
+    "middle_name": "Schulz",
+    "last_name": "Hoffmann",
+    "passport_number": "GN1922821",
+    "currency": "EUR",
+    "address": {
+        "city": "Augsburg",
+        "street name": "Weinstrasse",
+        "street number": 30,
+        "postal code": "24103"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "0978 875691",
+    "email_address": "becker.hoffmann@outlook.com"
+}

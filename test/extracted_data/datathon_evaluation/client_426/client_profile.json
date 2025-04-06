@@ -1,0 +1,75 @@
+{
+    "name": "Hanna Lilli Schäfer",
+    "address": {
+        "city": "Essen",
+        "street name": "Bismarckallee",
+        "street number": 26,
+        "postal code": "27435"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1958-10-26",
+    "nationality": "German",
+    "passport_number": "LC4370433",
+    "passport_issue_date": "2021-02-14",
+    "passport_expiry_date": "2031-02-13",
+    "gender": "F",
+    "phone_number": "9464 081432",
+    "email_address": "hanna.schafer@t-online.de",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Lessing-Gymnasium Frankfurt",
+        "graduation_year": 1978
+    },
+    "higher_education": [
+        {
+            "university": "Frankfurt School of Finance & Management",
+            "graduation_year": 1981
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1982,
+            "end_year": 1986,
+            "company": "Accor Hotels Deutschland GmbH",
+            "position": "Hotel Manager",
+            "salary": 41000
+        },
+        {
+            "start_year": 1987,
+            "end_year": 1990,
+            "company": "NH Hotel Group Deutschland GmbH",
+            "position": "General Manager",
+            "salary": 65000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 1994,
+            "company": "Marriott International GmbH",
+            "position": "Regional Vice President",
+            "salary": 91000
+        },
+        {
+            "start_year": 1994,
+            "end_year": 2019,
+            "company": "Marriott International GmbH",
+            "position": "CEO",
+            "salary": 1232000
+        }
+    ],
+    "aum": {
+        "savings": 2310000,
+        "inheritance": 0,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {},
+    "real_estate_details": [],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

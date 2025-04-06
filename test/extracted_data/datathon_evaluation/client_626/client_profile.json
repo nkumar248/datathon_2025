@@ -1,0 +1,50 @@
+{
+    "name": "Sofía Cristina Álvarez",
+    "address": {
+        "city": "Almería",
+        "street name": "Rambla",
+        "street number": 30,
+        "postal code": "93468"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "2001-12-28",
+    "nationality": "Spanish",
+    "passport_number": "TL6751690",
+    "passport_issue_date": "2016-04-10",
+    "passport_expiry_date": "2021-04-09",
+    "gender": "F",
+    "phone_number": "+34 685 281 472",
+    "email_address": "sofia.alvarez@ya.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "IES Antonio Machado Logroño",
+        "graduation_year": 2020
+    },
+    "higher_education": [
+        {
+            "university": "Polytechnic University of Catalonia",
+            "graduation_year": 2025
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 2180000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Denmark"
+    ],
+    "currency": "EUR"
+}

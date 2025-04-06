@@ -1,0 +1,17 @@
+{
+    "name": "Huber Lang Krämer",
+    "first_name": "Huber",
+    "middle_name": "Lang",
+    "last_name": "Kzämer",
+    "passport_number": "WJ6847162",
+    "currency": "EUR",
+    "address": {
+        "city": "Klagenfurt",
+        "street name": "Neubaugürtel",
+        "street number": 82,
+        "postal code": "8124"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "130 743 7187",
+    "email_address": "huber.kramer@outlook.com"
+}

@@ -1,0 +1,17 @@
+{
+    "first_name": "Lechner",
+    "middle_name": "Krämer",
+    "last_name": "Huber",
+    "gender": "M",
+    "country": "Austria",
+    "country_code": "AUT",
+    "nationality": "Austrian",
+    "birth_date": "1977-10-17",
+    "passport_number": "XT7062688",
+    "passport_mrz": [
+        "P<AUTHUBER<<LECHNER<KRÄMER<<<<<<<<<<<<<<<<<<<",
+        "XT7062688AUT771017<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-04-29",
+    "passport_expiry_date": "2034-04-28"
+}

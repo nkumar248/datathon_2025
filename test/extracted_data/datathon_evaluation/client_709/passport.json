@@ -1,0 +1,17 @@
+{
+    "first_name": "Gaia",
+    "middle_name": "Sofia",
+    "last_name": "De Luca",
+    "gender": "F",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1992-08-17",
+    "passport_number": "NT7125129",
+    "passport_mrz": [
+        "P<ITADE LUCA<<GAIA<SOFIA<<<<<<<<<<<<<<<<<<<<<",
+        "NT7125129ITA920817<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2021-04-10",
+    "passport_expiry_date": "2031-04-09"
+}

@@ -1,0 +1,75 @@
+{
+    "name": "Van der Meer Willems Mulders",
+    "address": {
+        "city": "Arnhem",
+        "street name": "Goudsesingel",
+        "street number": 49,
+        "postal code": "0948 68"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1986-07-25",
+    "nationality": "Dutch",
+    "passport_number": "GP9637575",
+    "passport_issue_date": "2022-04-22",
+    "passport_expiry_date": "2032-04-21",
+    "gender": "M",
+    "phone_number": "+31 06 76524538",
+    "email_address": "vandermeer.mulders@home.nl",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Scholengroep Carmel Maastricht",
+        "graduation_year": 2004
+    },
+    "higher_education": [
+        {
+            "university": "Leiden University",
+            "graduation_year": 1998
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2011,
+            "end_year": 2013,
+            "company": "G-Star Raw C.V.",
+            "position": "Assistant Designer",
+            "salary": 41000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2024,
+            "company": "Blueblood B.V.",
+            "position": "Senior Designer",
+            "salary": 82000
+        }
+    ],
+    "aum": {
+        "savings": 110000,
+        "inheritance": 1390000,
+        "real_estate_value": 3060000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1670000,
+            "property location": "Arnhem"
+        },
+        {
+            "property type": "condo",
+            "property value": 1390000,
+            "property location": "Rotterdam"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

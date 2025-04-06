@@ -1,0 +1,76 @@
+{
+    "name": "Wagemakers Teunissen Brinkman",
+    "address": {
+        "city": "Herstal",
+        "street name": "Rue de la Croix-Rouge",
+        "street number": 54,
+        "postal code": "0337"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1980-03-02",
+    "nationality": "Dutch",
+    "passport_number": "XG0366283",
+    "passport_issue_date": "2016-11-24",
+    "passport_expiry_date": "2026-11-23",
+    "gender": "M",
+    "phone_number": "0459 896 376",
+    "email_address": "wagemakers.brinkman@outlook.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Hoeksch Lyceum Rotterdam",
+        "graduation_year": 1998
+    },
+    "higher_education": [
+        {
+            "university": "Wittenborg University of Applied Sciences",
+            "graduation_year": 2004
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2003,
+            "end_year": 2007,
+            "company": "Marriott International Belgium",
+            "position": "Hotel Manager",
+            "salary": 43000
+        },
+        {
+            "start_year": 2008,
+            "end_year": null,
+            "company": "Marriott International Belgium",
+            "position": "General Manager",
+            "salary": 222000
+        }
+    ],
+    "aum": {
+        "savings": 360000,
+        "inheritance": 820000,
+        "real_estate_value": 2250000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2009,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1120000,
+            "property location": "Herstal"
+        },
+        {
+            "property type": "flat",
+            "property value": 1130000,
+            "property location": "Roosendaal"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

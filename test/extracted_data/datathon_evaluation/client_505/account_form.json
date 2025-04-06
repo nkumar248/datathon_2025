@@ -1,0 +1,17 @@
+{
+    "name": "Rieder Schwarz Hinterleitner",
+    "first_name": "Rieder",
+    "middle_name": "Schwarz",
+    "last_name": "Hinterleitner",
+    "passport_number": "VK8036172",
+    "currency": "EUR",
+    "address": {
+        "city": "Schwechat",
+        "street name": "Rotenturmstraße",
+        "street number": 21,
+        "postal code": "8456"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 707 344 8148",
+    "email_address": "rieder.hinterleitner@hotmail.com"
+}

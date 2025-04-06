@@ -1,0 +1,17 @@
+{
+    "name": "Schnell Hinterleitner",
+    "first_name": "Schnell",
+    "middle_name": "",
+    "last_name": "Hinterleitner",
+    "passport_number": "SI1918576",
+    "currency": "EUR",
+    "address": {
+        "city": "Gmunden",
+        "street name": "Kaiserebersdorf",
+        "street number": 71,
+        "postal code": "4219"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "328 739 7829",
+    "email_address": "schnell.hinterleitner@vol.at"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Vilma Matilda Ahonen",
+    "first_name": "Vilma",
+    "middle_name": "Matilda",
+    "last_name": "Ahonen",
+    "passport_number": "MH1649299",
+    "currency": "EUR",
+    "address": {
+        "city": "Rouen",
+        "street name": "Rue de la Paix",
+        "street number": 96,
+        "postal code": "63529"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "08 27 27 54 60",
+    "email_address": "vilma.ahonen@icloud.com"
+}

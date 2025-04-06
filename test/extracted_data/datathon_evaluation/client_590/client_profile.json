@@ -1,0 +1,76 @@
+{
+    "name": "Riedo Gmür Weber",
+    "address": {
+        "city": "Thun",
+        "street name": "Gerberngasse",
+        "street number": 94,
+        "postal code": "0114"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1979-04-04",
+    "nationality": "Swiss",
+    "passport_number": "OL4401004",
+    "passport_issue_date": "2017-08-25",
+    "passport_expiry_date": "2027-08-24",
+    "gender": "M",
+    "phone_number": "+41 069 706 66 02",
+    "email_address": "riedo.weber@sunrise.ch",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Liceo di Lugano Lugano",
+        "graduation_year": 1989
+    },
+    "higher_education": [
+        {
+            "university": "Geneva Business School",
+            "graduation_year": 2002
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2004,
+            "end_year": 2006,
+            "company": " Implenia AG",
+            "position": "Property Manager",
+            "salary": 69000
+        },
+        {
+            "start_year": 2008,
+            "end_year": 2009,
+            "company": "Swiss Prime Site AG",
+            "position": "Developer",
+            "salary": 94000
+        }
+    ],
+    "aum": {
+        "savings": 660000,
+        "inheritance": 6440000,
+        "real_estate_value": 8640000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2006,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 4190000,
+            "property location": "Thun"
+        },
+        {
+            "property type": "villa",
+            "property value": 4450000,
+            "property location": "Aarau"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Finland"
+    ],
+    "currency": "CHF"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Koch Krüger Uhlig",
+    "first_name": "Koch",
+    "middle_name": "Krüger",
+    "last_name": "Uhlig",
+    "passport_number": "JW5748195",
+    "currency": "EUR",
+    "address": {
+        "city": "Gelsenkirchen",
+        "street name": "Zeil",
+        "street number": 20,
+        "postal code": "06938"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "5087 287883",
+    "email_address": "koch.uhlig@arcor.de"
+}

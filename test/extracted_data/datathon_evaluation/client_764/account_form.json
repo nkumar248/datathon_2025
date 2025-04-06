@@ -1,0 +1,17 @@
+{
+    "name": "Giovanna Martina Marini",
+    "first_name": "Giovanna",
+    "middle_name": "Martina",
+    "last_name": "Marini",
+    "passport_number": "FT5346757",
+    "currency": "EUR",
+    "address": {
+        "city": "Reggio Calabria",
+        "street name": "Via del Tritone",
+        "street number": 42,
+        "postal code": "16881"
+    },
+    "country_of_domicile": "Italy,Switzerland",
+    "phone_number": "+39 345 9690582",
+    "email_address": "giovanna.marini@outlook.com"
+}

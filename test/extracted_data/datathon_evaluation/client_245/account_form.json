@@ -1,0 +1,17 @@
+{
+    "name": "Clémence Romane Van den Berghe",
+    "first_name": "Clémence",
+    "middle_name": "Romane",
+    "last_name": "Van den Berghe",
+    "passport_number": "EN8164942",
+    "currency": "EUR",
+    "address": {
+        "city": "Hasselt",
+        "street name": "Rue de l'Église",
+        "street number": 66,
+        "postal code": "8507"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0405 729 225",
+    "email_address": "clemence.vandenberghe@outlook.com"
+}

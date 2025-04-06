@@ -1,0 +1,17 @@
+{
+    "name": "Peters Vandenberghe Peeters",
+    "first_name": "Peters",
+    "middle_name": "Vandenberghe",
+    "last_name": "Peeters",
+    "passport_number": "VS4313579",
+    "currency": "EUR",
+    "address": {
+        "city": "Roeselare",
+        "street name": "Place de la Liberté",
+        "street number": 26,
+        "postal code": "4641"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0440 122 567",
+    "email_address": "peters.peeters@icloud.com"
+}

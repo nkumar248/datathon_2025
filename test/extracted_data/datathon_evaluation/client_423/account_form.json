@@ -1,0 +1,17 @@
+{
+    "name": "Schneider Kammermann Kuhn",
+    "first_name": "Schneider",
+    "middle_name": "Kammermann",
+    "last_name": "Kuhn",
+    "passport_number": "WA8259428",
+    "currency": "CHF",
+    "address": {
+        "city": "St. Gallen",
+        "street name": "Rathausgasse",
+        "street number": 19,
+        "postal code": "4051"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "086 213 10 81",
+    "email_address": "schneider.kuhn@swissonline.ch"
+}

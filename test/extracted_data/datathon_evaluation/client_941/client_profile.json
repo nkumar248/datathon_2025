@@ -1,0 +1,87 @@
+{
+    "name": "Almudena Araceli Morales",
+    "address": {
+        "city": "Zaragoza",
+        "street name": "Calle de Alcalá",
+        "street number": 51,
+        "postal code": "44886"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1980-11-22",
+    "nationality": "Spanish",
+    "passport_number": "ZK7241169",
+    "passport_issue_date": "2018-02-06",
+    "passport_expiry_date": "2028-02-05",
+    "gender": "F",
+    "phone_number": "+34 626 258 534",
+    "email_address": "almudena.morales@gmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "IES Luis Vives Zaragoza",
+        "graduation_year": 1999
+    },
+    "higher_education": [
+        {
+            "university": "IESE Business School",
+            "graduation_year": 2005
+        },
+        {
+            "university": "Polytechnic University of Catalonia",
+            "graduation_year": 2009
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2005,
+            "end_year": 2006,
+            "company": "Elcano Shipping Company S.A.",
+            "position": "Ship Broker",
+            "salary": 26000
+        },
+        {
+            "start_year": 2008,
+            "end_year": 2011,
+            "company": "Transmediterránea S.A.",
+            "position": "Shipping Company Owner",
+            "salary": 36000
+        },
+        {
+            "start_year": 2013,
+            "end_year": null,
+            "company": "Peñarroya Shipping S.A.",
+            "position": "Fleet Manager",
+            "salary": 224000
+        }
+    ],
+    "aum": {
+        "savings": 270000,
+        "inheritance": 4630000,
+        "real_estate_value": 1721000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2010,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 931000,
+            "property location": "Zaragoza"
+        },
+        {
+            "property type": "flat",
+            "property value": 790000,
+            "property location": "Cuenca"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

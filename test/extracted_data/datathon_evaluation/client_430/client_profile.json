@@ -1,0 +1,63 @@
+{
+    "name": "Van der Meer Jansen Mulders",
+    "address": {
+        "city": "Boxtel",
+        "street name": "PC Hoofdstraat",
+        "street number": 84,
+        "postal code": "2748 02"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1989-07-28",
+    "nationality": "Dutch",
+    "passport_number": "EM6210094",
+    "passport_issue_date": "2024-02-02",
+    "passport_expiry_date": "2034-02-01",
+    "gender": "M",
+    "phone_number": "+31 06 25559019",
+    "email_address": "vandermeer.mulders@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Bonaventura College Leiden",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "University of Amsterdam",
+            "graduation_year": 2013
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2013,
+            "end_year": null,
+            "company": "Evergreen Marine Corporation (Netherlands) B.V.",
+            "position": "Ship Broker",
+            "salary": 118000
+        }
+    ],
+    "aum": {
+        "savings": 140000,
+        "inheritance": 8390000,
+        "real_estate_value": 1540000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2020,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1540000,
+            "property location": "Boxtel"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

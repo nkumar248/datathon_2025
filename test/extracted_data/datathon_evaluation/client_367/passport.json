@@ -1,0 +1,17 @@
+{
+    "first_name": "Brunner",
+    "middle_name": "Baumgartner",
+    "last_name": "Kägi",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1958-11-27",
+    "passport_number": "NU8794588",
+    "passport_mrz": [
+        "P<CHEKÄGI<<BRUNNER<BAUMGARTNER<<<<<<<<<<<<<<<",
+        "NU8794588CHE581127<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-02-04",
+    "passport_expiry_date": "2033-02-03"
+}

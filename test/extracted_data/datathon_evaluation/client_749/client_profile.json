@@ -1,0 +1,81 @@
+{
+    "name": "Heidi Sophia Maier",
+    "address": {
+        "city": "Innsbruck",
+        "street name": "Rotenturmstraße",
+        "street number": 47,
+        "postal code": "0910"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1969-05-29",
+    "nationality": "Austrian",
+    "passport_number": "GI5883763",
+    "passport_issue_date": "2022-03-16",
+    "passport_expiry_date": "2032-03-15",
+    "gender": "F",
+    "phone_number": "+43 940 428 0922",
+    "email_address": "heidi.maier@icloud.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Bischöfliches Gymnasium Petrinum",
+        "graduation_year": 1987
+    },
+    "higher_education": [
+        {
+            "university": "Modul University Vienna",
+            "graduation_year": 1993
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1994,
+            "end_year": 1999,
+            "company": "Swarovski AG",
+            "position": "Assistant Designer",
+            "salary": 41000
+        },
+        {
+            "start_year": 2001,
+            "end_year": null,
+            "company": "Swarovski AG",
+            "position": "Senior Designer",
+            "salary": 210000
+        }
+    ],
+    "aum": {
+        "savings": 420000,
+        "inheritance": 2730000,
+        "real_estate_value": 2896000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2009,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 970000,
+            "property location": "Innsbruck"
+        },
+        {
+            "property type": "flat",
+            "property value": 896000,
+            "property location": "Bruck an der Mur"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1030000,
+            "property location": "Sankt Pölten"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

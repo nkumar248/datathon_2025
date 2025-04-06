@@ -1,0 +1,17 @@
+{
+    "name": "Durand Moreau Bertrand",
+    "first_name": "Durand",
+    "middle_name": "Moreau",
+    "last_name": "Bertrand",
+    "passport_number": "YW0131669",
+    "currency": "EUR",
+    "address": {
+        "city": "Strasbourg",
+        "street name": "Avenue Victor Hugo",
+        "street number": 100,
+        "postal code": "61698"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 09 43 02 95 75",
+    "email_address": "durand.bertrand@neuf.fr"
+}

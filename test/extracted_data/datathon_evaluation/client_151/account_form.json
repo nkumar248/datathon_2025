@@ -1,0 +1,17 @@
+{
+    "name": "Van der Meer Willems Mulders",
+    "first_name": "Van der Meer",
+    "middle_name": "Willems",
+    "last_name": "Mulders",
+    "passport_number": "GP9637575",
+    "currency": "EUR",
+    "address": {
+        "city": "Arnhem",
+        "street name": "Goudsesingel",
+        "street number": 49,
+        "postal code": "0948 68"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 76524538",
+    "email_address": "vandermeer.mulders@home.nl"
+}

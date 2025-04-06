@@ -1,0 +1,17 @@
+{
+    "name": "Aada Mattila",
+    "first_name": "Aada",
+    "middle_name": "",
+    "last_name": "Mattila",
+    "passport_number": "OF7620798",
+    "currency": "EUR",
+    "address": {
+        "city": "Hyvinkää",
+        "street name": "Ratapihantie",
+        "street number": 98,
+        "postal code": "50690"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 046 161 65 65",
+    "email_address": "aada.mattila@luukku.com"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Veenhoven Spaans Janssen",
+    "first_name": "Veenhoven",
+    "middle_name": "Spaans",
+    "last_name": "Janssen",
+    "passport_number": "HO9357243",
+    "currency": "EUR",
+    "address": {
+        "city": "Boxtel",
+        "street name": "Korte Voorhout",
+        "street number": 90,
+        "postal code": "8594 57"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 98526906",
+    "email_address": "veenhoven.janssen@live.nl"
+}

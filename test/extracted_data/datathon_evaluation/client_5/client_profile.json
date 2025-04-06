@@ -1,0 +1,57 @@
+{
+    "name": "Simon Robin Legrand",
+    "address": {
+        "city": "Toulouse",
+        "street name": "Rue Soufflot",
+        "street number": 29,
+        "postal code": "18537"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1996-10-19",
+    "nationality": "French",
+    "passport_number": "YF5793641",
+    "passport_issue_date": "2018-03-05",
+    "passport_expiry_date": "2028-03-04",
+    "gender": "M",
+    "phone_number": "+33 02 64 98 86 30",
+    "email_address": "simon.legrand@bbox.fr",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée Claude Debussy",
+        "graduation_year": 2015
+    },
+    "higher_education": [
+        {
+            "university": "École Nationale d'Administration (ENA)",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2021,
+            "end_year": 2024,
+            "company": "Thales S.A.",
+            "position": "Aerospace Engineer",
+            "salary": 33000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 2090000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

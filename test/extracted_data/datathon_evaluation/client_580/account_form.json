@@ -1,0 +1,17 @@
+{
+    "name": "Piirainen Tolvanen",
+    "first_name": "Piirainen",
+    "middle_name": "",
+    "last_name": "Tolvanen",
+    "passport_number": "BJ3695840",
+    "currency": "EUR",
+    "address": {
+        "city": "Vaasa",
+        "street name": "Tyynenmerenkatu",
+        "street number": 93,
+        "postal code": "75101"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 044 486 37 96",
+    "email_address": "piirainen.tolvanen@saunalahti.fi"
+}

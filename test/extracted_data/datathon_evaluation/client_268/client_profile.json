@@ -1,0 +1,75 @@
+{
+    "name": "Ricci Moretti De Luca",
+    "address": {
+        "city": "Pisa",
+        "street name": "Piazza Maggiore",
+        "street number": 31,
+        "postal code": "40338"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1972-06-16",
+    "nationality": "Italian",
+    "passport_number": "GJ7906151",
+    "passport_issue_date": "2020-06-12",
+    "passport_expiry_date": "2030-06-11",
+    "gender": "M",
+    "phone_number": "+39 336 6025899",
+    "email_address": "ricci.deluca@wind.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Liceo Artistico Statale Umberto Boccioni Milano",
+        "graduation_year": 1990
+    },
+    "higher_education": [
+        {
+            "university": "American University of Rome",
+            "graduation_year": 1996
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1997,
+            "end_year": 1998,
+            "company": "Galleria degli Uffizi",
+            "position": "Art Dealer",
+            "salary": 27000
+        },
+        {
+            "start_year": 1998,
+            "end_year": null,
+            "company": "Pinacoteca di Brera",
+            "position": "Gallery Owner",
+            "salary": 179000
+        }
+    ],
+    "aum": {
+        "savings": 330000,
+        "inheritance": 1660000,
+        "real_estate_value": 4610000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2014,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2330000,
+            "property location": "Pisa"
+        },
+        {
+            "property type": "villa",
+            "property value": 2280000,
+            "property location": "Brescia"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

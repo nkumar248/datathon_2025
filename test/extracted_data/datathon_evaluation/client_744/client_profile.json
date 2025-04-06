@@ -1,0 +1,81 @@
+{
+    "name": "Huber Lang Krämer",
+    "address": {
+        "city": "Klagenfurt",
+        "street name": "Neubaugürtel",
+        "street number": 82,
+        "postal code": "8124"
+    },
+    "country_of_domicile": "Austria,Germany",
+    "birth_date": "1984-07-27",
+    "nationality": "Austrian",
+    "passport_number": "WJ6847162",
+    "passport_issue_date": "2017-05-04",
+    "passport_expiry_date": "2027-05-03",
+    "gender": "M",
+    "phone_number": "130 743 7187",
+    "email_address": "huber.kramer@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "BRG/BORG Marchfeldstraße",
+        "graduation_year": 2004
+    },
+    "higher_education": [
+        {
+            "university": "University of Innsbruck",
+            "graduation_year": 2008
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2009,
+            "end_year": 2011,
+            "company": "OMV AG",
+            "position": "Junior Trader",
+            "salary": 33000
+        },
+        {
+            "start_year": 2012,
+            "end_year": 2023,
+            "company": "Voestalpine AG",
+            "position": "Senior Trader",
+            "salary": 99000
+        }
+    ],
+    "aum": {
+        "savings": 120000,
+        "inheritance": 1160000,
+        "real_estate_value": 3740000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 860000,
+            "property location": "Klagenfurt"
+        },
+        {
+            "property type": "flat",
+            "property value": 700000,
+            "property location": "Salzburg"
+        },
+        {
+            "property type": "villa",
+            "property value": 2180000,
+            "property location": "Dornbirn"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

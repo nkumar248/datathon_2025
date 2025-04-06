@@ -1,0 +1,17 @@
+{
+    "name": "Peiren Van den Berghe Maes",
+    "first_name": "Peiren",
+    "middle_name": "Van den Berghe",
+    "last_name": "Maes",
+    "passport_number": "LF7203851",
+    "currency": "EUR",
+    "address": {
+        "city": "Lokeren",
+        "street name": "Rue des Bouchers",
+        "street number": 61,
+        "postal code": "3526"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0468 062 195",
+    "email_address": "peiren.maes@proximus.be"
+}

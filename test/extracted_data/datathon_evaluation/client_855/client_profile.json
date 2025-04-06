@@ -1,0 +1,90 @@
+{
+    "name": "Laine Seppälä Turunen",
+    "address": {
+        "city": "Tuusula",
+        "street name": "Ruoholahteenkatu",
+        "street number": 25,
+        "postal code": "29864"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1969-08-31",
+    "nationality": "Finnish",
+    "passport_number": "XA7556157",
+    "passport_issue_date": "2023-08-01",
+    "passport_expiry_date": "2033-07-31",
+    "gender": "M",
+    "phone_number": "+358 043 456 35 25",
+    "email_address": "laine.turunen@dnainternet.fi",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Hyvinkään Sveitsin lukio",
+        "graduation_year": 1988
+    },
+    "higher_education": [
+        {
+            "university": "Aalto University",
+            "graduation_year": 1993
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1994,
+            "end_year": 1997,
+            "company": "Scandic Hotels Oy",
+            "position": "Hotel Manager",
+            "salary": 37000
+        },
+        {
+            "start_year": 1998,
+            "end_year": 2000,
+            "company": "Scandic Hotels Oy",
+            "position": "General Manager",
+            "salary": 59000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2003,
+            "company": "Scandic Hotels Oy",
+            "position": "Regional Vice President",
+            "salary": 83000
+        },
+        {
+            "start_year": 2003,
+            "end_year": null,
+            "company": "Marriott International Oy",
+            "position": "CEO",
+            "salary": 724000
+        }
+    ],
+    "aum": {
+        "savings": 1140000,
+        "inheritance": 650000,
+        "real_estate_value": 3160000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2009,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2430000,
+            "property location": "Tuusula"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 730000,
+            "property location": "Helsinki"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

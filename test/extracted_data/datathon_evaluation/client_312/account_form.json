@@ -1,0 +1,17 @@
+{
+    "name": "Sofia Gabriella Lombardi",
+    "first_name": "Sofia",
+    "middle_name": "Gabriella",
+    "last_name": "Lombardi",
+    "passport_number": "QG5905125",
+    "currency": "EUR",
+    "address": {
+        "city": "Modena",
+        "street name": "Via dei Banchi Vecchi",
+        "street number": 56,
+        "postal code": "54097"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "368 0644055",
+    "email_address": "sofia.lombardi@virgilio.it"
+}

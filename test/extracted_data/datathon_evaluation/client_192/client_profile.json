@@ -1,0 +1,80 @@
+{
+    "name": "Moretti Russo",
+    "address": {
+        "city": "Cagliari",
+        "street name": "Via Po",
+        "street number": 15,
+        "postal code": "24553"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1974-06-03",
+    "nationality": "Italian",
+    "passport_number": "QC4171891",
+    "passport_issue_date": "2019-04-15",
+    "passport_expiry_date": "2029-04-14",
+    "gender": "M",
+    "phone_number": "+39 319 1573966",
+    "email_address": "moretti.russo@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Liceo Scientifico Leonardo da Vinci Milano",
+        "graduation_year": 1994
+    },
+    "higher_education": [
+        {
+            "university": "IMT Institute for Advanced Studies Lucca",
+            "graduation_year": 1999
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1999,
+            "end_year": 2003,
+            "company": "Grimaldi Group S.p.A.",
+            "position": "Ship Broker",
+            "salary": 27000
+        },
+        {
+            "start_year": 2004,
+            "end_year": null,
+            "company": "Grimaldi Group S.p.A.",
+            "position": "Shipping Company Owner",
+            "salary": 149000
+        }
+    ],
+    "aum": {
+        "savings": 270000,
+        "inheritance": 4900000,
+        "real_estate_value": 4710000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2012,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2490000,
+            "property location": "Cagliari"
+        },
+        {
+            "property type": "house",
+            "property value": 1078000,
+            "property location": "Perugia"
+        },
+        {
+            "property type": "house",
+            "property value": 1142000,
+            "property location": "Bari"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Fuchs Weber Rieder",
+    "address": {
+        "city": "Krems an der Donau",
+        "street name": "Kohlmarkt",
+        "street number": 99,
+        "postal code": "7867"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1958-03-27",
+    "nationality": "Austrian",
+    "passport_number": "DI5098200",
+    "passport_issue_date": "2016-09-28",
+    "passport_expiry_date": "2026-09-27",
+    "gender": "M",
+    "phone_number": "+43 393 291 0597",
+    "email_address": "fuchs.rieder@kabsi.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Bischöfliches Gymnasium Petrinum",
+        "graduation_year": 1977
+    },
+    "higher_education": [
+        {
+            "university": "Modul University Vienna",
+            "graduation_year": 1982
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1982,
+            "end_year": 1983,
+            "company": "Immofinanz AG",
+            "position": "Property Manager",
+            "salary": 31000
+        },
+        {
+            "start_year": 1985,
+            "end_year": 1987,
+            "company": "Conwert Immobilien Invest AG",
+            "position": "Developer",
+            "salary": 48000
+        },
+        {
+            "start_year": 1987,
+            "end_year": 2018,
+            "company": "Immofinanz AG",
+            "position": "Construction Company Owner",
+            "salary": 660000
+        }
+    ],
+    "aum": {
+        "savings": 1360000,
+        "inheritance": 0,
+        "real_estate_value": 1290000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1290000,
+            "property location": "Krems an der Donau"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

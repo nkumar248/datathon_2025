@@ -1,0 +1,17 @@
+{
+    "name": "Lucas Justine De Smet",
+    "first_name": "Lucas",
+    "middle_name": "Justine",
+    "last_name": "De Smet",
+    "passport_number": "FQ0645736",
+    "currency": "EUR",
+    "address": {
+        "city": "Poperinge",
+        "street name": "Rue de la République",
+        "street number": 53,
+        "postal code": "5238"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0413 033 509",
+    "email_address": "lucas.desmet@yahoo.com"
+}

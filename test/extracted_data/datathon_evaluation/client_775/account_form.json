@@ -1,0 +1,17 @@
+{
+    "name": "Ortega Suárez Herrera",
+    "first_name": "Ortega",
+    "middle_name": "Suárez",
+    "last_name": "Herrera",
+    "passport_number": "MX1539803",
+    "currency": "EUR",
+    "address": {
+        "city": "Santa Cruz de Tenerife",
+        "street name": "Calle de San Bernardo",
+        "street number": 59,
+        "postal code": "83041"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 699 299 774",
+    "email_address": "ortega.herrera@yahoo.com"
+}

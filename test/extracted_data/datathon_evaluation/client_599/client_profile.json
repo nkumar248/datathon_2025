@@ -1,0 +1,68 @@
+{
+    "name": "Maarika Vilma Hiltunen",
+    "address": {
+        "city": "Imatra",
+        "street name": "Paasivuorenkatu",
+        "street number": 90,
+        "postal code": "13970"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1989-09-30",
+    "nationality": "Finnish",
+    "passport_number": "XN8428603",
+    "passport_issue_date": "2017-02-24",
+    "passport_expiry_date": "2027-02-23",
+    "gender": "F",
+    "phone_number": "+358 042 444 70 69",
+    "email_address": "maarika.hiltunen@icloud.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Meilahden Yläaste ja Lukio",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "Åbo Akademi University School of Economics",
+            "graduation_year": 2012
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "OP Financial Group",
+            "position": "Family Office Manager",
+            "salary": 89000
+        }
+    ],
+    "aum": {
+        "savings": 100000,
+        "inheritance": 4130000,
+        "real_estate_value": 2850000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2016,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 900000,
+            "property location": "Imatra"
+        },
+        {
+            "property type": "villa",
+            "property value": 1950000,
+            "property location": "Espoo"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

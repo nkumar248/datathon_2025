@@ -1,0 +1,17 @@
+{
+    "name": "Peiren Sanders Moens",
+    "first_name": "Peiren",
+    "middle_name": "Sanders",
+    "last_name": "Moens",
+    "passport_number": "QB3387869",
+    "currency": "EUR",
+    "address": {
+        "city": "Antwerp",
+        "street name": "Rue de la Régence",
+        "street number": 82,
+        "postal code": "2840"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0405 860 093",
+    "email_address": "peiren.moens@gmail.com"
+}

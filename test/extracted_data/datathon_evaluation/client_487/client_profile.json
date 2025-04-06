@@ -1,0 +1,99 @@
+{
+    "name": "Mayer Schmitz Uhlig",
+    "address": {
+        "city": "Wiesbaden",
+        "street name": "Rathausstraße",
+        "street number": 49,
+        "postal code": "33537"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1978-10-15",
+    "nationality": "German",
+    "passport_number": "NB6144204",
+    "passport_issue_date": "2020-11-04",
+    "passport_expiry_date": "2030-11-03",
+    "gender": "M",
+    "phone_number": "+49 8167 855432",
+    "email_address": "mayer.uhlig@1und1.de",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Heisenberg-Gymnasium Lüneburg",
+        "graduation_year": 1996
+    },
+    "higher_education": [
+        {
+            "university": "Dresden University of Technology",
+            "graduation_year": 2002
+        },
+        {
+            "university": "Düsseldorf University of Applied Sciences",
+            "graduation_year": 2005
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2003,
+            "end_year": 2008,
+            "company": "Software AG",
+            "position": "Software Developer",
+            "salary": 54000
+        },
+        {
+            "start_year": 2010,
+            "end_year": 2012,
+            "company": "Software AG",
+            "position": "Startup Founder",
+            "salary": 59000
+        },
+        {
+            "start_year": 2014,
+            "end_year": 2018,
+            "company": "Software AG",
+            "position": "CEO",
+            "salary": 77000
+        },
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "Siemens AG",
+            "position": "Venture Capitalist",
+            "salary": 255000
+        }
+    ],
+    "aum": {
+        "savings": 310000,
+        "inheritance": 1520000,
+        "real_estate_value": 3582000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2007,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1354000,
+            "property location": "Wiesbaden"
+        },
+        {
+            "property type": "condo",
+            "property value": 968000,
+            "property location": "Erlangen"
+        },
+        {
+            "property type": "condo",
+            "property value": 1260000,
+            "property location": "Bremen"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

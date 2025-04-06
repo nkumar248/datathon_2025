@@ -1,0 +1,80 @@
+{
+    "name": "Olsen Andersen Kristensen",
+    "address": {
+        "city": "Kolding",
+        "street name": "Store Kongensgade",
+        "street number": 68,
+        "postal code": "7624"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1973-08-16",
+    "nationality": "Danish",
+    "passport_number": "EH3621771",
+    "passport_issue_date": "2019-04-06",
+    "passport_expiry_date": "2029-04-05",
+    "gender": "M",
+    "phone_number": "00 33 93 43",
+    "email_address": "olsen.kristensen@tiscali.dk",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Faaborg Gymnasium",
+        "graduation_year": 1991
+    },
+    "higher_education": [
+        {
+            "university": "Aarhus University",
+            "graduation_year": 1998
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1997,
+            "end_year": 2002,
+            "company": "Plesner",
+            "position": "Associate Attorney",
+            "salary": 389000
+        },
+        {
+            "start_year": 2003,
+            "end_year": null,
+            "company": "Bech-Bruun",
+            "position": "Senior Associate",
+            "salary": 1265000
+        }
+    ],
+    "aum": {
+        "savings": 2230000,
+        "inheritance": 48180000,
+        "real_estate_value": 5794000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2011,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2850000,
+            "property location": "Kolding"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1784000,
+            "property location": "Slagelse"
+        },
+        {
+            "property type": "flat",
+            "property value": 1160000,
+            "property location": "Kolding"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

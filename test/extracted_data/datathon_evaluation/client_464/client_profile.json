@@ -1,0 +1,49 @@
+{
+    "name": "Lina Lilli Schmidt",
+    "address": {
+        "city": "Dresden",
+        "street name": "Tauentzienstraße",
+        "street number": 48,
+        "postal code": "13006"
+    },
+    "country_of_domicile": "Germany,Switzerland",
+    "birth_date": "2003-03-26",
+    "nationality": "German",
+    "passport_number": "HF7804883",
+    "passport_issue_date": "2024-07-28",
+    "passport_expiry_date": "2034-07-27",
+    "gender": "F",
+    "phone_number": "+49 3023 005256",
+    "email_address": "lina.schmidt@yahoo.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Max-Planck-Gymnasium München",
+        "graduation_year": 2020
+    },
+    "higher_education": [
+        {
+            "university": "WHU – Otto Beisheim School of Management",
+            "graduation_year": 2025
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 2770000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Germany"
+    ],
+    "currency": "EUR"
+}

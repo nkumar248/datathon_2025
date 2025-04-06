@@ -1,0 +1,17 @@
+{
+    "name": "Hortense Capucine Martin",
+    "first_name": "Hortense",
+    "middle_name": "Capucine",
+    "last_name": "Martin",
+    "passport_number": "HF3918706",
+    "currency": "EUR",
+    "address": {
+        "city": "",
+        "street name": "Rue de la Santé",
+        "street number": 32,
+        "postal code": "59768"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "03 88 84 74 01",
+    "email_address": "hortense.martin@outlook.com"
+}

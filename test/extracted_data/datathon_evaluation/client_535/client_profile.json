@@ -1,0 +1,88 @@
+{
+    "name": "Romane Louise Vandenberghe",
+    "address": {
+        "city": "Geel",
+        "street name": "Chaussée de Waterloo",
+        "street number": 41,
+        "postal code": "3496"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1974-11-25",
+    "nationality": "Belgian",
+    "passport_number": "RU4873781",
+    "passport_issue_date": "2023-05-25",
+    "passport_expiry_date": "2030-05-24",
+    "gender": "F",
+    "phone_number": "+32 0461 166 909",
+    "email_address": "romane.vandenberghe@tvcablenet.be",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Athénée Royal Jules Bordet",
+        "graduation_year": 1985
+    },
+    "higher_education": [
+        {
+            "university": "PXL University of Applied Sciences and Arts",
+            "graduation_year": 1999
+        },
+        {
+            "university": "Hasselt University",
+            "graduation_year": 2001
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1998,
+            "end_year": 1999,
+            "company": "Thales Alenia Space Belgium",
+            "position": "Aerospace Engineer",
+            "salary": 36000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2003,
+            "company": "Sabca SA",
+            "position": "Program Manager",
+            "salary": 59000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2005,
+            "company": "Thales Alenia Space Belgium",
+            "position": "Director of Operations",
+            "salary": 75000
+        },
+        {
+            "start_year": 2005,
+            "end_year": null,
+            "company": "Thales Alenia Space Belgium",
+            "position": "VP of Business Development",
+            "salary": 711000
+        }
+    ],
+    "aum": {
+        "savings": 1150000,
+        "inheritance": 2930000,
+        "real_estate_value": 1200000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2013,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1200000,
+            "property location": "Geel"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

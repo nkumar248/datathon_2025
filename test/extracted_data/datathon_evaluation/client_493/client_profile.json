@@ -1,0 +1,92 @@
+{
+    "name": "Friis Østergaard Krog",
+    "address": {
+        "city": "Slagelse",
+        "street name": "Nørrebrogade",
+        "street number": 83,
+        "postal code": "9204"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1983-11-07",
+    "nationality": "Danish",
+    "passport_number": "IA7017636",
+    "passport_issue_date": "2021-10-21",
+    "passport_expiry_date": "2031-10-20",
+    "gender": "M",
+    "phone_number": "+45 69 48 10 44",
+    "email_address": "friis.krog@cybercity.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Aabenraa Gymnasium",
+        "graduation_year": 2002
+    },
+    "higher_education": [
+        {
+            "university": "Copenhagen Business School",
+            "graduation_year": 2006
+        },
+        {
+            "university": "University College Lillebælt",
+            "graduation_year": 2011
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2008,
+            "end_year": 2012,
+            "company": "Bech-Bruun",
+            "position": "Associate Attorney",
+            "salary": 292000
+        },
+        {
+            "start_year": 2014,
+            "end_year": 2019,
+            "company": "Bech-Bruun",
+            "position": "Senior Associate",
+            "salary": 461000
+        },
+        {
+            "start_year": 2020,
+            "end_year": null,
+            "company": "Gorrissen Federspiel",
+            "position": "Partner",
+            "salary": 896000
+        }
+    ],
+    "aum": {
+        "savings": 1090000,
+        "inheritance": 25840000,
+        "real_estate_value": 5650000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2013,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2600000,
+            "property location": "Slagelse"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1300000,
+            "property location": "Holbæk"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1750000,
+            "property location": "Silkeborg"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "France"
+    ],
+    "currency": "DKK"
+}

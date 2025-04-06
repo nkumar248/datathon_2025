@@ -1,0 +1,88 @@
+{
+    "name": "López Sánchez Martínez",
+    "address": {
+        "city": "Almería",
+        "street name": "Calle de Alcalá",
+        "street number": 15,
+        "postal code": "07138"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1971-03-13",
+    "nationality": "Spanish",
+    "passport_number": "MX5334226",
+    "passport_issue_date": "2018-12-27",
+    "passport_expiry_date": "2028-12-26",
+    "gender": "M",
+    "phone_number": "+34 623 703 051",
+    "email_address": "lopez.martinez@ya.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "IES Juan Carlos I Burgos",
+        "graduation_year": 1989
+    },
+    "higher_education": [
+        {
+            "university": "ESADE Business & Law School",
+            "graduation_year": 1995
+        },
+        {
+            "university": "University of Granada",
+            "graduation_year": 1998
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1994,
+            "end_year": 1995,
+            "company": "Bankia S.A.",
+            "position": "Investment Banker",
+            "salary": 24000
+        },
+        {
+            "start_year": 1996,
+            "end_year": 1999,
+            "company": "Bankia S.A.",
+            "position": "Private Equity Investor",
+            "salary": 39000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2004,
+            "company": "BBVA S.A.",
+            "position": "Hedge Fund Manager",
+            "salary": 64000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2009,
+            "company": "BBVA S.A.",
+            "position": "Venture Capitalist",
+            "salary": 116000
+        }
+    ],
+    "aum": {
+        "savings": 710000,
+        "inheritance": 120000,
+        "real_estate_value": 840000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2012,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 840000,
+            "property location": "Almería"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

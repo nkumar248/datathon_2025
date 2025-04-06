@@ -1,0 +1,57 @@
+{
+    "name": "Schwarz Graf Mayr",
+    "address": {
+        "city": "Gmunden",
+        "street name": "Landstraßer Hauptstraße",
+        "street number": 7,
+        "postal code": "5757"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1999-02-23",
+    "nationality": "Austrian",
+    "passport_number": "PE2183282",
+    "passport_issue_date": "2016-06-13",
+    "passport_expiry_date": "2026-06-12",
+    "gender": "M",
+    "phone_number": "442 144 1974",
+    "email_address": "schwarz.mayr@liwest.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Erzbischöfliches Gymnasium Borromäum",
+        "graduation_year": 2016
+    },
+    "higher_education": [
+        {
+            "university": "Sigmund Freud University Vienna",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2023,
+            "end_year": 2025,
+            "company": "Novartis Austria GmbH",
+            "position": "Research Scientist",
+            "salary": 35000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 1110000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,91 @@
+{
+    "name": "Dubois Robert Lemaître",
+    "address": {
+        "city": "Dijon",
+        "street name": "Rue Royale",
+        "street number": 21,
+        "postal code": "34448"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1980-11-09",
+    "nationality": "French",
+    "passport_number": "QX9057514",
+    "passport_issue_date": "2023-07-17",
+    "passport_expiry_date": "2033-07-16",
+    "gender": "M",
+    "phone_number": "+33 08 03 26 76 69",
+    "email_address": "dubois.lemaitre@icloud.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée Montaigne",
+        "graduation_year": 1999
+    },
+    "higher_education": [
+        {
+            "university": "École Nationale d'Administration (ENA)",
+            "graduation_year": 2005
+        },
+        {
+            "university": "École Normale Supérieure (ENS) Paris",
+            "graduation_year": 2007
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2005,
+            "end_year": 2010,
+            "company": "Canal+ Group",
+            "position": "Journalist",
+            "salary": 44000
+        },
+        {
+            "start_year": 2010,
+            "end_year": 2015,
+            "company": "Vivendi S.A.",
+            "position": "Editor",
+            "salary": 62000
+        },
+        {
+            "start_year": 2015,
+            "end_year": null,
+            "company": "Canal+ Group",
+            "position": "Publisher",
+            "salary": 93000
+        }
+    ],
+    "aum": {
+        "savings": 170000,
+        "inheritance": 740000,
+        "real_estate_value": 7990000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2007,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 3220000,
+            "property location": "Dijon"
+        },
+        {
+            "property type": "villa",
+            "property value": 3060000,
+            "property location": "Brest"
+        },
+        {
+            "property type": "condo",
+            "property value": 1710000,
+            "property location": "Paris"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

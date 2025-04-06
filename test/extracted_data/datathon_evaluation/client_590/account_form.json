@@ -1,0 +1,17 @@
+{
+    "name": "Riedo Gmür Weber",
+    "first_name": "Riedo",
+    "middle_name": "Gmür",
+    "last_name": "Weber",
+    "passport_number": "OL4401004",
+    "currency": "CHF",
+    "address": {
+        "city": "Thun",
+        "street name": "Gerberngasse",
+        "street number": 94,
+        "postal code": "0114"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 069 706 66 02",
+    "email_address": "riedo.weber@sunrise.ch"
+}

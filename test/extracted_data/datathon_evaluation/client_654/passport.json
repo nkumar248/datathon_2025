@@ -1,0 +1,17 @@
+{
+    "first_name": "Laetitia",
+    "middle_name": "Laurène",
+    "last_name": "Renault",
+    "gender": "F",
+    "country": "France",
+    "country_code": "FR",
+    "nationality": "French",
+    "birth_date": "1998-03-30",
+    "passport_number": "TB6673253",
+    "passport_mrz": [
+        "P<FRRENAULT<<LAETITIA<<<<<<<<<<<<<<<<<<<<<<<<",
+        "TB6673253FR980330<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-01-14",
+    "passport_expiry_date": "2032-01-13"
+}

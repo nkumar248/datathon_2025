@@ -1,0 +1,17 @@
+{
+    "name": "Roelandts Van den Berghe",
+    "first_name": "Roelandts",
+    "middle_name": "",
+    "last_name": "Van den Berghe",
+    "passport_number": "RA1335137",
+    "currency": "EUR",
+    "address": {
+        "city": "Poperinge",
+        "street name": "Place Saint-Géry",
+        "street number": 56,
+        "postal code": "6014"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0498 441 322",
+    "email_address": "roelandts.vandenberghe@hotmail.com"
+}

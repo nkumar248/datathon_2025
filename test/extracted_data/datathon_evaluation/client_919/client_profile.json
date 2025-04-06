@@ -1,0 +1,78 @@
+{
+    "name": "Herrera Soto Navarro",
+    "address": {
+        "city": "Oviedo",
+        "street name": "Puerta del Sol",
+        "street number": 50,
+        "postal code": "78797"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1974-12-27",
+    "nationality": "Spanish",
+    "passport_number": "UY3042833",
+    "passport_issue_date": "2016-08-29",
+    "passport_expiry_date": "2026-08-28",
+    "gender": "M",
+    "phone_number": "636 315 755",
+    "email_address": "herrera.navarro@ya.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "IES Miguel Hernández Alicante",
+        "graduation_year": 1994
+    },
+    "higher_education": [
+        {
+            "university": "Pompeu Fabra University",
+            "graduation_year": 1997
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1999,
+            "end_year": 2001,
+            "company": "Almirall S.A.",
+            "position": "Research Scientist",
+            "salary": 28000
+        },
+        {
+            "start_year": 2003,
+            "end_year": 2007,
+            "company": "Laboratorios Farmacéuticos ROVI S.A.",
+            "position": "Clinical Trials Manager",
+            "salary": 35000
+        },
+        {
+            "start_year": 2012,
+            "end_year": 2025,
+            "company": "Esteve Teijin Healthcare S.L.",
+            "position": "CEO",
+            "salary": 281000
+        }
+    ],
+    "aum": {
+        "savings": 450000,
+        "inheritance": 6810000,
+        "real_estate_value": 2000000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2007,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2000000,
+            "property location": "Oviedo"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "Finland"
+    ],
+    "currency": "EUR"
+}

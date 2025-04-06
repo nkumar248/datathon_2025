@@ -1,0 +1,17 @@
+{
+    "name": "Ida Ellen Andersen",
+    "first_name": "Ida",
+    "middle_name": "Ellen",
+    "last_name": "Andersen",
+    "passport_number": "RL7071937",
+    "currency": "DKK",
+    "address": {
+        "city": "Vejle",
+        "street name": "Gammel Torv",
+        "street number": 36,
+        "postal code": "8521"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "76 84 94 25",
+    "email_address": "ida.andersen@telia.dk"
+}

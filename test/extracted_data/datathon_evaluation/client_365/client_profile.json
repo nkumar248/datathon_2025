@@ -1,0 +1,81 @@
+{
+    "name": "Lea Emma Huber",
+    "address": {
+        "city": "Neuchatel",
+        "street name": "Dufourstrasse",
+        "street number": 35,
+        "postal code": "1436"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1954-12-26",
+    "nationality": "Swiss",
+    "passport_number": "RR8228217",
+    "passport_issue_date": "2019-05-23",
+    "passport_expiry_date": "2029-05-22",
+    "gender": "F",
+    "phone_number": "+41 031 200 72 96",
+    "email_address": "lea.huber@bluewin.ch",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "École secondaire de La Chaux-de-Fonds Neuchâtel",
+        "graduation_year": 1972
+    },
+    "higher_education": [
+        {
+            "university": "University of Lausanne",
+            "graduation_year": 1979
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1979,
+            "end_year": 1980,
+            "company": "Akris AG",
+            "position": "Assistant Designer",
+            "salary": 66000
+        },
+        {
+            "start_year": 1982,
+            "end_year": 1985,
+            "company": "Richemont International SA",
+            "position": "Senior Designer",
+            "salary": 97000
+        },
+        {
+            "start_year": 1987,
+            "end_year": 1990,
+            "company": "Akris AG",
+            "position": "Creative Director",
+            "salary": 138000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 2015,
+            "company": "Swatch Group AG",
+            "position": "Founder/Designer",
+            "salary": 1382000
+        }
+    ],
+    "aum": {
+        "savings": 2510000,
+        "inheritance": 0,
+        "real_estate_value": 2850000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 2850000,
+            "property location": "Neuchatel"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Finland"
+    ],
+    "currency": "CHF"
+}

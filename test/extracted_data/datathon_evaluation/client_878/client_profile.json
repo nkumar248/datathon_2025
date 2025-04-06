@@ -1,0 +1,75 @@
+{
+    "name": "Laurent Legrand Nicolas",
+    "address": {
+        "city": "Le Mans",
+        "street name": "Boulevard Raspail",
+        "street number": 90,
+        "postal code": "42290"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1979-09-28",
+    "nationality": "German",
+    "passport_number": "RI6355332",
+    "passport_issue_date": "2016-06-03",
+    "passport_expiry_date": "2026-06-02",
+    "gender": "M",
+    "phone_number": "03 84 61 10 15",
+    "email_address": "laurent.nicolas@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Montaigne",
+        "graduation_year": 1998
+    },
+    "higher_education": [
+        {
+            "university": "University of Bordeaux",
+            "graduation_year": 2002
+        },
+        {
+            "university": "HEC Paris",
+            "graduation_year": 2006
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2003,
+            "end_year": 2005,
+            "company": "Centre Pompidou",
+            "position": "Art Dealer",
+            "salary": 29000
+        },
+        {
+            "start_year": 2006,
+            "end_year": null,
+            "company": "Louvre Museum",
+            "position": "Gallery Owner",
+            "salary": 155000
+        }
+    ],
+    "aum": {
+        "savings": 230000,
+        "inheritance": 0,
+        "real_estate_value": 2940000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1388000,
+            "property location": "Le Mans"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1552000,
+            "property location": "Angers"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

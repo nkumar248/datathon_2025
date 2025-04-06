@@ -1,0 +1,17 @@
+{
+    "name": "Moens Goossens Smets",
+    "first_name": "Moens",
+    "middle_name": "Goossens",
+    "last_name": "Smets",
+    "passport_number": "UH4457358",
+    "currency": "EUR",
+    "address": {
+        "city": "Antwerp",
+        "street name": "Rue des Étuves",
+        "street number": 56,
+        "postal code": "7131"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0430 085 055",
+    "email_address": "moens.smets@yahoo.com"
+}

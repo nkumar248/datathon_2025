@@ -1,0 +1,17 @@
+{
+    "first_name": "Lea",
+    "middle_name": "",
+    "last_name": "Ackermann",
+    "gender": "F",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1981-08-31",
+    "passport_number": "PC5034127",
+    "passport_mrz": [
+        "P<CHEACKERMANN<<LEA<<<<<<<<<<<<<<<<<<<<<<<<<<",
+        "PC5034127CHE810831<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-07-25",
+    "passport_expiry_date": "2033-07-24"
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Laura Gitte Haugaard",
+    "address": {
+        "city": "Olten",
+        "street name": "Heimplatz",
+        "street number": 85,
+        "postal code": "7704"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "2004-01-29",
+    "nationality": "Danish",
+    "passport_number": "BE0735312",
+    "passport_issue_date": "2024-10-07",
+    "passport_expiry_date": "2034-10-06",
+    "gender": "F",
+    "phone_number": "092 549 94 84",
+    "email_address": "laura.haugaard@swissinfo.ch",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Struer Statsgymnasium",
+        "graduation_year": 2012
+    },
+    "higher_education": [],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1810000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Finland",
+        "Denmark"
+    ],
+    "currency": "CHF"
+}

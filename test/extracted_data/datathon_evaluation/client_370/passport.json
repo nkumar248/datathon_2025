@@ -1,0 +1,17 @@
+{
+    "first_name": "Fernández",
+    "middle_name": "Martín",
+    "last_name": "Rodríguez",
+    "gender": "M",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "2000-10-12",
+    "passport_number": "LK2963301",
+    "passport_mrz": [
+        "P<ESPRODRÍGUEZ<<FERNÁNDEZ<MARTÍN<<<<<<<<<<<<<",
+        "LK2963301ESP001012<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2021-05-05",
+    "passport_expiry_date": "2026-05-04"
+}

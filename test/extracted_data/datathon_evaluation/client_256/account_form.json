@@ -1,0 +1,17 @@
+{
+    "name": "Scholz Schneider",
+    "first_name": "Scholz",
+    "middle_name": "",
+    "last_name": "Schneider",
+    "passport_number": "PM6412576",
+    "currency": "EUR",
+    "address": {
+        "city": "Bielefeld",
+        "street name": "Reeperbahn",
+        "street number": 58,
+        "postal code": "86315"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "0720 975139",
+    "email_address": "scholz.schneider@outlook.com"
+}

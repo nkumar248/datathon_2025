@@ -1,0 +1,17 @@
+{
+    "name": "Moreau Fournier",
+    "first_name": "Moreau",
+    "middle_name": "",
+    "last_name": "Fournier",
+    "passport_number": "TW4694567",
+    "currency": "EUR",
+    "address": {
+        "city": "Angers",
+        "street name": "Boulevard Sébastopol",
+        "street number": 7,
+        "postal code": "40353"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 05 22 27 72 325",
+    "email_address": "moreau.fournier@sfr.fr"
+}

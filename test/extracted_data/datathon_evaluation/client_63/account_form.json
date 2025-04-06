@@ -1,0 +1,17 @@
+{
+    "name": "Luna Jasmijn Van den Berg",
+    "first_name": "Luna",
+    "middle_name": "Jasmijn",
+    "last_name": "Van den Berg",
+    "passport_number": "HW0249807",
+    "currency": "EUR",
+    "address": {
+        "city": "Boxtel",
+        "street name": "Lijnbaan",
+        "street number": 75,
+        "postal code": "5723 42"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 65221125",
+    "email_address": "luna.vandenberg@hetnet.nl"
+}

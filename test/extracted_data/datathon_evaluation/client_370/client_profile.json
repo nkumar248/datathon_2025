@@ -1,0 +1,49 @@
+{
+    "name": "Fernández Martín Rodríguez",
+    "address": {
+        "city": "Seville",
+        "street name": "Calle de San Andrés",
+        "street number": 85,
+        "postal code": "04691"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "2000-10-12",
+    "nationality": "Spanish",
+    "passport_number": "LK2963301",
+    "passport_issue_date": "2021-05-05",
+    "passport_expiry_date": "2026-05-04",
+    "gender": "M",
+    "phone_number": "+34 615 702 389",
+    "email_address": "fernandez.rodriguez@orange.es",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "IES María Zambrano Sevilla",
+        "graduation_year": 2019
+    },
+    "higher_education": [
+        {
+            "university": "Complutense University of Madrid",
+            "graduation_year": 2023
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1640000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2016,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

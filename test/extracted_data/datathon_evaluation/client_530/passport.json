@@ -1,0 +1,17 @@
+{
+    "first_name": "Julia",
+    "middle_name": "Sophia",
+    "last_name": "Zbinden",
+    "gender": "F",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1967-04-20",
+    "passport_number": "AS8908394",
+    "passport_mrz": [
+        "P<CHEZBINDEN<<JULIA<SOPHIA<<<<<<<<<<<<<<<<<<<",
+        "AS8908394CHE670420<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-10-30",
+    "passport_expiry_date": "2034-10-29"
+}

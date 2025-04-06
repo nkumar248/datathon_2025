@@ -1,0 +1,45 @@
+{
+    "name": "Dubois Bertrand Bernard",
+    "address": {
+        "city": "Saint-Denis",
+        "street name": "Rue Marbeuf",
+        "street number": 51,
+        "postal code": "26755"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "2002-05-06",
+    "nationality": "French",
+    "passport_number": "MX7400647",
+    "passport_issue_date": "2022-03-01",
+    "passport_expiry_date": "2032-02-29",
+    "gender": "M",
+    "phone_number": "+33 02 39 58 66 62",
+    "email_address": "dubois.bernard@free.fr",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée Jean-Baptiste Say",
+        "graduation_year": 2021
+    },
+    "higher_education": [],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 2820000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria",
+        "France"
+    ],
+    "currency": "EUR"
+}

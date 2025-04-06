@@ -1,0 +1,17 @@
+{
+    "name": "Salminen Tiainen Rissanen",
+    "first_name": "Saljinen",
+    "middle_name": "Tiainen",
+    "last_name": "Rissanen",
+    "passport_number": "SF3444006",
+    "currency": "EUR",
+    "address": {
+        "city": "Lahti",
+        "street name": "Telakkakatu",
+        "street number": 31,
+        "postal code": "29940"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "++49043 354 03 97",
+    "email_address": "salminen.rissanen@phoenix.fi"
+}

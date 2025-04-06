@@ -1,0 +1,17 @@
+{
+    "first_name": "Beatrice",
+    "middle_name": "Gabriella",
+    "last_name": "Marini",
+    "gender": "F",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1973-09-10",
+    "passport_number": "OJ6728161",
+    "passport_mrz": [
+        "P<ITAMARINI<<BEATRICE<GABRIELLA<<<<<<<<<<<<<<",
+        "OJ6728161ITA730910<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2019-07-13",
+    "passport_expiry_date": "2029-07-12"
+}

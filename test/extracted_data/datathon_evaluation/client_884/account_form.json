@@ -1,0 +1,17 @@
+{
+    "name": "Nielsen Petersen Bjerregaard",
+    "first_name": "Nielsen",
+    "middle_name": "Petersen",
+    "last_name": "Bjerregaard",
+    "passport_number": "BZ5238236",
+    "currency": "DKK",
+    "address": {
+        "city": "Helsingør",
+        "street name": "Strøget",
+        "street number": 54,
+        "postal code": "2253"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "67 91 40 69",
+    "email_address": "nielsen.bjerregaard@wanadoo.dk"
+}

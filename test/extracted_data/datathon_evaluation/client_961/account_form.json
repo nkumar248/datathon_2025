@@ -1,0 +1,17 @@
+{
+    "name": "Josefiina Katriina Virtanen",
+    "first_name": "Josefiina",
+    "middle_name": "Katriina",
+    "last_name": "Miettinen",
+    "passport_number": "EY4562566",
+    "currency": "EUR",
+    "address": {
+        "city": "Helsinki",
+        "street name": "Pyynikintie",
+        "street number": 26,
+        "postal code": "10418"
+    },
+    "country_of_domicile": "Finland,France",
+    "phone_number": "+358 048 859 63 96",
+    "email_address": "josefiina.virtanen@pp.inet.fi"
+}

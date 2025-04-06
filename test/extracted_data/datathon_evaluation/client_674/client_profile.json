@@ -1,0 +1,50 @@
+{
+    "name": "Monika Hannah Bauer",
+    "address": {
+        "city": "Kitzbühel",
+        "street name": "Franz-Josef-Kai",
+        "street number": 79,
+        "postal code": "4934"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "2000-10-25",
+    "nationality": "Austrian",
+    "passport_number": "QB0244404",
+    "passport_issue_date": "2016-05-22",
+    "passport_expiry_date": "2026-05-21",
+    "gender": "F",
+    "phone_number": "+43 516 933 7027",
+    "email_address": "monika.bauer@hotmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "BRG/BORG Marchfeldstraße",
+        "graduation_year": 2019
+    },
+    "higher_education": [
+        {
+            "university": "Danube Private University Krems",
+            "graduation_year": 2025
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1840000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

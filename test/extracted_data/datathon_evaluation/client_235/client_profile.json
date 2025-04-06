@@ -1,0 +1,81 @@
+{
+    "name": "Frey Meier Werner",
+    "address": {
+        "city": "Sion",
+        "street name": "Elfenstrasse",
+        "street number": 5,
+        "postal code": "1515"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1972-06-01",
+    "nationality": "Swiss",
+    "passport_number": "MI7948054",
+    "passport_issue_date": "2020-02-21",
+    "passport_expiry_date": "2030-02-20",
+    "gender": "M",
+    "phone_number": "+41 016 428 06 77",
+    "email_address": "frey.werner@lycos.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Kantonsschule Sursee Luzern",
+        "graduation_year": 1990
+    },
+    "higher_education": [
+        {
+            "university": "University of St. Gallen",
+            "graduation_year": 1995
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1996,
+            "end_year": 1997,
+            "company": "Pfizer AG (Swiss branch)",
+            "position": "Research Scientist",
+            "salary": 60000
+        },
+        {
+            "start_year": 1997,
+            "end_year": null,
+            "company": "Pfizer AG (Swiss branch)",
+            "position": "Clinical Trials Manager",
+            "salary": 422000
+        }
+    ],
+    "aum": {
+        "savings": 730000,
+        "inheritance": 970000,
+        "real_estate_value": 7430000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2008,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1800000,
+            "property location": "Sion"
+        },
+        {
+            "property type": "house",
+            "property value": 3450000,
+            "property location": "Baden"
+        },
+        {
+            "property type": "flat",
+            "property value": 2180000,
+            "property location": "Schaffhausen"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "3 weeks",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Germany"
+    ],
+    "currency": "CHF"
+}

@@ -1,0 +1,88 @@
+{
+    "name": "Ellen Louise Højgaard",
+    "address": {
+        "city": "Randers",
+        "street name": "Israels Plads",
+        "street number": 43,
+        "postal code": "5624"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1969-02-03",
+    "nationality": "Danish",
+    "passport_number": "ZO3420908",
+    "passport_issue_date": "2016-07-11",
+    "passport_expiry_date": "2026-07-10",
+    "gender": "F",
+    "phone_number": "71 72 89 30",
+    "email_address": "ellen.hjgaard@tiscali.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Haderslev Katedralskole",
+        "graduation_year": 1986
+    },
+    "higher_education": [
+        {
+            "university": "Copenhagen Business School",
+            "graduation_year": 1991
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1993,
+            "end_year": 1995,
+            "company": "National Gallery of Denmark",
+            "position": "Art Dealer",
+            "salary": 286000
+        },
+        {
+            "start_year": 1996,
+            "end_year": 1999,
+            "company": "Louisiana Museum of Modern Art",
+            "position": "Gallery Owner",
+            "salary": 351000
+        },
+        {
+            "start_year": 2000,
+            "end_year": null,
+            "company": "Louisiana Museum of Modern Art",
+            "position": "Art Advisor",
+            "salary": 4145000
+        }
+    ],
+    "aum": {
+        "savings": 7860000,
+        "inheritance": 13180000,
+        "real_estate_value": 3868000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2007,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1778000,
+            "property location": "Randers"
+        },
+        {
+            "property type": "flat",
+            "property value": 1020000,
+            "property location": "Svendborg"
+        },
+        {
+            "property type": "condo",
+            "property value": 1070000,
+            "property location": "Hillerød"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

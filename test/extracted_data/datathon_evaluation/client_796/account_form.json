@@ -1,0 +1,17 @@
+{
+    "name": "Clémentine Laetitia Garcia",
+    "first_name": "Clémentine",
+    "middle_name": "Laetitia",
+    "last_name": "Garcia",
+    "passport_number": "BD8695678",
+    "currency": "EUR",
+    "address": {
+        "city": "Orléans",
+        "street name": "Pont des Arts",
+        "street number": 26,
+        "postal code": "93749"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "06 24 14 05 97",
+    "email_address": "clementine.garcia@numericable.fr"
+}

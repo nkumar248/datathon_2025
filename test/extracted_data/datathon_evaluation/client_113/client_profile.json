@@ -1,0 +1,64 @@
+{
+    "name": "Friso Wagemakers",
+    "address": {
+        "city": "Venlo",
+        "street name": "Nieuwmarkt",
+        "street number": 53,
+        "postal code": "3837 73"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1993-12-17",
+    "nationality": "Dutch",
+    "passport_number": "XO1568074",
+    "passport_issue_date": "2024-08-08",
+    "passport_expiry_date": "2034-08-07",
+    "gender": "F",
+    "phone_number": "+31 06 14094615",
+    "email_address": "friso.wagemakers@planet.nl",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Hoeksch Lyceum Rotterdam",
+        "graduation_year": 2012
+    },
+    "higher_education": [
+        {
+            "university": "Amsterdam University College",
+            "graduation_year": 2003
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2017,
+            "end_year": null,
+            "company": "CMA CGM Nederland B.V.",
+            "position": "Ship Broker",
+            "salary": 42000
+        }
+    ],
+    "aum": {
+        "savings": 40000,
+        "inheritance": 250000,
+        "real_estate_value": 1840000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1840000,
+            "property location": "Venlo"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

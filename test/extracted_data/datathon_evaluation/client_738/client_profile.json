@@ -1,0 +1,49 @@
+{
+    "name": "Ophélie Léa Dubois",
+    "address": {
+        "city": "Le Havre",
+        "street name": "Rue de la Huchette",
+        "street number": 50,
+        "postal code": "00936"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "2001-08-15",
+    "nationality": "French",
+    "passport_number": "FF7157040",
+    "passport_issue_date": "2018-09-30",
+    "passport_expiry_date": "2028-09-29",
+    "gender": "F",
+    "phone_number": "+33 06 34 72 06 34",
+    "email_address": "ophelie.dubois@yahoo.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée Chaptal",
+        "graduation_year": 2021
+    },
+    "higher_education": [
+        {
+            "university": "University of Toulouse",
+            "graduation_year": 2024
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 2280000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

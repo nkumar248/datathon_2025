@@ -1,0 +1,17 @@
+{
+    "name": "Madsen Petersen Jørgensen",
+    "first_name": "Madsen",
+    "middle_name": "Petersen",
+    "last_name": "Jørgensen",
+    "passport_number": "LC9519286",
+    "currency": "DKK",
+    "address": {
+        "city": "Kolding",
+        "street name": "Langebro",
+        "street number": 59,
+        "postal code": "6408"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "74 88 82 83",
+    "email_address": "madsen.jrgensen@yahoo.com"
+}

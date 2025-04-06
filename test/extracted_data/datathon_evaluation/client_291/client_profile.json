@@ -1,0 +1,57 @@
+{
+    "name": "Cecilia Martina Marini",
+    "address": {
+        "city": "Turin",
+        "street name": "Via Ugo Bassi",
+        "street number": 63,
+        "postal code": "82366"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1996-09-30",
+    "nationality": "Italian",
+    "passport_number": "HB7488939",
+    "passport_issue_date": "2022-10-08",
+    "passport_expiry_date": "2032-10-07",
+    "gender": "F",
+    "phone_number": "+39 316 5775051",
+    "email_address": "cecilia.marini@fastweb.it",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Liceo Musicale Arrigo Boito Parma",
+        "graduation_year": 2016
+    },
+    "higher_education": [
+        {
+            "university": "Superior School of Advanced Studies of Pisa",
+            "graduation_year": 2020
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2020,
+            "end_year": null,
+            "company": "Prada S.p.A.",
+            "position": "Assistant Designer",
+            "salary": 31000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 1460000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

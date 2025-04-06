@@ -1,0 +1,74 @@
+{
+    "name": "Bjerregaard Pedersen Friis",
+    "address": {
+        "city": "Frederiksberg",
+        "street name": "Linnemannsgade",
+        "street number": 14,
+        "postal code": "3705"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1989-11-21",
+    "nationality": "Danish",
+    "passport_number": "BO7821680",
+    "passport_issue_date": "2020-01-25",
+    "passport_expiry_date": "2030-01-24",
+    "gender": "M",
+    "phone_number": "98 04 28 47",
+    "email_address": "bjerregaard.friis@all.dk",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Nyborg Gymnasium",
+        "graduation_year": 2008
+    },
+    "higher_education": [
+        {
+            "university": "University College Capital",
+            "graduation_year": 2012
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2013,
+            "end_year": 2023,
+            "company": "Danske Bank A/S",
+            "position": "Family Office Manager",
+            "salary": 331000
+        }
+    ],
+    "aum": {
+        "savings": 390000,
+        "inheritance": 8810000,
+        "real_estate_value": 4734000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 1894000,
+            "property location": "Frederiksberg"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1760000,
+            "property location": "Esbjerg"
+        },
+        {
+            "property type": "flat",
+            "property value": 1080000,
+            "property location": "Frederiksberg"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Austria"
+    ],
+    "currency": "DKK"
+}

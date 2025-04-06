@@ -1,0 +1,17 @@
+{
+    "first_name": "Zbinden",
+    "middle_name": "Riedo",
+    "last_name": "Kägi",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1981-11-28",
+    "passport_number": "JD3983084",
+    "passport_mrz": [
+        "P<CHEKÄGI<<ZBINDEN<RIEDO<<<<<<<<<<<<<<<<<<<<<",
+        "JD3983084CHE811128<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-03-17",
+    "passport_expiry_date": "2034-03-16"
+}

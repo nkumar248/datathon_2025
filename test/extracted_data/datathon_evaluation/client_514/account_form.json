@@ -1,0 +1,17 @@
+{
+    "name": "Alice Fatima Peters",
+    "first_name": "Alice",
+    "middle_name": "Fatima",
+    "last_name": "Peters",
+    "passport_number": "XL9920586",
+    "currency": "EUR",
+    "address": {
+        "city": "Leuven",
+        "street name": "Rue des Deux Portes",
+        "street number": 72,
+        "postal code": "5127"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0488 456 238",
+    "email_address": "alice.peters@icloud.com"
+}

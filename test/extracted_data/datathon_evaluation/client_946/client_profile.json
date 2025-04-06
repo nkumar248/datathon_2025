@@ -1,0 +1,83 @@
+{
+    "name": "Kristensen Østergaard Madsen",
+    "address": {
+        "city": "Clermont-Ferrand",
+        "street name": "Rue Royale",
+        "street number": 1,
+        "postal code": "80680"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1976-04-06",
+    "nationality": "Danish",
+    "passport_number": "VZ3877738",
+    "passport_issue_date": "2019-03-03",
+    "passport_expiry_date": "2029-03-02",
+    "gender": "M",
+    "phone_number": "",
+    "email_address": "kristensen.madsenyahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Kolding Gymnasium",
+        "graduation_year": 1994
+    },
+    "higher_education": [
+        {
+            "university": "Aarhus University",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2000,
+            "end_year": 2003,
+            "company": "Société Générale S.A.",
+            "position": "Investment Banker",
+            "salary": 254000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2008,
+            "company": "Natixis S.A.",
+            "position": "Private Equity Investor",
+            "salary": 410000
+        },
+        {
+            "start_year": 2009,
+            "end_year": null,
+            "company": "Crédit Agricole S.A.",
+            "position": "Hedge Fund Manager",
+            "salary": 2162000
+        }
+    ],
+    "aum": {
+        "savings": 3020000,
+        "inheritance": 1360000,
+        "real_estate_value": 2191000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2005,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1071000,
+            "property location": "Clermont-Ferrand"
+        },
+        {
+            "property type": "condo",
+            "property value": 1120000,
+            "property location": "Hillerød"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "France"
+    ],
+    "currency": "EUR"
+}

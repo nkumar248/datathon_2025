@@ -1,0 +1,17 @@
+{
+    "name": "Delphine Alice Marchand",
+    "first_name": "Delphine",
+    "middle_name": "Alice",
+    "last_name": "Marchand",
+    "passport_number": "AC3364823",
+    "currency": "EUR",
+    "address": {
+        "city": "Rouen",
+        "street name": "Rue de Bretagne",
+        "street number": 59,
+        "postal code": "18585"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "04 22 17 54 72",
+    "email_address": "delphine.marchand@outlook.com"
+}

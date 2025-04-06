@@ -1,0 +1,17 @@
+{
+    "name": "Jost Müller Kägi",
+    "first_name": "Jost",
+    "middle_name": "Müller",
+    "last_name": "Kägi",
+    "passport_number": "RK3421779",
+    "currency": "CHF",
+    "address": {
+        "city": "Baden",
+        "street name": "Rue des Délices",
+        "street number": 34,
+        "postal code": "1350"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 044 259 51 35",
+    "email_address": "jost.kagi@swisscom.ch"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Boucher Thomas Bernard",
+    "first_name": "Boucher",
+    "middle_name": "Thomas",
+    "last_name": "Bernard",
+    "passport_number": "CO9327673",
+    "currency": "EUR",
+    "address": {
+        "city": "Nantes",
+        "street name": "Boulevard Raspail",
+        "street number": 87,
+        "postal code": "01643"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 05 18 58 02 96",
+    "email_address": "boucher.bernard@yahoo.com"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Bjerregaard Pedersen Friis",
+    "first_name": "Bjerregaard",
+    "middle_name": "Pedersen",
+    "last_name": "Friis",
+    "passport_number": "BO7821680",
+    "currency": "DKK",
+    "address": {
+        "city": "Frederiksberg",
+        "street name": "Linnemannsgade",
+        "street number": 14,
+        "postal code": "3705"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "98 04 28 47",
+    "email_address": "bjerregaard.friis@all.dk"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Esposito Fantini",
+    "first_name": "Esposito",
+    "middle_name": "",
+    "last_name": "Fantini",
+    "passport_number": "FI6744560",
+    "currency": "EUR",
+    "address": {
+        "city": "Trieste",
+        "street name": "Via Ugo Bassi",
+        "street number": 44,
+        "postal code": "74257"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 316 5953996",
+    "email_address": "esposito.fantini@tin.it"
+}

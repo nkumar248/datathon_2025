@@ -1,0 +1,17 @@
+{
+    "name": "Aino Liisa Peltola",
+    "first_name": "Aino",
+    "middle_name": "Liisa",
+    "last_name": "Peltola",
+    "passport_number": "XN1491037",
+    "currency": "EUR",
+    "address": {
+        "city": "Oulu",
+        "street name": "Paasivuorenkatu",
+        "street number": 65,
+        "postal code": "13364"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 045 908 38 23",
+    "email_address": "aino.peltola@yahoo.com"
+}

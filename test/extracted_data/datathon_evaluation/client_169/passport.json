@@ -1,0 +1,17 @@
+{
+    "first_name": "Gasser",
+    "middle_name": "Egli",
+    "last_name": "Brunner",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1987-06-06",
+    "passport_number": "GV2170860",
+    "passport_mrz": [
+        "P<CHEBRUNNER<<GASSER<EGLI<<<<<<<<<<<<<<<<<<<<",
+        "GV2170860CHE870606<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2018-11-29",
+    "passport_expiry_date": "2028-11-28"
+}

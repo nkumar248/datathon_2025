@@ -1,0 +1,17 @@
+{
+    "name": "Emma Charlotte Zimmermann",
+    "first_name": "Emma",
+    "middle_name": "Charlotte",
+    "last_name": "Zimmermann",
+    "passport_number": "IU0954706",
+    "currency": "EUR",
+    "address": {
+        "city": "Münster",
+        "street name": "Bahnhofstraße",
+        "street number": "",
+        "postal code": "12733"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "3815 402108",
+    "email_address": "emma.zimmermann@versatel.de"
+}

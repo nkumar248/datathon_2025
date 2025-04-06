@@ -1,0 +1,49 @@
+{
+    "name": "Lotta Laura Lehtinen",
+    "address": {
+        "city": "Lappeenranta",
+        "street name": "Nordea-puistotie",
+        "street number": 72,
+        "postal code": "63274"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "2000-11-04",
+    "nationality": "Finnish",
+    "passport_number": "KY1028976",
+    "passport_issue_date": "2019-05-17",
+    "passport_expiry_date": "2029-05-16",
+    "gender": "F",
+    "phone_number": "+358 047 554 82 68",
+    "email_address": "lotta.lehtinen@pp.inet.fi",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lehmo lukio",
+        "graduation_year": 2020
+    },
+    "higher_education": [
+        {
+            "university": "University of Jyväskylä",
+            "graduation_year": 2024
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 2960000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Lang Huber Graf",
+    "first_name": "Lang",
+    "middle_name": "Huber",
+    "last_name": "Graf",
+    "passport_number": "MQ4309248",
+    "currency": "EUR",
+    "address": {
+        "city": "Sankt Pölten",
+        "street name": "Andreas-Hofer-Straße",
+        "street number": 76,
+        "postal code": "0948"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "++33208 052 8015",
+    "email_address": "lang.graf@yahoo.com"
+}

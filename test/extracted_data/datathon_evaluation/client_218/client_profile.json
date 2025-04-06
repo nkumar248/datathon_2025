@@ -1,0 +1,75 @@
+{
+    "name": "Moens Vandenberghe Hermans",
+    "address": {
+        "city": "Geel",
+        "street name": "Rue Royale",
+        "street number": 57,
+        "postal code": "7584"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1988-07-01",
+    "nationality": "Belgian",
+    "passport_number": "MG1741214",
+    "passport_issue_date": "2023-12-27",
+    "passport_expiry_date": "2030-12-26",
+    "gender": "M",
+    "phone_number": "0435 349 894",
+    "email_address": "moens.hermans@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Ecole Secondaire Libre du Sacré-Cœur",
+        "graduation_year": 2006
+    },
+    "higher_education": [
+        {
+            "university": "Vesalius College",
+            "graduation_year": 2013
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2013,
+            "end_year": 2018,
+            "company": "Dries Van Noten NV",
+            "position": "Assistant Designer",
+            "salary": 47000
+        },
+        {
+            "start_year": 2020,
+            "end_year": 2025,
+            "company": "Walter Van Beirendonck BVBA",
+            "position": "Senior Designer",
+            "salary": 67000
+        }
+    ],
+    "aum": {
+        "savings": 90000,
+        "inheritance": 140000,
+        "real_estate_value": 2780000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2016,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1280000,
+            "property location": "Geel"
+        },
+        {
+            "property type": "house",
+            "property value": 1500000,
+            "property location": "Binche"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

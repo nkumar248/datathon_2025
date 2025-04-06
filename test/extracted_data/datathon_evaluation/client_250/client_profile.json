@@ -1,0 +1,76 @@
+{
+    "name": "Giulia  Leonardi",
+    "address": {
+        "city": "Bologna",
+        "street name": "Via Po",
+        "street number": 96,
+        "postal code": "79544"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1982-02-11",
+    "nationality": "Italian",
+    "passport_number": "WZ6719976",
+    "passport_issue_date": "2016-07-04",
+    "passport_expiry_date": "2026-07-03",
+    "gender": "F",
+    "phone_number": "337 5526089",
+    "email_address": "giulia.leonardi@wind.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Istituto Tecnico Industriale Statale Enrico Mattei Roma",
+        "graduation_year": 2000
+    },
+    "higher_education": [
+        {
+            "university": "Polytechnic University of Turin",
+            "graduation_year": 2006
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2005,
+            "end_year": 2008,
+            "company": "Grimaldi Group S.p.A.",
+            "position": "Ship Broker",
+            "salary": 25000
+        },
+        {
+            "start_year": 2009,
+            "end_year": null,
+            "company": "MSC Mediterranean Shipping Company S.A.",
+            "position": "Shipping Company Owner",
+            "salary": 98000
+        }
+    ],
+    "aum": {
+        "savings": 140000,
+        "inheritance": 420000,
+        "real_estate_value": 3260000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2014,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2160000,
+            "property location": "Bologna"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1100000,
+            "property location": "Messina"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "Italy"
+    ],
+    "currency": "EUR"
+}

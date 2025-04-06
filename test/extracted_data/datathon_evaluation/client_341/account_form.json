@@ -1,0 +1,17 @@
+{
+    "name": "Schneider Graf Egger",
+    "first_name": "Schneider",
+    "middle_name": "Graf",
+    "last_name": "Egger",
+    "passport_number": "VI9294762",
+    "currency": "EUR",
+    "address": {
+        "city": "Amstetten",
+        "street name": "Obere Donaustraße",
+        "street number": 5,
+        "postal code": "6294"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 864 740 2075",
+    "email_address": "schneider.egger@vol.at"
+}

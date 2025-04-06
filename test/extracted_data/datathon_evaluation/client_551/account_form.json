@@ -1,0 +1,17 @@
+{
+    "name": "Carolin Hanna Schneider",
+    "first_name": "Carolin",
+    "middle_name": "Hanna",
+    "last_name": "Schneider",
+    "passport_number": "BK3304839",
+    "currency": "EUR",
+    "address": {
+        "city": "Braunschweig",
+        "street name": "Altonaer Straße",
+        "street number": 1,
+        "postal code": "84881"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+4 7224 970812",
+    "email_address": "carolin.schneider@t-online.de"
+}

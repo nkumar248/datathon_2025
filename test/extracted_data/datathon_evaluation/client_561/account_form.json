@@ -1,0 +1,17 @@
+{
+    "name": "Voorn Van Dijk Veenhoven",
+    "first_name": "Voorn",
+    "middle_name": "Van Dijk",
+    "last_name": "Veenhoven",
+    "passport_number": "DC9907074",
+    "currency": "EUR",
+    "address": {
+        "city": "Tilburg",
+        "street name": "Koninginnegracht",
+        "street number": 35,
+        "postal code": "0054 80"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 50930720",
+    "email_address": "voorn.veenhoven@live.nl"
+}

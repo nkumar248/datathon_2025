@@ -1,0 +1,17 @@
+{
+    "name": "Schwarz Graf Mayr",
+    "first_name": "Schwarz",
+    "middle_name": "Graf",
+    "last_name": "Mayr",
+    "passport_number": "PE2183282",
+    "currency": "EUR",
+    "address": {
+        "city": "Gmunden",
+        "street name": "Landstraßer Hauptstraße",
+        "street number": 7,
+        "postal code": "5757"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "442 144 1974",
+    "email_address": "schwarz.mayr@liwest.at"
+}

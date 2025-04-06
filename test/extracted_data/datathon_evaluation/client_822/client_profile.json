@@ -1,0 +1,70 @@
+{
+    "name": "Céline Gisèle Schneider",
+    "address": {
+        "city": "St. Gallen",
+        "street name": "Rue des Délices",
+        "street number": 15,
+        "postal code": "3623"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1983-02-13",
+    "nationality": "Swiss",
+    "passport_number": "FY4929466",
+    "passport_issue_date": "2020-06-08",
+    "passport_expiry_date": "2030-06-07",
+    "gender": "F",
+    "phone_number": "++49 097 563 74 42",
+    "email_address": "celine.schneider@sunrise.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Kantonsschule Sursee Luzern",
+        "graduation_year": 1992
+    },
+    "higher_education": [
+        {
+            "university": "Suffolk University in Geneva",
+            "graduation_year": 1994
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2007,
+            "end_year": 2009,
+            "company": "Roche Holding AG",
+            "position": "Research Scientist",
+            "salary": 59000
+        },
+        {
+            "start_year": 2011,
+            "end_year": null,
+            "company": "Novartis AG",
+            "position": "Biotech Startup Founder",
+            "salary": 219000
+        }
+    ],
+    "aum": {
+        "savings": 300000,
+        "inheritance": 1720000,
+        "real_estate_value": 2310000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2012,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 2310000,
+            "property location": "St. Gallen"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

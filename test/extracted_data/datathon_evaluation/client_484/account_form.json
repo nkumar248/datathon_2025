@@ -1,0 +1,17 @@
+{
+    "name": "Maassen Kuipers Willems",
+    "first_name": "Maassen",
+    "middle_name": "Kuipers",
+    "last_name": "Willems",
+    "passport_number": "CU8066771",
+    "currency": "EUR",
+    "address": {
+        "city": "Tilburg",
+        "street name": "Mauritskade",
+        "street number": 100,
+        "postal code": "6766 46"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "06 88842913",
+    "email_address": "maassen.willems@hetnet.nl"
+}

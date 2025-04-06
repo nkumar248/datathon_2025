@@ -1,0 +1,17 @@
+{
+    "name": "Beatrix Gertrud Lechner",
+    "first_name": "Beatrix",
+    "middle_name": "Gertrud",
+    "last_name": "Lechner",
+    "passport_number": "MY7900092",
+    "currency": "EUR",
+    "address": {
+        "city": "Eisenstadt",
+        "street name": "Untere Donaustraße",
+        "street number": 98,
+        "postal code": "1894"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 213 298 4538",
+    "email_address": "beatrix.lechner@web.at"
+}

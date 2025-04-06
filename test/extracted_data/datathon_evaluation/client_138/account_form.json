@@ -1,0 +1,17 @@
+{
+    "name": "Vandenberghe Van den Berghe Peeters",
+    "first_name": "Vandenberghe",
+    "middle_name": "Van den Berghe",
+    "last_name": "Peeters",
+    "passport_number": "NX3216271",
+    "currency": "EUR",
+    "address": {
+        "city": "Kortrijk",
+        "street name": "Rue des Deux Portes",
+        "street number": 23,
+        "postal code": "7367"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0483 453 852",
+    "email_address": "vandenberghe.peeters@belgacom.be"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Snijders Schipper",
+    "first_name": "Snijders",
+    "middle_name": "",
+    "last_name": "Schipper",
+    "passport_number": "SJ6689806",
+    "currency": "EUR",
+    "address": {
+        "city": "Rotterdam",
+        "street name": "Waldeck Pyrmontkade",
+        "street number": 42,
+        "postal code": "7544 60"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "06 03588813",
+    "email_address": "snijders.schipper@hotspots.nl"
+}

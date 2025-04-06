@@ -1,0 +1,17 @@
+{
+    "name": "Laura Olivia Olsen",
+    "first_name": "Laura",
+    "middle_name": "Olivia",
+    "last_name": "Olsen",
+    "passport_number": "AL1004291",
+    "currency": "DKK",
+    "address": {
+        "city": "Århus N",
+        "street name": "Nygårdsvej",
+        "street number": 38,
+        "postal code": "6366"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 60 48 22 48",
+    "email_address": "laura.olsen@siminn.dk"
+}

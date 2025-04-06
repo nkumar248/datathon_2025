@@ -1,0 +1,92 @@
+{
+    "name": "Antonia Araceli Ibáñez",
+    "address": {
+        "city": "Barcelona",
+        "street name": "Calle de la Reina Cristina",
+        "street number": 77,
+        "postal code": "73034"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1982-08-27",
+    "nationality": "Spanish",
+    "passport_number": "GQ3362735",
+    "passport_issue_date": "2018-09-06",
+    "passport_expiry_date": "2028-09-05",
+    "gender": "F",
+    "phone_number": "+34 689 417 709",
+    "email_address": "antonia.ibanez@orange.es",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Colegio El Pilar Getafe",
+        "graduation_year": 2000
+    },
+    "higher_education": [
+        {
+            "university": "University of the Basque Country",
+            "graduation_year": 1993
+        },
+        {
+            "university": "Polytechnic University of Madrid",
+            "graduation_year": 2009
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2006,
+            "end_year": 2011,
+            "company": "Almirall S.A.",
+            "position": "Research Scientist",
+            "salary": 35000
+        },
+        {
+            "start_year": 2012,
+            "end_year": 2014,
+            "company": "Zeltia S.A.",
+            "position": "Biotech Startup Founder",
+            "salary": 42000
+        },
+        {
+            "start_year": 2015,
+            "end_year": null,
+            "company": "PharmaMar S.A.",
+            "position": "CEO",
+            "salary": 108000
+        }
+    ],
+    "aum": {
+        "savings": 160000,
+        "inheritance": 3190000,
+        "real_estate_value": 3247000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2013,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1447000,
+            "property location": "Barcelona"
+        },
+        {
+            "property type": "flat",
+            "property value": 950000,
+            "property location": "Oviedo"
+        },
+        {
+            "property type": "condo",
+            "property value": 850000,
+            "property location": "Bilbao"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "Italy"
+    ],
+    "currency": "EUR"
+}

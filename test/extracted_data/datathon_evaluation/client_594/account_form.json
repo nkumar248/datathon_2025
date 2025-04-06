@@ -1,0 +1,17 @@
+{
+    "name": "Anaís Araceli Soto",
+    "first_name": "Anaís",
+    "middle_name": "Araceli",
+    "last_name": "Soto",
+    "passport_number": "KW5238672",
+    "currency": "EUR",
+    "address": {
+        "city": "Teruel",
+        "street name": "Plaza de España",
+        "street number": 47,
+        "postal code": "85739"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "615 859 286",
+    "email_address": "anais.soto@orange.es"
+}

@@ -1,0 +1,71 @@
+{
+    "name": "Daphné Alexandra Lemaire",
+    "address": {
+        "city": "Kerava",
+        "street name": "Kalliolanpuisto",
+        "street number": 92,
+        "postal code": "28092"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1993-08-23",
+    "nationality": "Belgian",
+    "passport_number": "MH5152471",
+    "passport_issue_date": "2023-08-02",
+    "passport_expiry_date": "2030-08-01",
+    "gender": "F",
+    "phone_number": "043 145 63 21",
+    "email_address": "daphne.lemaire@dnainternet.fi",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Institut Saint-Louis",
+        "graduation_year": 2013
+    },
+    "higher_education": [
+        {
+            "university": "University of Liège",
+            "graduation_year": 2018
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2017,
+            "end_year": 2020,
+            "company": "Orion Corporation",
+            "position": "Research Scientist",
+            "salary": 40000
+        },
+        {
+            "start_year": 2021,
+            "end_year": null,
+            "company": "Finnish Red Cross Blood Service",
+            "position": "Biotech Startup Founder",
+            "salary": 61000
+        }
+    ],
+    "aum": {
+        "savings": 60000,
+        "inheritance": 7300000,
+        "real_estate_value": 920000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2016,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 920000,
+            "property location": "Kerava"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

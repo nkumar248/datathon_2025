@@ -1,0 +1,57 @@
+{
+    "name": "Jørgensen Mikkelsen Kristensen",
+    "address": {
+        "city": "Gentofte",
+        "street name": "Gammel Torv",
+        "street number": 24,
+        "postal code": "6216"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1997-06-17",
+    "nationality": "Danish",
+    "passport_number": "SS6613734",
+    "passport_issue_date": "2020-05-18",
+    "passport_expiry_date": "2030-05-17",
+    "gender": "M",
+    "phone_number": "+45 39 35 27 82",
+    "email_address": "jrgensen.kristensen@yousee.dk",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Birkerød Gymnasium",
+        "graduation_year": 2017
+    },
+    "higher_education": [
+        {
+            "university": "Copenhagen Business School",
+            "graduation_year": 2022
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2022,
+            "end_year": null,
+            "company": "Total E&P Danmark A/S",
+            "position": "Drilling Engineer",
+            "salary": 294000
+        }
+    ],
+    "aum": {
+        "savings": 130000,
+        "inheritance": 11500000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

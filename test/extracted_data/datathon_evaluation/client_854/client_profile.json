@@ -1,0 +1,64 @@
+{
+    "name": "Lucas Juliette Dumont",
+    "address": {
+        "city": "Liège",
+        "street name": "Rue de la Révolution Belge",
+        "street number": 73,
+        "postal code": "6050"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1997-09-23",
+    "nationality": "Belgian",
+    "passport_number": "VW0273497",
+    "passport_issue_date": "2022-12-12",
+    "passport_expiry_date": "2029-12-11",
+    "gender": "F",
+    "phone_number": "+32 0430 420 971",
+    "email_address": "lucas.dumont@belgacom.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Ecole Secondaire Libre du Sacré-Cœur",
+        "graduation_year": 2017
+    },
+    "higher_education": [
+        {
+            "university": "Hasselt University",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2022,
+            "end_year": 2024,
+            "company": "Galapagos NV",
+            "position": "Research Scientist",
+            "salary": 37000
+        },
+        {
+            "start_year": 2025,
+            "end_year": null,
+            "company": "Takeda Pharmaceuticals Belgium",
+            "position": "Biotech Startup Founder",
+            "salary": 51000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 2180000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2019,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

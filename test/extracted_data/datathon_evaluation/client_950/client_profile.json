@@ -1,0 +1,85 @@
+{
+    "name": "Corinne Sophia Baumgartner",
+    "address": {
+        "city": "Chur",
+        "street name": "Place de la Navigation",
+        "street number": 26,
+        "postal code": "6858"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1954-05-10",
+    "nationality": "Swiss",
+    "passport_number": "UD6948938",
+    "passport_issue_date": "2022-06-02",
+    "passport_expiry_date": "2032-06-01",
+    "gender": "F",
+    "phone_number": "084 178 32 37",
+    "email_address": "corinne.baumgartner@bluewin.ch",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Liceo scientifico Giovanni Polli Lugano",
+        "graduation_year": 1973
+    },
+    "higher_education": [
+        {
+            "university": "University of Fribourg",
+            "graduation_year": 1977
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1978,
+            "end_year": 1981,
+            "company": "Varo Energy AG",
+            "position": "Drilling Engineer",
+            "salary": 62000
+        },
+        {
+            "start_year": 1982,
+            "end_year": 1986,
+            "company": "Varo Energy AG",
+            "position": "Reservoir Engineer",
+            "salary": 83000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 1988,
+            "company": "Petrolift AG",
+            "position": "Operations Manager",
+            "salary": 123000
+        },
+        {
+            "start_year": 1988,
+            "end_year": 2015,
+            "company": "Varo Energy AG",
+            "position": "VP of Exploration",
+            "salary": 1507000
+        }
+    ],
+    "aum": {
+        "savings": 2690000,
+        "inheritance": 0,
+        "real_estate_value": 4540000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 2700000,
+            "property location": "Chur"
+        },
+        {
+            "property type": "flat",
+            "property value": 1840000,
+            "property location": "Lausanne"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Aino Ahonen",
+    "first_name": "Aino",
+    "middle_name": "",
+    "last_name": "Ahonen",
+    "passport_number": "QA7392430",
+    "currency": "EUR",
+    "address": {
+        "city": "Rauma",
+        "street name": "Vuorimiehenkatu",
+        "street number": 48,
+        "postal code": "30788"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 044 768 83 49",
+    "email_address": "aino.ahonen@outlook.com"
+}

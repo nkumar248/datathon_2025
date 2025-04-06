@@ -1,0 +1,80 @@
+{
+    "name": "Andersen Jensen Mikkelsen",
+    "address": {
+        "city": "Copenhagen",
+        "street name": "Åboulevarden",
+        "street number": 5,
+        "postal code": "3658"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1966-10-12",
+    "nationality": "Danish",
+    "passport_number": "JA3902482",
+    "passport_issue_date": "2019-11-24",
+    "passport_expiry_date": "2029-11-23",
+    "gender": "M",
+    "phone_number": "+45 24 56 76 38",
+    "email_address": "andersen.mikkelsen@yousee.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Nørre GYM",
+        "graduation_year": 1986
+    },
+    "higher_education": [
+        {
+            "university": "International Business Academy (IBA)",
+            "graduation_year": 1991
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1991,
+            "end_year": 1994,
+            "company": "Advent International Danmark A/S",
+            "position": "Analyst",
+            "salary": 284000
+        },
+        {
+            "start_year": 1994,
+            "end_year": null,
+            "company": "KKR & Co. Danmark A/S",
+            "position": "Associate",
+            "salary": 2752000
+        }
+    ],
+    "aum": {
+        "savings": 5030000,
+        "inheritance": 1440000,
+        "real_estate_value": 4827000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2009,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1670000,
+            "property location": "Copenhagen"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1547000,
+            "property location": "Helsingør"
+        },
+        {
+            "property type": "house",
+            "property value": 1610000,
+            "property location": "Greve"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

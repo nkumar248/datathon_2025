@@ -1,0 +1,17 @@
+{
+    "first_name": "Dubois",
+    "middle_name": "Robert",
+    "last_name": "Lemaître",
+    "gender": "M",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1980-11-09",
+    "passport_number": "QX9057514",
+    "passport_mrz": [
+        "P<FRALEMAÎTRE<<DUBOIS<ROBERT<<<<<<<<<<<<<<<<<",
+        "QX9057514FRA801109<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-07-17",
+    "passport_expiry_date": "2033-07-16"
+}

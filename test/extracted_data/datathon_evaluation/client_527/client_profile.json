@@ -1,0 +1,58 @@
+{
+    "name": "Anna Monika Koller",
+    "address": {
+        "city": "Traun",
+        "street name": "Schlossallee",
+        "street number": 50,
+        "postal code": "7601"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1996-08-26",
+    "nationality": "Austrian",
+    "passport_number": "IR5159358",
+    "passport_issue_date": "2021-09-21",
+    "passport_expiry_date": "2031-09-20",
+    "gender": "F",
+    "phone_number": "+43 665 645 4235",
+    "email_address": "anna.koller@magenta.at",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Akademisches Gymnasium Graz",
+        "graduation_year": 2016
+    },
+    "higher_education": [
+        {
+            "university": "Mozarteum University Salzburg",
+            "graduation_year": 2020
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2020,
+            "end_year": null,
+            "company": "Gunvor Group",
+            "position": "Junior Trader",
+            "salary": 34000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 2670000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2020,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "",
+    "investment_horizon": "Short",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

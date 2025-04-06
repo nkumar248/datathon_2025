@@ -1,0 +1,50 @@
+{
+    "name": "Katharina Josefine Brandstetter",
+    "address": {
+        "city": "Graz",
+        "street name": "Alpenstraße",
+        "street number": 68,
+        "postal code": "6883"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "2001-08-30",
+    "nationality": "Austrian",
+    "passport_number": "GW2750449",
+    "passport_issue_date": "2018-02-09",
+    "passport_expiry_date": "2028-02-08",
+    "gender": "F",
+    "phone_number": "+43 210 152 6966",
+    "email_address": "katharina.brandstetter@gmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée Français de Vienne",
+        "graduation_year": 2020
+    },
+    "higher_education": [
+        {
+            "university": "Graz University of Technology",
+            "graduation_year": 2024
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 2060000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2019,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Balanced",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "first_name": "Furrer",
+    "middle_name": "Jost",
+    "last_name": "Suter",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1970-10-15",
+    "passport_number": "EE5407505",
+    "passport_mrz": [
+        "P<CHESUTER<<FURRER<JOST<<<<<<<<<<<<<<<<<<<<<<",
+        "EE5407505CHE101570<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2021-09-14",
+    "passport_expiry_date": "2031-09-13"
+}

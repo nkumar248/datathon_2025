@@ -1,0 +1,80 @@
+{
+    "name": "Françoise Gisèle Werner",
+    "address": {
+        "city": "Bellinzona",
+        "street name": "Stadthausplatz",
+        "street number": 72,
+        "postal code": "8689"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1987-01-10",
+    "nationality": "Swiss",
+    "passport_number": "LT2776992",
+    "passport_issue_date": "2016-06-13",
+    "passport_expiry_date": "2026-06-12",
+    "gender": "F",
+    "phone_number": "+41 081 211 49 32",
+    "email_address": "francoise.werner@hotmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Kantonsschule Liestal Basel-Landschaft",
+        "graduation_year": 2006
+    },
+    "higher_education": [
+        {
+            "university": "Lausanne Hospitality School",
+            "graduation_year": 2011
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2014,
+            "company": " Implenia AG",
+            "position": "Property Manager",
+            "salary": 62000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "ALLREAL Group AG",
+            "position": "Developer",
+            "salary": 129000
+        }
+    ],
+    "aum": {
+        "savings": 180000,
+        "inheritance": 1860000,
+        "real_estate_value": 8660000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2019,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 4010000,
+            "property location": "Bellinzona"
+        },
+        {
+            "property type": "house",
+            "property value": 2820000,
+            "property location": "Basel"
+        },
+        {
+            "property type": "flat",
+            "property value": 1830000,
+            "property location": "Sion"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

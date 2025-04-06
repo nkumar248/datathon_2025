@@ -1,0 +1,17 @@
+{
+    "first_name": "Françoise",
+    "middle_name": "Elisabeth",
+    "last_name": "Riedo",
+    "gender": "F",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1993-12-28",
+    "passport_number": "GV9590354",
+    "passport_mrz": [
+        "P<CHERIEDO<<FRANÇOISE<ELISABETH<<<<<<<<<<<<<<",
+        "GV9590354CHE931228<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-09-12",
+    "passport_expiry_date": "2034-09-11"
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Camille Gabrielle Thomas",
+    "address": {
+        "city": "Krems an der Donau",
+        "street name": "Opernring",
+        "street number": 74,
+        "postal code": "6041"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1957-01-08",
+    "nationality": "French",
+    "passport_number": "NG0555909",
+    "passport_issue_date": "2024-04-13",
+    "passport_expiry_date": "2034-04-12",
+    "gender": "F",
+    "phone_number": "+43 927 331 9021",
+    "email_address": "camille.thomas@aon.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Gustave Eiffel",
+        "graduation_year": 1974
+    },
+    "higher_education": [
+        {
+            "university": "University of Bordeaux",
+            "graduation_year": 1980
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1981,
+            "end_year": 1982,
+            "company": "Wolford AG",
+            "position": "Assistant Designer",
+            "salary": 29000
+        },
+        {
+            "start_year": 1982,
+            "end_year": 1984,
+            "company": "Swarovski AG",
+            "position": "Senior Designer",
+            "salary": 49000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 2017,
+            "company": "Petra Hartmann GmbH",
+            "position": "Creative Director",
+            "salary": 510000
+        }
+    ],
+    "aum": {
+        "savings": 980000,
+        "inheritance": 0,
+        "real_estate_value": 1010000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1010000,
+            "property location": "Krems an der Donau"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

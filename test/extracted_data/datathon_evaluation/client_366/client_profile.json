@@ -1,0 +1,77 @@
+{
+    "name": "Anne Jasmijn Schipper",
+    "address": {
+        "city": "Hoofddorp",
+        "street name": "Waterlooplein",
+        "street number": 99,
+        "postal code": "8830 73"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1986-01-12",
+    "nationality": "Dutch",
+    "passport_number": "KO7796308",
+    "passport_issue_date": "2021-10-25",
+    "passport_expiry_date": "2031-10-24",
+    "gender": "F",
+    "phone_number": "+31 06 85917727",
+    "email_address": "anne.schipper@kpnmail.nl",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Leonardo College 's-Hertogenbosch",
+        "graduation_year": 2003
+    },
+    "higher_education": [
+        {
+            "university": "University of Amsterdam",
+            "graduation_year": 2008
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2009,
+            "end_year": 2011,
+            "company": "Stater Nederland N.V.",
+            "position": "Financial Advisor",
+            "salary": 43000
+        },
+        {
+            "start_year": 2012,
+            "end_year": 2016,
+            "company": "Rabobank Private Banking",
+            "position": "Portfolio Manager",
+            "salary": 63000
+        },
+        {
+            "start_year": 2018,
+            "end_year": null,
+            "company": "Stater Nederland N.V.",
+            "position": "Wealth Manager",
+            "salary": 167000
+        }
+    ],
+    "aum": {
+        "savings": 180000,
+        "inheritance": 230000,
+        "real_estate_value": 2630000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2630000,
+            "property location": "Hoofddorp"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

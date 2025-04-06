@@ -1,0 +1,17 @@
+{
+    "name": "Savolainen Seppälä",
+    "first_name": "Savolainen",
+    "middle_name": "",
+    "last_name": "Seppälä",
+    "passport_number": "DJ5337184",
+    "currency": "EUR",
+    "address": {
+        "city": "Kerava",
+        "street name": "Helsinginkatu",
+        "street number": 31,
+        "postal code": "92312"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 047 547 45 04",
+    "email_address": "savolainen.seppala@finet.fi"
+}

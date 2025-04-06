@@ -1,0 +1,88 @@
+{
+    "name": "Nicolas Martin Legrand",
+    "address": {
+        "city": "Brest",
+        "street name": "Rue Elzévir",
+        "street number": 13,
+        "postal code": "52542"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1973-08-05",
+    "nationality": "French",
+    "passport_number": "IF3644962",
+    "passport_issue_date": "2020-03-04",
+    "passport_expiry_date": "2030-03-03",
+    "gender": "M",
+    "phone_number": "+33 05 01 93 84 76",
+    "email_address": "nicolas.legrand@hotmail.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Lycée Gustave Eiffel",
+        "graduation_year": 1982
+    },
+    "higher_education": [
+        {
+            "university": "IUT de Strasbourg",
+            "graduation_year": 1996
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1998,
+            "end_year": 2001,
+            "company": "Thales S.A.",
+            "position": "Software Developer",
+            "salary": 33000
+        },
+        {
+            "start_year": 2003,
+            "end_year": 2004,
+            "company": "STMicroelectronics S.A.",
+            "position": "Startup Founder",
+            "salary": 43000
+        },
+        {
+            "start_year": 2005,
+            "end_year": null,
+            "company": "STMicroelectronics S.A.",
+            "position": "CEO",
+            "salary": 325000
+        }
+    ],
+    "aum": {
+        "savings": 520000,
+        "inheritance": 660000,
+        "real_estate_value": 6890000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2007,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1730000,
+            "property location": "Brest"
+        },
+        {
+            "property type": "villa",
+            "property value": 3200000,
+            "property location": "Paris"
+        },
+        {
+            "property type": "house",
+            "property value": 1960000,
+            "property location": "Paris"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Almudena Consuelo Martínez",
+    "first_name": "Almudena",
+    "middle_name": "Consuelo",
+    "last_name": "Martínez",
+    "passport_number": "FG4759696",
+    "currency": "EUR",
+    "address": {
+        "city": "Barcelona",
+        "street name": "Calle de San Bernardo",
+        "street number": 38,
+        "postal code": "84618"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 698 962 502",
+    "email_address": "almudena.martinez@outlook.com"
+}

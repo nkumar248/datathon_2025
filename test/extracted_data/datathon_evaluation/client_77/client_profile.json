@@ -1,0 +1,71 @@
+{
+    "name": "Uhlig Schneider Meier",
+    "address": {
+        "city": "Munich",
+        "street name": "Kudamm-Karree",
+        "street number": 91,
+        "postal code": "70619"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1991-11-16",
+    "nationality": "German",
+    "passport_number": "ES7252548",
+    "passport_issue_date": "2021-09-24",
+    "passport_expiry_date": "2031-09-23",
+    "gender": "M",
+    "phone_number": "+49 7498 117373",
+    "email_address": "uhlig.meier@freenet.de",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Erasmus-Grasser-Gymnasium München",
+        "graduation_year": 2009
+    },
+    "higher_education": [
+        {
+            "university": "Dresden University of Technology",
+            "graduation_year": 2015
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2016,
+            "end_year": 2018,
+            "company": "Siemens AG",
+            "position": "Plant Manager",
+            "salary": 41000
+        },
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "Bayer AG",
+            "position": "Operations Director",
+            "salary": 81000
+        }
+    ],
+    "aum": {
+        "savings": 70000,
+        "inheritance": 1670000,
+        "real_estate_value": 1210000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1210000,
+            "property location": "Munich"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

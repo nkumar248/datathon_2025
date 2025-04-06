@@ -1,0 +1,17 @@
+{
+    "name": "Pedersen Krog Madsen",
+    "first_name": "Pedersen",
+    "middle_name": "Krog",
+    "last_name": "Madsen",
+    "passport_number": "FD1442976",
+    "currency": "DKK",
+    "address": {
+        "city": "Odense",
+        "street name": "Vandkunsten",
+        "street number": 50,
+        "postal code": "2177"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "94 10 30 75",
+    "email_address": "pedersen.madsen@telia.dk"
+}

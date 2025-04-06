@@ -1,0 +1,17 @@
+{
+    "first_name": "Aline",
+    "middle_name": "",
+    "last_name": "Müller",
+    "gender": "F",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1970-08-13",
+    "passport_number": "JM9124713",
+    "passport_mrz": [
+        "P<CHEMÜLLER<<ALINE<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+        "JM9124713CHE700813<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-03-01",
+    "passport_expiry_date": "2032-02-29"
+}

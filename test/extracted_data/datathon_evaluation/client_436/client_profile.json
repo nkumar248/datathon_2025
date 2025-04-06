@@ -1,0 +1,64 @@
+{
+    "name": "Torres Jiménez Suárez",
+    "address": {
+        "city": "Zaragoza",
+        "street name": "Calle de Alcalá",
+        "street number": 64,
+        "postal code": "56389"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1989-06-16",
+    "nationality": "Spanish",
+    "passport_number": "ZC1971781",
+    "passport_issue_date": "2016-07-02",
+    "passport_expiry_date": "2026-07-01",
+    "gender": "M",
+    "phone_number": "+34 644 211 178",
+    "email_address": "torres.suarez@yahoo.es",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "IES Jorge Guillén Salamanca",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "Valencia School of Fine Arts",
+            "graduation_year": 2014
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "Atresmedia Corporación de Medios de Comunicación S.A.",
+            "position": "Journalist",
+            "salary": 60000
+        }
+    ],
+    "aum": {
+        "savings": 60000,
+        "inheritance": 9150000,
+        "real_estate_value": 880000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2020,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 880000,
+            "property location": "Zaragoza"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

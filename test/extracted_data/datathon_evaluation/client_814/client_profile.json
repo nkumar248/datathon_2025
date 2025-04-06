@@ -1,0 +1,85 @@
+{
+    "name": "Andrea Suárez",
+    "address": {
+        "city": "Málaga",
+        "street name": "Calle de la Paz",
+        "street number": 3,
+        "postal code": "90283"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1961-04-03",
+    "nationality": "Spanish",
+    "passport_number": "EU1071985",
+    "passport_issue_date": "2023-08-29",
+    "passport_expiry_date": "2033-08-28",
+    "gender": "F",
+    "phone_number": "+34 668 610 969",
+    "email_address": "andrea.suarez@gmail.es",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Colegio Jesús-María Tarragona",
+        "graduation_year": 1981
+    },
+    "higher_education": [
+        {
+            "university": "University of Valencia",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1986,
+            "end_year": 1989,
+            "company": "Oryzon Genomics S.A.",
+            "position": "Research Scientist",
+            "salary": 23000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 1990,
+            "company": "PharmaMar S.A.",
+            "position": "Biotech Startup Founder",
+            "salary": 43000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 1994,
+            "company": "Oryzon Genomics S.A.",
+            "position": "CEO",
+            "salary": 55000
+        },
+        {
+            "start_year": 1994,
+            "end_year": 2022,
+            "company": "Almirall S.A.",
+            "position": "Venture Capitalist",
+            "salary": 814000
+        }
+    ],
+    "aum": {
+        "savings": 1420000,
+        "inheritance": 0,
+        "real_estate_value": 1960000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1000000,
+            "property location": "Málaga"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 960000,
+            "property location": "San Sebastián"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

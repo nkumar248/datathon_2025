@@ -1,0 +1,72 @@
+{
+    "name": "Aurora Anniina Mäkinen",
+    "address": {
+        "city": "Kotka",
+        "street name": "Ratapihantie",
+        "street number": 14,
+        "postal code": "73309"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1962-09-04",
+    "nationality": "Finnish",
+    "passport_number": "ZW2553441",
+    "passport_issue_date": "2017-12-21",
+    "passport_expiry_date": "2027-12-20",
+    "gender": "F",
+    "phone_number": "+358 041 520 79 94",
+    "email_address": "aurora.makinen@telia.fi",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Eiran Apteekkarin Koulu",
+        "graduation_year": 1981
+    },
+    "higher_education": [
+        {
+            "university": "Aalto University School of Arts, Design and Architecture",
+            "graduation_year": 1986
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1986,
+            "end_year": 1989,
+            "company": "Iittala Group Oy",
+            "position": "Assistant Designer",
+            "salary": 43000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 2023,
+            "company": "Luhta Brand Factory Oy",
+            "position": "Senior Designer",
+            "salary": 352000
+        }
+    ],
+    "aum": {
+        "savings": 630000,
+        "inheritance": 0,
+        "real_estate_value": 1840000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 960000,
+            "property location": "Kotka"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 880000,
+            "property location": "Seinäjoki"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Finland"
+    ],
+    "currency": "EUR"
+}

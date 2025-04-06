@@ -1,0 +1,87 @@
+{
+    "name": "Huber Rieder Fuchs",
+    "address": {
+        "city": "Klagenfurt",
+        "street name": "Spiegelgasse",
+        "street number": 92,
+        "postal code": "6986"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1985-01-28",
+    "nationality": "Austrian",
+    "passport_number": "MR5873777",
+    "passport_issue_date": "2022-01-06",
+    "passport_expiry_date": "2032-01-05",
+    "gender": "M",
+    "phone_number": "+43 173 261 5262",
+    "email_address": "huber.fuchs@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Privatgymnasium der Dominikanerinnen",
+        "graduation_year": 2002
+    },
+    "higher_education": [
+        {
+            "university": "IMC University of Applied Sciences Krems",
+            "graduation_year": 1995
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2009,
+            "end_year": 2013,
+            "company": "Voestalpine AG",
+            "position": "Plant Manager",
+            "salary": 33000
+        },
+        {
+            "start_year": 2014,
+            "end_year": 2017,
+            "company": "Voestalpine AG",
+            "position": "Operations Director",
+            "salary": 52000
+        },
+        {
+            "start_year": 2018,
+            "end_year": null,
+            "company": "Schoeller-Bleckmann AG",
+            "position": "CEO",
+            "salary": 113000
+        }
+    ],
+    "aum": {
+        "savings": 140000,
+        "inheritance": 3820000,
+        "real_estate_value": 3477000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 607000,
+            "property location": "Klagenfurt"
+        },
+        {
+            "property type": "condo",
+            "property value": 1040000,
+            "property location": "Innsbruck"
+        },
+        {
+            "property type": "villa",
+            "property value": 1830000,
+            "property location": "Baden bei Wien"
+        }
+    ],
+    "investment_risk_profile": "Balanced",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

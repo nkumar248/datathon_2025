@@ -1,0 +1,17 @@
+{
+    "name": "Keller Riedo Werner",
+    "first_name": "Keller",
+    "middle_name": "Riedo",
+    "last_name": "Werner",
+    "passport_number": "YS7802475",
+    "currency": "CHF",
+    "address": {
+        "city": "Winterthur",
+        "street name": "Bärenplatz",
+        "street number": 94,
+        "postal code": "7679"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 021 615 17 77",
+    "email_address": "keller.werner@upc.ch"
+}

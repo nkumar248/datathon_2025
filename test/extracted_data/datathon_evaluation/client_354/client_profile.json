@@ -1,0 +1,68 @@
+{
+    "name": "Veenhoven De Jong Mulders",
+    "address": {
+        "city": "Castellón de la Plana",
+        "street name": "Diagonal",
+        "street number": 84,
+        "postal code": "51604"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1961-10-09",
+    "nationality": "Dutch",
+    "passport_number": "IX4262837",
+    "passport_issue_date": "2023-06-10",
+    "passport_expiry_date": "2033-06-09",
+    "gender": "M",
+    "phone_number": "+34 667 377 994",
+    "email_address": "veenhoven.mulders@gmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Willem de Zwijger College Bussum",
+        "graduation_year": 1981
+    },
+    "higher_education": [
+        {
+            "university": "Tio University of Applied Sciences",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1985,
+            "end_year": 1986,
+            "company": "Transmediterránea S.A.",
+            "position": "Ship Broker",
+            "salary": 45000
+        },
+        {
+            "start_year": 1987,
+            "end_year": 2022,
+            "company": "Elcano Shipping Company S.A.",
+            "position": "Shipping Company Owner",
+            "salary": 435000
+        }
+    ],
+    "aum": {
+        "savings": 900000,
+        "inheritance": 0,
+        "real_estate_value": 1320000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1320000,
+            "property location": "Castellón de la Plana"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "Finland",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

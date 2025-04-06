@@ -1,0 +1,17 @@
+{
+    "name": "Hortense Anaïs Simons",
+    "first_name": "Hortense",
+    "middle_name": "Anaïs",
+    "last_name": "Simons",
+    "passport_number": "DM3032654",
+    "currency": "EUR",
+    "address": {
+        "city": "Leuven",
+        "street name": "Avenue de la Joyeuse Entrée",
+        "street number": 74,
+        "postal code": "7200"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0419 922 323",
+    "email_address": "hortense.simons@telenet.be"
+}

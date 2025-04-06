@@ -1,0 +1,17 @@
+{
+    "name": "Lombardi Livi Rossi",
+    "first_name": "Lombardi",
+    "middle_name": "Livi",
+    "last_name": "Rossi",
+    "passport_number": "VM5400129",
+    "currency": "EUR",
+    "address": {
+        "city": "Milan",
+        "street name": "Via Nazionale",
+        "street number": 77,
+        "postal code": "13010"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "319 6552022",
+    "email_address": "lombardi.rossi@alice.it"
+}

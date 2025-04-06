@@ -1,0 +1,17 @@
+{
+    "first_name": "Díaz",
+    "middle_name": "Pérez",
+    "last_name": "Álvarez",
+    "gender": "M",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "1957-12-12",
+    "passport_number": "MO5576987",
+    "passport_mrz": [
+        "P<ESPÁLVAREZ<<DÍAZ<PÉREZ<<<<<<<<<<<<<<<<<<<<<",
+        "MO5576987ESP571212<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-06-08",
+    "passport_expiry_date": "2034-06-07"
+}

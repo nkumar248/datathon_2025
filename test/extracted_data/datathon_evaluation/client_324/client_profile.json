@@ -1,0 +1,84 @@
+{
+    "name": "Steiner Reiter Huber",
+    "address": {
+        "city": "Wels",
+        "street name": "Andreas-Hofer-Straße",
+        "street number": 5,
+        "postal code": "6056"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1961-07-11",
+    "nationality": "Austrian",
+    "passport_number": "AJ7879145",
+    "passport_issue_date": "2024-12-09",
+    "passport_expiry_date": "2034-12-08",
+    "gender": "M",
+    "phone_number": "+43 942 398 0636",
+    "email_address": "steiner.huber@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "BG/BRG Neusiedl am See",
+        "graduation_year": 1968
+    },
+    "higher_education": [
+        {
+            "university": "University of Innsbruck",
+            "graduation_year": 1984
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1985,
+            "end_year": 1986,
+            "company": "Freshfields Bruckhaus Deringer LLP",
+            "position": "Associate Attorney",
+            "salary": 34000
+        },
+        {
+            "start_year": 1988,
+            "end_year": 1989,
+            "company": "Freshfields Bruckhaus Deringer LLP",
+            "position": "Senior Associate",
+            "salary": 48000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 2022,
+            "company": "Schoenherr Rechtsanwaelte GmbH",
+            "position": "Partner",
+            "salary": 580000
+        }
+    ],
+    "aum": {
+        "savings": 1210000,
+        "inheritance": 0,
+        "real_estate_value": 3030000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 810000,
+            "property location": "Wels"
+        },
+        {
+            "property type": "condo",
+            "property value": 800000,
+            "property location": "Bruck an der Mur"
+        },
+        {
+            "property type": "house",
+            "property value": 1420000,
+            "property location": "Traun"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

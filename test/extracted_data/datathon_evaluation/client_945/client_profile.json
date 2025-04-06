@@ -1,0 +1,57 @@
+{
+    "name": "Ambre Capucine Lefebvre",
+    "address": {
+        "city": "Reims",
+        "street name": "Rue de la Santé",
+        "street number": 72,
+        "postal code": "76894"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1996-10-05",
+    "nationality": "French",
+    "passport_number": "SM3598723",
+    "passport_issue_date": "2020-06-04",
+    "passport_expiry_date": "2030-06-03",
+    "gender": "F",
+    "phone_number": "+33 04 77 46 43 51",
+    "email_address": "ambre.lefebvre@aliceadsl.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Ampère",
+        "graduation_year": 2014
+    },
+    "higher_education": [
+        {
+            "university": "University of Toulouse",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2021,
+            "end_year": null,
+            "company": "Total S.A.",
+            "position": "Drilling Engineer",
+            "salary": 32000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 2000000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

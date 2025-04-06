@@ -1,0 +1,76 @@
+{
+    "name": "Binder Schmidt Maier",
+    "address": {
+        "city": "Innsbruck",
+        "street name": "Obere Donaustraße",
+        "street number": 29,
+        "postal code": "6234"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1983-05-03",
+    "nationality": "Austrian",
+    "passport_number": "GM7511086",
+    "passport_issue_date": "2020-11-06",
+    "passport_expiry_date": "2030-11-05",
+    "gender": "M",
+    "phone_number": "724 493 2035",
+    "email_address": "binder.maier@vol.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Bundesgymnasium und Bundesrealgymnasium Wien I",
+        "graduation_year": 2002
+    },
+    "higher_education": [
+        {
+            "university": "Mozarteum University Salzburg",
+            "graduation_year": 2006
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2007,
+            "end_year": 2009,
+            "company": "OMV AG",
+            "position": "Junior Trader",
+            "salary": 34000
+        },
+        {
+            "start_year": 2009,
+            "end_year": null,
+            "company": "Gunvor Group",
+            "position": "Senior Trader",
+            "salary": 131000
+        }
+    ],
+    "aum": {
+        "savings": 180000,
+        "inheritance": 7120000,
+        "real_estate_value": 1416000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2013,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 596000,
+            "property location": "Innsbruck"
+        },
+        {
+            "property type": "flat",
+            "property value": 820000,
+            "property location": "Vienna"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

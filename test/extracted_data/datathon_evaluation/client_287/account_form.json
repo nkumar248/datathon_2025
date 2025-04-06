@@ -1,0 +1,17 @@
+{
+    "name": "Jørgensen Mikkelsen Kristensen",
+    "first_name": "Jørgensen",
+    "middle_name": "Mikkelsen",
+    "last_name": "Kristensen",
+    "passport_number": "SS6613734",
+    "currency": "DKK",
+    "address": {
+        "city": "Gentofte",
+        "street name": "Gammel Torv",
+        "street number": 24,
+        "postal code": "6216"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 39 35 27 82",
+    "email_address": "jrgensen.kristensen@yousee.dk"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Mertens Peters Raes",
+    "first_name": "Mertens",
+    "middle_name": "Peters",
+    "last_name": "Raes",
+    "passport_number": "ER9706506",
+    "currency": "EUR",
+    "address": {
+        "city": "Ieper",
+        "street name": "Rue de la République",
+        "street number": 97,
+        "postal code": "4736"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0408 486 072",
+    "email_address": "mertens.raes@skype.be"
+}

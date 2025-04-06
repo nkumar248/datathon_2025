@@ -1,0 +1,17 @@
+{
+    "first_name": "Federica",
+    "middle_name": "Emanuela",
+    "last_name": "Livi",
+    "gender": "F",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1978-09-26",
+    "passport_number": "BT8647476",
+    "passport_mrz": [
+        "P<ITALIVI<<FEDERICA<<<<<<<<<<<<<<<<<<<<<<<<<<",
+        "BT8647476ITA780926<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-04-12",
+    "passport_expiry_date": "2034-04-11"
+}

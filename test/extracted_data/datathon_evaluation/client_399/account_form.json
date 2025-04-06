@@ -1,0 +1,17 @@
+{
+    "name": "Knudsen Gundersen Hansen",
+    "first_name": "Knudsen",
+    "middle_name": "Gundersen",
+    "last_name": "Hansenn",
+    "passport_number": "MU4506439",
+    "currency": "DKK",
+    "address": {
+        "city": "Randers",
+        "street name": "Gammel Torv",
+        "street number": 40,
+        "postal code": "1419"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "35 30 34 40",
+    "email_address": "knudsen.hansen@yahoo.com"
+}

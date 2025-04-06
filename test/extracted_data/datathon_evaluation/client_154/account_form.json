@@ -1,0 +1,17 @@
+{
+    "name": "Emma Estefanía Ortega",
+    "first_name": "Emma",
+    "middle_name": "Estefanía",
+    "last_name": "Ortega",
+    "passport_number": "RZ5748539",
+    "currency": "EUR",
+    "address": {
+        "city": "Cadiz",
+        "street name": "Plaza de España",
+        "street number": 18,
+        "postal code": "09654"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "645 338 859",
+    "email_address": "emma.ortega@outlook.com"
+}

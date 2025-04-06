@@ -1,0 +1,88 @@
+{
+    "name": "Rieder Schwarz Hinterleitner",
+    "address": {
+        "city": "Schwechat",
+        "street name": "Rotenturmstraße",
+        "street number": 21,
+        "postal code": "8456"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1981-06-10",
+    "nationality": "Austrian",
+    "passport_number": "VK8036172",
+    "passport_issue_date": "2019-03-11",
+    "passport_expiry_date": "2029-03-10",
+    "gender": "M",
+    "phone_number": "+43 707 344 8148",
+    "email_address": "rieder.hinterleitner@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "BG/BRG Neusiedl am See",
+        "graduation_year": 1999
+    },
+    "higher_education": [
+        {
+            "university": "Graz University of Technology",
+            "graduation_year": 2004
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2006,
+            "end_year": 2007,
+            "company": "LGT Bank Österreich AG",
+            "position": "Financial Advisor",
+            "salary": 35000
+        },
+        {
+            "start_year": 2009,
+            "end_year": 2011,
+            "company": "Raiffeisen Private Banking",
+            "position": "Portfolio Manager",
+            "salary": 44000
+        },
+        {
+            "start_year": 2012,
+            "end_year": 2025,
+            "company": "Raiffeisen Private Banking",
+            "position": "Wealth Manager",
+            "salary": 206000
+        }
+    ],
+    "aum": {
+        "savings": 280000,
+        "inheritance": 210000,
+        "real_estate_value": 2794000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2012,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 954000,
+            "property location": "Schwechat"
+        },
+        {
+            "property type": "condo",
+            "property value": 860000,
+            "property location": "Gmunden"
+        },
+        {
+            "property type": "house",
+            "property value": 980000,
+            "property location": "Sankt Pölten"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

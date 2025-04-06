@@ -1,0 +1,17 @@
+{
+    "name": "Hanna Kristiina Lehtinen",
+    "first_name": "Hanna",
+    "middle_name": "Kristiina",
+    "last_name": "Lehtinen",
+    "passport_number": "BI4238351",
+    "currency": "EUR",
+    "address": {
+        "city": "Imatra",
+        "street name": "Kampintori",
+        "street number": 70,
+        "postal code": "26478"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 049 371 97 68",
+    "email_address": "hanna.lehtinen@luukku.com"
+}

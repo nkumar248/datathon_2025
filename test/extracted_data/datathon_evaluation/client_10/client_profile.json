@@ -1,0 +1,76 @@
+{
+    "name": "Fischer Egger Schnell",
+    "address": {
+        "city": "Kitzbühel",
+        "street name": "Mariahilfer Straße",
+        "street number": 15,
+        "postal code": "3714"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1958-07-11",
+    "nationality": "Austrian",
+    "passport_number": "BC4460180",
+    "passport_issue_date": "2023-09-15",
+    "passport_expiry_date": "2033-09-14",
+    "gender": "M",
+    "phone_number": "+43 379 813 5127",
+    "email_address": "fischer.schnell@magenta.at",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Gymnasium Wasagasse",
+        "graduation_year": 1978
+    },
+    "higher_education": [
+        {
+            "university": "Vienna University of Technology",
+            "graduation_year": 1981
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1982,
+            "end_year": 1987,
+            "company": "AMSC Austria",
+            "position": "Aerospace Engineer",
+            "salary": 32000
+        },
+        {
+            "start_year": 1987,
+            "end_year": 2019,
+            "company": "Diamond Aircraft Industries",
+            "position": "Program Manager",
+            "salary": 273000
+        }
+    ],
+    "aum": {
+        "savings": 540000,
+        "inheritance": 0,
+        "real_estate_value": 2847000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1020000,
+            "property location": "Kitzbühel"
+        },
+        {
+            "property type": "condo",
+            "property value": 687000,
+            "property location": "Tulln an der Donau"
+        },
+        {
+            "property type": "house",
+            "property value": 1140000,
+            "property location": "Baden bei Wien"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

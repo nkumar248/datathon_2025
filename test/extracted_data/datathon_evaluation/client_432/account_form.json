@@ -1,0 +1,17 @@
+{
+    "name": "Garcia Simon Marchand",
+    "first_name": "Garcia",
+    "middle_name": "Simon",
+    "last_name": "Marchand",
+    "passport_number": "HW0008107",
+    "currency": "EUR",
+    "address": {
+        "city": "Paris",
+        "street name": "Rue de la Butte-aux-Cailles",
+        "street number": 91,
+        "postal code": "89319"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "02 04 37 54 83",
+    "email_address": "garcia.marchand@free.fr"
+}

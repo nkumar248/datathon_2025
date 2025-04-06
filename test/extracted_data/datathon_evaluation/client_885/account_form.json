@@ -1,0 +1,17 @@
+{
+    "name": "Matilda Lotta Viitanen",
+    "first_name": "Matilda",
+    "middle_name": "Lotta",
+    "last_name": "Viitanen",
+    "passport_number": "ED2692331",
+    "currency": "EUR",
+    "address": {
+        "city": "Jarvenpää",
+        "street name": "Salmisaarenranta",
+        "street number": 73,
+        "postal code": "12518"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 042 190 43 49",
+    "email_address": "matilda.viitanen@gmail.com"
+}

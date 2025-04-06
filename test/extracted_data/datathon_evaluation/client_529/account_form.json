@@ -1,0 +1,17 @@
+{
+    "name": "Hannelore Joyce De Jong",
+    "first_name": "Hannelore",
+    "middle_name": "Joyce",
+    "last_name": "De Jong",
+    "passport_number": "MU3505030",
+    "currency": "EUR",
+    "address": {
+        "city": "Oss",
+        "street name": "Markt",
+        "street number": 62,
+        "postal code": "6676 80"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 84841712",
+    "email_address": "hannelore.dejong@hotspots.nl"
+}

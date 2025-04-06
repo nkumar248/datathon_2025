@@ -1,0 +1,17 @@
+{
+    "name": "Aada Koskinen",
+    "first_name": "Aada",
+    "middle_name": "",
+    "last_name": "Koskinen",
+    "passport_number": "AO5734774",
+    "currency": "EUR",
+    "address": {
+        "city": "Mikkeli",
+        "street name": "Ratapihantie",
+        "street number": 80,
+        "postal code": "57378"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 041 890 17 1",
+    "email_address": "aada.koskinen@icloud.com"
+}

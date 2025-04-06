@@ -1,0 +1,71 @@
+{
+    "name": "Lena Steiner",
+    "address": {
+        "city": "Amstetten",
+        "street name": "Alpenstraße",
+        "street number": 21,
+        "postal code": "5389"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1987-04-18",
+    "nationality": "Austrian",
+    "passport_number": "CH4949462",
+    "passport_issue_date": "2022-04-30",
+    "passport_expiry_date": "2032-04-29",
+    "gender": "F",
+    "phone_number": "894 094 4696",
+    "email_address": "lena.steiner@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Musisches Gymnasium Wien",
+        "graduation_year": 1994
+    },
+    "higher_education": [
+        {
+            "university": "New Design University St. Pölten",
+            "graduation_year": 2012
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2015,
+            "end_year": 2016,
+            "company": "OMV AG",
+            "position": "Senior Trader",
+            "salary": 48000
+        },
+        {
+            "start_year": 2017,
+            "end_year": null,
+            "company": "Gunvor Group",
+            "position": "Trading Desk Manager",
+            "salary": 110000
+        }
+    ],
+    "aum": {
+        "savings": 130000,
+        "inheritance": 0,
+        "real_estate_value": 1830000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 820000,
+            "property location": "Amstetten"
+        },
+        {
+            "property type": "condo",
+            "property value": 1010000,
+            "property location": "Salzburg"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "1-5 months",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,71 @@
+{
+    "name": "Müller Schmidt Fischer",
+    "address": {
+        "city": "Essen",
+        "street name": "Leipziger Straße",
+        "street number": 76,
+        "postal code": "91274"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1981-05-18",
+    "nationality": "German",
+    "passport_number": "UH2310872",
+    "passport_issue_date": "2024-01-09",
+    "passport_expiry_date": "2034-01-08",
+    "gender": "M",
+    "phone_number": "6799 080132",
+    "email_address": "muller.fischer@o2online.de",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Goethe-Gymnasium Berlin",
+        "graduation_year": 1992
+    },
+    "higher_education": [
+        {
+            "university": "Jacobs University Bremen",
+            "graduation_year": 2006
+        },
+        {
+            "university": "SRH University Heidelberg",
+            "graduation_year": 2008
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2006,
+            "end_year": 2008,
+            "company": "Bertelsmann SE & Co. KGaA",
+            "position": "Journalist",
+            "salary": 43000
+        },
+        {
+            "start_year": 2010,
+            "end_year": null,
+            "company": "Axel Springer SE",
+            "position": "Editor",
+            "salary": 151000
+        }
+    ],
+    "aum": {
+        "savings": 210000,
+        "inheritance": 0,
+        "real_estate_value": 3100000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 3100000,
+            "property location": "Essen"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

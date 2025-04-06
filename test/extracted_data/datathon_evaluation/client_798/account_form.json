@@ -1,0 +1,17 @@
+{
+    "name": "Sofia Katrine Larsen",
+    "first_name": "Sofia",
+    "middle_name": "Katrine",
+    "last_name": "Larsen",
+    "passport_number": "IE3686356",
+    "currency": "DKK",
+    "address": {
+        "city": "Holbæk",
+        "street name": "Sortedams Dossering",
+        "street number": 1,
+        "postal code": "2138"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 27 05 38 62",
+    "email_address": "sofia.larsen@outlook.com"
+}

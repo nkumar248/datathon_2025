@@ -1,0 +1,17 @@
+{
+    "name": "Hortense Flore Lefebvre",
+    "first_name": "Hortense",
+    "middle_name": "Flore",
+    "last_name": "Lefebvre",
+    "passport_number": "HB3923059",
+    "currency": "EUR",
+    "address": {
+        "city": "Metz",
+        "street name": "Rue Soufflot",
+        "street number": 35,
+        "postal code": "25188"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "05 67 75 74 06",
+    "email_address": "hortense.lefebvre@numericable.fr"
+}

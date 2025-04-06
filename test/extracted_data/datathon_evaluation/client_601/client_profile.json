@@ -1,0 +1,58 @@
+{
+    "name": "Janssen Schipper Snijders",
+    "address": {
+        "city": "Tilburg",
+        "street name": "Nieuwegeinseweg",
+        "street number": 39,
+        "postal code": "9181 09"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1998-04-25",
+    "nationality": "Dutch",
+    "passport_number": "XR2995956",
+    "passport_issue_date": "2024-02-04",
+    "passport_expiry_date": "2034-02-03",
+    "gender": "M",
+    "phone_number": "06 88734483",
+    "email_address": "janssen.snijders@kpnmail.nl",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Openbaar Lyceum Hengelo",
+        "graduation_year": 2017
+    },
+    "higher_education": [
+        {
+            "university": "University of Amsterdam",
+            "graduation_year": 2023
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2023,
+            "end_year": 2025,
+            "company": "NAM (Nederlandse Aardolie Maatschappij) B.V.",
+            "position": "Drilling Engineer",
+            "salary": 45000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 2570000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

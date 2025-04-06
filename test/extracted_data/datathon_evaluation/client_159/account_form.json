@@ -1,0 +1,17 @@
+{
+    "name": "Simons Vandenberghe Moens",
+    "first_name": "Simons",
+    "middle_name": "Vandenberghe",
+    "last_name": "Moens",
+    "passport_number": "QW4017302",
+    "currency": "EUR",
+    "address": {
+        "city": "Rauma",
+        "street name": "Sinikalliontie",
+        "street number": 93,
+        "postal code": "71769"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 042 551 77 27",
+    "email_address": "simons.moens@elisa.fi"
+}

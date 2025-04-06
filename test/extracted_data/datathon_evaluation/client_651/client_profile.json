@@ -1,0 +1,81 @@
+{
+    "name": "Kuhn Roth Werner",
+    "address": {
+        "city": "Lucerne",
+        "street name": "Gerberngasse",
+        "street number": 94,
+        "postal code": "9048"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1980-05-20",
+    "nationality": "Swiss",
+    "passport_number": "CB2640613",
+    "passport_issue_date": "2019-09-11",
+    "passport_expiry_date": "2029-09-10",
+    "gender": "M",
+    "phone_number": "+41 026 073 14 93",
+    "email_address": "kuhn.werner@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Gymnasium am See Kreuzlingen",
+        "graduation_year": 1998
+    },
+    "higher_education": [
+        {
+            "university": "Haute École de Musique de Genève",
+            "graduation_year": 2004
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2005,
+            "end_year": 2007,
+            "company": "Google Switzerland GmbH",
+            "position": "Software Developer",
+            "salary": 61000
+        },
+        {
+            "start_year": 2009,
+            "end_year": null,
+            "company": "Microsoft Schweiz GmbH",
+            "position": "Startup Founder",
+            "salary": 231000
+        }
+    ],
+    "aum": {
+        "savings": 330000,
+        "inheritance": 2340000,
+        "real_estate_value": 10970000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2012,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 2870000,
+            "property location": "Lucerne"
+        },
+        {
+            "property type": "villa",
+            "property value": 5830000,
+            "property location": "Zurich"
+        },
+        {
+            "property type": "condo",
+            "property value": 2270000,
+            "property location": "Chur"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Germany"
+    ],
+    "currency": "CHF"
+}

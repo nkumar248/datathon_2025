@@ -1,0 +1,17 @@
+{
+    "name": "Gutiérrez Morales Vázquez",
+    "first_name": "Gutiérrez",
+    "middle_name": "Morales",
+    "last_name": "Vázquez",
+    "passport_number": "VM7499994",
+    "currency": "EUR",
+    "address": {
+        "city": "Zaragoza",
+        "street name": "Plaza de la Sal",
+        "street number": 13,
+        "postal code": "62391"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 621 810 053",
+    "email_address": "gutierrez.vazquez@telefonica.es"
+}

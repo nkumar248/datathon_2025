@@ -1,0 +1,17 @@
+{
+    "name": "Santoro Marino Galli",
+    "first_name": "Santoro",
+    "middle_name": " Marino",
+    "last_name": "Galli",
+    "passport_number": "PJ7429929",
+    "currency": "EUR",
+    "address": {
+        "city": "Brescia",
+        "street name": "Piazza Farnese",
+        "street number": 37,
+        "postal code": "32984"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 303 0812519",
+    "email_address": "santoro.galli@tin.it"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Schwarz Steiner Gruber",
+    "first_name": "Schwarz",
+    "middle_name": "Steiner",
+    "last_name": "Gruber",
+    "passport_number": "RW9001177",
+    "currency": "EUR",
+    "address": {
+        "city": "Sankt Pölten",
+        "street name": "Naschmarkt",
+        "street number": 2,
+        "postal code": "4454"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 587 334 4239",
+    "email_address": "schwarz.gruber@kabsi.at"
+}

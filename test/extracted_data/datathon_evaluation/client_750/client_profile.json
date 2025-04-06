@@ -1,0 +1,97 @@
+{
+    "name": "Fiona Monika Haider",
+    "address": {
+        "city": "Innsbruck",
+        "street name": "Theater an der Wien",
+        "street number": 56,
+        "postal code": "6427"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1968-05-17",
+    "nationality": "Austrian",
+    "passport_number": "ZI3478937",
+    "passport_issue_date": "2021-05-23",
+    "passport_expiry_date": "2031-05-22",
+    "gender": "F",
+    "phone_number": "+43 780 615 0055",
+    "email_address": "fiona.haider@telekom.at",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Stiftsgymnasium Melk",
+        "graduation_year": 1986
+    },
+    "higher_education": [
+        {
+            "university": "University of Innsbruck",
+            "graduation_year": 1993
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1992,
+            "end_year": 1996,
+            "company": "OMV AG",
+            "position": "Drilling Engineer",
+            "salary": 30000
+        },
+        {
+            "start_year": 1998,
+            "end_year": 2000,
+            "company": "ExxonMobil Austria",
+            "position": "Reservoir Engineer",
+            "salary": 45000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2003,
+            "company": "OMV AG",
+            "position": "Operations Manager",
+            "salary": 61000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2008,
+            "company": "Austrian Energy Agency",
+            "position": "VP of Exploration",
+            "salary": 138000
+        },
+        {
+            "start_year": 2009,
+            "end_year": null,
+            "company": "Austrian Energy Agency",
+            "position": "CEO",
+            "salary": 614000
+        }
+    ],
+    "aum": {
+        "savings": 910000,
+        "inheritance": 1550000,
+        "real_estate_value": 1399000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2014,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 579000,
+            "property location": "Innsbruck"
+        },
+        {
+            "property type": "flat",
+            "property value": 820000,
+            "property location": "Dornbirn"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

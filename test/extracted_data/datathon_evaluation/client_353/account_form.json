@@ -1,0 +1,17 @@
+{
+    "name": "Andersen Friis",
+    "first_name": "Andersen",
+    "middle_name": "",
+    "last_name": "Friis",
+    "passport_number": "QN0187494",
+    "currency": "DKK",
+    "address": {
+        "city": "Helsingør",
+        "street name": "Østerbrogade",
+        "street number": 92,
+        "postal code": "5068"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 93 27 42 73",
+    "email_address": "andersen.friis@telia.dk"
+}

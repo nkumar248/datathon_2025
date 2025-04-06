@@ -1,0 +1,77 @@
+{
+    "name": " Cecilie Amanda Højgaard",
+    "address": {
+        "city": "Salamanca",
+        "street name": "Calle de las Huertas",
+        "street number": 95,
+        "postal code": "53592"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1988-07-29",
+    "nationality": "Danish",
+    "passport_number": "FY8160831",
+    "passport_issue_date": "2022-10-02",
+    "passport_expiry_date": "2032-10-01",
+    "gender": "F",
+    "phone_number": "+34 648 299 145",
+    "email_address": "cecilie.hjgaard@vodafone.es",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Roskilde Katedralskole",
+        "graduation_year": 2006
+    },
+    "higher_education": [
+        {
+            "university": "Copenhagen Business Academy",
+            "graduation_year": 2013
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2012,
+            "end_year": 2016,
+            "company": "Iberostar Hotels & Resorts S.A.",
+            "position": "Hotel Manager",
+            "salary": 275000
+        },
+        {
+            "start_year": 2018,
+            "end_year": null,
+            "company": "NH Hotel Group S.A.",
+            "position": "General Manager",
+            "salary": 422000
+        }
+    ],
+    "aum": {
+        "savings": 590000,
+        "inheritance": 7300000,
+        "real_estate_value": 1600000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 777000,
+            "property location": "Salamanca"
+        },
+        {
+            "property type": "flat",
+            "property value": 823000,
+            "property location": "Roskilde"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Finland",
+        "Denmark"
+    ],
+    "currency": "EUR"
+}

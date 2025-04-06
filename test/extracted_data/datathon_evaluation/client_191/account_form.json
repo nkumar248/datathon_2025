@@ -1,0 +1,17 @@
+{
+    "name": "Mayer Weber Schulz",
+    "first_name": "Mayer",
+    "middle_name": "Weber",
+    "last_name": "Schulz",
+    "passport_number": "ZJ5337488",
+    "currency": "EUR",
+    "address": {
+        "city": "Fürth",
+        "street name": "Kaiserstraße",
+        "street number": 43,
+        "postal code": "90834"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 6424 844264",
+    "email_address": "mayer.schulz@unitybox.de"
+}

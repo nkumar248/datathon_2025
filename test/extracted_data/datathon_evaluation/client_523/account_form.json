@@ -1,0 +1,17 @@
+{
+    "name": "Emilia Kristiina Paananen",
+    "first_name": "Emilia",
+    "middle_name": "Kristiina",
+    "last_name": "Paananen",
+    "passport_number": "CR0470182",
+    "currency": "EUR",
+    "address": {
+        "city": "Mikkeli",
+        "street name": "Meritullinkatu",
+        "street number": 51,
+        "postal code": "05648"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "045 704 50 74",
+    "email_address": "emilia.paananen@suomi24.fi"
+}

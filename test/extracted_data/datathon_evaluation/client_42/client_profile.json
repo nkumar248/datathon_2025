@@ -1,0 +1,76 @@
+{
+    "name": "Gabriela Gisèle Jost",
+    "address": {
+        "city": "Basel",
+        "street name": "Place des Halles",
+        "street number": 85,
+        "postal code": "9666"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1987-02-02",
+    "nationality": "Swiss",
+    "passport_number": "LQ5025647",
+    "passport_issue_date": "2019-09-30",
+    "passport_expiry_date": "2029-09-29",
+    "gender": "F",
+    "phone_number": "070 534 79 43",
+    "email_address": "gabriela.jost@lycos.ch",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Lycée cantonal de Porrentruy Jura",
+        "graduation_year": 2004
+    },
+    "higher_education": [
+        {
+            "university": "University of Lausanne",
+            "graduation_year": 2009
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2014,
+            "company": "Schellenberg Wittmer Ltd.",
+            "position": "Associate Attorney",
+            "salary": 57000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2025,
+            "company": "Bär & Karrer AG",
+            "position": "Senior Associate",
+            "salary": 103000
+        }
+    ],
+    "aum": {
+        "savings": 150000,
+        "inheritance": 6670000,
+        "real_estate_value": 4890000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 2570000,
+            "property location": "Basel"
+        },
+        {
+            "property type": "condo",
+            "property value": 2320000,
+            "property location": "St. Gallen"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Austria"
+    ],
+    "currency": "CHF"
+}

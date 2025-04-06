@@ -1,0 +1,17 @@
+{
+    "name": "Costanza Gabriella Leonardi",
+    "first_name": "Costanza",
+    "middle_name": "Gabriella",
+    "last_name": " Leonardi",
+    "passport_number": "GY4925354",
+    "currency": "EUR",
+    "address": {
+        "city": "Taranto",
+        "street name": "Via Dante",
+        "street number": 8,
+        "postal code": "32394"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "317 3759152",
+    "email_address": "costanza.leonardi@alice.it"
+}

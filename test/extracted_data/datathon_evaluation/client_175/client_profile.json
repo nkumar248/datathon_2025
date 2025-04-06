@@ -1,0 +1,91 @@
+{
+    "name": "Mathilde Ida Christensen",
+    "address": {
+        "city": "Varde",
+        "street name": "H.C. Andersens Boulevard",
+        "street number": 2,
+        "postal code": "8098"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1988-03-25",
+    "nationality": "Danish",
+    "passport_number": "MC1772520",
+    "passport_issue_date": "2016-07-13",
+    "passport_expiry_date": "2026-07-12",
+    "gender": "F",
+    "phone_number": "+45 80 70 65 94",
+    "email_address": "mathilde.christensen@dk-hostmaster.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Slagelse Gymnasium",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "Technical University of Denmark (DTU)",
+            "graduation_year": 2011
+        },
+        {
+            "university": "University of Southern Denmark",
+            "graduation_year": 2015
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2011,
+            "end_year": 2015,
+            "company": "Bavarian Nordic A/S",
+            "position": "Research Scientist",
+            "salary": 284000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2016,
+            "company": "Bavarian Nordic A/S",
+            "position": "Biotech Startup Founder",
+            "salary": 378000
+        },
+        {
+            "start_year": 2018,
+            "end_year": null,
+            "company": " Zealand Pharma A/S",
+            "position": "CEO",
+            "salary": 1042000
+        }
+    ],
+    "aum": {
+        "savings": 1220000,
+        "inheritance": 15560000,
+        "real_estate_value": 6060000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2170000,
+            "property location": "Varde"
+        },
+        {
+            "property type": "house",
+            "property value": 2380000,
+            "property location": "Gladsaxe"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1510000,
+            "property location": "Esbjerg"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

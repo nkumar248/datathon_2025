@@ -1,0 +1,49 @@
+{
+    "name": "Lang Huber Graf",
+    "address": {
+        "city": "Sankt Pölten",
+        "street name": "Andreas-Hofer-Straße",
+        "street number": 76,
+        "postal code": "0948"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "2001-10-18",
+    "nationality": "Austrian",
+    "passport_number": "MQ4309248",
+    "passport_issue_date": "2019-09-09",
+    "passport_expiry_date": "2029-09-08",
+    "gender": "M",
+    "phone_number": "208 052 8015",
+    "email_address": "lang.graf@yahoo.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "BORG Gerasdorf",
+        "graduation_year": 2019
+    },
+    "higher_education": [
+        {
+            "university": "Vienna University of Economics and Business",
+            "graduation_year": 2024
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 2810000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Balanced",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Pérez Navarro López",
+    "first_name": "Pérez",
+    "middle_name": "Navarro",
+    "last_name": "López",
+    "passport_number": "VO7922475",
+    "currency": "EUR",
+    "address": {
+        "city": "Vigo",
+        "street name": "Calle de San Vicente Mártir",
+        "street number": 77,
+        "postal code": "64999"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 659 507 513",
+    "email_address": "perez.lopez@yahoo.com"
+}

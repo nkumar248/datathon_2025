@@ -1,0 +1,80 @@
+{
+    "name": "Consuelo África Vázquez",
+    "address": {
+        "city": "Cuenca",
+        "street name": "Calle de la Princesa",
+        "street number": 35,
+        "postal code": "93048"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1962-06-16",
+    "nationality": "Spanish",
+    "passport_number": "BC9033627",
+    "passport_issue_date": "2019-08-25",
+    "passport_expiry_date": "2029-08-24",
+    "gender": "F",
+    "phone_number": "+34 608 395 713",
+    "email_address": "consuelo.vazquez@yahoo.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Instituto de Bachillerato Científico-Técnico IES Juan Sebastián Elcano Bilbao",
+        "graduation_year": 1981
+    },
+    "higher_education": [
+        {
+            "university": "Universidad Pontificia Comillas",
+            "graduation_year": 1987
+        },
+        {
+            "university": "University of Barcelona",
+            "graduation_year": 1991
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1986,
+            "end_year": 1991,
+            "company": "BBVA S.A.",
+            "position": "Financial Advisor",
+            "salary": 27000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 2023,
+            "company": "Banco Santander S.A.",
+            "position": "Portfolio Manager",
+            "salary": 210000
+        }
+    ],
+    "aum": {
+        "savings": 420000,
+        "inheritance": 0,
+        "real_estate_value": 4310000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1050000,
+            "property location": "Cuenca"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1220000,
+            "property location": "Córdoba"
+        },
+        {
+            "property type": "villa",
+            "property value": 2040000,
+            "property location": "Toledo"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

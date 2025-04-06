@@ -1,0 +1,17 @@
+{
+    "name": "Suárez Muñoz Romero",
+    "first_name": "Suárez",
+    "middle_name": "Muñoz",
+    "last_name": "Romero",
+    "passport_number": "KU1034339",
+    "currency": "EUR",
+    "address": {
+        "city": "Steinbach am Attersee",
+        "street name": "Graben",
+        "street number": 21,
+        "postal code": "8758"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "321 383 3957",
+    "email_address": "suarez.romero@magenta.at"
+}

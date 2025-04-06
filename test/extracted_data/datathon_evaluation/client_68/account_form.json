@@ -1,0 +1,17 @@
+{
+    "name": "Lykke Møller Kristensen",
+    "first_name": "Lykke",
+    "middle_name": "Møller",
+    "last_name": "Kristensen",
+    "passport_number": "NA9393456",
+    "currency": "CHF",
+    "address": {
+        "city": "Lugano",
+        "street name": "Kirchgasse",
+        "street number": 50,
+        "postal code": "8946"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 088 691 59 33",
+    "email_address": "lykke.kristensen@swissonline.ch"
+}

@@ -1,0 +1,17 @@
+{
+    "first_name": "Kuhn",
+    "middle_name": "Roth",
+    "last_name": "Gmür",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1973-03-10",
+    "passport_number": "CB2640613",
+    "passport_mrz": [
+        "P<CHEWERNER<<KUHN<ROTH<<<<<<<<<<<<<<<<<<<<<<<",
+        "CB2640613CHE800520<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2019-09-11",
+    "passport_expiry_date": "2029-09-10"
+}

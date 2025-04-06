@@ -1,0 +1,89 @@
+{
+    "name": "Bruno Lotti Silvestri",
+    "address": {
+        "city": "Verona",
+        "street name": "Piazza Castello",
+        "street number": 90,
+        "postal code": "42467"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1968-11-11",
+    "nationality": "Italian",
+    "passport_number": "FB0646575",
+    "passport_issue_date": "2016-11-01",
+    "passport_expiry_date": "2026-10-31",
+    "gender": "M",
+    "phone_number": "+39 369 8905652",
+    "email_address": "bruno.silvestri@aruba.it",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Liceo Musicale Ottorino Respighi Bologna",
+        "graduation_year": 1986
+    },
+    "higher_education": [
+        {
+            "university": "International School for Advanced Studies (SISSA)",
+            "graduation_year": 1993
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1993,
+            "end_year": 1994,
+            "company": "Enel S.p.A.",
+            "position": "Junior Trader",
+            "salary": 28000
+        },
+        {
+            "start_year": 1996,
+            "end_year": 1998,
+            "company": "ENI S.p.A.",
+            "position": "Senior Trader",
+            "salary": 42000
+        },
+        {
+            "start_year": 1998,
+            "end_year": 1999,
+            "company": "Enel S.p.A.",
+            "position": "Trading Desk Manager",
+            "salary": 54000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2025,
+            "company": "ENI S.p.A.",
+            "position": "Head of Commodities",
+            "salary": 689000
+        }
+    ],
+    "aum": {
+        "savings": 1120000,
+        "inheritance": 2760000,
+        "real_estate_value": 2550000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2005,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 561000,
+            "property location": "Verona"
+        },
+        {
+            "property type": "villa",
+            "property value": 1989000,
+            "property location": "Venice"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

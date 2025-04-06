@@ -1,0 +1,17 @@
+{
+    "name": "Wouters Raes",
+    "first_name": "Wouters",
+    "middle_name": "",
+    "last_name": "Raes",
+    "passport_number": "NT0828057",
+    "currency": "EUR",
+    "address": {
+        "city": "Aalst",
+        "street name": "Place de la Liberté",
+        "street number": 64,
+        "postal code": "7413"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0492 340 915",
+    "email_address": "wouters.raes@icloud.com"
+}

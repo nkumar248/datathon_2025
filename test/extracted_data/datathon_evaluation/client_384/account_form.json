@@ -1,0 +1,17 @@
+{
+    "name": "Katharina Juliane Schultz",
+    "first_name": "Katharina",
+    "middle_name": "Juliane",
+    "last_name": "Schultz",
+    "passport_number": "NI2977493",
+    "currency": "EUR",
+    "address": {
+        "city": "Wuppertal",
+        "street name": "Schönhauser Allee",
+        "street number": 55,
+        "postal code": "30500"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "6853 69709",
+    "email_address": "katharina.schultz@outlook.com"
+}

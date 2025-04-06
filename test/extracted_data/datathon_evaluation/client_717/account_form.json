@@ -1,0 +1,17 @@
+{
+    "name": "Martina Ginevra Landi",
+    "first_name": "Martina",
+    "middle_name": "Ginevra",
+    "last_name": "Landi",
+    "passport_number": "VG0455908",
+    "currency": "EUR",
+    "address": {
+        "city": "Brescia",
+        "street name": "Via XXV Aprile",
+        "street number": 93,
+        "postal code": "69655"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 392 3121840",
+    "email_address": "martina.landi@hotmail.com"
+}

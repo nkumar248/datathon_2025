@@ -1,0 +1,17 @@
+{
+    "name": "Louis Lefebvre Gauthier",
+    "first_name": "Louis",
+    "middle_name": "Lefebvre",
+    "last_name": "Gauthier",
+    "passport_number": "NN3821400",
+    "currency": "EUR",
+    "address": {
+        "city": "Montpellier",
+        "street name": "Boulevard Auguste Blanqui",
+        "street number": 8,
+        "postal code": "25006"
+    },
+    "country_of_domicile": "France,Netherlands",
+    "phone_number": "+33 01 13 08 57 25",
+    "email_address": "louis.gauthier@outlook.com"
+}

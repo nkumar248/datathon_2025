@@ -1,0 +1,81 @@
+{
+    "name": "Anna Larissa Frey",
+    "address": {
+        "city": "Lausanne",
+        "street name": "Gerberngasse",
+        "street number": 28,
+        "postal code": "1282"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1965-11-19",
+    "nationality": "Swiss",
+    "passport_number": "YX2021931",
+    "passport_issue_date": "2018-12-02",
+    "passport_expiry_date": "2028-12-01",
+    "gender": "F",
+    "phone_number": "042 877 73 59",
+    "email_address": "anna.frey@swisscom.ch",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Gewerblich-industrielles Berufsbildungszentrum (BIG) Bern",
+        "graduation_year": 1973
+    },
+    "higher_education": [
+        {
+            "university": "University of Basel",
+            "graduation_year": 1988
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1990,
+            "end_year": 1991,
+            "company": "Credit Suisse AG",
+            "position": "Financial Advisor",
+            "salary": 62000
+        },
+        {
+            "start_year": 1991,
+            "end_year": null,
+            "company": "Credit Suisse AG",
+            "position": "Portfolio Manager",
+            "salary": 502000
+        }
+    ],
+    "aum": {
+        "savings": 1000000,
+        "inheritance": 2630000,
+        "real_estate_value": 7370000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2010,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 2420000,
+            "property location": "Lausanne"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 2430000,
+            "property location": "Basel"
+        },
+        {
+            "property type": "house",
+            "property value": 2520000,
+            "property location": "Bellinzona"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "France"
+    ],
+    "currency": "CHF"
+}

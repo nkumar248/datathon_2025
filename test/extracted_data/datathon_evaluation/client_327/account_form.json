@@ -1,0 +1,17 @@
+{
+    "name": "Anna Ilaria Livi",
+    "first_name": "Anna",
+    "middle_name": "Ilaria",
+    "last_name": "Livi",
+    "passport_number": "TH8876193",
+    "currency": "EUR",
+    "address": {
+        "city": "Milan",
+        "street name": "Piazza De Ferrari",
+        "street number": 47,
+        "postal code": "51260"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 307 3015806",
+    "email_address": "anna.livi@alice.it"
+}

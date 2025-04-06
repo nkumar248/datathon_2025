@@ -1,0 +1,17 @@
+{
+    "first_name": "Daphné",
+    "middle_name": "Olivia",
+    "last_name": "Segers",
+    "gender": "F",
+    "country": "Belgium",
+    "country_code": "BEL",
+    "nationality": "Belgian",
+    "birth_date": "1982-04-28",
+    "passport_number": "MH7220498",
+    "passport_mrz": [
+        "P<BELSEGERS<<DAPHNÉ<OLIVIA<<<<<<<<<<<<<<<<<<<",
+        "MH7220498BEL820428<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-01-21",
+    "passport_expiry_date": "2030-01-20"
+}

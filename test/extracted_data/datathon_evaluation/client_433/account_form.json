@@ -1,0 +1,17 @@
+{
+    "name": "Mathilde Emilie Rasmussen",
+    "first_name": "Mathilde",
+    "middle_name": "Emilie",
+    "last_name": "Rasmussen",
+    "passport_number": "SG4673068",
+    "currency": "DKK",
+    "address": {
+        "city": "Hillerød",
+        "street name": "Sølvgade",
+        "street number": 7,
+        "postal code": "1696"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "69 56 01 82",
+    "email_address": "mathilde.rasmussen@tiscali.dk"
+}

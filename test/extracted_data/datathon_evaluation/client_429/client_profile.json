@@ -1,0 +1,75 @@
+{
+    "name": "Savolainen Heikkinen Piirainen",
+    "address": {
+        "city": "Joensuu",
+        "street name": "Lönnrotinkatu",
+        "street number": 24,
+        "postal code": "76315"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1992-12-26",
+    "nationality": "Finnish",
+    "passport_number": "UI6114622",
+    "passport_issue_date": "2017-05-13",
+    "passport_expiry_date": "2027-05-12",
+    "gender": "M",
+    "phone_number": "+358 049 307 60 67",
+    "email_address": "savolainen.piirainen@saunalahti.fi",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lappeenranta Lyceum",
+        "graduation_year": 2012
+    },
+    "higher_education": [
+        {
+            "university": "University of Jyväskylä",
+            "graduation_year": 2001
+        },
+        {
+            "university": "University of Helsinki",
+            "graduation_year": 2019
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2016,
+            "end_year": 2019,
+            "company": "Tampere Art Museum",
+            "position": "Art Dealer",
+            "salary": 39000
+        },
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "Museum of Contemporary Art Kiasma",
+            "position": "Gallery Owner",
+            "salary": 63000
+        }
+    ],
+    "aum": {
+        "savings": 70000,
+        "inheritance": 170000,
+        "real_estate_value": 1780000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2016,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 1780000,
+            "property location": "Joensuu"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

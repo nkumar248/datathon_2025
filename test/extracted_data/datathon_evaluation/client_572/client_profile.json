@@ -1,0 +1,97 @@
+{
+    "name": "Hagenbuch Suter Schmid",
+    "address": {
+        "city": "Ieper",
+        "street name": "Rue de la Paix",
+        "street number": 60,
+        "postal code": "8086"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1975-06-21",
+    "nationality": "Swiss",
+    "passport_number": "UA6577534",
+    "passport_issue_date": "2019-06-30",
+    "passport_expiry_date": "2029-06-29",
+    "gender": "M",
+    "phone_number": "+32 0473 882 533",
+    "email_address": "hagenbuch.schmid@edpnet.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Liceo scientifico Giovanni Polli Lugano",
+        "graduation_year": 1995
+    },
+    "higher_education": [
+        {
+            "university": "University of St. Gallen",
+            "graduation_year": 1998
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1999,
+            "end_year": 2004,
+            "company": "BNP Paribas Fortis SA/NV",
+            "position": "Investment Banker",
+            "salary": 90000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2011,
+            "company": "BNP Paribas Fortis SA/NV",
+            "position": "Private Equity Investor",
+            "salary": 97000
+        },
+        {
+            "start_year": 2013,
+            "end_year": 2015,
+            "company": "Euroclear SA/NV",
+            "position": "Hedge Fund Manager",
+            "salary": 123000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2016,
+            "company": "BNP Paribas Fortis SA/NV",
+            "position": "Venture Capitalist",
+            "salary": 280000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "ING Belgium SA/NV",
+            "position": "Billionaire Investor",
+            "salary": 435000
+        }
+    ],
+    "aum": {
+        "savings": 740000,
+        "inheritance": 3250000,
+        "real_estate_value": 5300000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2009,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2610000,
+            "property location": "Ieper"
+        },
+        {
+            "property type": "condo",
+            "property value": 2690000,
+            "property location": "Fribourg"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

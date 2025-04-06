@@ -1,0 +1,60 @@
+{
+    "name": "Benedetta Daniela Fabbri",
+    "address": {
+        "city": "Parma",
+        "street name": "Piazza della Repubblica",
+        "street number": 41,
+        "postal code": "07975"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1990-12-13",
+    "nationality": "Italian",
+    "passport_number": "GG5209235",
+    "passport_issue_date": "2016-12-07",
+    "passport_expiry_date": "2026-12-06",
+    "gender": "F",
+    "phone_number": "310 4098833",
+    "email_address": "benedetta.fabbri@libero.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Liceo Artistico Statale Mario Sironi Sassari",
+        "graduation_year": 2010
+    },
+    "higher_education": [
+        {
+            "university": "IMT Institute for Advanced Studies Lucca",
+            "graduation_year": 2014
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "Intesa Sanpaolo S.p.A.",
+            "position": "Stockbroker",
+            "salary": 66000
+        }
+    ],
+    "aum": {
+        "savings": 70000,
+        "inheritance": 0,
+        "real_estate_value": 1310000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1310000,
+            "property location": "Parma"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

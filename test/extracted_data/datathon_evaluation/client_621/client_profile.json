@@ -1,0 +1,83 @@
+{
+    "name": "Mia Lina Klein",
+    "address": {
+        "city": "Hanover",
+        "street name": "Neuer Markt",
+        "street number": 9,
+        "postal code": "16505"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1962-02-11",
+    "nationality": "German",
+    "passport_number": "QI3768843",
+    "passport_issue_date": "2024-04-13",
+    "passport_expiry_date": "2034-04-12",
+    "gender": "F",
+    "phone_number": "9151 951092",
+    "email_address": "mia.klein@icloud.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Albert-Schweitzer-Gymnasium Hamburg",
+        "graduation_year": 1981
+    },
+    "higher_education": [
+        {
+            "university": "Heidelberg University of Education",
+            "graduation_year": 1984
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1986,
+            "end_year": 1988,
+            "company": "Evonik Industries AG",
+            "position": "Research Scientist",
+            "salary": 38000
+        },
+        {
+            "start_year": 1988,
+            "end_year": 1992,
+            "company": "Qiagen N.V.",
+            "position": "Biotech Startup Founder",
+            "salary": 60000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 2022,
+            "company": "Bayer AG",
+            "position": "CEO",
+            "salary": 628000
+        }
+    ],
+    "aum": {
+        "savings": 1080000,
+        "inheritance": 0,
+        "real_estate_value": 4794000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1574000,
+            "property location": "Hanover"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1640000,
+            "property location": "Augsburg"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1580000,
+            "property location": "Münster"
+        }
+    ],
+    "investment_risk_profile": "Conservative",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Germany"
+    ],
+    "currency": "EUR"
+}

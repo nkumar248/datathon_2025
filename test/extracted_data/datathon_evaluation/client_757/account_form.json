@@ -1,0 +1,17 @@
+{
+    "name": "Julia Céline Roth",
+    "first_name": "Julia",
+    "middle_name": "Céline",
+    "last_name": "Roth",
+    "passport_number": "YF9718616",
+    "currency": "CHF",
+    "address": {
+        "city": "Zurich",
+        "street name": "Limmatquai",
+        "street number": 23,
+        "postal code": "6377"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "049 548 93 80",
+    "email_address": "julia.roth@outlook.com"
+}

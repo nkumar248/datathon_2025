@@ -1,0 +1,17 @@
+{
+    "name": "Carlotta Emanuela Giordano",
+    "first_name": "Carlotta",
+    "middle_name": "Emanuela",
+    "last_name": "Giordano",
+    "passport_number": "IX3597873",
+    "currency": "EUR",
+    "address": {
+        "city": "Udine",
+        "street name": "Via Solferino",
+        "street number": 28,
+        "postal code": "86325"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 385 7609733",
+    "email_address": "carlotta.giordano@outlook.com"
+}

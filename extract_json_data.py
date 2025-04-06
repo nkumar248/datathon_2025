@@ -10,8 +10,8 @@ import sys
 import datetime
 import os
 
-CLIENT_ID_START = 0
-CLIENT_ID_END = 15
+CLIENT_ID_START = 666
+CLIENT_ID_END = 1001
 MAX_CONCURRENT_REQUESTS = 20  # Adjust based on API rate limits
 
 # Load API keys
@@ -145,7 +145,7 @@ async def main():
         template = promptfile.read()
 
     global output_file, error_file
-    output_file = "test/processed_data_with_llm_augmentation/enhanced_client_data_test.jsonl"
+    output_file = "test/processed_data_with_llm_augmentation/enhanced_client_data_test_666_1001.jsonl"
     error_file = "test/error_file.txt"
     
     # Create output directory if it doesn't exist

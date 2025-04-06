@@ -1,0 +1,81 @@
+{
+    "name": "Sofia Gabriella Lombardi",
+    "address": {
+        "city": "Modena",
+        "street name": "Via dei Banchi Vecchi",
+        "street number": 56,
+        "postal code": "54097"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1991-06-18",
+    "nationality": "Italian",
+    "passport_number": "QG5905125",
+    "passport_issue_date": "2023-08-25",
+    "passport_expiry_date": "2033-08-24",
+    "gender": "F",
+    "phone_number": "368 0644055",
+    "email_address": "sofia.lombardi@virgilio.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Istituto Tecnico Agrario Statale Giuseppe Garibaldi Parma",
+        "graduation_year": 2000
+    },
+    "higher_education": [
+        {
+            "university": "University of Bologna",
+            "graduation_year": 2015
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2016,
+            "end_year": 2017,
+            "company": "NH Hotel Group Italia S.r.l.",
+            "position": "Hotel Manager",
+            "salary": 24000
+        },
+        {
+            "start_year": 2017,
+            "end_year": null,
+            "company": "Gruppo Starhotels S.p.A.",
+            "position": "General Manager",
+            "salary": 40000
+        }
+    ],
+    "aum": {
+        "savings": 40000,
+        "inheritance": 1740000,
+        "real_estate_value": 4622000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1450000,
+            "property location": "Modena"
+        },
+        {
+            "property type": "flat",
+            "property value": 882000,
+            "property location": "Messina"
+        },
+        {
+            "property type": "villa",
+            "property value": 2290000,
+            "property location": "Taranto"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

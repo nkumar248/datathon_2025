@@ -1,0 +1,17 @@
+{
+    "name": "Lombardi Giordano Donati",
+    "first_name": "Lombardi",
+    "middle_name": "Giordano",
+    "last_name": "Donati",
+    "passport_number": "PK1505791",
+    "currency": "EUR",
+    "address": {
+        "city": "Taranto",
+        "street name": "Via Condotti",
+        "street number": 65,
+        "postal code": "55363"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 338 7888697",
+    "email_address": "lombardi.donati@aruba.it"
+}

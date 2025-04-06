@@ -1,0 +1,17 @@
+{
+    "first_name": "Florine",
+    "middle_name": "Barbara",
+    "last_name": "Ackermann",
+    "gender": "F",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1993-01-21",
+    "passport_number": "MC5811207",
+    "passport_mrz": [
+        "P<CHEACKERMANN<<FLORINE<BARBARA<<<<<<<<<<<<<<",
+        "MC5811207CHE930121<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2021-05-22",
+    "passport_expiry_date": "2031-05-21"
+}

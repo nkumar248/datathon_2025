@@ -1,0 +1,17 @@
+{
+    "first_name": "Kuhn",
+    "middle_name": "Furrer",
+    "last_name": "Ackermann",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1954-08-27",
+    "passport_number": "HX0931819",
+    "passport_mrz": [
+        "P<CHEACKERMANN<<KUHN<FURRER<<<<<<<<<<<<<<<<<<",
+        "HX0931819CHE540827<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-02-12",
+    "passport_expiry_date": "2034-02-11"
+}

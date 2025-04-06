@@ -1,0 +1,76 @@
+{
+    "name": "Gabriella Costanza Ferrari",
+    "address": {
+        "city": "Tuusula",
+        "street name": "Katariinankatu",
+        "street number": 74,
+        "postal code": "50889"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1975-03-01",
+    "nationality": "Italian",
+    "passport_number": "QN1894998",
+    "passport_issue_date": "2020-09-22",
+    "passport_expiry_date": "2030-09-21",
+    "gender": "F",
+    "phone_number": "+358 045 175 00 96",
+    "email_address": "gabriella.ferrari@dnainternet.fi",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Istituto Tecnico Agrario Statale Francesco De Sanctis Foggia",
+        "graduation_year": 1993
+    },
+    "higher_education": [
+        {
+            "university": "Academy of Fine Arts of Rome",
+            "graduation_year": 1998
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1998,
+            "end_year": 2000,
+            "company": "Ateneum Art Museum",
+            "position": "Art Dealer",
+            "salary": 27000
+        },
+        {
+            "start_year": 1998,
+            "end_year": null,
+            "company": "Ateneum Art Museum",
+            "position": "Gallery Owner",
+            "salary": 193000
+        }
+    ],
+    "aum": {
+        "savings": 360000,
+        "inheritance": 4350000,
+        "real_estate_value": 1930000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2010,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1120000,
+            "property location": "Tuusula"
+        },
+        {
+            "property type": "condo",
+            "property value": 810000,
+            "property location": "Rome"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

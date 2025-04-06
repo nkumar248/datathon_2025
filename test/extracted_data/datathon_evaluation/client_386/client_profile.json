@@ -1,0 +1,87 @@
+{
+    "name": "Giovanna Anna Galli",
+    "address": {
+        "city": "Perugia",
+        "street name": "Galleria Vittorio Emanuele II",
+        "street number": 93,
+        "postal code": "98829"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1987-06-07",
+    "nationality": "Spanish",
+    "passport_number": "WZ3489699",
+    "passport_issue_date": "2020-01-31",
+    "passport_expiry_date": "2030-01-30",
+    "gender": "F",
+    "phone_number": "+39 331 5098609",
+    "email_address": "giovanna.galli@tiscali.it",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Liceo Scientifico Niccolò Copernico Padova",
+        "graduation_year": 1996
+    },
+    "higher_education": [
+        {
+            "university": "University of Turin",
+            "graduation_year": 2012
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2011,
+            "end_year": 2013,
+            "company": "Reply S.p.A.",
+            "position": "Software Developer",
+            "salary": 28000
+        },
+        {
+            "start_year": 2014,
+            "end_year": 2019,
+            "company": "STMicroelectronics S.p.A.",
+            "position": "Startup Founder",
+            "salary": 51000
+        },
+        {
+            "start_year": 2021,
+            "end_year": null,
+            "company": "STMicroelectronics S.p.A.",
+            "position": "CEO",
+            "salary": 55000
+        }
+    ],
+    "aum": {
+        "savings": 70000,
+        "inheritance": 1800000,
+        "real_estate_value": 2749000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1359000,
+            "property location": "Perugia"
+        },
+        {
+            "property type": "flat",
+            "property value": 660000,
+            "property location": "Livorno"
+        },
+        {
+            "property type": "condo",
+            "property value": 730000,
+            "property location": "Modena"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

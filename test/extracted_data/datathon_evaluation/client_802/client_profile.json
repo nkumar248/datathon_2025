@@ -1,0 +1,78 @@
+{
+    "name": "Peiren Sanders Moens",
+    "address": {
+        "city": "Antwerp",
+        "street name": "Rue de la Régence",
+        "street number": 82,
+        "postal code": "2840"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1988-03-26",
+    "nationality": "Belgian",
+    "passport_number": "QB3387869",
+    "passport_issue_date": "2019-01-27",
+    "passport_expiry_date": "2026-01-26",
+    "gender": "M",
+    "phone_number": "+32 0405 860 093",
+    "email_address": "peiren.moens@gmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Ecole Secondaire Libre du Sacré-Cœur",
+        "graduation_year": 2006
+    },
+    "higher_education": [
+        {
+            "university": "Solvay Brussels School of Economics and Management",
+            "graduation_year": 2011
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2012,
+            "end_year": 2016,
+            "company": "BNP Paribas Fortis SA/NV",
+            "position": "Investment Banker",
+            "salary": 41000
+        },
+        {
+            "start_year": 2017,
+            "end_year": 2020,
+            "company": "ING Belgium SA/NV",
+            "position": "Private Equity Investor",
+            "salary": 59000
+        },
+        {
+            "start_year": 2021,
+            "end_year": null,
+            "company": "",
+            "position": "CTO",
+            "salary": 82000
+        }
+    ],
+    "aum": {
+        "savings": 100000,
+        "inheritance": 830000,
+        "real_estate_value": 1240000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1240000,
+            "property location": "Antwerp"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

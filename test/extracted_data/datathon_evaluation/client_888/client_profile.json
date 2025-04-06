@@ -1,0 +1,89 @@
+{
+    "name": "Andrea Emma Burkart",
+    "address": {
+        "city": "Solothurn",
+        "street name": "Rue de l'Athénée",
+        "street number": 94,
+        "postal code": "9353"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1973-04-01",
+    "nationality": "Swiss",
+    "passport_number": "MZ3657189",
+    "passport_issue_date": "2016-04-25",
+    "passport_expiry_date": "2026-04-24",
+    "gender": "F",
+    "phone_number": "+41 014 540 40 11",
+    "email_address": "andrea.burkart@swisscom.ch",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée cantonal de Porrentruy Jura",
+        "graduation_year": 1992
+    },
+    "higher_education": [
+        {
+            "university": "Zurich University of the Arts",
+            "graduation_year": 1996
+        },
+        {
+            "university": "ETH Zurich",
+            "graduation_year": 1999
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1997,
+            "end_year": 1999,
+            "company": "Kunsthaus Zürich",
+            "position": "Art Dealer",
+            "salary": 58000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2002,
+            "company": "Kunstmuseum Basel",
+            "position": "Gallery Owner",
+            "salary": 86000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2008,
+            "company": "Kunstmuseum Basel",
+            "position": "Art Advisor",
+            "salary": 128000
+        },
+        {
+            "start_year": 2008,
+            "end_year": null,
+            "company": "Musée d'Art et d'Histoire Geneva",
+            "position": "Curator",
+            "salary": 1397000
+        }
+    ],
+    "aum": {
+        "savings": 2030000,
+        "inheritance": 2210000,
+        "real_estate_value": 2540000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2011,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 2540000,
+            "property location": "Solothurn"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "France"
+    ],
+    "currency": "CHF"
+}

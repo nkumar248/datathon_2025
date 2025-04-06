@@ -1,0 +1,50 @@
+{
+    "name": "Inès Émilie Lemaître",
+    "address": {
+        "city": "Toulouse",
+        "street name": "Rue de la Santé",
+        "street number": 96,
+        "postal code": "41532"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "2001-06-15",
+    "nationality": "French",
+    "passport_number": "HX7459884",
+    "passport_issue_date": "2017-06-01",
+    "passport_expiry_date": "2027-05-31",
+    "gender": "F",
+    "phone_number": "03 97 02 21 17",
+    "email_address": "ines.lemaitre@wanadoo.fr",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée Chaptal",
+        "graduation_year": 2021
+    },
+    "higher_education": [
+        {
+            "university": "École Nationale d'Administration (ENA)",
+            "graduation_year": 2024
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1050000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "France"
+    ],
+    "currency": "EUR"
+}

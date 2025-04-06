@@ -1,0 +1,17 @@
+{
+    "name": "Katharina Franziska Scholz",
+    "first_name": "Katharina",
+    "middle_name": "Franziska",
+    "last_name": "Scholz",
+    "passport_number": "SS4528483",
+    "currency": "EUR",
+    "address": {
+        "city": "Hamburg",
+        "street name": "Kurfürstendamm",
+        "street number": 60,
+        "postal code": "24837"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 5097 731780",
+    "email_address": "katharina.scholz@yahoo.com"
+}

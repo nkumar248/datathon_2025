@@ -1,0 +1,17 @@
+{
+    "name": "Oddershede Knudsen",
+    "first_name": "Oddershede",
+    "middle_name": "",
+    "last_name": "Knudsen",
+    "passport_number": "DR4100055",
+    "currency": "DKK",
+    "address": {
+        "city": "Silkeborg",
+        "street name": "Ørsteds Park",
+        "street number": 4,
+        "postal code": "2013"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 83 38 47 73",
+    "email_address": "oddershede.knudsen@telia.dk"
+}

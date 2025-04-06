@@ -1,0 +1,17 @@
+{
+    "name": "Amanda Emilie Larsen",
+    "first_name": "Amanda",
+    "middle_name": "Emilie",
+    "last_name": "Larsen",
+    "passport_number": "EA4669848",
+    "currency": "DKK",
+    "address": {
+        "city": "Aarhus",
+        "street name": "Sølvgade",
+        "street number": 86,
+        "postal code": "7570"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 19 73 01 69",
+    "email_address": "amanda.larsen@dk-hostmaster.dk"
+}

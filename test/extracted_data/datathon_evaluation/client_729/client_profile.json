@@ -1,0 +1,81 @@
+{
+    "name": "Friis Jespersen Lykke",
+    "address": {
+        "city": "Næstved",
+        "street name": "Østerbrogade",
+        "street number": 67,
+        "postal code": "9329"
+    },
+    "country_of_domicile": "Denmark,Italy",
+    "birth_date": "1978-09-25",
+    "nationality": "Danish",
+    "passport_number": "VX2152927",
+    "passport_issue_date": "2017-08-30",
+    "passport_expiry_date": "2027-08-29",
+    "gender": "M",
+    "phone_number": "+45 06 63 47 27",
+    "email_address": "friis.lykke@telenor.dk",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Struer Statsgymnasium",
+        "graduation_year": 1986
+    },
+    "higher_education": [
+        {
+            "university": "University of Southern Denmark",
+            "graduation_year": 2003
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2003,
+            "end_year": 2006,
+            "company": "A.P. Moller - Maersk A/S",
+            "position": "Ship Broker",
+            "salary": 254000
+        },
+        {
+            "start_year": 2008,
+            "end_year": null,
+            "company": "A.P. Moller - Maersk A/S",
+            "position": "Shipping Company Owner",
+            "salary": 1588000
+        }
+    ],
+    "aum": {
+        "savings": 2490000,
+        "inheritance": 32440000,
+        "real_estate_value": 5730000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2005,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2030000,
+            "property location": "Næstved"
+        },
+        {
+            "property type": "villa",
+            "property value": 2280000,
+            "property location": "Århus N"
+        },
+        {
+            "property type": "condo",
+            "property value": 1420000,
+            "property location": "Hillerød"
+        }
+    ],
+    "investment_risk_profile": "Conservative",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

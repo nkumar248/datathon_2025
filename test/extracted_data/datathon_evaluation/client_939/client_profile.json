@@ -1,0 +1,88 @@
+{
+    "name": "Anna Hanne Jørgensen",
+    "address": {
+        "city": "Fredericia",
+        "street name": "Strøget",
+        "street number": 59,
+        "postal code": "4293"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1954-04-30",
+    "nationality": "Danish",
+    "passport_number": "VD7460500",
+    "passport_issue_date": "2018-01-21",
+    "passport_expiry_date": "2028-01-20",
+    "gender": "F",
+    "phone_number": "62 80 17 94",
+    "email_address": "anna.jrgensen@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Sorø Akademi",
+        "graduation_year": 1972
+    },
+    "higher_education": [
+        {
+            "university": "University College Capital",
+            "graduation_year": 1979
+        },
+        {
+            "university": "University College Lillebælt",
+            "graduation_year": 1983
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1979,
+            "end_year": 1983,
+            "company": "Torm A/S",
+            "position": "Ship Broker",
+            "salary": 251000
+        },
+        {
+            "start_year": 1983,
+            "end_year": 1987,
+            "company": "A.P. Moller - Maersk A/S",
+            "position": "Shipping Company Owner",
+            "salary": 402000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 2015,
+            "company": "A.P. Moller - Maersk A/S",
+            "position": "Fleet Manager",
+            "salary": 3707000
+        }
+    ],
+    "aum": {
+        "savings": 7240000,
+        "inheritance": 0,
+        "real_estate_value": 5550000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1530000,
+            "property location": "Fredericia"
+        },
+        {
+            "property type": "villa",
+            "property value": 2330000,
+            "property location": "Copenhagen"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1690000,
+            "property location": "Kolding"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "France"
+    ],
+    "currency": "DKK"
+}

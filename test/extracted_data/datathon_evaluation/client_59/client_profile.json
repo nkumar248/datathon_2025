@@ -1,0 +1,83 @@
+{
+    "name": "Elisabeth Chiara Meier",
+    "address": {
+        "city": "Baden",
+        "street name": "Spitalgasse",
+        "street number": 25,
+        "postal code": "8887"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1965-01-05",
+    "nationality": "Swiss",
+    "passport_number": "XR4420425",
+    "passport_issue_date": "2019-01-20",
+    "passport_expiry_date": "2029-01-19",
+    "gender": "F",
+    "phone_number": "+41 077 316 21 12",
+    "email_address": "elisabeth.meier@hotmail.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Kantonsschule Wettingen Wettingen",
+        "graduation_year": 1982
+    },
+    "higher_education": [
+        {
+            "university": "Lausanne Hospitality School",
+            "graduation_year": 1987
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1988,
+            "end_year": 1989,
+            "company": "Lombard Odier Darier Hentsch & Cie",
+            "position": "Family Office Manager",
+            "salary": 61000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 1991,
+            "company": "Credit Suisse AG",
+            "position": "Investment Director",
+            "salary": 98000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 2025,
+            "company": "UBS AG",
+            "position": "CFO",
+            "salary": 1259000
+        }
+    ],
+    "aum": {
+        "savings": 2360000,
+        "inheritance": 180000,
+        "real_estate_value": 4820000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2014,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 2520000,
+            "property location": "Baden"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 2300000,
+            "property location": "Bienna"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "2 weeks",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Spain"
+    ],
+    "currency": "CHF"
+}

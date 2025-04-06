@@ -1,0 +1,63 @@
+{
+    "name": "Katharina Franziska Scholz",
+    "address": {
+        "city": "Hamburg",
+        "street name": "Kurfürstendamm",
+        "street number": 60,
+        "postal code": "24837"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1992-10-05",
+    "nationality": "German",
+    "passport_number": "SS4528483",
+    "passport_issue_date": "2021-08-28",
+    "passport_expiry_date": "2031-08-27",
+    "gender": "F",
+    "phone_number": "+49 5097 731780",
+    "email_address": "katharina.scholz@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Max-Planck-Gymnasium München",
+        "graduation_year": 2012
+    },
+    "higher_education": [
+        {
+            "university": "University of Berlin",
+            "graduation_year": 2015
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "Bayer AG",
+            "position": "Research Scientist",
+            "salary": 45000
+        }
+    ],
+    "aum": {
+        "savings": 50000,
+        "inheritance": 820000,
+        "real_estate_value": 1000000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1000000,
+            "property location": "Hamburg"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Germany"
+    ],
+    "currency": "EUR"
+}

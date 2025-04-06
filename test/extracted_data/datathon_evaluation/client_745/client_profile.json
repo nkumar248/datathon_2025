@@ -1,0 +1,91 @@
+{
+    "name": "Tanja Andrea Gruber",
+    "address": {
+        "city": "Graz",
+        "street name": "Schönlaterngasse",
+        "street number": 61,
+        "postal code": "4850"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1980-02-29",
+    "nationality": "Austrian",
+    "passport_number": "RD6308893",
+    "passport_issue_date": "2018-10-25",
+    "passport_expiry_date": "2028-10-24",
+    "gender": "F",
+    "phone_number": "555 460 0906",
+    "email_address": "tanja.gruber@gmail.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "BORG Deutschlandsberg",
+        "graduation_year": 1989
+    },
+    "higher_education": [
+        {
+            "university": "Danube Private University Krems",
+            "graduation_year": 2004
+        },
+        {
+            "university": "University of Klagenfurt",
+            "graduation_year": 2006
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2004,
+            "end_year": 2009,
+            "company": "Wolford AG",
+            "position": "Assistant Designer",
+            "salary": 42000
+        },
+        {
+            "start_year": 2011,
+            "end_year": 2016,
+            "company": "Swarovski AG",
+            "position": "Senior Designer",
+            "salary": 59000
+        },
+        {
+            "start_year": 2016,
+            "end_year": 2023,
+            "company": "Gerry Weber International AG",
+            "position": "Creative Director",
+            "salary": 110000
+        }
+    ],
+    "aum": {
+        "savings": 160000,
+        "inheritance": 220000,
+        "real_estate_value": 2425000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2011,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 608000,
+            "property location": "Graz"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1047000,
+            "property location": "Stockerau"
+        },
+        {
+            "property type": "condo",
+            "property value": 770000,
+            "property location": "Amstetten"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

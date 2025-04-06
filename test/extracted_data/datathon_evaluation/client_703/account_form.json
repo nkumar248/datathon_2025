@@ -1,0 +1,17 @@
+{
+    "name": "Miettinen Ahonen Peltola",
+    "first_name": "Miettinen",
+    "middle_name": "Ahonen",
+    "last_name": "Peltola",
+    "passport_number": "GO2798711",
+    "currency": "EUR",
+    "address": {
+        "city": "",
+        "street name": "Neljäs linja",
+        "street number": 38,
+        "postal code": "15195"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "++328 047 308 24 86",
+    "email_address": "miettinen.peltola@saunalahti.fi"
+}

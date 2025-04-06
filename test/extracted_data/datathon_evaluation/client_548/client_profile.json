@@ -1,0 +1,75 @@
+{
+    "name": "De Luca Leonardi Russo",
+    "address": {
+        "city": "Bologna",
+        "street name": "Via Roma",
+        "street number": 46,
+        "postal code": "83774"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1980-04-09",
+    "nationality": "Italian",
+    "passport_number": "PA0346245",
+    "passport_issue_date": "2020-08-06",
+    "passport_expiry_date": "2030-08-05",
+    "gender": "M",
+    "phone_number": "+39 316 3124091",
+    "email_address": "deluca.russo@fastweb.it",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Istituto Tecnico Commerciale Statale Luigi Einaudi Torino",
+        "graduation_year": 1999
+    },
+    "higher_education": [
+        {
+            "university": "Normal Superior School of Pisa",
+            "graduation_year": 2003
+        },
+        {
+            "university": "University of Milan",
+            "graduation_year": 2009
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2005,
+            "end_year": 2007,
+            "company": "Banca Mediolanum S.p.A.",
+            "position": "Financial Advisor",
+            "salary": 24000
+        },
+        {
+            "start_year": 2009,
+            "end_year": null,
+            "company": "Banca Mediolanum S.p.A.",
+            "position": "Portfolio Manager",
+            "salary": 106000
+        }
+    ],
+    "aum": {
+        "savings": 160000,
+        "inheritance": 5230000,
+        "real_estate_value": 670000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2010,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 670000,
+            "property location": "Bologna"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

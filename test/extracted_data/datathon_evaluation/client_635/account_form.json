@@ -1,0 +1,17 @@
+{
+    "name": "Schulz Schmitt Schmitz",
+    "first_name": "Schulz",
+    "middle_name": "Schmitt",
+    "last_name": "Schmitz",
+    "passport_number": "LQ7102642",
+    "currency": "EUR",
+    "address": {
+        "city": "Heidelberg",
+        "street name": "Bahnhofsplatz",
+        "street number": 48,
+        "postal code": "29105"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "0990 010198",
+    "email_address": "schulz.schmitz@hotmail.com"
+}

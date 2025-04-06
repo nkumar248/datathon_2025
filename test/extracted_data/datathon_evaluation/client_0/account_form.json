@@ -1,0 +1,17 @@
+{
+    "name": "Julia Dominique Bühler",
+    "first_name": "Julia",
+    "middle_name": "Dominique",
+    "last_name": "Bühler",
+    "passport_number": "UR3017937",
+    "currency": "CHF",
+    "address": {
+        "city": "Zurich",
+        "street name": "Marktgasse",
+        "street number": 19,
+        "postal code": "7468"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 076 583 55 28",
+    "email_address": "julia.buhler@gmail.com"
+}

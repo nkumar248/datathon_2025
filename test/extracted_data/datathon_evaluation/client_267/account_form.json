@@ -1,0 +1,17 @@
+{
+    "name": "Gruber Fuchs Koller",
+    "first_name": "Gruber",
+    "middle_name": "Fuchs",
+    "last_name": "Koller",
+    "passport_number": "AT2793405",
+    "currency": "EUR",
+    "address": {
+        "city": "Spittal an der Drau",
+        "street name": "Gasometerstraße",
+        "street number": 61,
+        "postal code": "9343"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "++358 181 104 4696",
+    "email_address": "gruber.koller@icloud.com"
+}

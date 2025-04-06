@@ -1,0 +1,72 @@
+{
+    "name": "Mathilde Alma Nielsen",
+    "address": {
+        "city": "Lucerne",
+        "street name": "Marktgasse",
+        "street number": 46,
+        "postal code": "0937"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1994-05-28",
+    "nationality": "Danish",
+    "passport_number": "ZW5326891",
+    "passport_issue_date": "2021-09-07",
+    "passport_expiry_date": "2031-09-06",
+    "gender": "F",
+    "phone_number": "+41 062 592 61 23",
+    "email_address": "mathilde.nielsen@swissonline.ch",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Østre Borgerdyd Gymnasium",
+        "graduation_year": 2013
+    },
+    "higher_education": [
+        {
+            "university": "Copenhagen Business Academy",
+            "graduation_year": 2019
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2019,
+            "end_year": 2023,
+            "company": "Züblin Immobilien AG",
+            "position": "Property Manager",
+            "salary": 265000
+        },
+        {
+            "start_year": 2023,
+            "end_year": 2025,
+            "company": "Züblin Immobilien AG",
+            "position": "Developer",
+            "salary": 355000
+        }
+    ],
+    "aum": {
+        "savings": 250000,
+        "inheritance": 720000,
+        "real_estate_value": 3220000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2016,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 3220000,
+            "property location": "Lucerne"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Denmark",
+        "Netherlands"
+    ],
+    "currency": "CHF"
+}

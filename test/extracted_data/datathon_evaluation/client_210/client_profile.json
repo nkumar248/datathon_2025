@@ -1,0 +1,76 @@
+{
+    "name": "Herrmann Krüger Schulze",
+    "address": {
+        "city": "Münster",
+        "street name": "Brandenburgische Straße",
+        "street number": 4,
+        "postal code": "06096"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1983-09-23",
+    "nationality": "German",
+    "passport_number": "KG1256831",
+    "passport_issue_date": "2018-09-16",
+    "passport_expiry_date": "2028-09-15",
+    "gender": "M",
+    "phone_number": "8787 605590",
+    "email_address": "herrmann.schulze@versatel.de",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Helmut-Schmidt-Gymnasium Hamburg",
+        "graduation_year": 2002
+    },
+    "higher_education": [
+        {
+            "university": "Düsseldorf University of Applied Sciences",
+            "graduation_year": 2007
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2007,
+            "end_year": 2012,
+            "company": "Bosch Software Innovations GmbH",
+            "position": "Software Developer",
+            "salary": 44000
+        },
+        {
+            "start_year": 2013,
+            "end_year": 2023,
+            "company": "Software AG",
+            "position": "Startup Founder",
+            "salary": 77000
+        }
+    ],
+    "aum": {
+        "savings": 130000,
+        "inheritance": 1070000,
+        "real_estate_value": 3772000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2009,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 762000,
+            "property location": "Münster"
+        },
+        {
+            "property type": "villa",
+            "property value": 3010000,
+            "property location": "Leipzig"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

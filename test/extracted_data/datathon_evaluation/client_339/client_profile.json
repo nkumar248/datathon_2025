@@ -1,0 +1,74 @@
+{
+    "name": "Virtanen Paananen Laine",
+    "address": {
+        "city": "Hämeenlinna",
+        "street name": "Helsinginkatu",
+        "street number": 71,
+        "postal code": "57910"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1987-03-27",
+    "nationality": "Finnish",
+    "passport_number": "DK2374826",
+    "passport_issue_date": "2016-06-26",
+    "passport_expiry_date": "2026-06-25",
+    "gender": "M",
+    "phone_number": "+358 040 318 89 90",
+    "email_address": "virtanen.laine@surffi.net",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Eiran Apteekkarin Koulu",
+        "graduation_year": 2006
+    },
+    "higher_education": [
+        {
+            "university": "Hanken School of Economics",
+            "graduation_year": 2009
+        },
+        {
+            "university": "University of Oulu",
+            "graduation_year": 2014
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2011,
+            "end_year": 2016,
+            "company": "OP Private Bank",
+            "position": "Financial Advisor",
+            "salary": 42000
+        },
+        {
+            "start_year": 2017,
+            "end_year": null,
+            "company": "Handelsbanken Private Banking",
+            "position": "Portfolio Manager",
+            "salary": 79000
+        }
+    ],
+    "aum": {
+        "savings": 100000,
+        "inheritance": 250000,
+        "real_estate_value": 800000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 800000,
+            "property location": "Hämeenlinna"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

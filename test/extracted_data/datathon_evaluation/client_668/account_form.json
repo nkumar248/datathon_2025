@@ -1,0 +1,17 @@
+{
+    "name": "Chiara Lena Roth",
+    "first_name": "Chiara",
+    "middle_name": "Lena",
+    "last_name": "Roth",
+    "passport_number": "BR0942300",
+    "currency": "CHF",
+    "address": {
+        "city": "Geneva",
+        "street name": "Metzgergasse",
+        "street number": 9,
+        "postal code": "9104"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 089 005 23 29",
+    "email_address": "chiara.roth@upc.ch"
+}

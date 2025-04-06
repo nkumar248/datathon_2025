@@ -1,0 +1,17 @@
+{
+    "name": "Hernández Suárez Martín",
+    "first_name": "Hernández",
+    "middle_name": "Suárez",
+    "last_name": "Martín",
+    "passport_number": "PD0306735",
+    "currency": "EUR",
+    "address": {
+        "city": "Castellón de la Plana",
+        "street name": "Calle de Serranos",
+        "street number": 98,
+        "postal code": "98962"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 604 310 302",
+    "email_address": "hernandez.martin@wanadoo.es"
+}

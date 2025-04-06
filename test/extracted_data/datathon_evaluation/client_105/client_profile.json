@@ -1,0 +1,88 @@
+{
+    "name": "Moreau Richard Marchand",
+    "address": {
+        "city": "Besançon",
+        "street name": "Avenue de l'Opéra",
+        "street number": 89,
+        "postal code": "51475"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1959-12-14",
+    "nationality": "French",
+    "passport_number": "NT6100339",
+    "passport_issue_date": "2026-12-14",
+    "passport_expiry_date": "2016-12-15",
+    "gender": "M",
+    "phone_number": "03 55 82 88 47",
+    "email_address": "moreau.marchand@numericable.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Gustave Eiffel",
+        "graduation_year": 1978
+    },
+    "higher_education": [
+        {
+            "university": "University of Montpellier",
+            "graduation_year": 1983
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1983,
+            "end_year": 1984,
+            "company": "Jumbo Shipping France",
+            "position": "Ship Broker",
+            "salary": 30000
+        },
+        {
+            "start_year": 1984,
+            "end_year": 1986,
+            "company": "Jumbo Shipping France",
+            "position": "Shipping Company Owner",
+            "salary": 45000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 1988,
+            "company": "CMA CGM S.A.",
+            "position": "Fleet Manager",
+            "salary": 63000
+        },
+        {
+            "start_year": 1988,
+            "end_year": 1989,
+            "company": "Neptune Lines France",
+            "position": "Maritime Industry Leader",
+            "salary": 117000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 2020,
+            "company": "CMA CGM S.A.",
+            "position": "Logistics Conglomerate Owner",
+            "salary": 1308000
+        }
+    ],
+    "aum": {
+        "savings": 2440000,
+        "inheritance": 0,
+        "real_estate_value": 1310000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1310000,
+            "property location": "Besançon"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "7 months",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands",
+        "France"
+    ],
+    "currency": "EUR"
+}

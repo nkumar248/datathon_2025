@@ -1,0 +1,76 @@
+{
+    "name": "Keller Baumgartner Burkart",
+    "address": {
+        "city": "Zurich",
+        "street name": "Waisenhausplatz",
+        "street number": 37,
+        "postal code": "7294"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1989-01-13",
+    "nationality": "Swiss",
+    "passport_number": "YJ5485278",
+    "passport_issue_date": "2021-08-17",
+    "passport_expiry_date": "2031-08-16",
+    "gender": "M",
+    "phone_number": "+41 000 319 59 05",
+    "email_address": "keller.burkart@bluewin.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Gymnasium Stadelhofen Luzern",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "Franklin University Switzerland",
+            "graduation_year": 2013
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2012,
+            "end_year": 2016,
+            "company": "Roche Holding AG",
+            "position": "Research Scientist",
+            "salary": 65000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "Pfizer AG (Swiss branch)",
+            "position": "Clinical Trials Manager",
+            "salary": 113000
+        }
+    ],
+    "aum": {
+        "savings": 170000,
+        "inheritance": 2650000,
+        "real_estate_value": 5660000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 2910000,
+            "property location": "Zurich"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 2750000,
+            "property location": "Herisau"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Spain"
+    ],
+    "currency": "CHF"
+}

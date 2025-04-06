@@ -1,0 +1,17 @@
+{
+    "name": "Lynn Déborah Kuhn",
+    "first_name": "Lynn",
+    "middle_name": "Déborah",
+    "last_name": "Kuhn",
+    "passport_number": "HD6831672",
+    "currency": "CHF",
+    "address": {
+        "city": "Geneva",
+        "street name": "Place des Halles",
+        "street number": 18,
+        "postal code": "1846"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "034 390 61 48",
+    "email_address": "lynn.kuhn@icloud.com"
+}

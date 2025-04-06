@@ -1,0 +1,64 @@
+{
+    "name": "Voorn Spaans",
+    "address": {
+        "city": "Eindhoven",
+        "street name": "Langegracht",
+        "street number": 84,
+        "postal code": "7011 69"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1999-02-15",
+    "nationality": "Dutch",
+    "passport_number": "TA4930667",
+    "passport_issue_date": "2023-04-05",
+    "passport_expiry_date": "2033-04-04",
+    "gender": "M",
+    "phone_number": "+31 06 96063509",
+    "email_address": "voorn.spaans@gmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "CSG Willem van Oranje Apeldoorn",
+        "graduation_year": 2017
+    },
+    "higher_education": [
+        {
+            "university": "Vrije Universiteit Amsterdam - School of Business and Economics",
+            "graduation_year": 2007
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2023,
+            "end_year": 2024,
+            "company": "CBRE Global Investors Nederland B.V.",
+            "position": "Property Manager",
+            "salary": 41000
+        },
+        {
+            "start_year": 2025,
+            "end_year": null,
+            "company": "Bouwinvest REIM B.V.",
+            "position": "Developer",
+            "salary": 63000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 2580000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

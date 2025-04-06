@@ -1,0 +1,77 @@
+{
+    "name": "Koch Müller Hoffmann",
+    "address": {
+        "city": "Hämeenlinna",
+        "street name": "Korkeavuorenkatu",
+        "street number": 39,
+        "postal code": "31194"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1956-07-19",
+    "nationality": "German",
+    "passport_number": "QT2037722",
+    "passport_issue_date": "2017-11-23",
+    "passport_expiry_date": "2027-11-22",
+    "gender": "M",
+    "phone_number": "+358 046 087 31 05",
+    "email_address": "koch.hoffmann@hotmail.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Wilhelm-von-Humboldt-Gymnasium Berlin",
+        "graduation_year": 1967
+    },
+    "higher_education": [
+        {
+            "university": "Technical University of Munich",
+            "graduation_year": 1979
+        },
+        {
+            "university": "Heidelberg University of Education",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1980,
+            "end_year": 1984,
+            "company": "Rovio Entertainment Oy",
+            "position": "Software Developer",
+            "salary": 45000
+        },
+        {
+            "start_year": 1985,
+            "end_year": 2017,
+            "company": "Rovio Entertainment Oy",
+            "position": "Startup Founder",
+            "salary": 424000
+        }
+    ],
+    "aum": {
+        "savings": 820000,
+        "inheritance": 0,
+        "real_estate_value": 4680000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2300000,
+            "property location": "Hämeenlinna"
+        },
+        {
+            "property type": "villa",
+            "property value": 2380000,
+            "property location": "Düsseldorf"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "France",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

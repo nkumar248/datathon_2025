@@ -1,0 +1,75 @@
+{
+    "name": "Angela Concha Ramos",
+    "address": {
+        "city": "Málaga",
+        "street name": "Paseo de Gracia",
+        "street number": 5,
+        "postal code": "02232"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1970-05-17",
+    "nationality": "Spanish",
+    "passport_number": "SQ6290944",
+    "passport_issue_date": "2016-11-15",
+    "passport_expiry_date": "2026-11-14",
+    "gender": "F",
+    "phone_number": "+34 613 503 694",
+    "email_address": "angela.ramos@vodafone.es",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Colegio El Pilar Getafe",
+        "graduation_year": 1988
+    },
+    "higher_education": [
+        {
+            "university": "Madrid School of Fine Arts",
+            "graduation_year": 1993
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1995,
+            "end_year": 1998,
+            "company": "CaixaForum",
+            "position": "Art Dealer",
+            "salary": 26000
+        },
+        {
+            "start_year": 1999,
+            "end_year": null,
+            "company": "Museo del Prado",
+            "position": "Gallery Owner",
+            "salary": 167000
+        }
+    ],
+    "aum": {
+        "savings": 290000,
+        "inheritance": 1090000,
+        "real_estate_value": 3140000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2005,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2050000,
+            "property location": "Málaga"
+        },
+        {
+            "property type": "condo",
+            "property value": 1090000,
+            "property location": "Vigo"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Ginevra Erika Ferrari",
+    "first_name": "Ginevra",
+    "middle_name": "Erika",
+    "last_name": "Ferrari",
+    "passport_number": "UU4099878",
+    "currency": "EUR",
+    "address": {
+        "city": "Catania",
+        "street name": "Corso Vittorio Emanuele II",
+        "street number": 58,
+        "postal code": "53345"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "311 9332981",
+    "email_address": "ginevra.ferrari@wind.it"
+}

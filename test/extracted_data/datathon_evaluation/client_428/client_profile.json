@@ -1,0 +1,58 @@
+{
+    "name": "Rodríguez Fernández Ruiz",
+    "address": {
+        "city": "Castellón de la Plana",
+        "street name": "Calle de San Vicente Mártir",
+        "street number": 87,
+        "postal code": "14528"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "2000-02-06",
+    "nationality": "Spanish",
+    "passport_number": "NQ0002650",
+    "passport_issue_date": "2023-07-22",
+    "passport_expiry_date": "2028-07-21",
+    "gender": "M",
+    "phone_number": "+34 618 063 821",
+    "email_address": "rodriguez.ruiz@terra.es",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "IES Juan Carlos I Burgos",
+        "graduation_year": 2017
+    },
+    "higher_education": [
+        {
+            "university": "University of the Basque Country",
+            "graduation_year": 2024
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2024,
+            "end_year": null,
+            "company": "Esteve Teijin Healthcare S.L.",
+            "position": "Research Scientist",
+            "salary": 23000
+        }
+    ],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1680000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Switzerland"
+    ],
+    "currency": "EUR"
+}

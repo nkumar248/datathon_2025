@@ -1,0 +1,17 @@
+{
+    "name": "Nicolas Martin Legrand",
+    "first_name": "Nicolas",
+    "middle_name": "Martin",
+    "last_name": "Legrand",
+    "passport_number": "IF3644962",
+    "currency": "EUR",
+    "address": {
+        "city": "Brest",
+        "street name": "Rue Elzévir",
+        "street number": 13,
+        "postal code": "52542"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 05 01 93 84 76",
+    "email_address": "nicolas.legrand@hotmail.com"
+}

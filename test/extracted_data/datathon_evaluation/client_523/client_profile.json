@@ -1,0 +1,71 @@
+{
+    "name": "Emilia Kristiina Paananen",
+    "address": {
+        "city": "Mikkeli",
+        "street name": "Meritullinkatu",
+        "street number": 51,
+        "postal code": "05648"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1984-09-27",
+    "nationality": "Finnish",
+    "passport_number": "CR0470182",
+    "passport_issue_date": "2020-08-14",
+    "passport_expiry_date": "2030-08-13",
+    "gender": "F",
+    "phone_number": "045 704 50 74",
+    "email_address": "emilia.paananen@suomi24.fi",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Salpausselän lukio",
+        "graduation_year": 2003
+    },
+    "higher_education": [
+        {
+            "university": "University of Oulu",
+            "graduation_year": 2008
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2008,
+            "end_year": 2011,
+            "company": "Tampere Art Museum",
+            "position": "Art Dealer",
+            "salary": 37000
+        },
+        {
+            "start_year": 2013,
+            "end_year": null,
+            "company": "Museum of Contemporary Art Kiasma",
+            "position": "Gallery Owner",
+            "salary": 132000
+        }
+    ],
+    "aum": {
+        "savings": 190000,
+        "inheritance": 230000,
+        "real_estate_value": 870000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2019,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 870000,
+            "property location": "Mikkeli"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

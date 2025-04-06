@@ -1,0 +1,17 @@
+{
+    "name": "Pierre Robert",
+    "first_name": "Pierre",
+    "middle_name": "",
+    "last_name": "Robert",
+    "passport_number": "BF0971069",
+    "currency": "EUR",
+    "address": {
+        "city": "Reims",
+        "street name": "Boulevard Richard Lenoir",
+        "street number": 11,
+        "postal code": "79599"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 07 96 43 93 56",
+    "email_address": "pierre.robert@free.fr"
+}

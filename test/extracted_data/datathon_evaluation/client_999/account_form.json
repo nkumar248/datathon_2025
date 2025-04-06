@@ -1,0 +1,17 @@
+{
+    "name": "Haider Koller Mayr",
+    "first_name": "Haider",
+    "middle_name": "Koller",
+    "last_name": "Mayr",
+    "passport_number": "PF6360491",
+    "currency": "DKK",
+    "address": {
+        "city": "Århus N",
+        "street name": "Pile Alle",
+        "street number": 79,
+        "postal code": "6137"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "52 49 41 28",
+    "email_address": "haider.mayr@tiscali.dk"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Belli Lombardi Ricci",
+    "first_name": "Belli",
+    "middle_name": "Lombardi",
+    "last_name": "Ricci",
+    "passport_number": "WX8192756",
+    "currency": "EUR",
+    "address": {
+        "city": "Catania",
+        "street name": "Corso Vittorio Emanuele II",
+        "street number": 62,
+        "postal code": "99259"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 384 4042878",
+    "email_address": "belli.ricci@virgilio.it"
+}

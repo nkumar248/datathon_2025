@@ -1,0 +1,78 @@
+{
+    "name": "Hanne Ida Olsen",
+    "address": {
+        "city": "Vaasa",
+        "street name": "Karjalankatu",
+        "street number": 41,
+        "postal code": "82976"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1985-12-10",
+    "nationality": "Danish",
+    "passport_number": "XV9175145",
+    "passport_issue_date": "2018-09-10",
+    "passport_expiry_date": "2028-09-09",
+    "gender": "F",
+    "phone_number": "+358 041 583 41 52",
+    "email_address": "hanne.olsen@pp.inet.fi",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Roskilde Katedralskole",
+        "graduation_year": 2004
+    },
+    "higher_education": [
+        {
+            "university": "University of Copenhagen",
+            "graduation_year": 2009
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2011,
+            "company": "Sokos Hotels",
+            "position": "Hotel Manager",
+            "salary": 265000
+        },
+        {
+            "start_year": 2011,
+            "end_year": 2015,
+            "company": "Marriott International Oy",
+            "position": "General Manager",
+            "salary": 429000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "Scandic Hotels Oy",
+            "position": "Regional Vice President",
+            "salary": 923000
+        }
+    ],
+    "aum": {
+        "savings": 1340000,
+        "inheritance": 520000,
+        "real_estate_value": 960000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 960000,
+            "property location": "Vaasa"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Finland"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Verhoeven Teunissen Meijer",
+    "first_name": "Verhoeven",
+    "middle_name": "Teunissen",
+    "last_name": "Meijer",
+    "passport_number": "HM8707187",
+    "currency": "EUR",
+    "address": {
+        "city": "Tilburg",
+        "street name": "Beethovenstraat",
+        "street number": 69,
+        "postal code": "8758 88"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "06 68456846",
+    "email_address": "verhoeven.meijer@tele2.nl"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Lea Emma Huber",
+    "first_name": "Lea",
+    "middle_name": "Emma",
+    "last_name": "Huber",
+    "passport_number": "RR8228217",
+    "currency": "CHF",
+    "address": {
+        "city": "Neuchatel",
+        "street name": "Dufourstrasse",
+        "street number": 35,
+        "postal code": "1436"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 031 200 72 96",
+    "email_address": "lea.huber@bluewin.ch"
+}

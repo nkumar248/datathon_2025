@@ -1,0 +1,17 @@
+{
+    "name": "Vázquez Rodríguez",
+    "first_name": "Vázquez",
+    "middle_name": "",
+    "last_name": "Rodríguez",
+    "passport_number": "BL8329913",
+    "currency": "EUR",
+    "address": {
+        "city": "Toledo",
+        "street name": "Calle de las Huertas",
+        "street number": 1,
+        "postal code": "89878"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "633 774 135",
+    "email_address": "vazquez.rodriguez@gmail.es"
+}

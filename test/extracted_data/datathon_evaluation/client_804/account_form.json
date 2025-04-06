@@ -1,0 +1,17 @@
+{
+    "name": "Giorgia Elisabetta Rossi",
+    "first_name": "Giorgia",
+    "middle_name": "Elisabetta",
+    "last_name": "Rossi",
+    "passport_number": "MR9342981",
+    "currency": "EUR",
+    "address": {
+        "city": "Milan",
+        "street name": "Via del Corso",
+        "street number": 61,
+        "postal code": "10193"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 337 3458803",
+    "email_address": "giorgia.rossi@outlook.com"
+}

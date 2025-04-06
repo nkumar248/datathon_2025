@@ -1,0 +1,58 @@
+{
+    "name": "Chloé Emma Wouters",
+    "address": {
+        "city": "Vejle",
+        "street name": "Nygårdsvej",
+        "street number": 54,
+        "postal code": "8295"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1997-01-20",
+    "nationality": "Belgian",
+    "passport_number": "KL3990304",
+    "passport_issue_date": "2022-01-08",
+    "passport_expiry_date": "2029-01-07",
+    "gender": "F",
+    "phone_number": "81 10 94 64",
+    "email_address": "chloe.wouters@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Atheneum Brugge Centrum",
+        "graduation_year": 2014
+    },
+    "higher_education": [
+        {
+            "university": "United Business Institutes",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2021,
+            "end_year": null,
+            "company": "Danske Bank Wealth Management",
+            "position": "Financial Advisor",
+            "salary": 38000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 22340000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Belgium"
+    ],
+    "currency": "DKK"
+}

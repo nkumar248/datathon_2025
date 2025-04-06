@@ -1,0 +1,17 @@
+{
+    "name": "Neumann Hoffmann",
+    "first_name": "Neumann",
+    "middle_name": "",
+    "last_name": "Hoffmann",
+    "passport_number": "GW4713119",
+    "currency": "EUR",
+    "address": {
+        "city": "Heidelberg",
+        "street name": "Tauentzienstraße",
+        "street number": 46,
+        "postal code": "45563"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 3951 916731",
+    "email_address": "neumann.hoffmann@vodafone.de"
+}

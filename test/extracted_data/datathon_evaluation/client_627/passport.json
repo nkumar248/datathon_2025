@@ -1,0 +1,17 @@
+{
+    "first_name": "Muñoz",
+    "middle_name": "López",
+    "last_name": "Díaz",
+    "gender": "M",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "1996-11-13",
+    "passport_number": "NT4484294",
+    "passport_mrz": [
+        "P<ESPDÍAZ<<MUÑOZ<LÓPEZ<<<<<<<<<<<<<<<<<<<<<<<",
+        "NT4484294ESP691113<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-03-23",
+    "passport_expiry_date": "2032-03-22"
+}

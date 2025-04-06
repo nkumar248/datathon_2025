@@ -1,0 +1,17 @@
+{
+    "name": "Schultz Herrmann Zimmermann",
+    "first_name": "Schultz",
+    "middle_name": "Herrmann",
+    "last_name": "Zimmermann",
+    "passport_number": "DR6018855",
+    "currency": "EUR",
+    "address": {
+        "city": "Essen",
+        "street name": "Holstenwall",
+        "street number": 4,
+        "postal code": "01129"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 2684 814976",
+    "email_address": "schultz.zimmermann@gmail.com"
+}

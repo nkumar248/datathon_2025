@@ -1,0 +1,58 @@
+{
+    "name": "Veenhoven Spaans Janssen",
+    "address": {
+        "city": "Boxtel",
+        "street name": "Korte Voorhout",
+        "street number": 90,
+        "postal code": "8594 57"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1995-04-08",
+    "nationality": "Dutch",
+    "passport_number": "HO9357243",
+    "passport_issue_date": "2020-10-05",
+    "passport_expiry_date": "2030-10-04",
+    "gender": "M",
+    "phone_number": "+31 06 98526906",
+    "email_address": "veenhoven.janssen@live.nl",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Calvijn College Goes",
+        "graduation_year": 2013
+    },
+    "higher_education": [
+        {
+            "university": "Fontys University of Applied Sciences",
+            "graduation_year": 2019
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2020,
+            "end_year": null,
+            "company": "Fokker Technologies B.V.",
+            "position": "Aerospace Engineer",
+            "salary": 54000
+        }
+    ],
+    "aum": {
+        "savings": 40000,
+        "inheritance": 1570000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2020,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Møller Oddershede Friis",
+    "first_name": "Møller",
+    "middle_name": "Oddershede",
+    "last_name": "Friis",
+    "passport_number": "FL1222738",
+    "currency": "DKK",
+    "address": {
+        "city": "Copenhagen",
+        "street name": "Sortedams Dossering",
+        "street number": 99,
+        "postal code": "3680"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 75 92 88 37",
+    "email_address": "mller.friis@hotmail.com"
+}

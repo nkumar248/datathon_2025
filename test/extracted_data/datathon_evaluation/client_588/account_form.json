@@ -1,0 +1,17 @@
+{
+    "name": "Juliette Camille Roose",
+    "first_name": "Juliette",
+    "middle_name": "Camille",
+    "last_name": "Roose",
+    "passport_number": "LN6151113",
+    "currency": "EUR",
+    "address": {
+        "city": "Charleroi",
+        "street name": "Place Jourdan",
+        "street number": 6,
+        "postal code": "0957"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0432 864 256",
+    "email_address": "juliette.roose@outlook.com"
+}

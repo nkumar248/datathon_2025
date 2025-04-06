@@ -1,0 +1,17 @@
+{
+    "name": "Eevi Lotta Niemi",
+    "first_name": "Eevi",
+    "middle_name": "Lotta",
+    "last_name": "Niemi",
+    "passport_number": "FN1422573",
+    "currency": "EUR",
+    "address": {
+        "city": "Vaasa",
+        "street name": "Kalliolanpuisto",
+        "street number": 47,
+        "postal code": "52102"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 044 303 51 03",
+    "email_address": "eevi.niemi@elisa.fi"
+}

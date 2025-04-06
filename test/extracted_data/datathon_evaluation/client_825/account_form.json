@@ -1,0 +1,17 @@
+{
+    "name": "Janssens Roelandts",
+    "first_name": "Janssens",
+    "middle_name": "",
+    "last_name": "Roelandts",
+    "passport_number": "NN7256948",
+    "currency": "EUR",
+    "address": {
+        "city": "Ghent",
+        "street name": "Rue de la Loi",
+        "street number": 29,
+        "postal code": "5202"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0427 352 019",
+    "email_address": "janssens.roelandts@skype.be"
+}

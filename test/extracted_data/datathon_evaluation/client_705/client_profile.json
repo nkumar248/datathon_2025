@@ -1,0 +1,88 @@
+{
+    "name": "Katriina Liisa Ahonen",
+    "address": {
+        "city": "Vaasa",
+        "street name": "Helsinginkatu",
+        "street number": 39,
+        "postal code": "06601"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1981-10-09",
+    "nationality": "Finnish",
+    "passport_number": "FV7984667",
+    "passport_issue_date": "2023-04-19",
+    "passport_expiry_date": "2033-04-18",
+    "gender": "F",
+    "phone_number": "+358 041 517 17 50",
+    "email_address": "katriina.ahonen@phoenix.fi",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Helsingin Ranskalainen Koulu",
+        "graduation_year": 2001
+    },
+    "higher_education": [
+        {
+            "university": "Turku Conservatory",
+            "graduation_year": 2005
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2006,
+            "end_year": 2009,
+            "company": "Intera Partners Oy",
+            "position": "Analyst",
+            "salary": 40000
+        },
+        {
+            "start_year": 2009,
+            "end_year": 2012,
+            "company": "Intera Partners Oy",
+            "position": "Associate",
+            "salary": 62000
+        },
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "CapMan Oyj",
+            "position": "Investment Director",
+            "salary": 298000
+        }
+    ],
+    "aum": {
+        "savings": 360000,
+        "inheritance": 1600000,
+        "real_estate_value": 2280000
+    },
+    "inheritance_details": {
+        "relationship": "",
+        "inheritance year": 2015,
+        "profession": ""
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 880000,
+            "property location": "Vaasa"
+        },
+        {
+            "property type": "flat",
+            "property value": 550000,
+            "property location": "Kauniainen"
+        },
+        {
+            "property type": "flat",
+            "property value": 850000,
+            "property location": "Porvoo"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "France"
+    ],
+    "currency": "EUR"
+}

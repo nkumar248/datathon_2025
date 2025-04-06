@@ -1,0 +1,17 @@
+{
+    "name": "Torres Gutiérrez Fernández",
+    "first_name": "Torres",
+    "middle_name": "Gutiérrez",
+    "last_name": "Fernández",
+    "passport_number": "HL4515537",
+    "currency": "EUR",
+    "address": {
+        "city": "Toledo",
+        "street name": "Plaza de España",
+        "street number": 58,
+        "postal code": "46709"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "619 325 813",
+    "email_address": "torres.fernandez@gmail.com"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Barbara Amanda Frey",
+    "first_name": "Barbara",
+    "middle_name": "Amanda",
+    "last_name": "Frey",
+    "passport_number": "MW0744329",
+    "currency": "CHF",
+    "address": {
+        "city": "Lucerne",
+        "street name": "Untere Hauptgasse",
+        "street number": 77,
+        "postal code": "9596"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 018 973 18 77",
+    "email_address": "barbara.frey@icloud.com"
+}

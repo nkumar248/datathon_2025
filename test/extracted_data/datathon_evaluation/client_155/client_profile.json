@@ -1,0 +1,69 @@
+{
+    "name": "Evelien Floor Vogel",
+    "address": {
+        "city": "Amsterdam",
+        "street name": "Nieuwegeinseweg",
+        "street number": 47,
+        "postal code": "5508 25"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1989-07-13",
+    "nationality": "Dutch",
+    "passport_number": "AI9759237",
+    "passport_issue_date": "2024-09-04",
+    "passport_expiry_date": "2034-09-03",
+    "gender": "F",
+    "phone_number": "06 01852823",
+    "email_address": "evelien.vogel@hotspots.nl",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Leonardo College 's-Hertogenbosch",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "University of Amsterdam",
+            "graduation_year": 2012
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2013,
+            "end_year": null,
+            "company": "De Brauw Blackstone Westbroek N.V.",
+            "position": "Associate Attorney",
+            "salary": 84000
+        }
+    ],
+    "aum": {
+        "savings": 110000,
+        "inheritance": 5100000,
+        "real_estate_value": 3850000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 2010000,
+            "property location": "Amsterdam"
+        },
+        {
+            "property type": "house",
+            "property value": 1840000,
+            "property location": "Nijmegen"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

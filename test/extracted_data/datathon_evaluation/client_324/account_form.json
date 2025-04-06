@@ -1,0 +1,17 @@
+{
+    "name": "Steiner Reiter Huber",
+    "first_name": "Steiner",
+    "middle_name": "Reiter",
+    "last_name": "Huber",
+    "passport_number": "AJ7879145",
+    "currency": "EUR",
+    "address": {
+        "city": "Wels",
+        "street name": "Andreas-Hofer-Straße",
+        "street number": 5,
+        "postal code": "6056"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 942 398 0636",
+    "email_address": "steiner.huber@outlook.com"
+}

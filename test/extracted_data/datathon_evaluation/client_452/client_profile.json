@@ -1,0 +1,75 @@
+{
+    "name": "Alma Eva Laursen",
+    "address": {
+        "city": "Villach",
+        "street name": "Westbahnstraße",
+        "street number": 73,
+        "postal code": "6568"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1980-05-21",
+    "nationality": "Danish",
+    "passport_number": "RBL1873243",
+    "passport_issue_date": "2021-06-09",
+    "passport_expiry_date": "2031-06-08",
+    "gender": "F",
+    "phone_number": "+43 459 389 4912",
+    "email_address": "alma.laursen@vol.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Birkerød Gymnasium",
+        "graduation_year": 1998
+    },
+    "higher_education": [
+        {
+            "university": "University of Southern Denmark",
+            "graduation_year": 2005
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2004,
+            "end_year": 2008,
+            "company": "Baxter BioScience",
+            "position": "Research Scientist",
+            "salary": 246000
+        },
+        {
+            "start_year": 2009,
+            "end_year": null,
+            "company": "Baxter BioScience",
+            "position": "Clinical Trials Manager",
+            "salary": 1013000
+        }
+    ],
+    "aum": {
+        "savings": 1440000,
+        "inheritance": 400000,
+        "real_estate_value": 3111000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2009,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1041000,
+            "property location": "Villach"
+        },
+        {
+            "property type": "house",
+            "property value": 2070000,
+            "property location": "Århus N"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

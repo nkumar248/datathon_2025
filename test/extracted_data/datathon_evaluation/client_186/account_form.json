@@ -1,0 +1,17 @@
+{
+    "name": "Emilia Anniina Mattila",
+    "first_name": "Emilia",
+    "middle_name": "Anniina",
+    "last_name": "Mattila",
+    "passport_number": "IE4115020",
+    "currency": "EUR",
+    "address": {
+        "city": "Kauniainen",
+        "street name": "Kulosaarentie",
+        "street number": 48,
+        "postal code": "18327"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "044 248 13 69",
+    "email_address": "emilia.mattila@hotmail.com"
+}

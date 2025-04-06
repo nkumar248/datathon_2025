@@ -1,0 +1,87 @@
+{
+    "name": "Essi Matilda Salminen",
+    "address": {
+        "city": "Jyväskylä",
+        "street name": "Salmisaarenranta",
+        "street number": 66,
+        "postal code": "19052"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1966-03-23",
+    "nationality": "Finnish",
+    "passport_number": "YU7660464",
+    "passport_issue_date": "2020-10-20",
+    "passport_expiry_date": "2030-10-19",
+    "gender": "F",
+    "phone_number": "+358 049 428 09 99",
+    "email_address": "essi.salminen@luukku.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Siuntion lukio",
+        "graduation_year": 1984
+    },
+    "higher_education": [
+        {
+            "university": "University of Helsinki",
+            "graduation_year": 1988
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1990,
+            "end_year": 1992,
+            "company": "Technopolis Plc",
+            "position": "Property Manager",
+            "salary": 38000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 1997,
+            "company": "Skanska Talonrakennus Oy",
+            "position": "Developer",
+            "salary": 54000
+        },
+        {
+            "start_year": 1999,
+            "end_year": null,
+            "company": "Sponda Oyj",
+            "position": "Construction Company Owner",
+            "salary": 443000
+        }
+    ],
+    "aum": {
+        "savings": 810000,
+        "inheritance": 3270000,
+        "real_estate_value": 3250000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2008,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1520000,
+            "property location": "Jyväskylä"
+        },
+        {
+            "property type": "flat",
+            "property value": 720000,
+            "property location": "Turku"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1010000,
+            "property location": "Nurmijärvi"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Hanne Camilla Olsen",
+    "first_name": "Hanne",
+    "middle_name": "Camilla",
+    "last_name": "Olsen",
+    "passport_number": "SD5546853",
+    "currency": "DKK",
+    "address": {
+        "city": "Næstved",
+        "street name": "Vandkunsten",
+        "street number": 21,
+        "postal code": "9479"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 15 95 53 47",
+    "email_address": "hanne.olsen@gmail.com"
+}

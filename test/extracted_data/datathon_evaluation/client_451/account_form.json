@@ -1,0 +1,17 @@
+{
+    "name": "Schäfer Wagner Fischer",
+    "first_name": "Schäfer",
+    "middle_name": "Wagner",
+    "last_name": "Fischer",
+    "passport_number": "ZP2945924",
+    "currency": "EUR",
+    "address": {
+        "city": "Heidelberg",
+        "street name": "Kurfürstendamm",
+        "street number": 65,
+        "postal code": "48438"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "2705 347914",
+    "email_address": "schafer.fischer@outlook.com"
+}

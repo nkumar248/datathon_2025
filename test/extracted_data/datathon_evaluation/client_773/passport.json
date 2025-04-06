@@ -1,0 +1,17 @@
+{
+    "first_name": "Silvestri",
+    "middle_name": "Santoro",
+    "last_name": "Galli",
+    "gender": "M",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1957-12-03",
+    "passport_number": "PX3276839",
+    "passport_mrz": [
+        "P<ITAGALLI<<SILVESTRI<SANTORO<<<<<<<<<<<<<<<<",
+        "PX3276839ITA571203<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-09-27",
+    "passport_expiry_date": "2034-09-26"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Elisabeth Chiara Meier",
+    "first_name": "Elisabeth",
+    "middle_name": "Chiara",
+    "last_name": "Meier",
+    "passport_number": "XR4420425",
+    "currency": "CHF",
+    "address": {
+        "city": "Baden",
+        "street name": "Spitalgasse",
+        "street number": 25,
+        "postal code": "8887"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 077 316 21 12",
+    "email_address": "elisabeth.meier@hotmail.com"
+}

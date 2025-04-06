@@ -1,0 +1,17 @@
+{
+    "name": "Robert Lemaître Martin",
+    "first_name": "Robert",
+    "middle_name": "Lemaître",
+    "last_name": "Martin",
+    "passport_number": "NB6386362",
+    "currency": "EUR",
+    "address": {
+        "city": "Hanover",
+        "street name": "Kudamm-Karree",
+        "street number": 98,
+        "postal code": "99425"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 1739 720791",
+    "email_address": "robert.martin@o2online.de"
+}

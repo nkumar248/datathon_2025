@@ -1,0 +1,87 @@
+{
+    "name": "Hortense Romane Thiry",
+    "address": {
+        "city": "Ostend",
+        "street name": "Rue des Bouchers",
+        "street number": 39,
+        "postal code": "5857"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1978-05-16",
+    "nationality": "Belgian",
+    "passport_number": "GQ9175607",
+    "passport_issue_date": "2023-03-21",
+    "passport_expiry_date": "2030-03-20",
+    "gender": "F",
+    "phone_number": "+32 0464 906 993",
+    "email_address": "hortense.thiry@base.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Onze-Lieve-Vrouwe-Wavercollege",
+        "graduation_year": 1986
+    },
+    "higher_education": [
+        {
+            "university": "Thomas More University of Applied Sciences",
+            "graduation_year": 1988
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2003,
+            "end_year": 2006,
+            "company": "CMB NV",
+            "position": "Ship Broker",
+            "salary": 36000
+        },
+        {
+            "start_year": 2008,
+            "end_year": 2011,
+            "company": "Wallenius Wilhelmsen Logistics Belgium NV",
+            "position": "Shipping Company Owner",
+            "salary": 54000
+        },
+        {
+            "start_year": 2012,
+            "end_year": null,
+            "company": "NYK Line (Belgium) NV",
+            "position": "Fleet Manager",
+            "salary": 268000
+        }
+    ],
+    "aum": {
+        "savings": 400000,
+        "inheritance": 3420000,
+        "real_estate_value": 2951000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2006,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1059000,
+            "property location": "Ostend"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1002000,
+            "property location": "Wavre"
+        },
+        {
+            "property type": "flat",
+            "property value": 890000,
+            "property location": "Roeselare"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

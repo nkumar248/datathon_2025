@@ -1,0 +1,92 @@
+{
+    "name": "Richard Robin Lambert",
+    "address": {
+        "city": "Aix-en-Provence",
+        "street name": "Avenue Parmentier",
+        "street number": 42,
+        "postal code": "52602"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1977-06-07",
+    "nationality": "French",
+    "passport_number": "WV3937107",
+    "passport_issue_date": "2021-03-13",
+    "passport_expiry_date": "2031-03-12",
+    "gender": "M",
+    "phone_number": "00 95 31 93 23",
+    "email_address": "richard.lambert@wanadoo.fr",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée Chaptal",
+        "graduation_year": 1996
+    },
+    "higher_education": [
+        {
+            "university": "École Nationale d'Administration (ENA)",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2001,
+            "end_year": 2003,
+            "company": "Dior S.A.",
+            "position": "Assistant Designer",
+            "salary": 28000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2008,
+            "company": "Hermès International S.A.",
+            "position": "Senior Designer",
+            "salary": 46000
+        },
+        {
+            "start_year": 2010,
+            "end_year": 2013,
+            "company": "Hermès International S.A.",
+            "position": "Creative Director",
+            "salary": 62000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2020,
+            "company": "Hermès International S.A.",
+            "position": "Founder/Designer",
+            "salary": 213000
+        },
+        {
+            "start_year": 2021,
+            "end_year": null,
+            "company": "Louis Vuitton Malletier S.A.",
+            "position": "Luxury Brand Owner",
+            "salary": 174000
+        }
+    ],
+    "aum": {
+        "savings": 340000,
+        "inheritance": 1250000,
+        "real_estate_value": 1280000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2008,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1280000,
+            "property location": "Aix-en-Provence"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "1-5 months",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "France"
+    ],
+    "currency": "EUR"
+}

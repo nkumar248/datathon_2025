@@ -1,0 +1,17 @@
+{
+    "name": "Benita Alina Schmidt",
+    "first_name": "Benita",
+    "middle_name": "Alina",
+    "last_name": "Schmidt",
+    "passport_number": "WK5187117",
+    "currency": "EUR",
+    "address": {
+        "city": "Cologne",
+        "street name": "Breitscheidplatz",
+        "street number": 60,
+        "postal code": "29897"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 9556 252576",
+    "email_address": "benita.schmidt@gmail.com"
+}

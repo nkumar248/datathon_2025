@@ -1,0 +1,17 @@
+{
+    "first_name": "Beatrice",
+    "middle_name": "Cecilia",
+    "last_name": "Ricci",
+    "gender": "F",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1961-01-10",
+    "passport_number": "JP3731458",
+    "passport_mrz": [
+        "P<ITARICCI<<BEATRICE<CECILIA<<<<<<<<<<<<<<<<<",
+        "JP3731458ITA610110<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-06-21",
+    "passport_expiry_date": "2032-06-20"
+}

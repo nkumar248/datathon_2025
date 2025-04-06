@@ -1,0 +1,102 @@
+{
+    "name": "Federica Emanuela Livi",
+    "address": {
+        "city": "Lokeren",
+        "street name": "Place Saint-Géry",
+        "street number": 62,
+        "postal code": "9815"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1978-09-26",
+    "nationality": "Italian",
+    "passport_number": "BT8647476",
+    "passport_issue_date": "2024-04-12",
+    "passport_expiry_date": "2034-04-11",
+    "gender": "F",
+    "phone_number": "+32 0470 874 277",
+    "email_address": "federica.livi@belgacom.be",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Liceo Scientifico Leonardo da Vinci Milano",
+        "graduation_year": 1996
+    },
+    "higher_education": [
+        {
+            "university": "American University of Rome",
+            "graduation_year": 2001
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2003,
+            "end_year": 2008,
+            "company": "EVS Broadcast Equipment SA",
+            "position": "Software Developer",
+            "salary": 25000
+        },
+        {
+            "start_year": 2008,
+            "end_year": 2012,
+            "company": "Barco NV",
+            "position": "Startup Founder",
+            "salary": 44000
+        },
+        {
+            "start_year": 2012,
+            "end_year": 2014,
+            "company": "Option NV",
+            "position": "CEO",
+            "salary": 60000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2017,
+            "company": "Telenet Group NV",
+            "position": "Venture Capitalist",
+            "salary": 137000
+        },
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "Telenet Group NV",
+            "position": "Tech Industry Leader",
+            "salary": 286000
+        }
+    ],
+    "aum": {
+        "savings": 340000,
+        "inheritance": 1860000,
+        "real_estate_value": 4332000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2008,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 810000,
+            "property location": "Lokeren"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1472000,
+            "property location": "Padua"
+        },
+        {
+            "property type": "villa",
+            "property value": 2050000,
+            "property location": "Rome"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

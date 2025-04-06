@@ -1,0 +1,17 @@
+{
+    "name": "Wagemakers Verhoeven Schipper",
+    "first_name": "Wagemakers",
+    "middle_name": "Verhoeven",
+    "last_name": "Schipper",
+    "passport_number": "YA8562927",
+    "currency": "EUR",
+    "address": {
+        "city": "Enschede",
+        "street name": "Kalverstraat",
+        "street number": 22,
+        "postal code": "9786 37"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "++34 06 82623048",
+    "email_address": "wagemakers.schipper@icloud.com"
+}

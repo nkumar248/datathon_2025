@@ -1,0 +1,74 @@
+{
+    "name": "Carlijn Isa Voorn",
+    "address": {
+        "city": "Roosendaal",
+        "street name": "Goudsesingel",
+        "street number": 49,
+        "postal code": "0659 98"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1984-11-03",
+    "nationality": "Dutch",
+    "passport_number": "QF8520202",
+    "passport_issue_date": "2023-02-24",
+    "passport_expiry_date": "2033-02-23",
+    "gender": "F",
+    "phone_number": "+31 06 06297449",
+    "email_address": "carlijn.voorn@live.nl",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Willem de Zwijger College Bussum",
+        "graduation_year": 2004
+    },
+    "higher_education": [
+        {
+            "university": "Maastricht University School of Business and Economics",
+            "graduation_year": 2008
+        },
+        {
+            "university": "Wittenborg University of Applied Sciences",
+            "graduation_year": 2013
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2008,
+            "end_year": 2012,
+            "company": "PGGM Real Estate",
+            "position": "Property Manager",
+            "salary": 47000
+        },
+        {
+            "start_year": 2013,
+            "end_year": 2025,
+            "company": "Bouwinvest REIM B.V.",
+            "position": "Developer",
+            "salary": 182000
+        }
+    ],
+    "aum": {
+        "savings": 250000,
+        "inheritance": 840000,
+        "real_estate_value": 1210000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1210000,
+            "property location": "Roosendaal"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

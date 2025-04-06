@@ -1,0 +1,17 @@
+{
+    "name": "Angela Antonia Suárez",
+    "first_name": "Angela",
+    "middle_name": "Antonia",
+    "last_name": "Suárez",
+    "passport_number": "BX8985631",
+    "currency": "EUR",
+    "address": {
+        "city": "Vigo",
+        "street name": "Paseo de Gracia",
+        "street number": 84,
+        "postal code": "87893"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 696 159 421",
+    "email_address": "angela.suarez@ono.es"
+}

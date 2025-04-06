@@ -1,0 +1,17 @@
+{
+    "name": "Valeria Blanca González",
+    "first_name": "Valeria",
+    "middle_name": "Blanca",
+    "last_name": "González",
+    "passport_number": "PI8464456",
+    "currency": "EUR",
+    "address": {
+        "city": "Valencia",
+        "street name": "Rambla",
+        "street number": 98,
+        "postal code": "65439"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 668 929 369",
+    "email_address": "valeria.gonzalez@ya.com"
+}

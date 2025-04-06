@@ -1,0 +1,17 @@
+{
+    "first_name": "Wagner",
+    "middle_name": "Kaiser",
+    "last_name": "Brandstetter",
+    "gender": "M",
+    "country": "Austria",
+    "country_code": "AUT",
+    "nationality": "Austrian",
+    "birth_date": "1974-04-28",
+    "passport_number": "BY3063509",
+    "passport_mrz": [
+        "P<AUTBRANDSTETTER<<WAGNER<KAISER<<<<<<<<<<<<<",
+        "BY3063509AUT740428<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-03-22",
+    "passport_expiry_date": "2034-03-21"
+}

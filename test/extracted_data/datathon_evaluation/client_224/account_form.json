@@ -1,0 +1,17 @@
+{
+    "name": "Franziska Hannah Krämer",
+    "first_name": "Franziska",
+    "middle_name": "Hannah",
+    "last_name": "Krämer",
+    "passport_number": "PT4336229",
+    "currency": "EUR",
+    "address": {
+        "city": "Hallein",
+        "street name": "Naschmarkt",
+        "street number": 38,
+        "postal code": "5226"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "217 603 5153",
+    "email_address": "franziska.kramer@kabsi.at"
+}

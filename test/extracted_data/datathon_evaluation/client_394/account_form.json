@@ -1,0 +1,17 @@
+{
+    "name": "Christine Ellen Lykke",
+    "first_name": "Christine",
+    "middle_name": "Ellen",
+    "last_name": "Lykke",
+    "passport_number": "JM3854522",
+    "currency": "DKK",
+    "address": {
+        "city": "Hillerød",
+        "street name": "Kongens Nytorv",
+        "street number": 5,
+        "postal code": "6578"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 35 81 06 43",
+    "email_address": "christine.lykke@webspace.dk"
+}

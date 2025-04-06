@@ -1,0 +1,17 @@
+{
+    "name": "Heikkinen Järvinen Miettinen",
+    "first_name": "Heikkinen",
+    "middle_name": "Järvinen",
+    "last_name": "Miettinen",
+    "passport_number": "PE3049813",
+    "currency": "EUR",
+    "address": {
+        "city": "",
+        "street name": "Lönnrotinkatu",
+        "street number": 8,
+        "postal code": "31691"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 046 188 49 04",
+    "email_address": "heikkinen.miettinen@suomi24.fi"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Keller Baumgartner Burkart",
+    "first_name": "Keller",
+    "middle_name": "Baumgartner",
+    "last_name": "Burkart",
+    "passport_number": "YJ5485278",
+    "currency": "CHF",
+    "address": {
+        "city": "Zurich",
+        "street name": "Waisenhausplatz",
+        "street number": 37,
+        "postal code": "7294"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 000 319 59 05",
+    "email_address": "keller.burkart@bluewin.ch"
+}

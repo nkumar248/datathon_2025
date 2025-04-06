@@ -1,0 +1,17 @@
+{
+    "name": "Friis Nørregaard Haugaard",
+    "first_name": "Friis",
+    "middle_name": "Nørregaard",
+    "last_name": "Haugaard",
+    "passport_number": "KD8473770",
+    "currency": "DKK",
+    "address": {
+        "city": "Horsens",
+        "street name": "Krystalgade",
+        "street number": 97,
+        "postal code": "8714"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 94 67 11 53",
+    "email_address": "friis.haugaard@wanadoo.dk"
+}

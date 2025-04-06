@@ -1,0 +1,74 @@
+{
+    "name": "Louise Laurène Thomas",
+    "address": {
+        "city": "Paris",
+        "street name": "Boulevard Richard Lenoir",
+        "street number": 50,
+        "postal code": "37596"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1993-09-17",
+    "nationality": "French",
+    "passport_number": "QQ7377978",
+    "passport_issue_date": "2023-06-23",
+    "passport_expiry_date": "2033-06-22",
+    "gender": "F",
+    "phone_number": "+33 02 89 77 88 34",
+    "email_address": "louise.thomas@live.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Polyvalent François Mauriac",
+        "graduation_year": 2011
+    },
+    "higher_education": [
+        {
+            "university": "École Normale Supérieure (ENS) Paris",
+            "graduation_year": 2018
+        },
+        {
+            "university": "EMIC de Nice",
+            "graduation_year": 2020
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2018,
+            "end_year": 2019,
+            "company": "Société Générale S.A.",
+            "position": "Family Office Manager",
+            "salary": 31000
+        },
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "Société Générale S.A.",
+            "position": "Investment Director",
+            "salary": 57000
+        }
+    ],
+    "aum": {
+        "savings": 50000,
+        "inheritance": 2690000,
+        "real_estate_value": 1430000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2020,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1430000,
+            "property location": "Paris"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

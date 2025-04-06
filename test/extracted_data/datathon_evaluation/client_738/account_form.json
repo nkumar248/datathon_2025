@@ -1,0 +1,17 @@
+{
+    "name": "Ophélie Léa Dubois",
+    "first_name": "Ophélie",
+    "middle_name": "Léa",
+    "last_name": "Dubois",
+    "passport_number": "FF7157040",
+    "currency": "EUR",
+    "address": {
+        "city": "Le Havre",
+        "street name": "Rue de la Huchette",
+        "street number": 50,
+        "postal code": "00936"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 06 34 72 06 34",
+    "email_address": "ophelie.dubois@yahoo.com"
+}

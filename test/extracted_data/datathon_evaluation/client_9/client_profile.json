@@ -1,0 +1,83 @@
+{
+    "name": "Bertrand Fournier Dupont",
+    "address": {
+        "city": "Paris",
+        "street name": "Rue Marbeuf",
+        "street number": 72,
+        "postal code": "28263"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1980-07-15",
+    "nationality": "French",
+    "passport_number": "IY9729857",
+    "passport_issue_date": "2017-03-11",
+    "passport_expiry_date": "2027-03-10",
+    "gender": "M",
+    "phone_number": "02 28 37 95 12",
+    "email_address": "bertrand.dupont@icloud.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Paul Valéry",
+        "graduation_year": 1999
+    },
+    "higher_education": [
+        {
+            "university": "EMIC de Nice",
+            "graduation_year": 2004
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2005,
+            "end_year": 2010,
+            "company": "Société Générale S.A.",
+            "position": "Investment Banker",
+            "salary": 43000
+        },
+        {
+            "start_year": 2010,
+            "end_year": 2012,
+            "company": "Crédit Agricole S.A.",
+            "position": "Private Equity Investor",
+            "salary": 48000
+        },
+        {
+            "start_year": 2012,
+            "end_year": null,
+            "company": "BNP Paribas S.A.",
+            "position": "Hedge Fund Manager",
+            "salary": 238000
+        }
+    ],
+    "aum": {
+        "savings": 320000,
+        "inheritance": 2830000,
+        "real_estate_value": 4700000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2009,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 3530000,
+            "property location": "Paris"
+        },
+        {
+            "property type": "flat",
+            "property value": 1170000,
+            "property location": "Le Havre"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

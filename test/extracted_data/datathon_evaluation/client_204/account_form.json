@@ -1,0 +1,17 @@
+{
+    "name": "Ackermann Riedo Kuhn",
+    "first_name": "Ackermann",
+    "middle_name": "Riedo",
+    "last_name": "Kuhn",
+    "passport_number": "TV5823842",
+    "currency": "CHF",
+    "address": {
+        "city": "Zurich",
+        "street name": "Gerberngasse",
+        "street number": 97,
+        "postal code": "1253"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "077 815 95 34",
+    "email_address": "ackermann.kuhn@bluewin.ch"
+}

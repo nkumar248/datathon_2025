@@ -1,0 +1,17 @@
+{
+    "name": "Charlotte Van der Meer",
+    "first_name": "Charlotte",
+    "middle_name": "",
+    "last_name": "Van der Meer",
+    "passport_number": "RQ9683274",
+    "currency": "EUR",
+    "address": {
+        "city": "Hoofddorp",
+        "street name": "Zuidas",
+        "street number": 53,
+        "postal code": "0735 32"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "06 7169364",
+    "email_address": "charlotte.vandermeer@kpnmail.nl"
+}

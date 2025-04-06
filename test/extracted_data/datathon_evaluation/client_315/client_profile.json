@@ -1,0 +1,83 @@
+{
+    "name": "Mia Anna Richter",
+    "address": {
+        "city": "Münster",
+        "street name": "Berliner Straße",
+        "street number": 72,
+        "postal code": "24028"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1984-11-18",
+    "nationality": "German",
+    "passport_number": "FT1411291",
+    "passport_issue_date": "2016-10-20",
+    "passport_expiry_date": "2026-10-19",
+    "gender": "F",
+    "phone_number": "9642 478692",
+    "email_address": "mia.richter@o2online.de",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Maria-Theresia-Gymnasium München",
+        "graduation_year": 2004
+    },
+    "higher_education": [
+        {
+            "university": "ISM Dortmund",
+            "graduation_year": 2009
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2008,
+            "end_year": 2013,
+            "company": "Kühne + Nagel (Deutschland) GmbH",
+            "position": "Ship Broker",
+            "salary": 44000
+        },
+        {
+            "start_year": 2014,
+            "end_year": 2015,
+            "company": "Hapag-Lloyd AG",
+            "position": "Shipping Company Owner",
+            "salary": 57000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2023,
+            "company": "Kühne + Nagel (Deutschland) GmbH",
+            "position": "Fleet Manager",
+            "salary": 134000
+        }
+    ],
+    "aum": {
+        "savings": 160000,
+        "inheritance": 3400000,
+        "real_estate_value": 4200000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1190000,
+            "property location": "Münster"
+        },
+        {
+            "property type": "villa",
+            "property value": 3010000,
+            "property location": "Bochum"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

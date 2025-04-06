@@ -1,0 +1,17 @@
+{
+    "first_name": "Corinne",
+    "middle_name": "Sophia",
+    "last_name": "Baumgartner",
+    "gender": "F",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1954-05-10",
+    "passport_number": "UD6948938",
+    "passport_mrz": [
+        "P<CHEBAUMGARTNER<<CORINNE<SOPHIA<<<<<<<<<<<<<",
+        "UD6948938CHE540510<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-06-02",
+    "passport_expiry_date": "2032-06-01"
+}

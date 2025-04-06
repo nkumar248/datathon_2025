@@ -1,0 +1,17 @@
+{
+    "name": "Ingrid Élodie Roelandts",
+    "first_name": "Ingrid",
+    "middle_name": "Élodie",
+    "last_name": "Roelandts",
+    "passport_number": "ZW9719494",
+    "currency": "EUR",
+    "address": {
+        "city": "Wavre",
+        "street name": "Avenue de Tervuren",
+        "street number": 29,
+        "postal code": "0528"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0440 554 965",
+    "email_address": "ingrid.roelandts@yahoo.com"
+}

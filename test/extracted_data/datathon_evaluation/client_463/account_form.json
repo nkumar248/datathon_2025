@@ -1,0 +1,17 @@
+{
+    "name": "Østergaard Petersen Gundersen",
+    "first_name": "Østergaard",
+    "middle_name": "Petersen",
+    "last_name": "Kristensen",
+    "passport_number": "WD6474048",
+    "currency": "DKK",
+    "address": {
+        "city": "Odense",
+        "street name": "Vestergade",
+        "street number": 32,
+        "postal code": "0253"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "33 80 36 46",
+    "email_address": "stergaard.gundersen@cybercity.dk"
+}

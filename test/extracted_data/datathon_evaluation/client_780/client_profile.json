@@ -1,0 +1,78 @@
+{
+    "name": "Neumann Hoffmann",
+    "address": {
+        "city": "Heidelberg",
+        "street name": "Tauentzienstraße",
+        "street number": 46,
+        "postal code": "45563"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1974-10-14",
+    "nationality": "German",
+    "passport_number": "GW4713119",
+    "passport_issue_date": "2021-12-12",
+    "passport_expiry_date": "2031-12-11",
+    "gender": "M",
+    "phone_number": "+49 3951 916731",
+    "email_address": "neumann.hoffmann@vodafone.de",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Heinrich-Hertz-Gymnasium",
+        "graduation_year": 1994
+    },
+    "higher_education": [
+        {
+            "university": "Freiburg University of Education",
+            "graduation_year": 1997
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1998,
+            "end_year": 1999,
+            "company": "Berliner Sparkasse",
+            "position": "Family Office Manager",
+            "salary": 41000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2000,
+            "company": "Commerzbank AG",
+            "position": "Investment Director",
+            "salary": 66000
+        },
+        {
+            "start_year": 2000,
+            "end_year": null,
+            "company": "Commerzbank AG",
+            "position": "CFO",
+            "salary": 484000
+        }
+    ],
+    "aum": {
+        "savings": 890000,
+        "inheritance": 2890000,
+        "real_estate_value": 2960000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2008,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2960000,
+            "property location": "Heidelberg"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

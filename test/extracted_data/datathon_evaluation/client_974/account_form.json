@@ -1,0 +1,17 @@
+{
+    "name": "Fuchs Weber Rieder",
+    "first_name": "Fuchs",
+    "middle_name": "Weber",
+    "last_name": "Rieder",
+    "passport_number": "DI5098200",
+    "currency": "EUR",
+    "address": {
+        "city": "Krems an der Donau",
+        "street name": "Kohlmarkt",
+        "street number": 99,
+        "postal code": "7867"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 393 291 0597",
+    "email_address": "fuchs.rieder@kabsi.at"
+}

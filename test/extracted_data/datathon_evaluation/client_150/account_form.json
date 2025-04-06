@@ -1,0 +1,17 @@
+{
+    "name": "Bauer Schnell Steiner",
+    "first_name": "Bauer",
+    "middle_name": "Schnell",
+    "last_name": "Steiner",
+    "passport_number": "BS4887732",
+    "currency": "EUR",
+    "address": {
+        "city": "Tours",
+        "street name": "Rue de Vaugirard",
+        "street number": 81,
+        "postal code": "48789"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 09 94 08 17 23",
+    "email_address": "bauer.steiner@free.fr"
+}

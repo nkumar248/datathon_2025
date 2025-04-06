@@ -1,0 +1,17 @@
+{
+    "name": "Møller Hansen Mikkelsen",
+    "first_name": "Møller",
+    "middle_name": "Hansen",
+    "last_name": "Mikkelsen",
+    "passport_number": "RM8453531",
+    "currency": "DKK",
+    "address": {
+        "city": "Greve",
+        "street name": "Studiestræde",
+        "street number": 48,
+        "postal code": "4830"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "44 10 80 38",
+    "email_address": "mller.mikkelsen@yousee.dk"
+}

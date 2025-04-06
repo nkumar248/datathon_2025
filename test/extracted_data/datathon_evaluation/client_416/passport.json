@@ -1,0 +1,17 @@
+{
+    "first_name": "Beatrice",
+    "middle_name": "Anna",
+    "last_name": "Rizzo",
+    "gender": "F",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1974-10-26",
+    "passport_number": "XZ0405264",
+    "passport_mrz": [
+        "P<ITARIZZO<<BEATRICE<ANNA<<<<<<<<<<<<<<<<<<<<",
+        "XZ0405264ITA741026<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-12-04",
+    "passport_expiry_date": "2033-12-03"
+}

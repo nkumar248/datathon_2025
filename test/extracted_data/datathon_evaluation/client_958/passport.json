@@ -1,0 +1,17 @@
+{
+    "first_name": "Celli",
+    "middle_name": "Romano",
+    "last_name": "Ferrari",
+    "gender": "M",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1960-12-19",
+    "passport_number": "VG5082366",
+    "passport_mrz": [
+        "P<ITAFERRARI<<CELLI<ROMANO<<<<<<<<<<<<<<<<<<<",
+        "VG5082366ITA601219<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-08-07",
+    "passport_expiry_date": "2033-08-06"
+}

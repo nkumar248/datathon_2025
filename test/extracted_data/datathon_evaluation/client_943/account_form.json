@@ -1,0 +1,17 @@
+{
+    "name": "Helga Katharina Richter",
+    "first_name": "Helga",
+    "middle_name": "Katharina",
+    "last_name": "Richter",
+    "passport_number": "KR4293281",
+    "currency": "EUR",
+    "address": {
+        "city": "Stuttgart",
+        "street name": "Leipziger Straße",
+        "street number": 50,
+        "postal code": "08429"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 3449 504658",
+    "email_address": "helga.richter@t-online.de"
+}

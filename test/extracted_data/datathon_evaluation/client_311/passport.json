@@ -1,0 +1,17 @@
+{
+    "first_name": "Kägi",
+    "middle_name": "Brunner",
+    "last_name": "Wyss",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1962-05-23",
+    "passport_number": "WW7653196",
+    "passport_mrz": [
+        "P<CHEWYSS<<KÄGI<BRUNNER<<<<<<<<<<<<<<<<<<<<<<",
+        "WW7653196CHE620523<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2020-08-10",
+    "passport_expiry_date": "2030-08-09"
+}

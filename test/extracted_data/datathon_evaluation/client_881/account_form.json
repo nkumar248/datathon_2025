@@ -1,0 +1,17 @@
+{
+    "name": "Ahonen Mäkinen Järvinen",
+    "first_name": "Ahonen",
+    "middle_name": "Mäkinen",
+    "last_name": "Järvinen",
+    "passport_number": "UQ4376517",
+    "currency": "EUR",
+    "address": {
+        "city": "Porvoo",
+        "street name": "Keskuskatu",
+        "street number": 67,
+        "postal code": "58030"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "045 880 77 72",
+    "email_address": "ahonen.jarvinen@hotmail.com"
+}

@@ -1,0 +1,57 @@
+{
+    "name": "Katrine Andrea Bjerregaard",
+    "address": {
+        "city": "Frederiksberg",
+        "street name": "Vendersgade",
+        "street number": 93,
+        "postal code": "4659"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1997-02-02",
+    "nationality": "Danish",
+    "passport_number": "AZ8361203",
+    "passport_issue_date": "2020-04-17",
+    "passport_expiry_date": "2030-04-16",
+    "gender": "F",
+    "phone_number": "75 32 25 61",
+    "email_address": "katrine.bjerregaard@webspace.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Odense Katedralskole",
+        "graduation_year": 2014
+    },
+    "higher_education": [
+        {
+            "university": "University College Absalon",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2021,
+            "end_year": null,
+            "company": "Gorrissen Federspiel",
+            "position": "Associate Attorney",
+            "salary": 275000
+        }
+    ],
+    "aum": {
+        "savings": 150000,
+        "inheritance": 22180000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

@@ -1,0 +1,17 @@
+{
+    "first_name": "Ferrari",
+    "middle_name": "Fantini",
+    "last_name": "Malatesta",
+    "gender": "M",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1993-10-26",
+    "passport_number": "GR2930949",
+    "passport_mrz": [
+        "P<ITAMALATESTA<<FERRARI<FANTINI<<<<<<<<<<<<<<",
+        "GR2930949ITA931026<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2020-06-30",
+    "passport_expiry_date": "2030-06-29"
+}

@@ -1,0 +1,97 @@
+{
+    "name": "Ophélie Lecomte",
+    "address": {
+        "city": "Lokeren",
+        "street name": "Rue de la Révolution Belge",
+        "street number": 3,
+        "postal code": "1657"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1955-06-09",
+    "nationality": "Belgian",
+    "passport_number": "HC4332675",
+    "passport_issue_date": "2016-12-29",
+    "passport_expiry_date": "2023-12-28",
+    "gender": "F",
+    "phone_number": "+32 0409 516 420",
+    "email_address": "ophelie.lecomte@base.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Ecole Secondaire Libre du Sacré-Cœur",
+        "graduation_year": 1975
+    },
+    "higher_education": [
+        {
+            "university": "Université catholique de Louvain",
+            "graduation_year": 1978
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1980,
+            "end_year": 1982,
+            "company": "ING Private Banking Belgium",
+            "position": "Financial Advisor",
+            "salary": 38000
+        },
+        {
+            "start_year": 1983,
+            "end_year": 1987,
+            "company": "ING Private Banking Belgium",
+            "position": "Portfolio Manager",
+            "salary": 50000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 1990,
+            "company": "BNP Paribas Wealth Management Belgium",
+            "position": "Wealth Manager",
+            "salary": 82000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 1995,
+            "company": "KBC Private Banking NV",
+            "position": "Family Office Executive",
+            "salary": 280000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 2016,
+            "company": "KBC Private Banking NV",
+            "position": "Private Banker",
+            "salary": 919000
+        }
+    ],
+    "aum": {
+        "savings": 1570000,
+        "inheritance": 0,
+        "real_estate_value": 6220000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1350000,
+            "property location": "Lokeren"
+        },
+        {
+            "property type": "villa",
+            "property value": 2040000,
+            "property location": "Antwerp"
+        },
+        {
+            "property type": "villa",
+            "property value": 2830000,
+            "property location": "Ieper"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

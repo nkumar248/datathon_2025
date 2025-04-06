@@ -1,0 +1,96 @@
+{
+    "name": "Hortense Amélie Roose",
+    "address": {
+        "city": "Brussels",
+        "street name": "Rue Wiertz",
+        "street number": 20,
+        "postal code": "1386"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1972-08-06",
+    "nationality": "Belgian",
+    "passport_number": "NL6912901",
+    "passport_issue_date": "2017-10-21",
+    "passport_expiry_date": "2024-10-20",
+    "gender": "F",
+    "phone_number": "+32 0485 781 258",
+    "email_address": "hortense.roose@telenet.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Atheneum Antwerpen Linkeroever",
+        "graduation_year": 1991
+    },
+    "higher_education": [
+        {
+            "university": "Ghent University",
+            "graduation_year": 1996
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1996,
+            "end_year": 2001,
+            "company": "Royal Museums of Fine Arts of Belgium",
+            "position": "Art Dealer",
+            "salary": 37000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2006,
+            "company": "Groeningemuseum",
+            "position": "Gallery Owner",
+            "salary": 63000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2008,
+            "company": "Groeningemuseum",
+            "position": "Art Advisor",
+            "salary": 73000
+        },
+        {
+            "start_year": 2008,
+            "end_year": 2011,
+            "company": "Royal Museums of Fine Arts of Belgium",
+            "position": "Curator",
+            "salary": 139000
+        },
+        {
+            "start_year": 2012,
+            "end_year": null,
+            "company": "Magritte Museum",
+            "position": "Museum Director",
+            "salary": 603000
+        }
+    ],
+    "aum": {
+        "savings": 940000,
+        "inheritance": 3490000,
+        "real_estate_value": 2230000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2011,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 915000,
+            "property location": "Brussels"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1315000,
+            "property location": "Geel"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

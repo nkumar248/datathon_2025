@@ -1,0 +1,17 @@
+{
+    "name": "Manon Élodie De Smet",
+    "first_name": "Manon",
+    "middle_name": "Élodie",
+    "last_name": "De Smet",
+    "passport_number": "EM3277428",
+    "currency": "EUR",
+    "address": {
+        "city": "Aalst",
+        "street name": "Rue de la Madeleine",
+        "street number": 23,
+        "postal code": "1828"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0479 802 850",
+    "email_address": "manon.desmet@hotmail.com"
+}

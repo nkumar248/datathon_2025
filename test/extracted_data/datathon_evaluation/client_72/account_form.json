@@ -1,0 +1,17 @@
+{
+    "name": "Gabriella Amélie Peeters",
+    "first_name": "Gabriella",
+    "middle_name": "Amélie",
+    "last_name": "Peeters",
+    "passport_number": "JR3461821",
+    "currency": "EUR",
+    "address": {
+        "city": "Ried im Innkreis",
+        "street name": "Spiegelgasse",
+        "street number": 44,
+        "postal code": "4826"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 784 603 2312",
+    "email_address": "gabriella.peeters@yahoo.com"
+}

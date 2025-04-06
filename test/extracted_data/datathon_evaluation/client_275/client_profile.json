@@ -1,0 +1,75 @@
+{
+    "name": "Zbinden Egli Lehmann",
+    "address": {
+        "city": "Thun",
+        "street name": "Place des Halles",
+        "street number": 42,
+        "postal code": "6081"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1980-04-11",
+    "nationality": "Swiss",
+    "passport_number": "TR5343505",
+    "passport_issue_date": "2019-01-24",
+    "passport_expiry_date": "2029-01-23",
+    "gender": "M",
+    "phone_number": "+41 030 219 74 20",
+    "email_address": "zbinden.lehmann@freedom.ch",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Kantonsschule Frauenfeld Thurgau",
+        "graduation_year": 1990
+    },
+    "higher_education": [
+        {
+            "university": "University of Lucerne",
+            "graduation_year": 2004
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2004,
+            "end_year": 2008,
+            "company": " Implenia AG",
+            "position": "Property Manager",
+            "salary": 59000
+        },
+        {
+            "start_year": 2009,
+            "end_year": null,
+            "company": "ALLREAL Group AG",
+            "position": "Developer",
+            "salary": 248000
+        }
+    ],
+    "aum": {
+        "savings": 380000,
+        "inheritance": 2240000,
+        "real_estate_value": 7540000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2010,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 3220000,
+            "property location": "Thun"
+        },
+        {
+            "property type": "villa",
+            "property value": 4320000,
+            "property location": "Lausanne"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

@@ -1,0 +1,77 @@
+{
+    "name": "Niemi Hiltunen Niskanen",
+    "address": {
+        "city": "Joensuu",
+        "street name": "Esplanadi",
+        "street number": 3,
+        "postal code": "45270"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1964-02-01",
+    "nationality": "Finnish",
+    "passport_number": "HE8666849",
+    "passport_issue_date": "2018-07-31",
+    "passport_expiry_date": "2028-07-30",
+    "gender": "M",
+    "phone_number": "042 312 20 09",
+    "email_address": "niemi niskanen@suomi24 fi",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Varkauden lukio",
+        "graduation_year": 1981
+    },
+    "higher_education": [
+        {
+            "university": "University of Turku",
+            "graduation_year": 1988
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1988,
+            "end_year": 1993,
+            "company": "Outokumpu Oyj",
+            "position": "Junior Trader",
+            "salary": 46000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 2024,
+            "company": "Stora Enso Oyj",
+            "position": "Senior Trader",
+            "salary": 359000
+        }
+    ],
+    "aum": {
+        "savings": 690000,
+        "inheritance": 0,
+        "real_estate_value": 3513000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 850000,
+            "property location": "Joensuu"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1263000,
+            "property location": "Turku"
+        },
+        {
+            "property type": "house",
+            "property value": 1400000,
+            "property location": "Lappeenranta"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Finland"
+    ],
+    "currency": "EUR"
+}

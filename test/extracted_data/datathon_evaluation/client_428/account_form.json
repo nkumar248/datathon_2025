@@ -1,0 +1,17 @@
+{
+    "name": "Rodríguez Fernández Ruiz",
+    "first_name": "Rodríguez",
+    "middle_name": "Fernández",
+    "last_name": "Ruiz",
+    "passport_number": "NQ0002650",
+    "currency": "EUR",
+    "address": {
+        "city": "Castellón de la Plana",
+        "street name": "Calle de San Vicente Mártir",
+        "street number": 87,
+        "postal code": "14528"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 618 063 821",
+    "email_address": "rodriguez.ruiz@terra.es"
+}

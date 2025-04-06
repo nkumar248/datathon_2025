@@ -1,0 +1,17 @@
+{
+    "name": "Victoria Heidi Koller",
+    "first_name": "Victoria",
+    "middle_name": "Heidi",
+    "last_name": "Koller",
+    "passport_number": "VQ2200575",
+    "currency": "EUR",
+    "address": {
+        "city": "Kitzbühel",
+        "street name": "Theater an der Wien",
+        "street number": 7,
+        "postal code": "4888"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "374 151 6036",
+    "email_address": "victoria.koller@yahoo.com"
+}

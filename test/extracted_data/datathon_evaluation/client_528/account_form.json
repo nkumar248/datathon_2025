@@ -1,0 +1,17 @@
+{
+    "name": "Paananen Rissanen Seppälä",
+    "first_name": "Paananen",
+    "middle_name": "Rissanen",
+    "last_name": "Seppälä",
+    "passport_number": "WU7724971",
+    "currency": "DKK",
+    "address": {
+        "city": "Fredericia",
+        "street name": "Nytorv",
+        "street number": 92,
+        "postal code": "5193"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 88 53 05 83",
+    "email_address": "paananen.seppala@yousee.dk"
+}

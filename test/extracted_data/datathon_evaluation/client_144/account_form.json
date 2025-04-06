@@ -1,0 +1,17 @@
+{
+    "name": "Katharina Josefine Brandstetter",
+    "first_name": "Katharina",
+    "middle_name": "Josefine",
+    "last_name": "Brandstetter",
+    "passport_number": "GW2750449",
+    "currency": "EUR",
+    "address": {
+        "city": "Graz",
+        "street name": "Alpenstraße",
+        "street number": 68,
+        "postal code": "6883"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 210 152 6966",
+    "email_address": "katharina.brandstetter@gmail.com"
+}

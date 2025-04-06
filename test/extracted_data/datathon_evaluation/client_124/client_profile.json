@@ -1,0 +1,82 @@
+{
+    "name": "Bertrand Legrand Thomas",
+    "address": {
+        "city": "Saint-Denis",
+        "street name": "Avenue Victor Hugo",
+        "street number": 62,
+        "postal code": "75891"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1989-03-02",
+    "nationality": "French",
+    "passport_number": "WY4351095",
+    "passport_issue_date": "2020-12-22",
+    "passport_expiry_date": "2030-12-21",
+    "gender": "M",
+    "phone_number": "+33 05 57 49 11 61",
+    "email_address": "bertrand.thomas@icloud.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée du Parc",
+        "graduation_year": 2008
+    },
+    "higher_education": [
+        {
+            "university": "University of Bordeaux",
+            "graduation_year": 2012
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2012,
+            "end_year": 2014,
+            "company": "Société Générale Assurances",
+            "position": "Stockbroker",
+            "salary": 31000
+        },
+        {
+            "start_year": 2014,
+            "end_year": 2016,
+            "company": "AXA S.A.",
+            "position": "Portfolio Manager",
+            "salary": 50000
+        },
+        {
+            "start_year": 2017,
+            "end_year": null,
+            "company": "Amundi S.A.",
+            "position": "Hedge Fund Manager",
+            "salary": 118000
+        }
+    ],
+    "aum": {
+        "savings": 150000,
+        "inheritance": 4720000,
+        "real_estate_value": 2858000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1298000,
+            "property location": "Saint-Denis"
+        },
+        {
+            "property type": "condo",
+            "property value": 1560000,
+            "property location": "Dijon"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

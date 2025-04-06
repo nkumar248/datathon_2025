@@ -1,0 +1,17 @@
+{
+    "name": "Noemi Corinne Zbinden",
+    "first_name": "Noemi",
+    "middle_name": "Corinne",
+    "last_name": "Zbinden",
+    "passport_number": "XM5219644",
+    "currency": "CHF",
+    "address": {
+        "city": "Basel",
+        "street name": "Spitalgasse",
+        "street number": 88,
+        "postal code": "1018"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 073 222 68 65",
+    "email_address": "noemi.zbinden@gmail.com"
+}

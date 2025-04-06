@@ -1,0 +1,83 @@
+{
+    "name": "Freja Eva Pedersen",
+    "address": {
+        "city": "Helsingør",
+        "street name": "Vandkunsten",
+        "street number": 41,
+        "postal code": "2175"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1981-02-23",
+    "nationality": "Danish",
+    "passport_number": "EQ9803792",
+    "passport_issue_date": "2020-10-01",
+    "passport_expiry_date": "2030-09-30",
+    "gender": "F",
+    "phone_number": "+45 94 17 14 61",
+    "email_address": "freja.pedersen@webspace.dk",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Aarhus Katedralskole",
+        "graduation_year": 1998
+    },
+    "higher_education": [
+        {
+            "university": "University of Copenhagen",
+            "graduation_year": 2003
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2004,
+            "end_year": 2008,
+            "company": "Nykur Private Banking",
+            "position": "Financial Advisor",
+            "salary": 273000
+        },
+        {
+            "start_year": 2008,
+            "end_year": 2012,
+            "company": "Nykur Private Banking",
+            "position": "Portfolio Manager",
+            "salary": 371000
+        },
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "Jyske Bank Private Banking",
+            "position": "Wealth Manager",
+            "salary": 2244000
+        }
+    ],
+    "aum": {
+        "savings": 2990000,
+        "inheritance": 21280000,
+        "real_estate_value": 3460000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2010,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1271000,
+            "property location": "Helsingør"
+        },
+        {
+            "property type": "house",
+            "property value": 2189000,
+            "property location": "Hillerød"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Belgium"
+    ],
+    "currency": "DKK"
+}

@@ -1,0 +1,86 @@
+{
+    "name": "Hanna Henriette Fischer",
+    "address": {
+        "city": "Braunschweig",
+        "street name": "Europa-Center",
+        "street number": 99,
+        "postal code": "18085"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1964-05-07",
+    "nationality": "German",
+    "passport_number": "JC2338579",
+    "passport_issue_date": "2017-09-12",
+    "passport_expiry_date": "2027-09-11",
+    "gender": "F",
+    "phone_number": "9368 293996",
+    "email_address": "hanna.fischer@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Heisenberg-Gymnasium Lüneburg",
+        "graduation_year": 1982
+    },
+    "higher_education": [
+        {
+            "university": "Bucerius Law School",
+            "graduation_year": 1988
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1988,
+            "end_year": 1992,
+            "company": "Deutsche Bank AG",
+            "position": "Family Office Manager",
+            "salary": 41000
+        },
+        {
+            "start_year": 1992,
+            "end_year": 1994,
+            "company": "Dresdner Bank AG",
+            "position": "Investment Director",
+            "salary": 60000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 1996,
+            "company": "Dresdner Bank AG",
+            "position": "CFO",
+            "salary": 87000
+        },
+        {
+            "start_year": 1998,
+            "end_year": 2001,
+            "company": "Berliner Sparkasse",
+            "position": "COO",
+            "salary": 162000
+        },
+        {
+            "start_year": 2003,
+            "end_year": 2025,
+            "company": "Deutsche Bank AG",
+            "position": "CEO",
+            "salary": 970000
+        }
+    ],
+    "aum": {
+        "savings": 1530000,
+        "inheritance": 780000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2012,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Germany"
+    ],
+    "currency": "PPT"
+}

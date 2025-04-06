@@ -1,0 +1,76 @@
+{
+    "name": "Aino Anniina Mäkinen",
+    "address": {
+        "city": "Mikkeli",
+        "street name": "Kauppakartanonkatu",
+        "street number": 13,
+        "postal code": "35917"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1974-07-11",
+    "nationality": "Finnish",
+    "passport_number": "UX4549354",
+    "passport_issue_date": "2019-09-22",
+    "passport_expiry_date": "2029-09-21",
+    "gender": "F",
+    "phone_number": "+358 047 676 91 29",
+    "email_address": "aino.makinen@luukku.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Karjaan lukio",
+        "graduation_year": 1993
+    },
+    "higher_education": [
+        {
+            "university": "Åbo Akademi University School of Economics",
+            "graduation_year": 1997
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1999,
+            "end_year": 2003,
+            "company": "Nordea Bank ABp",
+            "position": "Family Office Manager",
+            "salary": 41000
+        },
+        {
+            "start_year": 2003,
+            "end_year": null,
+            "company": "Handelsbanken plc",
+            "position": "Investment Director",
+            "salary": 219000
+        }
+    ],
+    "aum": {
+        "savings": 410000,
+        "inheritance": 430000,
+        "real_estate_value": 3230000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2009,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2430000,
+            "property location": "Mikkeli"
+        },
+        {
+            "property type": "condo",
+            "property value": 800000,
+            "property location": "Sipoo"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

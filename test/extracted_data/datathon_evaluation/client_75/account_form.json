@@ -1,0 +1,17 @@
+{
+    "name": "Daniela Ellen Sørensen",
+    "first_name": "Daniela",
+    "middle_name": "Ellen",
+    "last_name": "Sørensen",
+    "passport_number": "BJ1855147",
+    "currency": "EUR",
+    "address": {
+        "city": "Braunschweig",
+        "street name": "Brandenburgische Straße",
+        "street number": 54,
+        "postal code": "00664"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "5047 926443",
+    "email_address": "daniela.srensen@vodafone.de"
+}

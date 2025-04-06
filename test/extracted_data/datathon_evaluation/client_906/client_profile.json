@@ -1,0 +1,76 @@
+{
+    "name": "Durand Moreau Bertrand",
+    "address": {
+        "city": "Strasbourg",
+        "street name": "Avenue Victor Hugo",
+        "street number": 100,
+        "postal code": "61698"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1961-01-25",
+    "nationality": "French",
+    "passport_number": "YW0131669",
+    "passport_issue_date": "2021-01-05",
+    "passport_expiry_date": "2031-01-04",
+    "gender": "M",
+    "phone_number": "+33 09 43 02 95 75",
+    "email_address": "durand.bertrand@neuf.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Pierre Corneille",
+        "graduation_year": 1979
+    },
+    "higher_education": [
+        {
+            "university": "EMIC de Nice",
+            "graduation_year": 1983
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1984,
+            "end_year": 1988,
+            "company": "Total S.A.",
+            "position": "Junior Trader",
+            "salary": 28000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 2021,
+            "company": "ArcelorMittal S.A.",
+            "position": "Senior Trader",
+            "salary": 257000
+        }
+    ],
+    "aum": {
+        "savings": 550000,
+        "inheritance": 0,
+        "real_estate_value": 4458000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1310000,
+            "property location": "Strasbourg"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1368000,
+            "property location": "Dijon"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1780000,
+            "property location": "Rennes"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

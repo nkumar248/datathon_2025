@@ -1,0 +1,102 @@
+{
+    "name": "Richard Garcia Gauthier",
+    "address": {
+        "city": "Clermont-Ferrand",
+        "street name": "Rue Royale",
+        "street number": 91,
+        "postal code": "57832"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1970-01-05",
+    "nationality": "French",
+    "passport_number": "BU2343995",
+    "passport_issue_date": "2016-07-03",
+    "passport_expiry_date": "2026-07-02",
+    "gender": "M",
+    "phone_number": "++41 06 33 25 50 55",
+    "email_address": "richard.gauthier@hotmail.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Lycée Henri IV",
+        "graduation_year": 1988
+    },
+    "higher_education": [
+        {
+            "university": "École Polytechnique",
+            "graduation_year": 1994
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1994,
+            "end_year": 1999,
+            "company": "Engie S.A.",
+            "position": "Drilling Engineer",
+            "salary": 33000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2003,
+            "company": "Total S.A.",
+            "position": "Reservoir Engineer",
+            "salary": 49000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2007,
+            "company": "Perenco S.A.",
+            "position": "Operations Manager",
+            "salary": 67000
+        },
+        {
+            "start_year": 2008,
+            "end_year": 2013,
+            "company": "Engie S.A.",
+            "position": "VP of Exploration",
+            "salary": 201000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2023,
+            "company": "Total S.A.",
+            "position": "CEO",
+            "salary": 199000
+        }
+    ],
+    "aum": {
+        "savings": 420000,
+        "inheritance": 560000,
+        "real_estate_value": 5020000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2005,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1680000,
+            "property location": "Clermont-Ferrand"
+        },
+        {
+            "property type": "flat",
+            "property value": 1611000,
+            "property location": "Le Mans"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1729000,
+            "property location": "Montpellier"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "France"
+    ],
+    "currency": "EUR"
+}

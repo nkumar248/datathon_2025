@@ -1,0 +1,64 @@
+{
+    "name": "Ève Capucine Pierre",
+    "address": {
+        "city": "Saint-Denis",
+        "street name": "Boulevard Raspail",
+        "street number": 34,
+        "postal code": "87570"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1995-02-14",
+    "nationality": "French",
+    "passport_number": "CK1617743",
+    "passport_issue_date": "2020-07-10",
+    "passport_expiry_date": "2030-07-09",
+    "gender": "F",
+    "phone_number": "+33 06 62 64 13 45",
+    "email_address": "eve.pierre@live.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Victor Hugo",
+        "graduation_year": 2004
+    },
+    "higher_education": [
+        {
+            "university": "University of Toulouse",
+            "graduation_year": 2017
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "Musée Rodin",
+            "position": "Art Dealer",
+            "salary": 39000
+        }
+    ],
+    "aum": {
+        "savings": 30000,
+        "inheritance": 3570000,
+        "real_estate_value": 1380000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2020,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1380000,
+            "property location": "Saint-Denis"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "France"
+    ],
+    "currency": "EUR"
+}

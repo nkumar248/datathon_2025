@@ -1,0 +1,74 @@
+{
+    "name": "Dupont Robert",
+    "address": {
+        "city": "Paris",
+        "street name": "Avenue George V",
+        "street number": 72,
+        "postal code": "19745"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1994-08-24",
+    "nationality": "French",
+    "passport_number": "CR9937269",
+    "passport_issue_date": "2019-12-29",
+    "passport_expiry_date": "2029-12-28",
+    "gender": "M",
+    "phone_number": "+33 01 39 50 39 51",
+    "email_address": "dupont.robert@icloud.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée La Martinière Monplaisir",
+        "graduation_year": 2001
+    },
+    "higher_education": [
+        {
+            "university": "EMIC de Nice",
+            "graduation_year": 2019
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "Apax Partners SAS",
+            "position": "Analyst",
+            "salary": 38000
+        }
+    ],
+    "aum": {
+        "savings": 30000,
+        "inheritance": 940000,
+        "real_estate_value": 4940000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2016,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1750000,
+            "property location": "Paris"
+        },
+        {
+            "property type": "house",
+            "property value": 1427000,
+            "property location": "Brest"
+        },
+        {
+            "property type": "condo",
+            "property value": 1763000,
+            "property location": "Orléans"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "France"
+    ],
+    "currency": "EUR"
+}

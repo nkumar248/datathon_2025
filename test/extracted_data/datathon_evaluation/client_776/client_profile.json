@@ -1,0 +1,92 @@
+{
+    "name": "Daantje Veenhoven",
+    "address": {
+        "city": "Almere",
+        "street name": "Markt",
+        "street number": 29,
+        "postal code": "5879 85"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1974-09-11",
+    "nationality": "Dutch",
+    "passport_number": "RW2852871",
+    "passport_issue_date": "2017-03-23",
+    "passport_expiry_date": "2027-03-22",
+    "gender": "F",
+    "phone_number": "06 33276604",
+    "email_address": "daantje.veenhoven@gmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Katholieke Scholengemeenschap Hoofddorp",
+        "graduation_year": 1994
+    },
+    "higher_education": [
+        {
+            "university": "Hogeschool van Amsterdam",
+            "graduation_year": 1997
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1999,
+            "end_year": 2004,
+            "company": "ASML Holding N.V.",
+            "position": "Software Developer",
+            "salary": 45000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2008,
+            "company": "Takeaway.com N.V.",
+            "position": "Startup Founder",
+            "salary": 63000
+        },
+        {
+            "start_year": 2010,
+            "end_year": 2014,
+            "company": "GitPulse B.V.",
+            "position": "CEO",
+            "salary": 86000
+        },
+        {
+            "start_year": 2014,
+            "end_year": 2015,
+            "company": "ASML Holding N.V.",
+            "position": "Venture Capitalist",
+            "salary": 169000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "GitPulse B.V.",
+            "position": "Tech Industry Leader",
+            "salary": 327000
+        }
+    ],
+    "aum": {
+        "savings": 480000,
+        "inheritance": 3590000,
+        "real_estate_value": 1870000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1870000,
+            "property location": "Almere"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

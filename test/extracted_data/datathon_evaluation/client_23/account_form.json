@@ -1,0 +1,17 @@
+{
+    "name": "Freja Idun Østergaard",
+    "first_name": "Freja",
+    "middle_name": "Idun",
+    "last_name": "Østergaard",
+    "passport_number": "DR2046462",
+    "currency": "DKK",
+    "address": {
+        "city": "Helsingør",
+        "street name": "Store Kannikestræde",
+        "street number": 1,
+        "postal code": "4633"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 48 22 04 54",
+    "email_address": "freja.stergaard@telenor.dk"
+}

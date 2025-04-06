@@ -1,0 +1,58 @@
+{
+    "name": "Saar Daantje Terpstra",
+    "address": {
+        "city": "Haarlem",
+        "street name": "Moreelsepark",
+        "street number": 69,
+        "postal code": "2158 10"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1996-11-03",
+    "nationality": "Dutch",
+    "passport_number": "HP4745899",
+    "passport_issue_date": "2022-06-12",
+    "passport_expiry_date": "2032-06-11",
+    "gender": "F",
+    "phone_number": "06 75610901",
+    "email_address": "saar.terpstra@kpnmail.nl",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Scholengroep Carmel Maastricht",
+        "graduation_year": 2014
+    },
+    "higher_education": [
+        {
+            "university": "Gerrit Rietveld Academy",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2021,
+            "end_year": 2024,
+            "company": "Van Gogh Museum",
+            "position": "Art Dealer",
+            "salary": 47000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 1360000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

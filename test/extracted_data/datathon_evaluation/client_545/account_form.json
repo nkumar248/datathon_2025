@@ -1,0 +1,17 @@
+{
+    "name": "Floor Francisca Wagemakers",
+    "first_name": "Floor",
+    "middle_name": "Francisca",
+    "last_name": "Wagemakers",
+    "passport_number": "LX5638381",
+    "currency": "EUR",
+    "address": {
+        "city": "Kauniainen",
+        "street name": "Vuorimiehenkatu",
+        "street number": 97,
+        "postal code": "58349"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 044 705 87 38",
+    "email_address": "floor.wagemakers@outlook.com"
+}

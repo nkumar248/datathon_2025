@@ -1,0 +1,17 @@
+{
+    "name": "Agnes Andrea Rasmussen",
+    "first_name": "Agnes",
+    "middle_name": "Andrea",
+    "last_name": "Rasmussen",
+    "passport_number": "YJ6564948",
+    "currency": "DKK",
+    "address": {
+        "city": "Varde",
+        "street name": "Store Kongensgade",
+        "street number": 85,
+        "postal code": "4452"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 63 25 65 69",
+    "email_address": "agnes.rasmussen@yahoo.com"
+}

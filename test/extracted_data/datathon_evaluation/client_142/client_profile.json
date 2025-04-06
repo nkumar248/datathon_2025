@@ -1,0 +1,81 @@
+{
+    "name": "Joris Lemaire Maes",
+    "address": {
+        "city": "Menen",
+        "street name": "Rue de la Régence",
+        "street number": 82,
+        "postal code": "5262"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1985-09-04",
+    "nationality": "Belgian",
+    "passport_number": "EF9494278",
+    "passport_issue_date": "2019-07-02",
+    "passport_expiry_date": "2026-07-01",
+    "gender": "M",
+    "phone_number": "+32 0416 446 227",
+    "email_address": "joris.maes@scarlet.be",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Ecole Secondaire Libre du Sacré-Cœur",
+        "graduation_year": 1996
+    },
+    "higher_education": [
+        {
+            "university": "Vesalius College",
+            "graduation_year": 2009
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2009,
+            "end_year": 2010,
+            "company": "BNP Paribas Wealth Management Belgium",
+            "position": "Financial Advisor",
+            "salary": 41000
+        },
+        {
+            "start_year": 2010,
+            "end_year": 2023,
+            "company": "BNP Paribas Wealth Management Belgium",
+            "position": "Portfolio Manager",
+            "salary": 148000
+        }
+    ],
+    "aum": {
+        "savings": 200000,
+        "inheritance": 4050000,
+        "real_estate_value": 3533000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2020,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1270000,
+            "property location": "Menen"
+        },
+        {
+            "property type": "condo",
+            "property value": 1143000,
+            "property location": "Hasselt"
+        },
+        {
+            "property type": "condo",
+            "property value": 1120000,
+            "property location": "Lokeren"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

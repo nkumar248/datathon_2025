@@ -1,0 +1,17 @@
+{
+    "name": "Lea Anna Jost",
+    "first_name": "Lea",
+    "middle_name": "Anna",
+    "last_name": "Jost",
+    "passport_number": "XC6285217",
+    "currency": "DKK",
+    "address": {
+        "city": "Varde",
+        "street name": "Krimsvej",
+        "street number": 56,
+        "postal code": "5684"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "35 30 36 01",
+    "email_address": "lea.jost@siminn.dk"
+}

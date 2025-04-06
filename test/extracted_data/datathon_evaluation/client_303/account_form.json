@@ -1,0 +1,17 @@
+{
+    "name": "Chloé Adèle Dupont",
+    "first_name": "Chloé",
+    "middle_name": "Adèle",
+    "last_name": "Dupont",
+    "passport_number": "NL9696107",
+    "currency": "EUR",
+    "address": {
+        "city": "Turnhout",
+        "street name": "Rue Belliard",
+        "street number": 4,
+        "postal code": "2226"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0470 942 378",
+    "email_address": "chloe.dupont@skype.be"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Lechner Fuchs Bauer",
+    "first_name": "Lechner",
+    "middle_name": "Fuchs",
+    "last_name": "Bauer",
+    "passport_number": "SO1308671",
+    "currency": "EUR",
+    "address": {
+        "city": "Bregenz",
+        "street name": "Mariahilfer Straße",
+        "street number": 56,
+        "postal code": "6929"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 261 838 0148",
+    "email_address": "lechner.bauer@liwest.at"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Julia Daantje Maassen",
+    "first_name": "Julia",
+    "middle_name": "Daantje",
+    "last_name": "Maassen",
+    "passport_number": "HJ5766036",
+    "currency": "EUR",
+    "address": {
+        "city": "Zaandam",
+        "street name": "Nieuwegeinseweg",
+        "street number": 10,
+        "postal code": "1865 29"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 67296054",
+    "email_address": "julia.maassen@chello.nl"
+}

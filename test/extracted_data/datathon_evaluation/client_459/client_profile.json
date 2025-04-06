@@ -1,0 +1,49 @@
+{
+    "name": "Nicolas Louis Gauthier",
+    "address": {
+        "city": "Le Havre",
+        "street name": "Rue Royale",
+        "street number": 38,
+        "postal code": "39690"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "2001-01-14",
+    "nationality": "French",
+    "passport_number": "WN1992419",
+    "passport_issue_date": "2023-04-14",
+    "passport_expiry_date": "2033-04-13",
+    "gender": "M",
+    "phone_number": "+33 01 25 02 03 78",
+    "email_address": "nicolas.gauthier@orange.fr",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée Condorcet",
+        "graduation_year": 2020
+    },
+    "higher_education": [
+        {
+            "university": "EMIC de Lyon",
+            "graduation_year": 2025
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1720000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

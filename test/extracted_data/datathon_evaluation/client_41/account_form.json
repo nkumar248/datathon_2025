@@ -1,0 +1,17 @@
+{
+    "name": "Garcia Laurent Fournier",
+    "first_name": "Garcia",
+    "middle_name": "Laurent",
+    "last_name": "Fournier",
+    "passport_number": "GD8199644",
+    "currency": "EUR",
+    "address": {
+        "city": "Tours",
+        "street name": "Boulevard Raspail",
+        "street number": 7,
+        "postal code": "76091"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 07 62 12 25 99",
+    "email_address": "garcia.fournier@bbox.fr"
+}

@@ -1,0 +1,57 @@
+{
+    "name": "Joris Wouters Smets",
+    "address": {
+        "city": "Antwerp",
+        "street name": "Rue des Deux Portes",
+        "street number": 24,
+        "postal code": "3965"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1996-02-08",
+    "nationality": "Belgian",
+    "passport_number": "PM4993564",
+    "passport_issue_date": "2016-09-08",
+    "passport_expiry_date": "2023-09-07",
+    "gender": "M",
+    "phone_number": "+32 0496 313 378",
+    "email_address": "joris.smets@voo.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "College Patroklia",
+        "graduation_year": 2015
+    },
+    "higher_education": [
+        {
+            "university": "Vrije Universiteit Brussel",
+            "graduation_year": 2008
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2019,
+            "end_year": 2024,
+            "company": "Magritte Museum",
+            "position": "Art Dealer",
+            "salary": 45000
+        }
+    ],
+    "aum": {
+        "savings": 30000,
+        "inheritance": 2560000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

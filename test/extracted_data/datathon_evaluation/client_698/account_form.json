@@ -1,0 +1,17 @@
+{
+    "name": "Katriina Kaarin Lehtinen",
+    "first_name": "Katriina",
+    "middle_name": "Kaarin",
+    "last_name": "Lehtinen",
+    "passport_number": "JW8184704",
+    "currency": "EUR",
+    "address": {
+        "city": "Vantaa",
+        "street name": "Fabianinkatu",
+        "street number": 69,
+        "postal code": "48530"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 049 875 57 41",
+    "email_address": "katriina.lehtinen@saunalahti.fi"
+}

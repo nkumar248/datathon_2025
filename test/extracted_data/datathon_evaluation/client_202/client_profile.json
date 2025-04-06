@@ -1,0 +1,77 @@
+{
+    "name": "Schulze Fischer Becker",
+    "address": {
+        "city": "Bochum",
+        "street name": "Brandenburgische Straße",
+        "street number": 53,
+        "postal code": "98990"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1962-08-29",
+    "nationality": "German",
+    "passport_number": "YV9305521",
+    "passport_issue_date": "2022-03-25",
+    "passport_expiry_date": "2032-03-24",
+    "gender": "M",
+    "phone_number": "7811 763241",
+    "email_address": "schulze.becker@versatel.de",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Schiller-Gymnasium Berlin",
+        "graduation_year": 1980
+    },
+    "higher_education": [
+        {
+            "university": "ISM Dortmund",
+            "graduation_year": 1986
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1986,
+            "end_year": 1990,
+            "company": "Adidas AG",
+            "position": "Assistant Designer",
+            "salary": 39000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 2023,
+            "company": "Otto Group",
+            "position": "Senior Designer",
+            "salary": 372000
+        }
+    ],
+    "aum": {
+        "savings": 690000,
+        "inheritance": 0,
+        "real_estate_value": 4386000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1732000,
+            "property location": "Bochum"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1504000,
+            "property location": "Hamburg"
+        },
+        {
+            "property type": "condo",
+            "property value": 1150000,
+            "property location": "Wuppertal"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": " Joséphine Jade Moreau",
+    "first_name": " Joséphine",
+    "middle_name": "Jade",
+    "last_name": "Moreau",
+    "passport_number": "VO8504741",
+    "currency": "EUR",
+    "address": {
+        "city": "Lille",
+        "street name": "Avenue Parmentier",
+        "street number": 83,
+        "postal code": "29281"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "02 46 81 72 79",
+    "email_address": "josephine.moreau@neuf.fr"
+}

@@ -1,0 +1,76 @@
+{
+    "name": "Gómez Fernández Rodríguez",
+    "address": {
+        "city": "Salamanca",
+        "street name": "Plaza de la Merced",
+        "street number": 40,
+        "postal code": "24814"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1991-04-19",
+    "nationality": "Spanish",
+    "passport_number": "HS6360346",
+    "passport_issue_date": "2019-01-01",
+    "passport_expiry_date": "2028-12-31",
+    "gender": "M",
+    "phone_number": "+34 680 461 888",
+    "email_address": "gomez.rodriguez@gmail.es",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "IES Juan Carlos I Burgos",
+        "graduation_year": 2010
+    },
+    "higher_education": [
+        {
+            "university": "ESADE Business & Law School",
+            "graduation_year": 2014
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2015,
+            "end_year": 2018,
+            "company": "Realia Business S.A.",
+            "position": "Property Manager",
+            "salary": 27000
+        },
+        {
+            "start_year": 2020,
+            "end_year": null,
+            "company": "Inmobiliaria Colonial S.A.",
+            "position": "Developer",
+            "salary": 55000
+        }
+    ],
+    "aum": {
+        "savings": 60000,
+        "inheritance": 1640000,
+        "real_estate_value": 2580000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1630000,
+            "property location": "Salamanca"
+        },
+        {
+            "property type": "flat",
+            "property value": 950000,
+            "property location": "Córdoba"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Denmark"
+    ],
+    "currency": "EUR"
+}

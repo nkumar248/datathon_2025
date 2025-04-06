@@ -1,0 +1,88 @@
+{
+    "name": "Sofia Gitte Sørensen",
+    "address": {
+        "city": "Næstved",
+        "street name": "Østerbrogade",
+        "street number": 65,
+        "postal code": "5792"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1989-02-04",
+    "nationality": "Danish",
+    "passport_number": "TJ5688546",
+    "passport_issue_date": "2020-06-06",
+    "passport_expiry_date": "2030-06-05",
+    "gender": "F",
+    "phone_number": "64 25 69 17",
+    "email_address": "sofia.srensen@icloud.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Holstebro Gymnasium",
+        "graduation_year": 2006
+    },
+    "higher_education": [
+        {
+            "university": "University of Southern Denmark",
+            "graduation_year": 2013
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2013,
+            "end_year": 2014,
+            "company": "Total E&P Danmark A/S",
+            "position": "Drilling Engineer",
+            "salary": 248000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2020,
+            "company": "Maersk Oil A/S",
+            "position": "Reservoir Engineer",
+            "salary": 502000
+        },
+        {
+            "start_year": 2021,
+            "end_year": 2024,
+            "company": "Total E&P Danmark A/S",
+            "position": "Operations Manager",
+            "salary": 546000
+        }
+    ],
+    "aum": {
+        "savings": 590000,
+        "inheritance": 8280000,
+        "real_estate_value": 5550000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2970000,
+            "property location": "Næstved"
+        },
+        {
+            "property type": "house",
+            "property value": 1620000,
+            "property location": "Randers"
+        },
+        {
+            "property type": "flat",
+            "property value": 960000,
+            "property location": "Skanderborg"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

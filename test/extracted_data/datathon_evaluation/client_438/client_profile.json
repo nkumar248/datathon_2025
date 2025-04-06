@@ -1,0 +1,73 @@
+{
+    "name": "Moretti De Luca Bruno",
+    "address": {
+        "city": "Reggio Calabria",
+        "street name": "Piazza Maggiore",
+        "street number": 74,
+        "postal code": "22555"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1994-02-08",
+    "nationality": "Italian",
+    "passport_number": "XN3327204",
+    "passport_issue_date": "2019-02-02",
+    "passport_expiry_date": "2029-02-01",
+    "gender": "M",
+    "phone_number": "+39 392 0525021",
+    "email_address": "moretti.bruno@alice.it",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Istituto Tecnico Industriale Statale Enrico Mattei Roma",
+        "graduation_year": 2011
+    },
+    "higher_education": [
+        {
+            "university": "Luiss Guido Carli",
+            "graduation_year": 2016
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2017,
+            "end_year": null,
+            "company": "UniCredit S.p.A.",
+            "position": "Investment Banker",
+            "salary": 32000
+        }
+    ],
+    "aum": {
+        "savings": 30000,
+        "inheritance": 830000,
+        "real_estate_value": 4445000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2020,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 1678000,
+            "property location": "Reggio Calabria"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1447000,
+            "property location": "Udine"
+        },
+        {
+            "property type": "house",
+            "property value": 1320000,
+            "property location": "Naples"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

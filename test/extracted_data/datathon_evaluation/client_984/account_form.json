@@ -1,0 +1,17 @@
+{
+    "name": "Rizzo Bruno",
+    "first_name": "Rizzo",
+    "middle_name": "",
+    "last_name": "Bruno",
+    "passport_number": "JV9657789",
+    "currency": "EUR",
+    "address": {
+        "city": "Pisa",
+        "street name": "Via XX Settembre",
+        "street number": 21,
+        "postal code": "67687"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "347 1015393",
+    "email_address": "rizzo.bruno@gmail.com"
+}

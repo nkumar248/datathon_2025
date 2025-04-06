@@ -1,0 +1,17 @@
+{
+    "name": "Chloé Peters",
+    "first_name": "Chloé",
+    "middle_name": "",
+    "last_name": "Peters",
+    "passport_number": "IZ1711354",
+    "currency": "EUR",
+    "address": {
+        "city": "Geel",
+        "street name": "Rue de la Vierge",
+        "street number": 75,
+        "postal code": "8576"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0481 812 926",
+    "email_address": "chloe.peters@icloud.com"
+}

@@ -1,0 +1,90 @@
+{
+    "name": "María Almudena Suárez",
+    "address": {
+        "city": "Nurmijärvi",
+        "street name": "Meritullinkatu",
+        "street number": 1,
+        "postal code": "75949"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1976-04-18",
+    "nationality": "Spanish",
+    "passport_number": "YK9630232",
+    "passport_issue_date": "2022-04-08",
+    "passport_expiry_date": "2032-04-07",
+    "gender": "F",
+    "phone_number": "044 932 06 88",
+    "email_address": "maria.suarez@telia.fi",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "IES Rafael Alberti Cádiz",
+        "graduation_year": 1995
+    },
+    "higher_education": [
+        {
+            "university": "Polytechnic University of Madrid",
+            "graduation_year": 1999
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2000,
+            "end_year": 2004,
+            "company": "Langh Ship Oy",
+            "position": "Ship Broker",
+            "salary": 27000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2010,
+            "company": "Langh Ship Oy",
+            "position": "Shipping Company Owner",
+            "salary": 39000
+        },
+        {
+            "start_year": 2012,
+            "end_year": 2016,
+            "company": "Meriaura Oy",
+            "position": "Fleet Manager",
+            "salary": 63000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "Neste Shipping Oy",
+            "position": "Maritime Industry Leader",
+            "salary": 147000
+        }
+    ],
+    "aum": {
+        "savings": 240000,
+        "inheritance": 2020000,
+        "real_estate_value": 3450000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2010,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2340000,
+            "property location": "Nurmijärvi"
+        },
+        {
+            "property type": "condo",
+            "property value": 1110000,
+            "property location": "Cartagena"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Finland"
+    ],
+    "currency": "EUR"
+}

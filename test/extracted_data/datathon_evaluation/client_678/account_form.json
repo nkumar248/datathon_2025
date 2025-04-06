@@ -1,0 +1,17 @@
+{
+    "name": "Kristiina Pihla Salminen",
+    "first_name": "Kristiina",
+    "middle_name": "Pihla",
+    "last_name": "Salminen",
+    "passport_number": "KL9004461",
+    "currency": "CHF",
+    "address": {
+        "city": "Bienna",
+        "street name": "Metzgergasse",
+        "street number": 78,
+        "postal code": "4118"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "059 357 81 28",
+    "email_address": "kristiina.salminen@teli.ch"
+}

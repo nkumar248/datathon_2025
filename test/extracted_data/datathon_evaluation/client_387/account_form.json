@@ -1,0 +1,17 @@
+{
+    "name": "Mustonen Koskinen Seppälä",
+    "first_name": "Mustonen",
+    "middle_name": "Koskinen",
+    "last_name": "Seppälä",
+    "passport_number": "HK8206760",
+    "currency": "EUR",
+    "address": {
+        "city": "Antwerp",
+        "street name": "Place Jourdan",
+        "street number": 24,
+        "postal code": "2950"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0404 439 081",
+    "email_address": "mustonen.seppala@outlook.com"
+}

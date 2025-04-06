@@ -1,0 +1,17 @@
+{
+    "name": "Schmidt Haider Huber",
+    "first_name": "Schmidt",
+    "middle_name": "Haider",
+    "last_name": "Huber",
+    "passport_number": "FT1359190",
+    "currency": "EUR",
+    "address": {
+        "city": "Bregenz",
+        "street name": "Enzersdorfer Straße",
+        "street number": 47,
+        "postal code": "2432"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 089 901 0668",
+    "email_address": "schmidt.huber@magenta.at"
+}

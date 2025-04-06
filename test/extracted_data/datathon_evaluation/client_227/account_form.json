@@ -1,0 +1,17 @@
+{
+    "name": "Jenna Kaisa Turunen",
+    "first_name": "Jenna",
+    "middle_name": "Kaisa",
+    "last_name": "Turunen",
+    "passport_number": "QO9438452",
+    "currency": "EUR",
+    "address": {
+        "city": "Kuopio",
+        "street name": "Tehtaankatu",
+        "street number": 70,
+        "postal code": "01635"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 042 060 81 20",
+    "email_address": "jenna.turunen@luukku.com"
+}

@@ -1,0 +1,87 @@
+{
+    "name": "Laursen Olsen Petersen",
+    "address": {
+        "city": "Skanderborg",
+        "street name": "Skindergade",
+        "street number": 94,
+        "postal code": "3737"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1983-09-16",
+    "nationality": "Danish",
+    "passport_number": "EB8427999",
+    "passport_issue_date": "2016-12-14",
+    "passport_expiry_date": "2026-12-13",
+    "gender": "M",
+    "phone_number": "03 39 61 85",
+    "email_address": "laursen.petersen@outlook.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Frederikshavn Gymnasium",
+        "graduation_year": 2003
+    },
+    "higher_education": [
+        {
+            "university": "Aarhus University",
+            "graduation_year": 2007
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2008,
+            "end_year": 2010,
+            "company": "Genmab A/S",
+            "position": "Research Scientist",
+            "salary": 259000
+        },
+        {
+            "start_year": 2011,
+            "end_year": 2014,
+            "company": "Genmab A/S",
+            "position": "Biotech Startup Founder",
+            "salary": 429000
+        },
+        {
+            "start_year": 2015,
+            "end_year": null,
+            "company": "Genmab A/S",
+            "position": "CEO",
+            "salary": 840000
+        }
+    ],
+    "aum": {
+        "savings": 1330000,
+        "inheritance": 14390000,
+        "real_estate_value": 4785000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2005,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1845000,
+            "property location": "Skanderborg"
+        },
+        {
+            "property type": "flat",
+            "property value": 820000,
+            "property location": "Skanderborg"
+        },
+        {
+            "property type": "house",
+            "property value": 2120000,
+            "property location": "Copenhagen"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

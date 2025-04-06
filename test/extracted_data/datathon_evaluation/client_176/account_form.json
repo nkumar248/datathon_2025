@@ -1,0 +1,17 @@
+{
+    "name": "Alice Hortense Sterckx",
+    "first_name": "Alice",
+    "middle_name": "Hortense",
+    "last_name": "Stekrckx",
+    "passport_number": "WN1320889",
+    "currency": "EUR",
+    "address": {
+        "city": "Geel",
+        "street name": "Boulevard Anspach",
+        "street number": 34,
+        "postal code": "6089"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0455 902 532",
+    "email_address": "alice.sterckx@proximus.be"
+}

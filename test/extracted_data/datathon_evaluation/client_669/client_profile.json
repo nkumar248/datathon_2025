@@ -1,0 +1,80 @@
+{
+    "name": "Gabriela Andrea Wyss",
+    "address": {
+        "city": "Lucerne",
+        "street name": "Place de la Navigation",
+        "street number": 81,
+        "postal code": "6380"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1972-10-18",
+    "nationality": "Swiss",
+    "passport_number": "GU8441406",
+    "passport_issue_date": "2024-09-07",
+    "passport_expiry_date": "2034-09-06",
+    "gender": "F",
+    "phone_number": "060 299 74 32",
+    "email_address": "gabriela.wyss@swisscom.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée cantonal de Porrentruy Jura",
+        "graduation_year": 1990
+    },
+    "higher_education": [
+        {
+            "university": "University of Zurich",
+            "graduation_year": 1997
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1996,
+            "end_year": 1999,
+            "company": "Julius Baer Asset Management",
+            "position": "Stockbroker",
+            "salary": 64000
+        },
+        {
+            "start_year": 2000,
+            "end_year": null,
+            "company": "Julius Baer Asset Management",
+            "position": "Portfolio Manager",
+            "salary": 352000
+        }
+    ],
+    "aum": {
+        "savings": 670000,
+        "inheritance": 2190000,
+        "real_estate_value": 7100000
+    },
+    "inheritance_details": {
+        "relationship": "",
+        "inheritance year": 2015,
+        "profession": ""
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 2780000,
+            "property location": "Lucerne"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 2250000,
+            "property location": "Brugg"
+        },
+        {
+            "property type": "condo",
+            "property value": 2070000,
+            "property location": "Solothurn"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

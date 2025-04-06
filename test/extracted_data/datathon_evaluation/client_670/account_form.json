@@ -1,0 +1,17 @@
+{
+    "name": "Bruno Malatesta Landi",
+    "first_name": "Bruno",
+    "middle_name": "Malatesta",
+    "last_name": "Landi",
+    "passport_number": "TO3848241",
+    "currency": "EUR",
+    "address": {
+        "city": "Leeuwarden",
+        "street name": "Willemsparkweg",
+        "street number": 49,
+        "postal code": "2966 51"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 36125469",
+    "email_address": "bruno.landi@gmail.com"
+}

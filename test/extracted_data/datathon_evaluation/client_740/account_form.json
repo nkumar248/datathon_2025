@@ -1,0 +1,17 @@
+{
+    "name": "Yara Luna Kuipers",
+    "first_name": "Yara",
+    "middle_name": "Luna",
+    "last_name": "Kuipers",
+    "passport_number": "WI9082958",
+    "currency": "EUR",
+    "address": {
+        "city": "Hengelo",
+        "street name": "Nieuwmarkt",
+        "street number": 27,
+        "postal code": "0450 29"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 48075506",
+    "email_address": "yara.kuipers@kpnmail.nl"
+}

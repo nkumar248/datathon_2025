@@ -1,0 +1,76 @@
+{
+    "name": "Lang Fuchs Müller",
+    "address": {
+        "city": "Wels",
+        "street name": "Reichsbrücke",
+        "street number": 1,
+        "postal code": "9905"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1987-06-13",
+    "nationality": "Austrian",
+    "passport_number": "FU5766923",
+    "passport_issue_date": "2021-08-09",
+    "passport_expiry_date": "2031-08-08",
+    "gender": "M",
+    "phone_number": "+43 347 753 4528",
+    "email_address": "lang.muller@aon.at",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Walser Gymnasium",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "IMC University of Applied Sciences Krems",
+            "graduation_year": 2011
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2011,
+            "end_year": 2012,
+            "company": "Equity Partners Investment GmbH",
+            "position": "Analyst",
+            "salary": 35000
+        },
+        {
+            "start_year": 2012,
+            "end_year": null,
+            "company": "B&C Private Equity GmbH",
+            "position": "Associate",
+            "salary": 100000
+        }
+    ],
+    "aum": {
+        "savings": 120000,
+        "inheritance": 5160000,
+        "real_estate_value": 1859000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 979000,
+            "property location": "Wels"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 880000,
+            "property location": "Bruck an der Mur"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

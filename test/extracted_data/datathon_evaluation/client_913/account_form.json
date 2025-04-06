@@ -1,0 +1,17 @@
+{
+    "name": "Katrine Andrea Bjerregaard",
+    "first_name": "Katrine",
+    "middle_name": "Andrea",
+    "last_name": "Bjerregaard",
+    "passport_number": "AZ8361203",
+    "currency": "DKK",
+    "address": {
+        "city": "Frederiksberg",
+        "street name": "Vendersgade",
+        "street number": 93,
+        "postal code": "4659"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "75 32 25 61",
+    "email_address": "katrine.bjerregaard@webspace.dk"
+}

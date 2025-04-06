@@ -1,0 +1,17 @@
+{
+    "first_name": "Andersen",
+    "middle_name": "",
+    "last_name": "Friis",
+    "gender": "M",
+    "country": "Denmark",
+    "country_code": "DNK",
+    "nationality": "Danish",
+    "birth_date": "1976-02-05",
+    "passport_number": "QN0187494",
+    "passport_mrz": [
+        "P<DNKFRIIS<<ANDERSEN<<<<<<<<<<<<<<<<<<<<<<<<<",
+        "QN0187494DNK760205<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-03-02",
+    "passport_expiry_date": "2034-03-01"
+}

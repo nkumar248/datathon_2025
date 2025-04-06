@@ -1,0 +1,17 @@
+{
+    "name": "Federica Emanuela Livi",
+    "first_name": "Federica",
+    "middle_name": "Emanuela",
+    "last_name": "Livi",
+    "passport_number": "BT8647476",
+    "currency": "EUR",
+    "address": {
+        "city": "Lokeren",
+        "street name": "Place Saint-Géry",
+        "street number": 62,
+        "postal code": "9815"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0470 874 277",
+    "email_address": "federica.livi@belgacom.be"
+}

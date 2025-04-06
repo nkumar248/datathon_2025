@@ -1,0 +1,85 @@
+{
+    "name": "Helga Katharina Richter",
+    "address": {
+        "city": "Stuttgart",
+        "street name": "Leipziger Straße",
+        "street number": 50,
+        "postal code": "08429"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1967-10-12",
+    "nationality": "German",
+    "passport_number": "KR4293281",
+    "passport_issue_date": "2017-10-17",
+    "passport_expiry_date": "2027-10-16",
+    "gender": "F",
+    "phone_number": "+49 3449 504658",
+    "email_address": "helga.richter@t-online.de",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Bismarck-Gymnasium Karlsruhe",
+        "graduation_year": 1985
+    },
+    "higher_education": [
+        {
+            "university": "Weingarten University of Education",
+            "graduation_year": 1990
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1992,
+            "end_year": 1997,
+            "company": "Deutsche Bank AG",
+            "position": "Family Office Manager",
+            "salary": 39000
+        },
+        {
+            "start_year": 1998,
+            "end_year": 1999,
+            "company": "Berliner Sparkasse",
+            "position": "Investment Director",
+            "salary": 67000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2002,
+            "company": "Dresdner Bank AG",
+            "position": "CFO",
+            "salary": 92000
+        },
+        {
+            "start_year": 2003,
+            "end_year": null,
+            "company": "Berliner Sparkasse",
+            "position": "COO",
+            "salary": 779000
+        }
+    ],
+    "aum": {
+        "savings": 1250000,
+        "inheritance": 5530000,
+        "real_estate_value": 870000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2008,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 870000,
+            "property location": "Stuttgart"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

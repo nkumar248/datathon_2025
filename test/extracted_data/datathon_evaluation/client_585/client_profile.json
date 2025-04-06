@@ -1,0 +1,57 @@
+{
+    "name": "Pérez García Jiménez",
+    "address": {
+        "city": "Málaga",
+        "street name": "Plaza de la Sal",
+        "street number": 45,
+        "postal code": "82366"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1998-09-06",
+    "nationality": "Spanish",
+    "passport_number": "BT0430942",
+    "passport_issue_date": "2020-04-25",
+    "passport_expiry_date": "2025-04-24",
+    "gender": "M",
+    "phone_number": "+34 607 846 954",
+    "email_address": "perez.jimenez@terra.es",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "IES José Manuel Blecua Pamplona",
+        "graduation_year": 2017
+    },
+    "higher_education": [
+        {
+            "university": "Pompeu Fabra University",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2022,
+            "end_year": 2024,
+            "company": "Banco Santander S.A.",
+            "position": "Financial Advisor",
+            "salary": 23000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 1120000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

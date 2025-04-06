@@ -1,0 +1,17 @@
+{
+    "name": "Aurora Anniina Mäkinen",
+    "first_name": "Aurora",
+    "middle_name": "Anniina",
+    "last_name": "Mäkinen",
+    "passport_number": "ZW2553441",
+    "currency": "EUR",
+    "address": {
+        "city": "Kotka",
+        "street name": "Ratapihantie",
+        "street number": 14,
+        "postal code": "73309"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 041 520 79 94",
+    "email_address": "aurora.makinen@telia.fi"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Dominique Anna Hagenbuch",
+    "first_name": "Dominique",
+    "middle_name": "Anna",
+    "last_name": "Hagenbuch",
+    "passport_number": "KU2387160",
+    "currency": "CHF",
+    "address": {
+        "city": "Bern",
+        "street name": "Spalenberg",
+        "street number": 84,
+        "postal code": "5321"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 057 899 07 48",
+    "email_address": "dominique.hagenbuch@gmail.com"
+}

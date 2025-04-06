@@ -1,0 +1,76 @@
+{
+    "name": "Giulia Daniela Bianchi",
+    "address": {
+        "city": "Perugia",
+        "street name": "Piazza Castello",
+        "street number": 83,
+        "postal code": "43079"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1961-08-17",
+    "nationality": "Italian",
+    "passport_number": "OL1802814",
+    "passport_issue_date": "2018-11-24",
+    "passport_expiry_date": "2028-11-23",
+    "gender": "F",
+    "phone_number": "+39 370 4920799",
+    "email_address": "giulia.bianchi@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Istituto Tecnico Agrario Statale Francesco De Sanctis Foggia",
+        "graduation_year": 1979
+    },
+    "higher_education": [
+        {
+            "university": "European University of Rome",
+            "graduation_year": 1984
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1985,
+            "end_year": 1988,
+            "company": "Studio Legale Associato",
+            "position": "Associate Attorney",
+            "salary": 29000
+        },
+        {
+            "start_year": 1988,
+            "end_year": 2022,
+            "company": "Chiomenti Studio Legale",
+            "position": "Senior Associate",
+            "salary": 261000
+        }
+    ],
+    "aum": {
+        "savings": 570000,
+        "inheritance": 0,
+        "real_estate_value": 3360000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1340000,
+            "property location": "Perugia"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1010000,
+            "property location": "Venice"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1010000,
+            "property location": "Trieste"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

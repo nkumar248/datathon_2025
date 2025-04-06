@@ -1,0 +1,17 @@
+{
+    "first_name": "Louis",
+    "middle_name": "Lefebvre",
+    "last_name": "Gauthier",
+    "gender": "M",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1966-07-16",
+    "passport_number": "NN3821400",
+    "passport_mrz": [
+        "P<FRGAUTHIER<<LOUIS<LEFEBVRE<<<<<<<<<<<<<<<<<",
+        "NN3821400FR660716<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-12-21",
+    "passport_expiry_date": "2033-12-20"
+}

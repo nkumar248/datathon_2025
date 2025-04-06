@@ -1,0 +1,74 @@
+{
+    "name": "Ferrari Fantini Malatesta",
+    "address": {
+        "city": "Siena",
+        "street name": "Via XX Settembre",
+        "street number": 100,
+        "postal code": "36247"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1993-10-26",
+    "nationality": "Italian",
+    "passport_number": "GR2930949",
+    "passport_issue_date": "2020-06-30",
+    "passport_expiry_date": "2030-06-29",
+    "gender": "M",
+    "phone_number": "+39 322 9185704",
+    "email_address": "ferrari.malatesta@icloud.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Liceo Musicale Ottorino Respighi Bologna",
+        "graduation_year": 2013
+    },
+    "higher_education": [
+        {
+            "university": "University of Turin",
+            "graduation_year": 2016
+        },
+        {
+            "university": "Superior School of Advanced Studies of Pisa",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2017,
+            "end_year": 2018,
+            "company": "Studio Legale Associato",
+            "position": "Associate Attorney",
+            "salary": 27000
+        },
+        {
+            "start_year": 2020,
+            "end_year": null,
+            "company": "Gianni, Origoni, Grippo, Cappelli & Partners",
+            "position": "Senior Associate",
+            "salary": 44000
+        }
+    ],
+    "aum": {
+        "savings": 40000,
+        "inheritance": 5850000,
+        "real_estate_value": 790000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 790000,
+            "property location": "Siena"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

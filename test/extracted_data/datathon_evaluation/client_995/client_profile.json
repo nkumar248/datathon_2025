@@ -1,0 +1,74 @@
+{
+    "name": "Willems Snijders Vogel",
+    "address": {
+        "city": "Tilburg",
+        "street name": "Zuidas",
+        "street number": 75,
+        "postal code": "3468 56"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1980-02-25",
+    "nationality": "Dutch",
+    "passport_number": "DV7012152",
+    "passport_issue_date": "2019-01-02",
+    "passport_expiry_date": "2029-01-01",
+    "gender": "M",
+    "phone_number": "+31 06 47766528",
+    "email_address": "willems.vogel@tele2.nl",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "St. Willibrorduscollege Deurne",
+        "graduation_year": 1998
+    },
+    "higher_education": [
+        {
+            "university": "Leiden University",
+            "graduation_year": 2004
+        },
+        {
+            "university": "NWO - Netherlands Organisation for Scientific Research",
+            "graduation_year": 2007
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2004,
+            "end_year": 2005,
+            "company": "AkzoNobel N.V.",
+            "position": "Plant Manager",
+            "salary": 45000
+        },
+        {
+            "start_year": 2005,
+            "end_year": null,
+            "company": "Royal Dutch Shell plc",
+            "position": "Operations Director",
+            "salary": 181000
+        }
+    ],
+    "aum": {
+        "savings": 270000,
+        "inheritance": 1670000,
+        "real_estate_value": 1010000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2006,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1010000,
+            "property location": "Tilburg"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,70 @@
+{
+    "name": "Peltola Paananen",
+    "address": {
+        "city": "Rauma",
+        "street name": "Ruoholahteenkatu",
+        "street number": 45,
+        "postal code": "60517"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1988-12-26",
+    "nationality": "Finnish",
+    "passport_number": "DT1658591",
+    "passport_issue_date": "2023-04-20",
+    "passport_expiry_date": "2033-04-19",
+    "gender": "M",
+    "phone_number": "+358 043 677 26 77",
+    "email_address": "peltola.paananen@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Parikkalan lukio",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "University of Helsinki",
+            "graduation_year": 2013
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2012,
+            "end_year": 2014,
+            "company": "Citycon Oyj",
+            "position": "Property Manager",
+            "salary": 38000
+        },
+        {
+            "start_year": 2013,
+            "end_year": null,
+            "company": "Technopolis Plc",
+            "position": "Developer",
+            "salary": 83000
+        }
+    ],
+    "aum": {
+        "savings": 100000,
+        "inheritance": 8100000,
+        "real_estate_value": 610000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 610000,
+            "property location": "Rauma"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

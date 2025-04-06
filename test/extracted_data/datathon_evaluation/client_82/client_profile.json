@@ -1,0 +1,74 @@
+{
+    "name": "Andrea Huber",
+    "address": {
+        "city": "Baden",
+        "street name": "Petersplatz",
+        "street number": 56,
+        "postal code": "2925"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1995-02-23",
+    "nationality": "Swiss",
+    "passport_number": "KS5818114",
+    "passport_issue_date": "2019-01-22",
+    "passport_expiry_date": "2029-01-21",
+    "gender": "F",
+    "phone_number": "+41 046 364 80 81",
+    "email_address": "andrea.huber@hotmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Gymnase Augustinien Fribourg",
+        "graduation_year": 2013
+    },
+    "higher_education": [
+        {
+            "university": "IMD Business School",
+            "graduation_year": 2018
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "Credit Suisse AG",
+            "position": "Family Office Manager",
+            "salary": 72000
+        }
+    ],
+    "aum": {
+        "savings": 60000,
+        "inheritance": 200000,
+        "real_estate_value": 10580000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 2180000,
+            "property location": "Baden"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 3230000,
+            "property location": "Herisau"
+        },
+        {
+            "property type": "villa",
+            "property value": 5170000,
+            "property location": "Olten"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Netherlands"
+    ],
+    "currency": "CHF"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Bertrand Legrand Thomas",
+    "first_name": "Bertrand",
+    "middle_name": "Legrand",
+    "last_name": "Thomas",
+    "passport_number": "WY4351095",
+    "currency": "EUR",
+    "address": {
+        "city": "Saint-Denis",
+        "street name": "Avenue Victor Hugo",
+        "street number": 62,
+        "postal code": "75891"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 05 57 49 11 61",
+    "email_address": "bertrand.thomas@icloud.com"
+}

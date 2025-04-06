@@ -1,0 +1,17 @@
+{
+    "name": "Belli Ricci Martini",
+    "first_name": "Belli",
+    "middle_name": "Ricci",
+    "last_name": "Martini",
+    "passport_number": "CG2336725",
+    "currency": "EUR",
+    "address": {
+        "city": "Florence",
+        "street name": "Via Ugo Bassi",
+        "street number": 18,
+        "postal code": "85574"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 366 4371776",
+    "email_address": "belli.martini@fastweb.it"
+}

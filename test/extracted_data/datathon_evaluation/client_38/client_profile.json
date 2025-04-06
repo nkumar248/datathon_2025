@@ -1,0 +1,84 @@
+{
+    "name": "Binder Wagner Schwarz",
+    "address": {
+        "city": "Graz",
+        "street name": "Westbahnstraße",
+        "street number": 31,
+        "postal code": "1155"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1958-05-10",
+    "nationality": "Austrian",
+    "passport_number": "XP3536027",
+    "passport_issue_date": "2022-01-23",
+    "passport_expiry_date": "2032-01-22",
+    "gender": "M",
+    "phone_number": "+43 381 184 1929",
+    "email_address": "binder.schwarz@telekom.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "HAK/HAS Grödig",
+        "graduation_year": 1977
+    },
+    "higher_education": [
+        {
+            "university": "University of Innsbruck",
+            "graduation_year": 1982
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1982,
+            "end_year": 1987,
+            "company": "Austrian Energy Agency",
+            "position": "Drilling Engineer",
+            "salary": 36000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 1991,
+            "company": "Austrian Energy Agency",
+            "position": "Reservoir Engineer",
+            "salary": 52000
+        },
+        {
+            "start_year": 1992,
+            "end_year": 2019,
+            "company": "Austrian Energy Agency",
+            "position": "Operations Manager",
+            "salary": 508000
+        }
+    ],
+    "aum": {
+        "savings": 1020000,
+        "inheritance": 0,
+        "real_estate_value": 5051000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 1621000,
+            "property location": "Graz"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1130000,
+            "property location": "Mödling"
+        },
+        {
+            "property type": "villa",
+            "property value": 2300000,
+            "property location": "Innsbruck"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

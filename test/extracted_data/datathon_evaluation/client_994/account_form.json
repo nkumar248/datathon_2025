@@ -1,0 +1,17 @@
+{
+    "name": "Schwarz Schneider Graf",
+    "first_name": "Schwarz",
+    "middle_name": "Schneider",
+    "last_name": "Graf",
+    "passport_number": "NJ4065486",
+    "currency": "EUR",
+    "address": {
+        "city": "Krems an der Donau",
+        "street name": "Donaustraße",
+        "street number": 88,
+        "postal code": "2848"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "530 909 2196",
+    "email_address": "schwarz.graf@aon.at"
+}

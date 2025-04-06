@@ -1,0 +1,81 @@
+{
+    "name": "Madsen Bjerregaard Pedersen",
+    "address": {
+        "city": "Frederiksberg",
+        "street name": "Nørrebrogade",
+        "street number": 4,
+        "postal code": "7032"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1957-04-26",
+    "nationality": "Danish",
+    "passport_number": "ZV9148670",
+    "passport_issue_date": "2020-02-21",
+    "passport_expiry_date": "2030-02-20",
+    "gender": "M",
+    "phone_number": "+45 38 60 08 80",
+    "email_address": "madsen.pedersen@webspace.dk",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Tønder Gymnasium",
+        "graduation_year": 1967
+    },
+    "higher_education": [
+        {
+            "university": "Copenhagen Business School",
+            "graduation_year": 1981
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1982,
+            "end_year": 1983,
+            "company": " Marriott International Danmark A/S",
+            "position": "Hotel Manager",
+            "salary": 297000
+        },
+        {
+            "start_year": 1983,
+            "end_year": 1984,
+            "company": " Marriott International Danmark A/S",
+            "position": "General Manager",
+            "salary": 429000
+        },
+        {
+            "start_year": 1984,
+            "end_year": 1985,
+            "company": "Radisson Hotel Group Danmark A/S",
+            "position": "Regional Vice President",
+            "salary": 583000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 1990,
+            "company": "Choice Hotels Danmark A/S",
+            "position": "CEO",
+            "salary": 848000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 2018,
+            "company": "Choice Hotels Danmark A/S",
+            "position": "Hospitality Industry Leader",
+            "salary": 9941000
+        }
+    ],
+    "aum": {
+        "savings": 18290000,
+        "inheritance": 0,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {},
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

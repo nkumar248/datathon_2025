@@ -1,0 +1,17 @@
+{
+    "first_name": "Fuchs",
+    "middle_name": "Rieder",
+    "last_name": "Reiter",
+    "gender": "M",
+    "country": "Austria",
+    "country_code": "AUT",
+    "nationality": "Austrian",
+    "birth_date": "1988-02-24",
+    "passport_number": "BW6971467",
+    "passport_mrz": [
+        "P<AUTREITER<<FUCHS<RIEDER<<<<<<<<<<<<<<<<<<<<",
+        "BW6971467AUT880224<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-11-23",
+    "passport_expiry_date": "2032-11-22"
+}

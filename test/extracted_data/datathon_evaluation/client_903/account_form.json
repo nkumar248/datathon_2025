@@ -1,0 +1,17 @@
+{
+    "name": "Furrer Schneider Frey",
+    "first_name": "Furrer",
+    "middle_name": "Schneider",
+    "last_name": "Frey",
+    "passport_number": "GQ8785880",
+    "currency": "CHF",
+    "address": {
+        "city": "Bern",
+        "street name": "Steinstrasse",
+        "street number": 48,
+        "postal code": "6120"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "066 255 71 64",
+    "email_address": "furrer.frey@lycos.ch"
+}

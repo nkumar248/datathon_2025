@@ -1,0 +1,17 @@
+{
+    "name": "Catalina Clara Ruiz",
+    "first_name": "Catalina",
+    "middle_name": "Clara",
+    "last_name": "Ruiz",
+    "passport_number": "WN3490620",
+    "currency": "EUR",
+    "address": {
+        "city": "Almería",
+        "street name": "Calle de la Reina Cristina",
+        "street number": 52,
+        "postal code": "30370"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 686 280 099",
+    "email_address": "catalina.ruiz@terra.es"
+}

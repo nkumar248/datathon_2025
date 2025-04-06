@@ -1,0 +1,17 @@
+{
+    "name": "Roose Michiels Janssens",
+    "first_name": "Roose",
+    "middle_name": "Michiels",
+    "last_name": "Janssens",
+    "passport_number": "SQ1233068",
+    "currency": "EUR",
+    "address": {
+        "city": "La Louvière",
+        "street name": "Avenue de la Toison d'Or",
+        "street number": 53,
+        "postal code": "2897"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "++49 0486 406 960",
+    "email_address": "roose.janssens@voo.be"
+}

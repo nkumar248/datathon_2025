@@ -1,0 +1,17 @@
+{
+    "first_name": "Muñoz",
+    "middle_name": "Romero",
+    "last_name": "Díaz",
+    "gender": "M",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "1966-04-14",
+    "passport_number": "EY1727583",
+    "passport_mrz": [
+        "P<ESPDÍAZ<<MUÑOZ<<<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+        "EY1727583ESP660414<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-07-04",
+    "passport_expiry_date": "2033-07-03"
+}

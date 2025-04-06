@@ -1,0 +1,17 @@
+{
+    "name": "Weber Koch Herrmann",
+    "first_name": "Weber",
+    "middle_name": "Koch",
+    "last_name": "Herrmann",
+    "passport_number": "BQ5269182",
+    "currency": "EUR",
+    "address": {
+        "city": "Erlangen",
+        "street name": "Johannisstraße",
+        "street number": 59,
+        "postal code": "95099"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 5320 987992",
+    "email_address": "weber.herrmann@t-online.de"
+}

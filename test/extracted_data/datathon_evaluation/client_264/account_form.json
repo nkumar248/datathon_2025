@@ -1,0 +1,17 @@
+{
+    "name": "Schneider Müller",
+    "first_name": "Schneider",
+    "middle_name": "",
+    "last_name": "Müller",
+    "passport_number": "KX8958069",
+    "currency": "EUR",
+    "address": {
+        "city": "Traun",
+        "street name": "Kaiserebersdorf",
+        "street number": 23,
+        "postal code": "4402"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 460 552 8218",
+    "email_address": "schneider.muller@magenta.at"
+}

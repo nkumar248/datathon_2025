@@ -1,0 +1,81 @@
+{
+    "name": "Nørregaard Pedersen Friis",
+    "address": {
+        "city": "Esbjerg Ø",
+        "street name": "Kattesundet",
+        "street number": 32,
+        "postal code": "6668"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1989-04-26",
+    "nationality": "Danish",
+    "passport_number": "CW9098698",
+    "passport_issue_date": "2023-11-25",
+    "passport_expiry_date": "2033-11-24",
+    "gender": "M",
+    "phone_number": "79 76 17 08",
+    "email_address": "nrregaard.friis@dk-hostmaster.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Struer Statsgymnasium",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "Aarhus University",
+            "graduation_year": 2012
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2014,
+            "end_year": 2015,
+            "company": "Spectronic A/S",
+            "position": "Aerospace Engineer",
+            "salary": 248000
+        },
+        {
+            "start_year": 2017,
+            "end_year": null,
+            "company": "Terma A/S",
+            "position": "Program Manager",
+            "salary": 513000
+        }
+    ],
+    "aum": {
+        "savings": 580000,
+        "inheritance": 4270000,
+        "real_estate_value": 3826000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1223000,
+            "property location": "Esbjerg Ø"
+        },
+        {
+            "property type": "house",
+            "property value": 1693000,
+            "property location": "Varde"
+        },
+        {
+            "property type": "flat",
+            "property value": 910000,
+            "property location": "Silkeborg"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Netherlands"
+    ],
+    "currency": "DKK"
+}

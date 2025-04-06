@@ -1,0 +1,91 @@
+{
+    "name": "Giorgia Elisabetta Rossi",
+    "address": {
+        "city": "Milan",
+        "street name": "Via del Corso",
+        "street number": 61,
+        "postal code": "10193"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1984-02-13",
+    "nationality": "Italian",
+    "passport_number": "MR9342981",
+    "passport_issue_date": "2016-05-02",
+    "passport_expiry_date": "2026-05-01",
+    "gender": "F",
+    "phone_number": "+39 337 3458803",
+    "email_address": "giorgia.rossi@outlook.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Liceo Musicale Arrigo Boito Parma",
+        "graduation_year": 2002
+    },
+    "higher_education": [
+        {
+            "university": "IMT Institute for Advanced Studies Lucca",
+            "graduation_year": 2007
+        },
+        {
+            "university": "University of Naples Federico II",
+            "graduation_year": 2011
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2007,
+            "end_year": 2009,
+            "company": "Intesa Sanpaolo S.p.A.",
+            "position": "Investment Banker",
+            "salary": 24000
+        },
+        {
+            "start_year": 2011,
+            "end_year": 2015,
+            "company": "Banca Monte dei Paschi di Siena S.p.A.",
+            "position": "Private Equity Investor",
+            "salary": 40000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "UniCredit S.p.A.",
+            "position": "Hedge Fund Manager",
+            "salary": 125000
+        }
+    ],
+    "aum": {
+        "savings": 160000,
+        "inheritance": 2140000,
+        "real_estate_value": 6430000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2014,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1054000,
+            "property location": "Milan"
+        },
+        {
+            "property type": "villa",
+            "property value": 2610000,
+            "property location": "Florence"
+        },
+        {
+            "property type": "villa",
+            "property value": 2766000,
+            "property location": "Modena"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

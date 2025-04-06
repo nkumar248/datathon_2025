@@ -1,0 +1,79 @@
+{
+    "name": "Furrer Jost Suter",
+    "address": {
+        "city": "Mödling",
+        "street name": "Gasometerstraße",
+        "street number": 80,
+        "postal code": "8863"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1970-10-15",
+    "nationality": "Swiss",
+    "passport_number": "EE5407505",
+    "passport_issue_date": "2021-09-14",
+    "passport_expiry_date": "2031-09-13",
+    "gender": "M",
+    "phone_number": "115 050 4130",
+    "email_address": "furrer.suter@yahoo.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Gymnasium Stadelhofen Luzern",
+        "graduation_year": 1989
+    },
+    "higher_education": [
+        {
+            "university": "Lausanne Hospitality School",
+            "graduation_year": 1979
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1995,
+            "end_year": 1997,
+            "company": "CA Immo",
+            "position": "Stockbroker",
+            "salary": 64000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2000,
+            "company": "Immofinanz AG",
+            "position": "Portfolio Manager",
+            "salary": 98000
+        },
+        {
+            "start_year": 2001,
+            "end_year": null,
+            "company": "Conwert Immobilien Invest AG",
+            "position": "Hedge Fund Manager",
+            "salary": 920000
+        }
+    ],
+    "aum": {
+        "savings": 1440000,
+        "inheritance": 3630000,
+        "real_estate_value": 1170000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2006,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1170000,
+            "property location": "Mödling"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "France",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

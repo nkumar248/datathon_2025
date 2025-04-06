@@ -1,0 +1,17 @@
+{
+    "name": "Schmidt Fischer Maier",
+    "first_name": "Schmidt",
+    "middle_name": "Fischer",
+    "last_name": "Maier",
+    "passport_number": "HX3577067",
+    "currency": "EUR",
+    "address": {
+        "city": "Kitzbühel",
+        "street name": "Blutgasse",
+        "street number": 28,
+        "postal code": "1579"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 979 522 4860",
+    "email_address": "schmidt.maier@chello.at"
+}

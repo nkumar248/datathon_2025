@@ -1,0 +1,83 @@
+{
+    "name": "Egli Kaufmann Lehmann",
+    "address": {
+        "city": "Schaffhausen",
+        "street name": "Rue de l'Athénée",
+        "street number": 16,
+        "postal code": "5060"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1958-11-23",
+    "nationality": "Swiss",
+    "passport_number": "EL0537221",
+    "passport_issue_date": "2017-04-07",
+    "passport_expiry_date": "2027-04-06",
+    "gender": "M",
+    "phone_number": "+41 083 198 70 097",
+    "email_address": "egli.lehmann@swisscom.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Kantonsschule Baden Baden",
+        "graduation_year": 1977
+    },
+    "higher_education": [
+        {
+            "university": "University of Fribourg",
+            "graduation_year": 1981
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1983,
+            "end_year": 1987,
+            "company": "Johnson & Johnson Switzerland",
+            "position": "Research Scientist",
+            "salary": 67000
+        },
+        {
+            "start_year": 1985,
+            "end_year": 1990,
+            "company": "Johnson & Johnson Switzerland",
+            "position": "Clinical Trials Manager",
+            "salary": 87000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 2019,
+            "company": "Novartis AG",
+            "position": "Regulatory Affairs Director",
+            "salary": 769000
+        }
+    ],
+    "aum": {
+        "savings": 1560000,
+        "inheritance": 0,
+        "real_estate_value": 12380000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 4110000,
+            "property location": "Schaffhausen"
+        },
+        {
+            "property type": "villa",
+            "property value": 5460000,
+            "property location": "Baden"
+        },
+        {
+            "property type": "condo",
+            "property value": 2810000,
+            "property location": "Lausanne"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

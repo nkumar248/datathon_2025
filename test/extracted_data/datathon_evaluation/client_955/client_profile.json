@@ -1,0 +1,90 @@
+{
+    "name": "Bruno Belli Esposito",
+    "address": {
+        "city": "Modena",
+        "street name": "Via Dora Riparia",
+        "street number": 33,
+        "postal code": "55345"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1965-04-13",
+    "nationality": "Italian",
+    "passport_number": "AV6042503",
+    "passport_issue_date": "2024-12-26",
+    "passport_expiry_date": "2044-12-25",
+    "gender": "M",
+    "phone_number": "+39 364 5744157",
+    "email_address": "bruno.esposito@hotmail.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Liceo Musicale Ottorino Respighi Bologna",
+        "graduation_year": 1985
+    },
+    "higher_education": [
+        {
+            "university": "Academy of Fine Arts of Rome",
+            "graduation_year": 1989
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1971,
+            "end_year": 1994,
+            "company": "Giorgio Armani S.p.A.",
+            "position": "Assistant Designer",
+            "salary": 39000
+        },
+        {
+            "start_year": 1994,
+            "end_year": 1999,
+            "company": "Prada S.p.A.",
+            "position": "Senior Designer",
+            "salary": 45000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2003,
+            "company": "Versace S.p.A.",
+            "position": "Creative Director",
+            "salary": 61000
+        },
+        {
+            "start_year": 2004,
+            "end_year": null,
+            "company": "Gucci S.p.A.",
+            "position": "Founder/Designer",
+            "salary": 649000
+        }
+    ],
+    "aum": {
+        "savings": 1250000,
+        "inheritance": 470000,
+        "real_estate_value": 3350000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2015,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 1970000,
+            "property location": "Modena"
+        },
+        {
+            "property type": "house",
+            "property value": 1380000,
+            "property location": "Turin"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "France"
+    ],
+    "currency": "EUR"
+}

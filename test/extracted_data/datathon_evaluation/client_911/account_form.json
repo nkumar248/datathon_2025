@@ -1,0 +1,17 @@
+{
+    "name": "Sofia Gitte Sørensen",
+    "first_name": "Sofia",
+    "middle_name": "Gitte",
+    "last_name": "Sørensen",
+    "passport_number": "TJ5688546",
+    "currency": "DKK",
+    "address": {
+        "city": "Næstved",
+        "street name": "Østerbrogade",
+        "street number": 65,
+        "postal code": "5792"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "64 25 69 17",
+    "email_address": "sofia.srensen@icloud.com"
+}

@@ -1,0 +1,90 @@
+{
+    "name": "Elisabeth Lea Gmür",
+    "address": {
+        "city": "Aarau",
+        "street name": "Place de la Navigation",
+        "street number": 9,
+        "postal code": "5467"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1965-03-27",
+    "nationality": "Swiss",
+    "passport_number": "EE4289662",
+    "passport_issue_date": "2023-03-22",
+    "passport_expiry_date": "2033-03-21",
+    "gender": "F",
+    "phone_number": "+41 085 103 85 06",
+    "email_address": "elisabeth.gmur@lycos.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Wirtschaftsgymnasium Basel Basel",
+        "graduation_year": 1984
+    },
+    "higher_education": [
+        {
+            "university": "University of Geneva",
+            "graduation_year": 1987
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1988,
+            "end_year": 1991,
+            "company": "Homburger AG",
+            "position": "Associate Attorney",
+            "salary": 59000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 1995,
+            "company": "Schellenberg Wittmer Ltd.",
+            "position": "Senior Associate",
+            "salary": 93000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 1998,
+            "company": "Niederer Kraft Frey AG",
+            "position": "Partner",
+            "salary": 136000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2025,
+            "company": "Bär & Karrer AG",
+            "position": "Managing Partner",
+            "salary": 1859000
+        }
+    ],
+    "aum": {
+        "savings": 3210000,
+        "inheritance": 1700000,
+        "real_estate_value": 4660000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2008,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 2450000,
+            "property location": "Aarau"
+        },
+        {
+            "property type": "condo",
+            "property value": 2210000,
+            "property location": "Winterthur"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Spain"
+    ],
+    "currency": "CHF"
+}

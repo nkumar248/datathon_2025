@@ -1,0 +1,17 @@
+{
+    "first_name": "Durand",
+    "middle_name": "Moreau",
+    "last_name": "Bertrand",
+    "gender": "M",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1961-01-25",
+    "passport_number": "YW0131669",
+    "passport_mrz": [
+        "P<FRABERTRAND<<DURAND<MOREAU<<<<<<<<<<<<<<<<<",
+        "YW0131669FRA610125<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2021-01-05",
+    "passport_expiry_date": "2031-01-04"
+}

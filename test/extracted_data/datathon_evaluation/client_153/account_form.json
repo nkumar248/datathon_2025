@@ -1,0 +1,17 @@
+{
+    "name": "Anna Miriam Wagner",
+    "first_name": "Anna",
+    "middle_name": "Miriam",
+    "last_name": "Wagner",
+    "passport_number": "LM8901267",
+    "currency": "EUR",
+    "address": {
+        "city": "Villach",
+        "street name": "Rotenturmstraße",
+        "street number": 22,
+        "postal code": "6366"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 271 540 2366",
+    "email_address": "anna.wagner@yahoo.com"
+}

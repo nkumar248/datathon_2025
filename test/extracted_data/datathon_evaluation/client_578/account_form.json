@@ -1,0 +1,17 @@
+{
+    "name": "Fournier Gauthier Boucher",
+    "first_name": "Fournier",
+    "middle_name": "Gauthier",
+    "last_name": "Boucher",
+    "passport_number": "VU8419145",
+    "currency": "EUR",
+    "address": {
+        "city": "Mannheim",
+        "street name": "Holstenwall",
+        "street number": 60,
+        "postal code": "05793"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 5817 568112",
+    "email_address": "fournier.boucher@vodafone.de"
+}

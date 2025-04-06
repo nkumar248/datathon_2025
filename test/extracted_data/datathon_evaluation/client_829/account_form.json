@@ -1,0 +1,17 @@
+{
+    "name": "Roose Vandenberghe Peiren",
+    "first_name": "Roose",
+    "middle_name": "Vandenberghe",
+    "last_name": "Peiren",
+    "passport_number": "ZO4912449",
+    "currency": "EUR",
+    "address": {
+        "city": "Brussels",
+        "street name": "Rue des Sœurs Noires",
+        "street number": 88,
+        "postal code": "2449"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0475 789 040",
+    "email_address": "roose.peiren@proximus.be"
+}

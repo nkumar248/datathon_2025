@@ -6,7 +6,8 @@ def merge_jsonl_files(input_pattern, output_file):
     all_records = []
     
     # Read all JSONL files matching the pattern
-    for jsonl_file in glob.glob(input_pattern):
+    for idx, jsonl_file in enumerate(glob.glob(input_pattern)):
+        print(idx)
         with open(jsonl_file, 'r') as f:
             for line in f:
                 try:
@@ -65,6 +66,8 @@ def flatten_jsonl(input_file, output_file):
 
 if __name__ == "__main__":
     output_file = "test/merged_output_escaped.jsonl"
+    import os
+    print(os.listdir("test/processed_data_with_llm_augmentation/"))
     input_pattern = "test/processed_data_with_llm_augmentation/*.jsonl"  
     sorted_records = merge_jsonl_files(input_pattern, output_file)
     print(f"Merged files have been written to {output_file}")

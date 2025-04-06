@@ -1,0 +1,76 @@
+{
+    "name": "Peeters Goossens Mertens",
+    "address": {
+        "city": "Leuven",
+        "street name": "Rue Royale",
+        "street number": 36,
+        "postal code": "9065"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1976-10-26",
+    "nationality": "Belgian",
+    "passport_number": "IE8369643",
+    "passport_issue_date": "2020-07-16",
+    "passport_expiry_date": "2027-07-15",
+    "gender": "M",
+    "phone_number": "0487 939 577",
+    "email_address": "peeters.mertens@voo.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Institut Saint-Stanislas",
+        "graduation_year": 1985
+    },
+    "higher_education": [
+        {
+            "university": "Vlerick Business School",
+            "graduation_year": 2001
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2000,
+            "end_year": 2004,
+            "company": "ING Private Banking Belgium",
+            "position": "Financial Advisor",
+            "salary": 40000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2024,
+            "company": "Petercam SA",
+            "position": "Portfolio Manager",
+            "salary": 156000
+        }
+    ],
+    "aum": {
+        "savings": 290000,
+        "inheritance": 2310000,
+        "real_estate_value": 1928000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2012,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 958000,
+            "property location": "Leuven"
+        },
+        {
+            "property type": "condo",
+            "property value": 970000,
+            "property location": "Menen"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

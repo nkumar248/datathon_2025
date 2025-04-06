@@ -1,0 +1,17 @@
+{
+    "name": "Rossi Silvestri Donati",
+    "first_name": "Rossi",
+    "middle_name": "Silvestri",
+    "last_name": "Donati",
+    "passport_number": "CF8312708",
+    "currency": "EUR",
+    "address": {
+        "city": "Perugia",
+        "street name": "Via del Governo Vecchio",
+        "street number": 61,
+        "postal code": "18216"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "306 7122234",
+    "email_address": "rossi.donati@outlook.com"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Jørgensen Jespersen",
+    "first_name": "Jørgensen",
+    "middle_name": "",
+    "last_name": "Jespersen",
+    "passport_number": "PD6760030",
+    "currency": "DKK",
+    "address": {
+        "city": "Silkeborg",
+        "street name": "Vesterbrogade",
+        "street number": 24,
+        "postal code": "7196"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 84 91 40 12",
+    "email_address": "jrgensen.jespersen@all.dk"
+}

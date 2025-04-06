@@ -1,0 +1,17 @@
+{
+    "first_name": "Chiara",
+    "middle_name": "Evelyne",
+    "last_name": "Huber",
+    "gender": "F",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1976-11-09",
+    "passport_number": "WF0609852",
+    "passport_mrz": [
+        "P<CHEHUBER<<CHIARA<EVELYNE<<<<<<<<<<<<<<<<<<<",
+        "WF0609852CHE761109<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-02-19",
+    "passport_expiry_date": "2033-02-18"
+}

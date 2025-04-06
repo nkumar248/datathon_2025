@@ -1,0 +1,63 @@
+{
+    "name": "Kristensen Petersen Thomsen",
+    "address": {
+        "city": "Næstved",
+        "street name": "H.C. Andersens Boulevard",
+        "street number": 35,
+        "postal code": "8886"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1990-05-05",
+    "nationality": "Danish",
+    "passport_number": "QT8624520",
+    "passport_issue_date": "2017-07-30",
+    "passport_expiry_date": "2027-07-29",
+    "gender": "M",
+    "phone_number": "10 05 92 20",
+    "email_address": "kristensen.thomsen@all.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Svendborg Gymnasium",
+        "graduation_year": 2000
+    },
+    "higher_education": [
+        {
+            "university": "University of Copenhagen",
+            "graduation_year": 2014
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2015,
+            "end_year": null,
+            "company": "Nordea Private Banking Danmark",
+            "position": "Financial Advisor",
+            "salary": 318000
+        }
+    ],
+    "aum": {
+        "savings": 380000,
+        "inheritance": 18710000,
+        "real_estate_value": 1020000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1020000,
+            "property location": "Næstved"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

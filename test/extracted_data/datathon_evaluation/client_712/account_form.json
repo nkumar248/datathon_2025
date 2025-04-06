@@ -1,0 +1,17 @@
+{
+    "name": "Niemi Hiltunen Niskanen",
+    "first_name": "Niemi",
+    "middle_name": "Hiltunen",
+    "last_name": "Niskanen",
+    "passport_number": "HE8666849",
+    "currency": "EUR",
+    "address": {
+        "city": "Joensuu",
+        "street name": "Esplanadi",
+        "street number": 3,
+        "postal code": "45270"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "042 312 20 09",
+    "email_address": "nieminiskanen@suomi24fi"
+}

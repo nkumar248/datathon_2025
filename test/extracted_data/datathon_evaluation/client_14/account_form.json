@@ -1,0 +1,17 @@
+{
+    "name": "Giovanna Sofia Lombardi",
+    "first_name": "Giovanna",
+    "middle_name": "Sofia",
+    "last_name": "Lombardi",
+    "passport_number": "KA6352191",
+    "currency": "EUR",
+    "address": {
+        "city": "Vicenza",
+        "street name": "Piazza Maggiore",
+        "street number": 2,
+        "postal code": "28269"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 359 1920251",
+    "email_address": "giovanna.lombardi@icloud.com"
+}

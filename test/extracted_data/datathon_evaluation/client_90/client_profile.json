@@ -1,0 +1,93 @@
+{
+    "name": "Ilaria Chiara Donati",
+    "address": {
+        "city": "Modena",
+        "street name": "Via Po",
+        "street number": 14,
+        "postal code": "42785"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1960-05-11",
+    "nationality": "Italian",
+    "passport_number": "HF9142997",
+    "passport_issue_date": "2019-11-26",
+    "passport_expiry_date": "2029-11-25",
+    "gender": "F",
+    "phone_number": "352 4379247",
+    "email_address": "ilaria.donati@tin.it",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Istituto Magistrale Statale Maria Gaetana Agnesi Genova",
+        "graduation_year": 1978
+    },
+    "higher_education": [
+        {
+            "university": "Luiss Guido Carli",
+            "graduation_year": 1983
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1984,
+            "end_year": 1989,
+            "company": "ENI S.p.A.",
+            "position": "Drilling Engineer",
+            "salary": 31000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 1995,
+            "company": "ERGA S.p.A.",
+            "position": "Reservoir Engineer",
+            "salary": 36000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 1996,
+            "company": "ERGA S.p.A.",
+            "position": "Operations Manager",
+            "salary": 65000
+        },
+        {
+            "start_year": 1996,
+            "end_year": 1998,
+            "company": "Edison S.p.A.",
+            "position": "VP of Exploration",
+            "salary": 93000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2021,
+            "company": "SNAM S.p.A.",
+            "position": "CEO",
+            "salary": 895000
+        }
+    ],
+    "aum": {
+        "savings": 1490000,
+        "inheritance": 0,
+        "real_estate_value": 1830000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 626000,
+            "property location": "Modena"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1204000,
+            "property location": "Parma"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Italy"
+    ],
+    "currency": "EUR"
+}

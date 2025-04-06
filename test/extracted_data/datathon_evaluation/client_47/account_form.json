@@ -1,0 +1,17 @@
+{
+    "name": "Franziska Sophia Mayr",
+    "first_name": "Franziska",
+    "middle_name": "Sophia",
+    "last_name": "Mayr",
+    "passport_number": "TY1812000",
+    "currency": "EUR",
+    "address": {
+        "city": "Krems an der Donau",
+        "street name": "Enzersdorfer Straße",
+        "street number": 12,
+        "postal code": "5869"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "395 510 2698",
+    "email_address": "franziska.mayr@vol.at"
+}

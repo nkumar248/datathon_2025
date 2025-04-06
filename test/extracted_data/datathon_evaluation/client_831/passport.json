@@ -1,0 +1,17 @@
+{
+    "first_name": "Huber",
+    "middle_name": "Rieder",
+    "last_name": "Fuchs",
+    "gender": "M",
+    "country": "Austria",
+    "country_code": "AUT",
+    "nationality": "Austrian",
+    "birth_date": "1985-01-28",
+    "passport_number": "MR5873777",
+    "passport_mrz": [
+        "P<AUTFUCHS<<HUBER<RIEDER<<<<<<<<<<<<<<<<<<<<<",
+        "MR5873777AUT850128<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-01-06",
+    "passport_expiry_date": "2032-01-05"
+}

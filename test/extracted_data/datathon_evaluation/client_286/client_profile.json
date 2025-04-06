@@ -1,0 +1,45 @@
+{
+    "name": "Uusitalo Salminen Niskanen",
+    "address": {
+        "city": "Vaasa",
+        "street name": "Lönnrotinkatu",
+        "street number": 28,
+        "postal code": "88754"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "2003-09-20",
+    "nationality": "Finnish",
+    "passport_number": "CK7045871",
+    "passport_issue_date": "2024-01-13",
+    "passport_expiry_date": "2034-01-12",
+    "gender": "M",
+    "phone_number": "+358 045 801 77 76",
+    "email_address": "uusitalo.niskanen@saunalahti.fi",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Siuntion lukio",
+        "graduation_year": 2023
+    },
+    "higher_education": [],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 2610000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2019,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "Finland"
+    ],
+    "currency": "EUR"
+}

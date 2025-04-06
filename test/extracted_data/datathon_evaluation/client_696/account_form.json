@@ -1,0 +1,17 @@
+{
+    "name": "Ahonen Rissanen Lehtinen",
+    "first_name": "Ahonen",
+    "middle_name": "Rissanen",
+    "last_name": "Lehtinen",
+    "passport_number": "HT8289489",
+    "currency": "EUR",
+    "address": {
+        "city": "Lappeenranta",
+        "street name": "Kalliolanpuisto",
+        "street number": 38,
+        "postal code": "05284"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 041 781 64 04",
+    "email_address": "ahonen.lehtinen@telia.fi"
+}

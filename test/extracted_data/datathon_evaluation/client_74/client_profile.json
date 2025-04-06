@@ -1,0 +1,88 @@
+{
+    "name": "Hortense Van den Berghe",
+    "address": {
+        "city": "Antwerp",
+        "street name": "Place Saint-Géry",
+        "street number": 18,
+        "postal code": "9877"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1981-09-25",
+    "nationality": "Belgian",
+    "passport_number": "VN6783139",
+    "passport_issue_date": "2020-12-06",
+    "passport_expiry_date": "2027-12-05",
+    "gender": "F",
+    "phone_number": "+32 0437 734 127",
+    "email_address": "hortense.vandenberghe@telenet.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Atheneum Brugge Centrum",
+        "graduation_year": 1999
+    },
+    "higher_education": [
+        {
+            "university": "University of Mons",
+            "graduation_year": 2005
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2005,
+            "end_year": 2010,
+            "company": "GIMV NV",
+            "position": "Stockbroker",
+            "salary": 42000
+        },
+        {
+            "start_year": 2010,
+            "end_year": 2012,
+            "company": "PMV NV",
+            "position": "Portfolio Manager",
+            "salary": 56000
+        },
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "PMV NV",
+            "position": "Hedge Fund Manager",
+            "salary": 262000
+        }
+    ],
+    "aum": {
+        "savings": 330000,
+        "inheritance": 2710000,
+        "real_estate_value": 4060000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2007,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1233000,
+            "property location": "Antwerp"
+        },
+        {
+            "property type": "flat",
+            "property value": 1056000,
+            "property location": "Roeselare"
+        },
+        {
+            "property type": "villa",
+            "property value": 1771000,
+            "property location": "Poperinge"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

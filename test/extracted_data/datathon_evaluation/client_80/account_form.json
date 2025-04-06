@@ -1,0 +1,17 @@
+{
+    "name": "Andrea Encarna Jiménez",
+    "first_name": "Andrea",
+    "middle_name": "Encarna",
+    "last_name": "Jiménez",
+    "passport_number": "WC5861352",
+    "currency": "EUR",
+    "address": {
+        "city": "Joensuu",
+        "street name": "Mannerheimintie",
+        "street number": 38,
+        "postal code": "72309"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 044 475 32 85",
+    "email_address": "andrea.jimenez@surffi.net"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "Alice Hortense Sterckx",
+    "address": {
+        "city": "Geel",
+        "street name": "Boulevard Anspach",
+        "street number": 34,
+        "postal code": "6089"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "2000-01-11",
+    "nationality": "Belgian",
+    "passport_number": "WN1320889",
+    "passport_issue_date": "2024-08-26",
+    "passport_expiry_date": "2031-08-25",
+    "gender": "F",
+    "phone_number": "+32 0455 902 532",
+    "email_address": "alice.sterckx@proximus.be",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Koninklijk Atheneum Berchem",
+        "graduation_year": 2018
+    },
+    "higher_education": [
+        {
+            "university": "KaHo Sint-Lieven – Catholic University College Ghent",
+            "graduation_year": 2023
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2024,
+            "end_year": null,
+            "company": "Barco NV",
+            "position": "Software Developer",
+            "salary": 39000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 1660000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "",
+        "inheritance year": "",
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

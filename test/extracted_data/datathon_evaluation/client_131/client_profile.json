@@ -1,0 +1,92 @@
+{
+    "name": "Wagemakers Vogel Maassen",
+    "address": {
+        "city": "Assen",
+        "street name": "Torenstraat",
+        "street number": 78,
+        "postal code": "9971 27"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1978-01-02",
+    "nationality": "Dutch",
+    "passport_number": "XW5570843",
+    "passport_issue_date": "2023-11-20",
+    "passport_expiry_date": "2033-11-19",
+    "gender": "M",
+    "phone_number": "+31 06 29324982",
+    "email_address": "wagemakers.maassen@hetnet.nl",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Meerwaert College Weesp",
+        "graduation_year": 1996
+    },
+    "higher_education": [
+        {
+            "university": "University of Amsterdam",
+            "graduation_year": 2002
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2002,
+            "end_year": 2004,
+            "company": "Novartis Farma B.V.",
+            "position": "Research Scientist",
+            "salary": 45000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2005,
+            "company": "GlaxoSmithKline Nederland B.V.",
+            "position": "Clinical Trials Manager",
+            "salary": 62000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2007,
+            "company": "GlaxoSmithKline Nederland B.V.",
+            "position": "Regulatory Affairs Director",
+            "salary": 81000
+        },
+        {
+            "start_year": 2009,
+            "end_year": 2014,
+            "company": "Novartis Farma B.V.",
+            "position": "CEO",
+            "salary": 338000
+        },
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "GlaxoSmithKline Nederland B.V.",
+            "position": "Industry Leader",
+            "salary": 580000
+        }
+    ],
+    "aum": {
+        "savings": 1040000,
+        "inheritance": 2310000,
+        "real_estate_value": 1720000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2010,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1720000,
+            "property location": "Assen"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

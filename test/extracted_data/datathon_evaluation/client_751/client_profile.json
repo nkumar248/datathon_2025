@@ -1,0 +1,81 @@
+{
+    "name": "Robert Lemaître Martin",
+    "address": {
+        "city": "Hanover",
+        "street name": "Kudamm-Karree",
+        "street number": 98,
+        "postal code": "99425"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1975-06-11",
+    "nationality": "French",
+    "passport_number": "NB6386362",
+    "passport_issue_date": "2021-08-03",
+    "passport_expiry_date": "2031-08-02",
+    "gender": "M",
+    "phone_number": "+49 1739 720791",
+    "email_address": "robert.martin@o2online.de",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Gustave Eiffel",
+        "graduation_year": 1993
+    },
+    "higher_education": [
+        {
+            "university": "IUT de Rennes",
+            "graduation_year": 1999
+        },
+        {
+            "university": "University of Montpellier",
+            "graduation_year": 2004
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2000,
+            "end_year": 2001,
+            "company": "E.ON SE",
+            "position": "Drilling Engineer",
+            "salary": 29000
+        },
+        {
+            "start_year": 2002,
+            "end_year": 2007,
+            "company": "Uniper SE",
+            "position": "Reservoir Engineer",
+            "salary": 57000
+        },
+        {
+            "start_year": 2009,
+            "end_year": null,
+            "company": "Wintershall DEA GmbH",
+            "position": "Operations Manager",
+            "salary": 235000
+        }
+    ],
+    "aum": {
+        "savings": 390000,
+        "inheritance": 140000,
+        "real_estate_value": 1040000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2014,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1040000,
+            "property location": "Hanover"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Germany"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,83 @@
+{
+    "name": "Isabella Silvestri",
+    "address": {
+        "city": "Perugia",
+        "street name": "Via dei Fori Imperiali",
+        "street number": 60,
+        "postal code": "91378"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1963-01-30",
+    "nationality": "Italian",
+    "passport_number": "GB4449279",
+    "passport_issue_date": "2021-06-10",
+    "passport_expiry_date": "2031-06-09",
+    "gender": "F",
+    "phone_number": "+39 355 7944662",
+    "email_address": "isabella.silvestri@outlook.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Liceo Classico Giovanni Paolo II Catania",
+        "graduation_year": 1982
+    },
+    "higher_education": [
+        {
+            "university": "Normal Superior School of Pisa",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1987,
+            "end_year": 1989,
+            "company": "MSC Mediterranean Shipping Company S.A.",
+            "position": "Ship Broker",
+            "salary": 25000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 1994,
+            "company": "Grimaldi Group S.p.A.",
+            "position": "Shipping Company Owner",
+            "salary": 38000
+        },
+        {
+            "start_year": 1996,
+            "end_year": 2023,
+            "company": "MSC Mediterranean Shipping Company S.A.",
+            "position": "Fleet Manager",
+            "salary": 398000
+        }
+    ],
+    "aum": {
+        "savings": 760000,
+        "inheritance": 0,
+        "real_estate_value": 3640000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2220000,
+            "property location": "Perugia"
+        },
+        {
+            "property type": "condo",
+            "property value": 800000,
+            "property location": "Florence"
+        },
+        {
+            "property type": "flat",
+            "property value": 620000,
+            "property location": "Verona"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

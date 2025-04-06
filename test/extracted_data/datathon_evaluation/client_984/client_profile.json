@@ -1,0 +1,76 @@
+{
+    "name": "Rizzo Bruno",
+    "address": {
+        "city": "Pisa",
+        "street name": "Via XX Settembre",
+        "street number": 21,
+        "postal code": "67687"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1976-06-28",
+    "nationality": "Italian",
+    "passport_number": "JV9657789",
+    "passport_issue_date": "2015-07-16",
+    "passport_expiry_date": "2025-07-15",
+    "gender": "M",
+    "phone_number": "347 1015393",
+    "email_address": "rizzo.bruno@gmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Scuola Media Statale Antonio Meucci Firenze",
+        "graduation_year": 1995
+    },
+    "higher_education": [
+        {
+            "university": "Italian National Research Council (CNR)",
+            "graduation_year": 2000
+        },
+        {
+            "university": "Normal Superior School of Pisa",
+            "graduation_year": 2004
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2000,
+            "end_year": 2001,
+            "company": "Menarini Industrie Farmaceutiche Riunite S.r.l.",
+            "position": "Research Scientist",
+            "salary": 27000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2004,
+            "company": "Menarini Industrie Farmaceutiche Riunite S.r.l.",
+            "position": "Clinical Trials Manager",
+            "salary": 39000
+        },
+        {
+            "start_year": 2004,
+            "end_year": null,
+            "company": "Pfizer Italia S.r.l.",
+            "position": "Regulatory Affairs Director",
+            "salary": 293000
+        }
+    ],
+    "aum": {
+        "savings": 480000,
+        "inheritance": 4290000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2007,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Balanced",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy",
+        "France"
+    ],
+    "currency": "EUR"
+}

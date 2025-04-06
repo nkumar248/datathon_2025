@@ -1,0 +1,17 @@
+{
+    "first_name": "Egli",
+    "middle_name": "Kaufmann",
+    "last_name": "Lehmann",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1958-11-23",
+    "passport_number": "EL0537221",
+    "passport_mrz": [
+        "P<CHELEHMANN<<EGLI<KAUFMANN<<<<<<<<<<<<<<<<<<",
+        "EL0537221CHE581123<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2017-04-07",
+    "passport_expiry_date": "2027-04-06"
+}

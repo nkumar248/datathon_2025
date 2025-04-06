@@ -1,0 +1,17 @@
+{
+    "name": "Verhoeven Vogel",
+    "first_name": "Verhoeven",
+    "middle_name": "",
+    "last_name": "Vogel",
+    "passport_number": "LN2936978",
+    "currency": "EUR",
+    "address": {
+        "city": "Gijón",
+        "street name": "Gran Vía",
+        "street number": 96,
+        "postal code": "81427"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 617 603 936",
+    "email_address": "verhoeven.vogel@yahoo.com"
+}

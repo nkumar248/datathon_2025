@@ -1,0 +1,17 @@
+{
+    "name": "Russo Galli Bianchi",
+    "first_name": "Russo",
+    "middle_name": "Galli",
+    "last_name": "Bianchi",
+    "passport_number": "XR7950302",
+    "currency": "EUR",
+    "address": {
+        "city": "Turin",
+        "street name": "Galleria Vittorio Emanuele II",
+        "street number": 10,
+        "postal code": "60963"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "321 9376482",
+    "email_address": "russo.bianchi@libero.it"
+}

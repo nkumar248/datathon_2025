@@ -1,0 +1,45 @@
+{
+    "name": "Lykke Nielsen Thomsen",
+    "address": {
+        "city": "Taastrup",
+        "street name": "Ørsteds Park",
+        "street number": 80,
+        "postal code": "2576"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "2003-10-04",
+    "nationality": "Danish",
+    "passport_number": "RV3095848",
+    "passport_issue_date": "2018-02-25",
+    "passport_expiry_date": "2028-02-24",
+    "gender": "M",
+    "phone_number": "+45 78 38 25 83",
+    "email_address": "lykke.thomsen@yousee.dk",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Randers Statsskole",
+        "graduation_year": 2021
+    },
+    "higher_education": [],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 12370000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2019,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Italy"
+    ],
+    "currency": "DKK"
+}

@@ -1,0 +1,77 @@
+{
+    "name": "Garance Laetitia Bernard",
+    "address": {
+        "city": "Lyon",
+        "street name": "Quai d'Orsay",
+        "street number": 49,
+        "postal code": "87531"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1961-03-14",
+    "nationality": "French",
+    "passport_number": "DX4559677",
+    "passport_issue_date": "2023-02-28",
+    "passport_expiry_date": "2033-02-27",
+    "gender": "F",
+    "phone_number": "03 86 70 09 67",
+    "email_address": "garance.bernard@numericable.fr",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Lycée du Parc",
+        "graduation_year": 1979
+    },
+    "higher_education": [
+        {
+            "university": "University of Montpellier",
+            "graduation_year": 1984
+        },
+        {
+            "university": "ESSEC Business School",
+            "graduation_year": 1988
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1985,
+            "end_year": 1990,
+            "company": "Engie S.A.",
+            "position": "Drilling Engineer",
+            "salary": 37000
+        },
+        {
+            "start_year": 1992,
+            "end_year": 1995,
+            "company": "Total S.A.",
+            "position": "Reservoir Engineer",
+            "salary": 44000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 2021,
+            "company": "Total S.A.",
+            "position": "Operations Manager",
+            "salary": 434000
+        }
+    ],
+    "aum": {
+        "savings": 720000,
+        "inheritance": 0,
+        "real_estate_value": 1450000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1450000,
+            "property location": "Lyon"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

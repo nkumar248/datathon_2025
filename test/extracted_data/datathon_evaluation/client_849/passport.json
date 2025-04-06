@@ -1,0 +1,17 @@
+{
+    "first_name": "Jørgensen",
+    "middle_name": "",
+    "last_name": "Friis",
+    "gender": "M",
+    "country": "Denmark",
+    "country_code": "DNK",
+    "nationality": "Danish",
+    "birth_date": "1982-05-17",
+    "passport_number": "EK7215513",
+    "passport_mrz": [
+        "P<DNKFRIIS<<JØRGENSEN<<<<<<<<<<<<<<<<<<<<<<<<",
+        "EK7215513DNK820517<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-02-06",
+    "passport_expiry_date": "2034-02-05"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Díaz Pérez Álvarez",
+    "first_name": "Díaz",
+    "middle_name": "Pérez",
+    "last_name": "Álvarez",
+    "passport_number": "MO5576987",
+    "currency": "EUR",
+    "address": {
+        "city": "Cartagena",
+        "street name": "Plaza de la Independencia",
+        "street number": 71,
+        "postal code": "79488"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "638 192 321",
+    "email_address": "diaz.alvarez@wanadoo.es"
+}

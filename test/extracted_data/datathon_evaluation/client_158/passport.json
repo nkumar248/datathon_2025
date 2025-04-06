@@ -1,0 +1,17 @@
+{
+    "first_name": "Schmid",
+    "middle_name": "Kägi",
+    "last_name": "Jost",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "2001-12-02",
+    "passport_number": "BA8526855",
+    "passport_mrz": [
+        "P<CHEJOST<<SCHMID<KÄGI<<<<<<<<<<<<<<<<<<<<<<<",
+        "BA8526855CHE011202<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-09-21",
+    "passport_expiry_date": "2032-09-20"
+}

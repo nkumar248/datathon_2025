@@ -1,0 +1,70 @@
+{
+    "name": "Louna Van den Berghe",
+    "address": {
+        "city": "Leuven",
+        "street name": "Rue de l'Église",
+        "street number": 51,
+        "postal code": "4419"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1974-09-02",
+    "nationality": "Belgian",
+    "passport_number": "ZF1692462",
+    "passport_issue_date": "2016-04-27",
+    "passport_expiry_date": "2023-04-26",
+    "gender": "F",
+    "phone_number": "+32 0488 966 842",
+    "email_address": "louna.vandenberghe@proximus.be",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Institut Saint-Stanislas",
+        "graduation_year": 1994
+    },
+    "higher_education": [
+        {
+            "university": "ICHEC Brussels Management School",
+            "graduation_year": 1983
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1999,
+            "end_year": 2000,
+            "company": "Warehouses De Pauw SA",
+            "position": "Property Manager",
+            "salary": 40000
+        },
+        {
+            "start_year": 2000,
+            "end_year": null,
+            "company": "Cofinimmo SA",
+            "position": "Developer",
+            "salary": 224000
+        }
+    ],
+    "aum": {
+        "savings": 370000,
+        "inheritance": 3000000,
+        "real_estate_value": 890000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2012,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 890000,
+            "property location": "Leuven"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

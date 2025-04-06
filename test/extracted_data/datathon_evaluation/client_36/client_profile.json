@@ -1,0 +1,87 @@
+{
+    "name": "Wagner Kaiser Brandstetter",
+    "address": {
+        "city": "Eisenstadt",
+        "street name": "Schönlaterngasse",
+        "street number": 1,
+        "postal code": "6608"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1974-04-28",
+    "nationality": "Austrian",
+    "passport_number": "BY3063509",
+    "passport_issue_date": "2024-03-22",
+    "passport_expiry_date": "2034-03-21",
+    "gender": "M",
+    "phone_number": "628 901 1347",
+    "email_address": "wagner.brandstetter@icloud.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Theresianum",
+        "graduation_year": 1994
+    },
+    "higher_education": [
+        {
+            "university": "University of Vienna",
+            "graduation_year": 1983
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1999,
+            "end_year": 2001,
+            "company": "Raiffeisen Ware Austria",
+            "position": "Junior Trader",
+            "salary": 35000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2003,
+            "company": "Raiffeisen Ware Austria",
+            "position": "Senior Trader",
+            "salary": 47000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2024,
+            "company": "Raiffeisen Ware Austria",
+            "position": "Trading Desk Manager",
+            "salary": 398000
+        }
+    ],
+    "aum": {
+        "savings": 670000,
+        "inheritance": 1220000,
+        "real_estate_value": 3679000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2009,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 1819000,
+            "property location": "Eisenstadt"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 990000,
+            "property location": "Schwechat"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 870000,
+            "property location": "Tulln an der Donau"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

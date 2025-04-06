@@ -1,0 +1,17 @@
+{
+    "name": "Østergaard Olsen Lykke",
+    "first_name": "Østergaard",
+    "middle_name": "Olsen",
+    "last_name": "Lykke",
+    "passport_number": "WM3256515",
+    "currency": "DKK",
+    "address": {
+        "city": "Holbæk",
+        "street name": "Langebro",
+        "street number": 5,
+        "postal code": "2813"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 57 59 62 97",
+    "email_address": "stergaard.lykke@all.dk"
+}

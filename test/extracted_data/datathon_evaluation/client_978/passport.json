@@ -1,0 +1,17 @@
+{
+    "first_name": "Antonia",
+    "middle_name": "Estefanía",
+    "last_name": "Jiménez",
+    "gender": "F",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "1977-02-16",
+    "passport_number": "HN8144023",
+    "passport_mrz": [
+        "P<ESPJIMÉNEZ<<ANTONIA<ESTEFANÍA<<<<<<<<<<<<<<",
+        "HN8144023ESP770216<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-06-19",
+    "passport_expiry_date": "2034-06-18"
+}

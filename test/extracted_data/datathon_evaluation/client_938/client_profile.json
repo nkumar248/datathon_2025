@@ -1,0 +1,85 @@
+{
+    "name": "Lynn Andrea Kammermann",
+    "address": {
+        "city": "Locarno",
+        "street name": "Gerberngasse",
+        "street number": 28,
+        "postal code": "8868"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1967-01-13",
+    "nationality": "Swiss",
+    "passport_number": "UA1592431",
+    "passport_issue_date": "2016-10-09",
+    "passport_expiry_date": "2026-10-08",
+    "gender": "F",
+    "phone_number": "+41 067 382 59 63",
+    "email_address": "lynn.kammermann@swisscom.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Wirtschaftsgymnasium Basel Basel",
+        "graduation_year": 1986
+    },
+    "higher_education": [
+        {
+            "university": "Webster University Geneva",
+            "graduation_year": 1991
+        },
+        {
+            "university": "University of Bern",
+            "graduation_year": 1995
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1990,
+            "end_year": 1994,
+            "company": "Pfizer AG (Swiss branch)",
+            "position": "Research Scientist",
+            "salary": 59000
+        },
+        {
+            "start_year": 1994,
+            "end_year": 1995,
+            "company": "Pfizer AG (Swiss branch)",
+            "position": "Clinical Trials Manager",
+            "salary": 85000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 1998,
+            "company": "Novartis AG",
+            "position": "Regulatory Affairs Director",
+            "salary": 114000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2002,
+            "company": "Johnson & Johnson Switzerland",
+            "position": "CEO",
+            "salary": 209000
+        },
+        {
+            "start_year": 2002,
+            "end_year": null,
+            "company": "Pfizer AG (Swiss branch)",
+            "position": "Industry Leader",
+            "salary": 1839000
+        }
+    ],
+    "aum": {
+        "savings": 3520000,
+        "inheritance": 0,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {},
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

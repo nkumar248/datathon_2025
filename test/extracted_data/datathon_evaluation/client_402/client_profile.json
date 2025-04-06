@@ -1,0 +1,78 @@
+{
+    "name": "Anniina Liisa Uusitalo",
+    "address": {
+        "city": "Pori",
+        "street name": "Helsinginkatu",
+        "street number": 17,
+        "postal code": "45044"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1980-02-19",
+    "nationality": "Finnish",
+    "passport_number": "PD7049735",
+    "passport_issue_date": "2016-11-20",
+    "passport_expiry_date": "2026-11-19",
+    "gender": "F",
+    "phone_number": "+358 046 788 95 67",
+    "email_address": "anniina.uusitalo@saunalahti.fi",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Espoonlahden koulu",
+        "graduation_year": 1997
+    },
+    "higher_education": [
+        {
+            "university": "Oulu University of Applied Science",
+            "graduation_year": 2002
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2003,
+            "end_year": 2005,
+            "company": "Valmet Oyj",
+            "position": "Plant Manager",
+            "salary": 41000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2006,
+            "company": "Konecranes Oyj",
+            "position": "Operations Director",
+            "salary": 61000
+        },
+        {
+            "start_year": 2007,
+            "end_year": null,
+            "company": "Valmet Oyj",
+            "position": "CEO",
+            "salary": 414000
+        }
+    ],
+    "aum": {
+        "savings": 610000,
+        "inheritance": 2310000,
+        "real_estate_value": 1190000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2007,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1190000,
+            "property location": "Pori"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

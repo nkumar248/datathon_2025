@@ -1,0 +1,77 @@
+{
+    "name": "Maja Emma Krämer",
+    "address": {
+        "city": "Baden bei Wien",
+        "street name": "Liechtensteinstraße",
+        "street number": 18,
+        "postal code": "2012"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1959-07-08",
+    "nationality": "Austrian",
+    "passport_number": "CA9620037",
+    "passport_issue_date": "2018-08-08",
+    "passport_expiry_date": "2028-08-07",
+    "gender": "F",
+    "phone_number": "+43 014 435 1424",
+    "email_address": "maja.kramer@aon.at",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Lycée Français de Vienne",
+        "graduation_year": 1979
+    },
+    "higher_education": [
+        {
+            "university": "University of Innsbruck",
+            "graduation_year": 1983
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1984,
+            "end_year": 1986,
+            "company": "News Networld Media GmbH",
+            "position": "Journalist",
+            "salary": 33000
+        },
+        {
+            "start_year": 1988,
+            "end_year": 2020,
+            "company": "Styria Medien AG",
+            "position": "Editor",
+            "salary": 248000
+        }
+    ],
+    "aum": {
+        "savings": 520000,
+        "inheritance": 0,
+        "real_estate_value": 2851000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 791000,
+            "property location": "Baden bei Wien"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1080000,
+            "property location": "Graz"
+        },
+        {
+            "property type": "house",
+            "property value": 980000,
+            "property location": "Amstetten"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,73 @@
+{
+    "name": "Brinkman Van Dijk Willems",
+    "address": {
+        "city": "Eindhoven",
+        "street name": "Overtoom",
+        "street number": 22,
+        "postal code": "5107 90"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1990-04-13",
+    "nationality": "Dutch",
+    "passport_number": "NL9728349",
+    "passport_issue_date": "2017-06-19",
+    "passport_expiry_date": "2027-06-18",
+    "gender": "M",
+    "phone_number": "06 81263250",
+    "email_address": "brinkman.willems@planet.nl",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Zwijsen College Veghel",
+        "graduation_year": 2010
+    },
+    "higher_education": [
+        {
+            "university": "Wittenborg University of Applied Sciences",
+            "graduation_year": 2014
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2015,
+            "end_year": null,
+            "company": "Fokker Technologies B.V.",
+            "position": "Aerospace Engineer",
+            "salary": 52000
+        }
+    ],
+    "aum": {
+        "savings": 60000,
+        "inheritance": 1310000,
+        "real_estate_value": 4404000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2020,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1651000,
+            "property location": "Eindhoven"
+        },
+        {
+            "property type": "house",
+            "property value": 1263000,
+            "property location": "Utrecht"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1490000,
+            "property location": "Nijmegen"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

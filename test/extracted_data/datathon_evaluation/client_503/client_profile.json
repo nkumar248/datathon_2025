@@ -1,0 +1,77 @@
+{
+    "name": "Ruiz Gutiérrez Díaz",
+    "address": {
+        "city": "Valladolid",
+        "street name": "Calle de la Rúa",
+        "street number": 72,
+        "postal code": "34964"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1981-09-05",
+    "nationality": "Spanish",
+    "passport_number": "EN6427035",
+    "passport_issue_date": "2018-11-30",
+    "passport_expiry_date": "2028-11-29",
+    "gender": "M",
+    "phone_number": "+34 629 154 764",
+    "email_address": "ruiz.diaz@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "IES Rafael Alberti Cádiz",
+        "graduation_year": 2001
+    },
+    "higher_education": [
+        {
+            "university": "Madrid School of Fine Arts",
+            "graduation_year": 2006
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2005,
+            "end_year": 2009,
+            "company": "Inditex S.A.",
+            "position": "Assistant Designer",
+            "salary": 24000
+        },
+        {
+            "start_year": 2010,
+            "end_year": 2015,
+            "company": "Adolfo Domínguez S.A.",
+            "position": "Senior Designer",
+            "salary": 51000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2023,
+            "company": "Desigual S.A.",
+            "position": "Creative Director",
+            "salary": 92000
+        }
+    ],
+    "aum": {
+        "savings": 130000,
+        "inheritance": 330000,
+        "real_estate_value": 830000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2011,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 830000,
+            "property location": "Valladolid"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

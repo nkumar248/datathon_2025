@@ -1,0 +1,76 @@
+{
+    "name": "Daantje Luna Smeets",
+    "address": {
+        "city": "Helmond",
+        "street name": "Langegracht",
+        "street number": 73,
+        "postal code": "6038 41"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1992-10-06",
+    "nationality": "Dutch",
+    "passport_number": "JM4544944",
+    "passport_issue_date": "2022-11-02",
+    "passport_expiry_date": "2032-11-01",
+    "gender": "F",
+    "phone_number": "+31 06 51692673",
+    "email_address": "daantje.smeets@gmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "CSG Willem van Oranje Apeldoorn",
+        "graduation_year": 2010
+    },
+    "higher_education": [
+        {
+            "university": "Han University of Applied Sciences",
+            "graduation_year": 2015
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2017,
+            "end_year": 2022,
+            "company": "Pfizer Nederland B.V.",
+            "position": "Research Scientist",
+            "salary": 48000
+        },
+        {
+            "start_year": 2023,
+            "end_year": null,
+            "company": "Pfizer Nederland B.V.",
+            "position": "Clinical Trials Manager",
+            "salary": 65000
+        }
+    ],
+    "aum": {
+        "savings": 60000,
+        "inheritance": 2880000,
+        "real_estate_value": 3960000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2690000,
+            "property location": "Helmond"
+        },
+        {
+            "property type": "condo",
+            "property value": 1270000,
+            "property location": "Boxtel"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

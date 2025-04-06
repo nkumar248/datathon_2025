@@ -1,0 +1,17 @@
+{
+    "first_name": "Herrera",
+    "middle_name": "Soto",
+    "last_name": "Navarro",
+    "gender": "M",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "1974-12-27",
+    "passport_number": "UY3042833",
+    "passport_mrz": [
+        "P<ESPNAVARRO<<HERRERA<SOTO<<<<<<<<<<<<<<<<<<<",
+        "UY3042833ESP741227<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2016-08-29",
+    "passport_expiry_date": "2026-08-28"
+}

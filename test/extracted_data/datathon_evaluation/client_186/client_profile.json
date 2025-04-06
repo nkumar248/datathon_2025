@@ -1,0 +1,71 @@
+{
+    "name": "Emilia Anniina Mattila",
+    "address": {
+        "city": "Kauniainen",
+        "street name": "Kulosaarentie",
+        "street number": 48,
+        "postal code": "18327"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1976-01-07",
+    "nationality": "Finnish",
+    "passport_number": "IE4115020",
+    "passport_issue_date": "2017-07-09",
+    "passport_expiry_date": "2027-07-08",
+    "gender": "F",
+    "phone_number": "044 248 13 69",
+    "email_address": "emilia.mattila@hotmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Riihimäen lukio",
+        "graduation_year": 1982
+    },
+    "higher_education": [
+        {
+            "university": "Aalto University",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2002,
+            "end_year": 2003,
+            "company": "OP Financial Group",
+            "position": "Private Equity Investor",
+            "salary": 60000
+        },
+        {
+            "start_year": 2004,
+            "end_year": null,
+            "company": "Danske Bank A/S",
+            "position": "Hedge Fund Manager",
+            "salary": 360000
+        }
+    ],
+    "aum": {
+        "savings": 610000,
+        "inheritance": 4620000,
+        "real_estate_value": 820000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2008,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 820000,
+            "property location": "Kauniainen"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Finland"
+    ],
+    "currency": "EUR"
+}

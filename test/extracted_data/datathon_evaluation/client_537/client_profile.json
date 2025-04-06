@@ -1,0 +1,70 @@
+{
+    "name": "Lefebvre Lambert David",
+    "address": {
+        "city": "Rouen",
+        "street name": "Place Vendôme",
+        "street number": 79,
+        "postal code": "73540"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1974-04-13",
+    "nationality": "French",
+    "passport_number": "KA2391951",
+    "passport_issue_date": "2024-09-12",
+    "passport_expiry_date": "2034-09-11",
+    "gender": "M",
+    "phone_number": "+33 00 56 87 73 77",
+    "email_address": "lefebvre.david@numericable.fr",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Lycée Vaucanson",
+        "graduation_year": 1993
+    },
+    "higher_education": [
+        {
+            "university": "La Fémis",
+            "graduation_year": 1987
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1998,
+            "end_year": 2000,
+            "company": "Musée Rodin",
+            "position": "Art Dealer",
+            "salary": 31000
+        },
+        {
+            "start_year": 2002,
+            "end_year": null,
+            "company": "Centre Pompidou",
+            "position": "Gallery Owner",
+            "salary": 241000
+        }
+    ],
+    "aum": {
+        "savings": 440000,
+        "inheritance": 8940000,
+        "real_estate_value": 1460000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2010,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1460000,
+            "property location": "Rouen"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

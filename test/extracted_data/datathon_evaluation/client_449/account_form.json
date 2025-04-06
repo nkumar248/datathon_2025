@@ -1,0 +1,17 @@
+{
+    "name": "Victoria Luisa Schwarz",
+    "first_name": "Victoria",
+    "middle_name": "Luisa",
+    "last_name": "Schwarz",
+    "passport_number": "ER9982905",
+    "currency": "EUR",
+    "address": {
+        "city": "Klagenfurt",
+        "street name": "Ringstraße",
+        "street number": 73,
+        "postal code": "5355"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 310 282 2120",
+    "email_address": "victoria.schwarz@chello.at"
+}

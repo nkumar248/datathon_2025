@@ -1,0 +1,73 @@
+{
+    "name": "Gabriella Sofia Bianchi",
+    "address": {
+        "city": "Florence",
+        "street name": "Corso Garibaldi",
+        "street number": 49,
+        "postal code": "00209"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1990-09-30",
+    "nationality": "Italian",
+    "passport_number": "RB2474722",
+    "passport_issue_date": "2018-08-04",
+    "passport_expiry_date": "2028-08-03",
+    "gender": "F",
+    "phone_number": "+39 351 6448039",
+    "email_address": "gabriella.bianchi@gmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Liceo Classico Annibale Mariotti Siena",
+        "graduation_year": 2008
+    },
+    "higher_education": [
+        {
+            "university": "Polytechnic University of Milan",
+            "graduation_year": 2014
+        },
+        {
+            "university": "Polytechnic University of Catania",
+            "graduation_year": 2017
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2015,
+            "end_year": null,
+            "company": "Leonardo S.p.A.",
+            "position": "Aerospace Engineer",
+            "salary": 24000
+        }
+    ],
+    "aum": {
+        "savings": 30000,
+        "inheritance": 5260000,
+        "real_estate_value": 1930000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 760000,
+            "property location": "Florence"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1170000,
+            "property location": "Livorno"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Italy"
+    ],
+    "currency": "EUR"
+}

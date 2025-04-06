@@ -1,0 +1,17 @@
+{
+    "name": "Francesca Beatrice Esposito",
+    "first_name": "Esposito",
+    "middle_name": "Beatrice",
+    "last_name": "Francesca",
+    "passport_number": "XJ6540748",
+    "currency": "EUR",
+    "address": {
+        "city": "Trieste",
+        "street name": "Piazza San Marco",
+        "street number": 85,
+        "postal code": "34219"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "306 5835573",
+    "email_address": "francesca.esposito @ alice.it"
+}

@@ -1,0 +1,83 @@
+{
+    "name": "Jørgensen Friis",
+    "address": {
+        "city": "Turin",
+        "street name": "Via dell'Indipendenza",
+        "street number": 14,
+        "postal code": "09608"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1982-05-17",
+    "nationality": "Danish",
+    "passport_number": "EK7215513",
+    "passport_issue_date": "2024-02-06",
+    "passport_expiry_date": "2034-02-05",
+    "gender": "M",
+    "phone_number": "+39 398 7865932",
+    "email_address": "jrgensen.friis@fastweb.it",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Roskilde Katedralskole",
+        "graduation_year": 2000
+    },
+    "higher_education": [
+        {
+            "university": "International Business Academy (IBA)",
+            "graduation_year": 1991
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2006,
+            "end_year": 2010,
+            "company": "Intesa Sanpaolo Private Banking",
+            "position": "Financial Advisor",
+            "salary": 292000
+        },
+        {
+            "start_year": 2010,
+            "end_year": 2013,
+            "company": "UniCredit Private Banking",
+            "position": "Portfolio Manager",
+            "salary": 410000
+        },
+        {
+            "start_year": 2013,
+            "end_year": 2025,
+            "company": "Banca Mediolanum S.p.A.",
+            "position": "Wealth Manager",
+            "salary": 1849000
+        }
+    ],
+    "aum": {
+        "savings": 2730000,
+        "inheritance": 2080000,
+        "real_estate_value": 1660000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2007,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 830000,
+            "property location": "Turin"
+        },
+        {
+            "property type": "flat",
+            "property value": 830000,
+            "property location": "Randers"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Italy"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Schwarz Becker Scholz",
+    "first_name": "Schwarz",
+    "middle_name": "Becker",
+    "last_name": "Scholz",
+    "passport_number": "NV2885298",
+    "currency": "EUR",
+    "address": {
+        "city": "Hamburg",
+        "street name": "Sendlinger-Tor-Platz",
+        "street number": 25,
+        "postal code": "37830"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 8919 047673",
+    "email_address": "schwarz.scholz@outlook.com"
+}

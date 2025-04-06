@@ -1,0 +1,71 @@
+{
+    "name": "Dubois Bernard Garcia",
+    "address": {
+        "city": "Caen",
+        "street name": "Rue de l'Abbé Grégoire",
+        "street number": 6,
+        "postal code": "83496"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1979-07-08",
+    "nationality": "French",
+    "passport_number": "LR8576608",
+    "passport_issue_date": "2020-11-30",
+    "passport_expiry_date": "2030-11-29",
+    "gender": "M",
+    "phone_number": "+33 09 97 50 15 14",
+    "email_address": "dubois.garcia@wanadoo.fr",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée Louis-le-Grand",
+        "graduation_year": 1997
+    },
+    "higher_education": [
+        {
+            "university": "American Graduate School of Business in Paris",
+            "graduation_year": 2003
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2003,
+            "end_year": 2004,
+            "company": "Unibail-Rodamco-Westfield SE",
+            "position": "Property Manager",
+            "salary": 29000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2024,
+            "company": "Compagnie de Phalsbourg",
+            "position": "Developer",
+            "salary": 172000
+        }
+    ],
+    "aum": {
+        "savings": 290000,
+        "inheritance": 4750000,
+        "real_estate_value": 1670000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2010,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1670000,
+            "property location": "Caen"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

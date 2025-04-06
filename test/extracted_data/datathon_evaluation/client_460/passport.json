@@ -1,0 +1,17 @@
+{
+    "first_name": "Richard",
+    "middle_name": "Nicolas",
+    "last_name": "Bernard",
+    "gender": "M",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1954-08-03",
+    "passport_number": "XI8842191",
+    "passport_mrz": [
+        "P<FRABERNARD<<RICHARD<NICOLAS<<<<<<<<<<<<<<<<",
+        "XI8842191FRA540803<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2021-12-17",
+    "passport_expiry_date": "2031-12-16"
+}

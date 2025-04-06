@@ -1,0 +1,70 @@
+{
+    "name": "Mustonen Koskinen Seppälä",
+    "address": {
+        "city": "Antwerp",
+        "street name": "Place Jourdan",
+        "street number": 24,
+        "postal code": "2950"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1970-12-09",
+    "nationality": "Finnish",
+    "passport_number": "HK8206760",
+    "passport_issue_date": "2022-03-26",
+    "passport_expiry_date": "2032-03-25",
+    "gender": "M",
+    "phone_number": "0404 439 081",
+    "email_address": "mustonen.seppala@outlook.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Riihimäen lukio",
+        "graduation_year": 1990
+    },
+    "higher_education": [
+        {
+            "university": "University of Turku",
+            "graduation_year": 1994
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1994,
+            "end_year": 1996,
+            "company": "Verlinvest SA",
+            "position": "Analyst",
+            "salary": 41000
+        },
+        {
+            "start_year": 1996,
+            "end_year": 2023,
+            "company": "Verlinvest SA",
+            "position": "Associate",
+            "salary": 272000
+        }
+    ],
+    "aum": {
+        "savings": 500000,
+        "inheritance": 6300000,
+        "real_estate_value": 1440000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2013,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1440000,
+            "property location": "Antwerp"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

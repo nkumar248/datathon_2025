@@ -1,0 +1,17 @@
+{
+    "name": "Margaux Delphine Garcia",
+    "first_name": "Margaux",
+    "middle_name": "Delphine",
+    "last_name": "Garcia",
+    "passport_number": "QR5824524",
+    "currency": "EUR",
+    "address": {
+        "city": "Grenoble",
+        "street name": "Rue Elzévir",
+        "street number": 91,
+        "postal code": "51672"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "09 44 96 32 22",
+    "email_address": "margaux.garcia@neuf.fr"
+}

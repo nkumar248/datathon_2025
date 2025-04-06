@@ -1,0 +1,99 @@
+{
+    "name": "Kristin Mia Mayer",
+    "address": {
+        "city": "Heidelberg",
+        "street name": "Kaiserstraße",
+        "street number": 48,
+        "postal code": "10883"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1973-02-25",
+    "nationality": "German",
+    "passport_number": "RA6414741",
+    "passport_issue_date": "2022-06-15",
+    "passport_expiry_date": "2032-06-14",
+    "gender": "F",
+    "phone_number": "1852 152631",
+    "email_address": "kristin.mayer@outlook.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Wittelsbacher-Gymnasium München",
+        "graduation_year": 1980
+    },
+    "higher_education": [
+        {
+            "university": "Mannheim Business School",
+            "graduation_year": 1997
+        },
+        {
+            "university": "Karlsruhe University of Education",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1997,
+            "end_year": 1999,
+            "company": "Allianz SE",
+            "position": "Investment Banker",
+            "salary": 37000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2004,
+            "company": "Dresdner Bank AG",
+            "position": "Private Equity Investor",
+            "salary": 58000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2006,
+            "company": "Commerzbank AG",
+            "position": "Hedge Fund Manager",
+            "salary": 81000
+        },
+        {
+            "start_year": 2008,
+            "end_year": null,
+            "company": "Deutsche Bank AG",
+            "position": "Venture Capitalist",
+            "salary": 937000
+        }
+    ],
+    "aum": {
+        "savings": 1370000,
+        "inheritance": 890000,
+        "real_estate_value": 3853000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2012,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1136000,
+            "property location": "Heidelberg"
+        },
+        {
+            "property type": "condo",
+            "property value": 1187000,
+            "property location": "Braunschweig"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1530000,
+            "property location": "Braunschweig"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

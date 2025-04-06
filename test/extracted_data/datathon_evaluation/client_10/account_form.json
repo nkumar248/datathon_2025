@@ -1,0 +1,17 @@
+{
+    "name": "Fischer Egger Schnell",
+    "first_name": "Fischer",
+    "middle_name": "Egger",
+    "last_name": "Schnell",
+    "passport_number": "BC4460180",
+    "currency": "EUR",
+    "address": {
+        "city": "Kitzbühel",
+        "street name": "Mariahilfer Straße",
+        "street number": 15,
+        "postal code": "3714"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 379 813 5127",
+    "email_address": "fischer.schnell@magenta.at"
+}

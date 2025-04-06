@@ -1,0 +1,72 @@
+{
+    "name": "Garcia Simon Marchand",
+    "address": {
+        "city": "Paris",
+        "street name": "Rue de la Butte-aux-Cailles",
+        "street number": 91,
+        "postal code": "89319"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1954-12-26",
+    "nationality": "French",
+    "passport_number": "HW0008107",
+    "passport_issue_date": "2024-07-05",
+    "passport_expiry_date": "2034-07-04",
+    "gender": "M",
+    "phone_number": "02 04 37 54 83",
+    "email_address": "garcia.marchand@free.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Frédéric Chopin",
+        "graduation_year": 1973
+    },
+    "higher_education": [
+        {
+            "university": "HEC Paris",
+            "graduation_year": 1978
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1979,
+            "end_year": 1982,
+            "company": "Groupe Casino",
+            "position": "Property Manager",
+            "salary": 30000
+        },
+        {
+            "start_year": 1982,
+            "end_year": 2015,
+            "company": "Unibail-Rodamco-Westfield SE",
+            "position": "Developer",
+            "salary": 315000
+        }
+    ],
+    "aum": {
+        "savings": 550000,
+        "inheritance": 0,
+        "real_estate_value": 3520000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1367000,
+            "property location": "Paris"
+        },
+        {
+            "property type": "house",
+            "property value": 2153000,
+            "property location": "Brest"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria",
+        "France"
+    ],
+    "currency": "EUR"
+}

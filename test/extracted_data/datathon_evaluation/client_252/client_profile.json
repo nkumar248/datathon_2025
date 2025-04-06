@@ -1,0 +1,95 @@
+{
+    "name": "Christensen Jensen Hansen",
+    "address": {
+        "city": "Svendborg",
+        "street name": "Sølvgade",
+        "street number": 92,
+        "postal code": "4666"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1979-03-26",
+    "nationality": "Danish",
+    "passport_number": "XA1971179",
+    "passport_issue_date": "2020-01-26",
+    "passport_expiry_date": "2030-01-25",
+    "gender": "M",
+    "phone_number": "66 05 73 81",
+    "email_address": "christensen.hansen@cybercity.dk",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Skt. Knuds Gymnasium",
+        "graduation_year": 1985
+    },
+    "higher_education": [
+        {
+            "university": "CBS International Business School",
+            "graduation_year": 2003
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2002,
+            "end_year": 2004,
+            "company": "KKR & Co. Danmark A/S",
+            "position": "Analyst",
+            "salary": 273000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2009,
+            "company": "Advent International Danmark A/S",
+            "position": "Associate",
+            "salary": 482000
+        },
+        {
+            "start_year": 2009,
+            "end_year": 2014,
+            "company": "EQT Partners A/S",
+            "position": "Investment Director",
+            "salary": 947000
+        },
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "KKR & Co. Danmark A/S",
+            "position": "Partner",
+            "salary": 3072000
+        }
+    ],
+    "aum": {
+        "savings": 4860000,
+        "inheritance": 11770000,
+        "real_estate_value": 3851000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2009,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1310000,
+            "property location": "Svendborg"
+        },
+        {
+            "property type": "condo",
+            "property value": 851000,
+            "property location": "Holbæk"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1690000,
+            "property location": "Greve"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

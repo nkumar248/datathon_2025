@@ -1,0 +1,17 @@
+{
+    "first_name": "Fournier",
+    "middle_name": "Robert",
+    "last_name": "Laurent",
+    "gender": "M",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1955-07-07",
+    "passport_number": "DM3613964",
+    "passport_mrz": [
+        "P<FRALAURENT<<FOURNIER<ROBERT<<<<<<<<<<<<<<<<",
+        "DM3613964FRA550707<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-01-09",
+    "passport_expiry_date": "2032-01-08"
+}

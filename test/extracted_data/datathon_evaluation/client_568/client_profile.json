@@ -1,0 +1,71 @@
+{
+    "name": "Costanza Sofia Belli",
+    "address": {
+        "city": "Brescia",
+        "street name": "Piazza Farnese",
+        "street number": 75,
+        "postal code": "24624"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1955-06-28",
+    "nationality": "Italian",
+    "passport_number": "FE3915767",
+    "passport_issue_date": "2024-01-20",
+    "passport_expiry_date": "2034-01-19",
+    "gender": "F",
+    "phone_number": "390 7144017",
+    "email_address": "costanza.belli@tiscali.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Liceo Scientifico Enrico Fermi Bologna",
+        "graduation_year": 1975
+    },
+    "higher_education": [
+        {
+            "university": "Italian National Research Council (CNR)",
+            "graduation_year": 1978
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1979,
+            "end_year": 1984,
+            "company": "STMicroelectronics S.p.A.",
+            "position": "Software Developer",
+            "salary": 27000
+        },
+        {
+            "start_year": 1984,
+            "end_year": 2016,
+            "company": "STMicroelectronics S.p.A.",
+            "position": "Startup Founder",
+            "salary": 194000
+        }
+    ],
+    "aum": {
+        "savings": 350000,
+        "inheritance": 0,
+        "real_estate_value": 3140000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 950000,
+            "property location": "Brescia"
+        },
+        {
+            "property type": "villa",
+            "property value": 2190000,
+            "property location": "Palermo"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

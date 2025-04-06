@@ -1,0 +1,17 @@
+{
+    "name": "Seppälä Mattila Piirainen",
+    "first_name": "Seppälä",
+    "middle_name": "Mattila",
+    "last_name": "Piirainen",
+    "passport_number": "VM3057311",
+    "currency": "EUR",
+    "address": {
+        "city": "Imatra",
+        "street name": "Unioninkatu",
+        "street number": 48,
+        "postal code": "60789"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "043 921 95 08",
+    "email_address": "seppala.piirainen@dnainternet.fi"
+}

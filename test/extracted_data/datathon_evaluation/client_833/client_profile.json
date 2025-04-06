@@ -1,0 +1,84 @@
+{
+    "name": "Fournier Robert Laurent",
+    "address": {
+        "city": "Tours",
+        "street name": "Rue Cujas",
+        "street number": 51,
+        "postal code": "23097"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1955-07-07",
+    "nationality": "French",
+    "passport_number": "DM3613964",
+    "passport_issue_date": "2022-01-09",
+    "passport_expiry_date": "2032-01-08",
+    "gender": "M",
+    "phone_number": "02 28 74 75 27",
+    "email_address": "fournier.laurent@sfr.fr",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée Gustave Eiffel",
+        "graduation_year": 1974
+    },
+    "higher_education": [
+        {
+            "university": "Sorbonne University",
+            "graduation_year": 1978
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1979,
+            "end_year": 1981,
+            "company": "CMA CGM S.A.",
+            "position": "Ship Broker",
+            "salary": 32000
+        },
+        {
+            "start_year": 1982,
+            "end_year": 1983,
+            "company": "CMA CGM S.A.",
+            "position": "Shipping Company Owner",
+            "salary": 42000
+        },
+        {
+            "start_year": 1983,
+            "end_year": 2016,
+            "company": "Jumbo Shipping France",
+            "position": "Fleet Manager",
+            "salary": 542000
+        }
+    ],
+    "aum": {
+        "savings": 990000,
+        "inheritance": 0,
+        "real_estate_value": 5488000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2960000,
+            "property location": "Tours"
+        },
+        {
+            "property type": "flat",
+            "property value": 948000,
+            "property location": "Rouen"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1580000,
+            "property location": "Saint-Étienne"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "France"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Goossens Lemaire Thiry",
+    "first_name": "Goossens",
+    "middle_name": "Lemaire",
+    "last_name": "Thiry",
+    "passport_number": "YU6756588",
+    "currency": "EUR",
+    "address": {
+        "city": "Ghent",
+        "street name": "Rue des Sœurs Noires",
+        "street number": 96,
+        "postal code": "4297"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0445 596 108",
+    "email_address": "goossens.thiry@icloud.com"
+}

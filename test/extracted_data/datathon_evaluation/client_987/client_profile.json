@@ -1,0 +1,76 @@
+{
+    "name": "Hanna Kristiina Lehtinen",
+    "address": {
+        "city": "Imatra",
+        "street name": "Kampintori",
+        "street number": 70,
+        "postal code": "26478"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1973-10-05",
+    "nationality": "Finnish",
+    "passport_number": "BI4238351",
+    "passport_issue_date": "2024-09-09",
+    "passport_expiry_date": "2034-09-08",
+    "gender": "F",
+    "phone_number": "+358 049 371 97 68",
+    "email_address": "hanna.lehtinen@luukku.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Siuntion lukio",
+        "graduation_year": 1993
+    },
+    "higher_education": [
+        {
+            "university": "JAMK University of Applied Sciences",
+            "graduation_year": 1997
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1997,
+            "end_year": 2001,
+            "company": "Neste Corporation",
+            "position": "Drilling Engineer",
+            "salary": 36000
+        },
+        {
+            "start_year": 2003,
+            "end_year": null,
+            "company": "Neste Corporation",
+            "position": "Reservoir Engineer",
+            "salary": 217000
+        }
+    ],
+    "aum": {
+        "savings": 340000,
+        "inheritance": 4180000,
+        "real_estate_value": 1540000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2014,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 647000,
+            "property location": "Imatra"
+        },
+        {
+            "property type": "flat",
+            "property value": 893000,
+            "property location": "Porvoo"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

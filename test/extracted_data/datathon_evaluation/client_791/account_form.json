@@ -1,0 +1,17 @@
+{
+    "name": "Sofia Daniela De Luca",
+    "first_name": "Sofia",
+    "middle_name": "Daniela",
+    "last_name": "De Luca",
+    "passport_number": "VA1473369",
+    "currency": "EUR",
+    "address": {
+        "city": "Venice",
+        "street name": "Campo Santa Marina",
+        "street number": 65,
+        "postal code": "11470"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "326 1068226",
+    "email_address": "sofia.deluca@icloud.com"
+}

@@ -1,0 +1,77 @@
+{
+    "name": "Francisca Tess Van der Meer",
+    "address": {
+        "city": "Groningen",
+        "street name": "Leidseplein",
+        "street number": 92,
+        "postal code": "0233 07"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1982-09-30",
+    "nationality": "Dutch",
+    "passport_number": "VA8421553",
+    "passport_issue_date": "2021-09-03",
+    "passport_expiry_date": "2031-09-02",
+    "gender": "F",
+    "phone_number": "+31 06 93973283",
+    "email_address": "francisca.vandermeer@planet.nl",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "VWO Dalton Den Haag",
+        "graduation_year": 2001
+    },
+    "higher_education": [
+        {
+            "university": "Erasmus University Rotterdam",
+            "graduation_year": 2007
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2006,
+            "end_year": 2010,
+            "company": "NLR - Netherlands Aerospace Centre",
+            "position": "Aerospace Engineer",
+            "salary": 41000
+        },
+        {
+            "start_year": 2012,
+            "end_year": 2016,
+            "company": "NLR - Netherlands Aerospace Centre",
+            "position": "Program Manager",
+            "salary": 67000
+        },
+        {
+            "start_year": 2016,
+            "end_year": 2024,
+            "company": "Airbus Netherlands B.V.",
+            "position": "Director of Operations",
+            "salary": 146000
+        }
+    ],
+    "aum": {
+        "savings": 210000,
+        "inheritance": 140000,
+        "real_estate_value": 1030000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2007,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1030000,
+            "property location": "Groningen"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

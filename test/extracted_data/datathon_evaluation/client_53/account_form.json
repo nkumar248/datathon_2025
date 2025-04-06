@@ -1,0 +1,17 @@
+{
+    "name": "Mulders De Jong Maassen",
+    "first_name": "Mulders",
+    "middle_name": "De Jong",
+    "last_name": "Maassen",
+    "passport_number": "CF6207457",
+    "currency": "EUR",
+    "address": {
+        "city": "Maastricht",
+        "street name": "Nieuwmarkt",
+        "street number": 38,
+        "postal code": "9335 44"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "06 98308475",
+    "email_address": "mulders.maassen@upcmail.nl"
+}

@@ -1,0 +1,84 @@
+{
+    "name": "Lechner Krämer Huber",
+    "address": {
+        "city": "Eisenstadt",
+        "street name": "Enzersdorfer Straße",
+        "street number": 12,
+        "postal code": "4545"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1977-10-17",
+    "nationality": "Austrian",
+    "passport_number": "XT7062688",
+    "passport_issue_date": "2024-04-29",
+    "passport_expiry_date": "2034-04-28",
+    "gender": "M",
+    "phone_number": "212 484 4038",
+    "email_address": "lechner.huber@vol.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Bischöfliches Gymnasium Petrinum",
+        "graduation_year": 1997
+    },
+    "higher_education": [
+        {
+            "university": "Modul University Vienna",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2002,
+            "end_year": 2006,
+            "company": "Raiffeisen Private Banking",
+            "position": "Financial Advisor",
+            "salary": 33000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2007,
+            "company": "Raiffeisen Private Banking",
+            "position": "Portfolio Manager",
+            "salary": 49000
+        },
+        {
+            "start_year": 2007,
+            "end_year": 2012,
+            "company": "Raiffeisen Private Banking",
+            "position": "Wealth Manager",
+            "salary": 137000
+        },
+        {
+            "start_year": 2012,
+            "end_year": null,
+            "company": "LGT Bank Österreich AG",
+            "position": "Family Office Executive",
+            "salary": 461000
+        }
+    ],
+    "aum": {
+        "savings": 700000,
+        "inheritance": 2150000,
+        "real_estate_value": 720000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2007,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 720000,
+            "property location": "Eisenstadt"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

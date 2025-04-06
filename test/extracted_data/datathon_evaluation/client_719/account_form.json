@@ -1,0 +1,17 @@
+{
+    "name": "Mäkinen Koskinen Lehtinen",
+    "first_name": "Mäkinen",
+    "middle_name": "Koskinen",
+    "last_name": "Lehtinen",
+    "passport_number": "AH8698031",
+    "currency": "CHF",
+    "address": {
+        "city": "Chur",
+        "street name": "Obere Hauptgasse",
+        "street number": 80,
+        "postal code": "8323"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "094 656 21 56",
+    "email_address": "makinen.lehtinen@gmail.com"
+}

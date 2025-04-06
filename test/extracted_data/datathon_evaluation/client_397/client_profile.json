@@ -1,0 +1,67 @@
+{
+    "name": "Riedo Werner Gasser",
+    "address": {
+        "city": "Zurich",
+        "street name": "Place des Halles",
+        "street number": 80,
+        "postal code": "7994"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1963-03-31",
+    "nationality": "Swiss",
+    "passport_number": "FB2075506",
+    "passport_issue_date": "2020-11-15",
+    "passport_expiry_date": "2030-11-14",
+    "gender": "M",
+    "phone_number": "075 947 44 12",
+    "email_address": "riedo.gasserhotmail.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Lycée des Templiers Fribourg",
+        "graduation_year": 1982
+    },
+    "higher_education": [
+        {
+            "university": "University of Geneva",
+            "graduation_year": 1987
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1987,
+            "end_year": 1988,
+            "company": "Swatch Group AG",
+            "position": "Assistant Designer",
+            "salary": 65000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 1992,
+            "company": "Akris AG",
+            "position": "Senior Designer",
+            "salary": 85000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 2023,
+            "company": "Akris AG",
+            "position": "Creative Director",
+            "salary": 0
+        }
+    ],
+    "aum": {
+        "savings": 2570000,
+        "inheritance": 0,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {},
+    "real_estate_details": [],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

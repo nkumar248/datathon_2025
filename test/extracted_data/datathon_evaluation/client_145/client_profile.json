@@ -1,0 +1,84 @@
+{
+    "name": "Diana Schmidt",
+    "address": {
+        "city": "Cologne",
+        "street name": "Schlachte",
+        "street number": 93,
+        "postal code": "75259"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1957-05-05",
+    "nationality": "German",
+    "passport_number": "JF8417538",
+    "passport_issue_date": "2018-03-29",
+    "passport_expiry_date": "2028-03-28",
+    "gender": "F",
+    "phone_number": "+49 1684 350927",
+    "email_address": "diana.schmidt@outlook.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Gymnasium zum Grauen Kloster",
+        "graduation_year": 1977
+    },
+    "higher_education": [
+        {
+            "university": "Bucerius Law School",
+            "graduation_year": 1981
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1982,
+            "end_year": 1983,
+            "company": "Commerzbank AG",
+            "position": "Family Office Manager",
+            "salary": 40000
+        },
+        {
+            "start_year": 1983,
+            "end_year": 1985,
+            "company": "Dresdner Bank AG",
+            "position": "Investment Director",
+            "salary": 68000
+        },
+        {
+            "start_year": 1987,
+            "end_year": 2018,
+            "company": "Dresdner Bank AG",
+            "position": "CFO",
+            "salary": 729000
+        }
+    ],
+    "aum": {
+        "savings": 1510000,
+        "inheritance": 0,
+        "real_estate_value": 4280000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1100000,
+            "property location": "Cologne"
+        },
+        {
+            "property type": "flat",
+            "property value": 880000,
+            "property location": "Munich"
+        },
+        {
+            "property type": "villa",
+            "property value": 2300000,
+            "property location": "Nuremberg"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "first_name": "Sofia",
+    "middle_name": "Daniela",
+    "last_name": "De Luca",
+    "gender": "F",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1985-04-21",
+    "passport_number": "VA1473369",
+    "passport_mrz": [
+        "P<ITADE LUCA<<SOFIA<DANIELA<<<<<<<<<<<<<<<<<<",
+        "VA1473369ITA850421<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-02-28",
+    "passport_expiry_date": "2033-02-27"
+}

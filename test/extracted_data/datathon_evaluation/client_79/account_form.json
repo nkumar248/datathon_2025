@@ -1,0 +1,17 @@
+{
+    "name": "Furrer Jost Suter",
+    "first_name": "Furrer",
+    "middle_name": "Jost",
+    "last_name": "Suter",
+    "passport_number": "EE5407505",
+    "currency": "EUR",
+    "address": {
+        "city": "Mödling",
+        "street name": "Gasometerstraße",
+        "street number": 80,
+        "postal code": "8863"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "115 050 4130",
+    "email_address": "furrer.suter@yahoo.com"
+}

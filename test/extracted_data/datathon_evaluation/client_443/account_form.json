@@ -1,0 +1,17 @@
+{
+    "name": "Voutilainen Laine Mäkinen",
+    "first_name": "Voutilainen",
+    "middle_name": "Laine",
+    "last_name": "Mäkinen",
+    "passport_number": "ND8215063",
+    "currency": "EUR",
+    "address": {
+        "city": "Salon",
+        "street name": "Tyynenmerenkatu",
+        "street number": 17,
+        "postal code": "89593"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 045 965 09 11",
+    "email_address": "voutilainen.makinen@suomi24.fi"
+}

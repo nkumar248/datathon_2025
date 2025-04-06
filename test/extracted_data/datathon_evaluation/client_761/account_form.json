@@ -1,0 +1,17 @@
+{
+    "name": "Vázquez González Sánchez",
+    "first_name": "Vázquez",
+    "middle_name": "González",
+    "last_name": "Sánchez",
+    "passport_number": "TB4785250",
+    "currency": "EUR",
+    "address": {
+        "city": "Las Palmas de Gran Canaria",
+        "street name": "Calle de las Huertas",
+        "street number": 36,
+        "postal code": "53759"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 655 519 260",
+    "email_address": "vazquez.sanchez@hotmail.es"
+}

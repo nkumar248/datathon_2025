@@ -1,0 +1,80 @@
+{
+    "name": "Amanda Gabriela Keller",
+    "address": {
+        "city": "Aarau",
+        "street name": "Place de la Navigation",
+        "street number": 69,
+        "postal code": "6112"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1977-02-12",
+    "nationality": "Swiss",
+    "passport_number": "FK8207770",
+    "passport_issue_date": "2030-08-10",
+    "passport_expiry_date": "2020-08-11",
+    "gender": "F",
+    "phone_number": "+41 063 442 05 87",
+    "email_address": "amanda.keller@freedom.ch",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Liceo di Lugano Lugano",
+        "graduation_year": 1994
+    },
+    "higher_education": [
+        {
+            "university": "Geneva Business School",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2000,
+            "end_year": 2001,
+            "company": "Credit Suisse AG",
+            "position": "Financial Advisor",
+            "salary": 59000
+        },
+        {
+            "start_year": 2002,
+            "end_year": null,
+            "company": "Julius Baer Gruppe AG",
+            "position": "Portfolio Manager",
+            "salary": 362000
+        }
+    ],
+    "aum": {
+        "savings": 590000,
+        "inheritance": 2200000,
+        "real_estate_value": 8680000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2012,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 4550000,
+            "property location": "Aarau"
+        },
+        {
+            "property type": "flat",
+            "property value": 1860000,
+            "property location": "Thun"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 2270000,
+            "property location": "Wil"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

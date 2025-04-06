@@ -1,0 +1,17 @@
+{
+    "first_name": "Franziska",
+    "middle_name": "",
+    "last_name": "Gruber",
+    "gender": "F",
+    "country": "Austria",
+    "country_code": "AUT",
+    "nationality": "Austrian",
+    "birth_date": "1963-01-10",
+    "passport_number": "BO4937999",
+    "passport_mrz": [
+        "P<AUTGRUBER<<FRANZISKA<<<<<<<<<<<<<<<<<<<<<<<",
+        "BO4937999AUT630110<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2016-05-07",
+    "passport_expiry_date": "2026-05-06"
+}

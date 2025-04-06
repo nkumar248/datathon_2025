@@ -1,0 +1,17 @@
+{
+    "name": "Delphine Anaïs Guillaume",
+    "first_name": "Delphine",
+    "middle_name": "Anaïs",
+    "last_name": "Guillaume",
+    "passport_number": "YE3914208",
+    "currency": "EUR",
+    "address": {
+        "city": "Paris",
+        "street name": "Place des Vosges",
+        "street number": 54,
+        "postal code": "85263"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 09 59 87 46 38",
+    "email_address": "delphine.guillaume@aliceadsl.fr"
+}

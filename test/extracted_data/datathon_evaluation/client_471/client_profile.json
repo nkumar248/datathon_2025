@@ -1,0 +1,81 @@
+{
+    "name": "Pedersen Krog Madsen",
+    "address": {
+        "city": "Odense",
+        "street name": "Vandkunsten",
+        "street number": 50,
+        "postal code": "2177"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1969-11-13",
+    "nationality": "Danish",
+    "passport_number": "FD1442976",
+    "passport_issue_date": "2023-09-23",
+    "passport_expiry_date": "2033-09-22",
+    "gender": "M",
+    "phone_number": "94 10 30 75",
+    "email_address": "pedersen.madsen@telia.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Rysensteen Gymnasium",
+        "graduation_year": 1978
+    },
+    "higher_education": [
+        {
+            "university": "University College Lillebælt",
+            "graduation_year": 1994
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1993,
+            "end_year": 1997,
+            "company": "Trifork A/S",
+            "position": "Software Developer",
+            "salary": 251000
+        },
+        {
+            "start_year": 1998,
+            "end_year": null,
+            "company": "IBM Danmark A/S",
+            "position": "Startup Founder",
+            "salary": 1474000
+        }
+    ],
+    "aum": {
+        "savings": 3020000,
+        "inheritance": 23660000,
+        "real_estate_value": 3621000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2007,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1411000,
+            "property location": "Odense"
+        },
+        {
+            "property type": "flat",
+            "property value": 990000,
+            "property location": "Esbjerg Ø"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1220000,
+            "property location": "Copenhagen"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "",
+    "preferred_markets": [
+        "Spain",
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

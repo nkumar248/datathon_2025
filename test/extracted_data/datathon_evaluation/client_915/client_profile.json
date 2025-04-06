@@ -1,0 +1,81 @@
+{
+    "name": "Charlotte Joyce Brinkman",
+    "address": {
+        "city": "Deventer",
+        "street name": "IJsselkade",
+        "street number": 45,
+        "postal code": "7026 79"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1970-07-18",
+    "nationality": "Dutch",
+    "passport_number": "PI7193042",
+    "passport_issue_date": "2023-01-03",
+    "passport_expiry_date": "2033-01-02",
+    "gender": "F",
+    "phone_number": "+31 06 77532192",
+    "email_address": "charlotte.brinkman@chello.nl",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "RSG Magister Almelo",
+        "graduation_year": 1990
+    },
+    "higher_education": [
+        {
+            "university": "Webster University Leiden",
+            "graduation_year": 1993
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1995,
+            "end_year": 1997,
+            "company": "NH Hotel Group Nederland B.V.",
+            "position": "Hotel Manager",
+            "salary": 43000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 2024,
+            "company": "Accor Hospitality Nederland B.V.",
+            "position": "General Manager",
+            "salary": 333000
+        }
+    ],
+    "aum": {
+        "savings": 590000,
+        "inheritance": 160000,
+        "real_estate_value": 3947000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2012,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1190000,
+            "property location": "Deventer"
+        },
+        {
+            "property type": "condo",
+            "property value": 1367000,
+            "property location": "Boxtel"
+        },
+        {
+            "property type": "house",
+            "property value": 1390000,
+            "property location": "Arnhem"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

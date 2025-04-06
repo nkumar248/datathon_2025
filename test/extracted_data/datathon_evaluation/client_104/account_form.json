@@ -1,0 +1,17 @@
+{
+    "name": "Heta Essi Järvinen",
+    "first_name": "Heta",
+    "middle_name": "Essi",
+    "last_name": "Järvinen",
+    "passport_number": "JG0652954",
+    "currency": "EUR",
+    "address": {
+        "city": "Rauma",
+        "street name": "Tehtaankatu",
+        "street number": 99,
+        "postal code": "21534"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 041 490 58 04",
+    "email_address": "heta.jarvinen@suomi24.fi"
+}

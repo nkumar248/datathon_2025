@@ -1,0 +1,89 @@
+{
+    "name": "Binder Graf Gruber",
+    "address": {
+        "city": "Amstetten",
+        "street name": "Porzellangasse",
+        "street number": 86,
+        "postal code": "4029"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1972-06-18",
+    "nationality": "Austrian",
+    "passport_number": "WN4136195",
+    "passport_issue_date": "2016-09-11",
+    "passport_expiry_date": "2026-09-10",
+    "gender": "M",
+    "phone_number": "+43 215 938 0578",
+    "email_address": "binder.gruber@telekom.at",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Privatgymnasium der Dominikanerinnen",
+        "graduation_year": 1992
+    },
+    "higher_education": [
+        {
+            "university": "Academy of Fine Arts Vienna",
+            "graduation_year": 1997
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1996,
+            "end_year": 1997,
+            "company": "News Networld Media GmbH",
+            "position": "Journalist",
+            "salary": 30000
+        },
+        {
+            "start_year": 1998,
+            "end_year": 2000,
+            "company": "News Networld Media GmbH",
+            "position": "Editor",
+            "salary": 50000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2002,
+            "company": "ORF (Austrian Broadcasting Corporation)",
+            "position": "Publisher",
+            "salary": 71000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2023,
+            "company": "ORF (Austrian Broadcasting Corporation)",
+            "position": "TV/Radio Host",
+            "salary": 540000
+        }
+    ],
+    "aum": {
+        "savings": 870000,
+        "inheritance": 200000,
+        "real_estate_value": 1620000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2009,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 767000,
+            "property location": "Amstetten"
+        },
+        {
+            "property type": "house",
+            "property value": 853000,
+            "property location": "Wels"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

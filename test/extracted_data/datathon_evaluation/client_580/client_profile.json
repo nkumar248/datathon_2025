@@ -1,0 +1,86 @@
+{
+    "name": "Piirainen Tolvanen",
+    "address": {
+        "city": "Vaasa",
+        "street name": "Tyynenmerenkatu",
+        "street number": 93,
+        "postal code": "75101"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1964-03-08",
+    "nationality": "Finnish",
+    "passport_number": "BJ3695840",
+    "passport_issue_date": "2019-05-30",
+    "passport_expiry_date": "2029-05-29",
+    "gender": "M",
+    "phone_number": "+358 044 486 37 96",
+    "email_address": "piirainen.tolvanen@saunalahti.fi",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Pieksämäki lukio",
+        "graduation_year": 1982
+    },
+    "higher_education": [
+        {
+            "university": "Centria University of Applied Sciences",
+            "graduation_year": 1986
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1988,
+            "end_year": 1991,
+            "company": "St1 Oy",
+            "position": "Drilling Engineer",
+            "salary": 39000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 1998,
+            "company": "Gasum Oy",
+            "position": "Reservoir Engineer",
+            "salary": 84000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2002,
+            "company": "St1 Oy",
+            "position": "Operations Manager",
+            "salary": 81000
+        },
+        {
+            "start_year": 2002,
+            "end_year": 2024,
+            "company": "St1 Oy",
+            "position": "VP of Exploration",
+            "salary": 642000
+        }
+    ],
+    "aum": {
+        "savings": 1070000,
+        "inheritance": 0,
+        "real_estate_value": 2570000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 1810000,
+            "property location": "Vaasa"
+        },
+        {
+            "property type": "condo",
+            "property value": 760000,
+            "property location": "Helsinki"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "France"
+    ],
+    "currency": "EUR"
+}

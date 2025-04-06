@@ -1,0 +1,92 @@
+{
+    "name": "Lynn Julia Roth",
+    "address": {
+        "city": "Lugano",
+        "street name": "Place des Halles",
+        "street number": 38,
+        "postal code": "5948"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1965-09-16",
+    "nationality": "Swiss",
+    "passport_number": "AQ1449756",
+    "passport_issue_date": "2022-06-04",
+    "passport_expiry_date": "2032-06-03",
+    "gender": "F",
+    "phone_number": "+41 006 005 06 63",
+    "email_address": "lynn.roth@swisscom.ch",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Gymnasium am Münster Schaffhausen",
+        "graduation_year": 1984
+    },
+    "higher_education": [
+        {
+            "university": "Bern University of Applied Sciences",
+            "graduation_year": 1988
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1989,
+            "end_year": 1992,
+            "company": "Novartis AG",
+            "position": "Research Scientist",
+            "salary": 65000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 1998,
+            "company": "Johnson & Johnson Switzerland",
+            "position": "Clinical Trials Manager",
+            "salary": 126000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2005,
+            "company": "Roche Holding AG",
+            "position": "Regulatory Affairs Director",
+            "salary": 228000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2008,
+            "company": "Pfizer AG (Swiss branch)",
+            "position": "CEO",
+            "salary": 227000
+        },
+        {
+            "start_year": 2010,
+            "end_year": null,
+            "company": "Pfizer AG (Swiss branch)",
+            "position": "Industry Leader",
+            "salary": 994000
+        }
+    ],
+    "aum": {
+        "savings": 1800000,
+        "inheritance": 260000,
+        "real_estate_value": 2670000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2005,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 2670000,
+            "property location": "Lugano"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Spain"
+    ],
+    "currency": "CHF"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Hansen Madsen Møller",
+    "first_name": "Hansen",
+    "middle_name": "Madsen",
+    "last_name": "Møller",
+    "passport_number": "ER9387447",
+    "currency": "DKK",
+    "address": {
+        "city": "Aarhus",
+        "street name": "Æbeløgade",
+        "street number": 25,
+        "postal code": "3615"
+    },
+    "country_of_domicile": "Denmark,Spain",
+    "phone_number": "+45 51 97 92 22",
+    "email_address": "hansen.mller@all.dk"
+}

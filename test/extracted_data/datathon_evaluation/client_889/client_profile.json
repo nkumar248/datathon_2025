@@ -1,0 +1,89 @@
+{
+    "name": "Smeets Janssen Terpstra",
+    "address": {
+        "city": "Enschede",
+        "street name": "Zuidas",
+        "street number": 59,
+        "postal code": "5709 29"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1971-05-12",
+    "nationality": "Dutch",
+    "passport_number": "OA6935253",
+    "passport_issue_date": "2017-10-18",
+    "passport_expiry_date": "2027-10-17",
+    "gender": "M",
+    "phone_number": "+31 06 31371434",
+    "email_address": "smeets.terpstra@planet.nl",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "CSG Willem van Oranje Apeldoorn",
+        "graduation_year": 1989
+    },
+    "higher_education": [
+        {
+            "university": "Rotterdam University of Applied Sciences",
+            "graduation_year": 1996
+        },
+        {
+            "university": "Wittenborg University of Applied Sciences",
+            "graduation_year": 1999
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1995,
+            "end_year": 1996,
+            "company": "Unilever N.V.",
+            "position": "Plant Manager",
+            "salary": 43000
+        },
+        {
+            "start_year": 1998,
+            "end_year": 2000,
+            "company": "Unilever N.V.",
+            "position": "Operations Director",
+            "salary": 60000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2005,
+            "company": "Unilever N.V.",
+            "position": "CEO",
+            "salary": 179000
+        },
+        {
+            "start_year": 2005,
+            "end_year": null,
+            "company": "Heineken N.V.",
+            "position": "Chairman",
+            "salary": 767000
+        }
+    ],
+    "aum": {
+        "savings": 1220000,
+        "inheritance": 5010000,
+        "real_estate_value": 2210000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2011,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2210000,
+            "property location": "Enschede"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

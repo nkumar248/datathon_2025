@@ -1,0 +1,17 @@
+{
+    "name": "María Almudena Suárez",
+    "first_name": "María",
+    "middle_name": "Almudena",
+    "last_name": "Suárez",
+    "passport_number": "YK9630232",
+    "currency": "EUR",
+    "address": {
+        "city": "Nurmijärvi",
+        "street name": "Meritullinkatu",
+        "street number": 1,
+        "postal code": "75949"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "044 932 06 88",
+    "email_address": "maria.suarez@telia.fi"
+}

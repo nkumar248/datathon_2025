@@ -1,0 +1,97 @@
+{
+    "name": "Aino Liisa Peltola",
+    "address": {
+        "city": "Oulu",
+        "street name": "Paasivuorenkatu",
+        "street number": 65,
+        "postal code": "13364"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1976-10-15",
+    "nationality": "Finnish",
+    "passport_number": "XN1491037",
+    "passport_issue_date": "2024-02-02",
+    "passport_expiry_date": "2034-02-01",
+    "gender": "F",
+    "phone_number": "+358 045 908 38 23",
+    "email_address": "aino.peltola@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Joensuu Christian College",
+        "graduation_year": 1994
+    },
+    "higher_education": [
+        {
+            "university": "University of Turku",
+            "graduation_year": 2001
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2001,
+            "end_year": 2005,
+            "company": "Sentica Partners Oy",
+            "position": "Analyst",
+            "salary": 35000
+        },
+        {
+            "start_year": 2007,
+            "end_year": 2008,
+            "company": "Sentica Partners Oy",
+            "position": "Associate",
+            "salary": 61000
+        },
+        {
+            "start_year": 2010,
+            "end_year": 2012,
+            "company": "Intera Partners Oy",
+            "position": "Investment Director",
+            "salary": 76000
+        },
+        {
+            "start_year": 2013,
+            "end_year": 2015,
+            "company": "CapMan Oyj",
+            "position": "Partner",
+            "salary": 130000
+        },
+        {
+            "start_year": 2017,
+            "end_year": null,
+            "company": "CapMan Oyj",
+            "position": "Fund Manager",
+            "salary": 253000
+        }
+    ],
+    "aum": {
+        "savings": 320000,
+        "inheritance": 1400000,
+        "real_estate_value": 3080000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2009,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 950000,
+            "property location": "Oulu"
+        },
+        {
+            "property type": "villa",
+            "property value": 2130000,
+            "property location": "Kotka"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Finland"
+    ],
+    "currency": "EUR"
+}

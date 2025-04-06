@@ -1,0 +1,17 @@
+{
+    "first_name": "Bruno",
+    "middle_name": "Malatesta",
+    "last_name": "Landi",
+    "gender": "M",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1955-02-25",
+    "passport_number": "TO3848241",
+    "passport_mrz": [
+        "P<ITALANDI<<BRUNO<MALATESTA<<<<<<<<<<<<<<<<<<",
+        "TO3848241ITA550225<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2021-04-03",
+    "passport_expiry_date": "2031-04-02"
+}

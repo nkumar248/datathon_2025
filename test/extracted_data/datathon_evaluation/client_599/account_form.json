@@ -1,0 +1,17 @@
+{
+    "name": "Maarika Vilma Hiltunen",
+    "first_name": "Maarika",
+    "middle_name": "Vilma",
+    "last_name": "Hiltunen",
+    "passport_number": "XN8428603",
+    "currency": "EUR",
+    "address": {
+        "city": "Imatra",
+        "street name": "Paasivuorenkatu",
+        "street number": 90,
+        "postal code": "13970"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 042 444 70 69",
+    "email_address": "maarika.hiltunen@icloud.com"
+}

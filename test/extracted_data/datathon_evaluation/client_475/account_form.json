@@ -1,0 +1,17 @@
+{
+    "name": "Tiainen Salo Uusitalo",
+    "first_name": "Tiainen",
+    "middle_name": "Salo",
+    "last_name": "Uusitalo",
+    "passport_number": "UL1134847",
+    "currency": "EUR",
+    "address": {
+        "city": "Espoo",
+        "street name": "Kaisaniemenkatu",
+        "street number": 75,
+        "postal code": "30767"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "042 007 99 55",
+    "email_address": "tiainen.uusitalo@finet.fi"
+}

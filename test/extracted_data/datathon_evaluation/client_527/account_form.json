@@ -1,0 +1,17 @@
+{
+    "name": "Anna Monika Koller",
+    "first_name": "Anna",
+    "middle_name": "Monika",
+    "last_name": "Koller",
+    "passport_number": "IR5159358",
+    "currency": "EUR",
+    "address": {
+        "city": "Traun",
+        "street name": "Schlossallee",
+        "street number": 50,
+        "postal code": "7601"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 665 645 4235",
+    "email_address": "anna.koller@magenta.at"
+}

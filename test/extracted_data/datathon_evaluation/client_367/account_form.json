@@ -1,0 +1,17 @@
+{
+    "name": "Brunner Baumgartner Kägi",
+    "first_name": "Brunner",
+    "middle_name": "Baumgartner",
+    "last_name": "Kägi",
+    "passport_number": "NU8794588",
+    "currency": "CHF",
+    "address": {
+        "city": "Chur",
+        "street name": "Mühlegasse",
+        "street number": 70,
+        "postal code": "8513"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 077 385 02 91",
+    "email_address": "brunner.kagi@icloud.com"
+}

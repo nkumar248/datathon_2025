@@ -1,0 +1,102 @@
+{
+    "name": "Knudsen Gundersen Hansen",
+    "address": {
+        "city": "Randers",
+        "street name": "Gammel Torv",
+        "street number": 40,
+        "postal code": "1419"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1969-06-21",
+    "nationality": "Danish",
+    "passport_number": "MU4506439",
+    "passport_issue_date": "2024-12-28",
+    "passport_expiry_date": "2034-12-27",
+    "gender": "M",
+    "phone_number": "35 30 34 40",
+    "email_address": "knudsen.hansen@yahoo.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Odense Katedralskole",
+        "graduation_year": 1988
+    },
+    "higher_education": [
+        {
+            "university": "University College Capital",
+            "graduation_year": 1980
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1994,
+            "end_year": 1999,
+            "company": "SAP Danmark A/S",
+            "position": "Software Developer",
+            "salary": 263000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2001,
+            "company": "IBM Danmark A/S",
+            "position": "Startup Founder",
+            "salary": 402000
+        },
+        {
+            "start_year": 2002,
+            "end_year": 2007,
+            "company": "Trifork A/S",
+            "position": "CEO",
+            "salary": 936000
+        },
+        {
+            "start_year": 2007,
+            "end_year": 2012,
+            "company": "Trifork A/S",
+            "position": "Venture Capitalist",
+            "salary": 2006000
+        },
+        {
+            "start_year": 2012,
+            "end_year": null,
+            "company": "SAP Danmark A/S",
+            "position": "Tech Industry Leader",
+            "salary": 5272000
+        }
+    ],
+    "aum": {
+        "savings": 9890000,
+        "inheritance": 4200000,
+        "real_estate_value": 3806000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2009,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1030000,
+            "property location": "Randers"
+        },
+        {
+            "property type": "house",
+            "property value": 1716000,
+            "property location": "Randers"
+        },
+        {
+            "property type": "flat",
+            "property value": 1060000,
+            "property location": "Esbjerg Ø"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Italy"
+    ],
+    "currency": "DKK"
+}

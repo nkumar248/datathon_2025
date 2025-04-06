@@ -62,7 +62,7 @@ os.makedirs(output_dir, exist_ok=True)
 client_zip_mapping = {}
 
 print("Extracting main data zip files...")
-main_zip_files = list(base_dir.glob("datathon_part*.zip"))  # RENAME THIS FOR TEST CASE
+main_zip_files = list(base_dir.glob("datathon_evaluation*.zip"))  # RENAME THIS FOR TEST CASE
 print(f"Found {len(main_zip_files)} main data zip files")
 
 for main_zip in main_zip_files:
@@ -70,8 +70,8 @@ for main_zip in main_zip_files:
     os.makedirs(part_dir, exist_ok=True)
     
     print(f"Extracting {main_zip} to {part_dir}")
-    with zipfile.ZipFile(main_zip, 'r') as zip_ref:
-        zip_ref.extractall(part_dir)
+    # with zipfile.ZipFile(main_zip, 'r') as zip_ref:
+    #     zip_ref.extractall(part_dir)
 
 print("\nProcessing client zip files...")
 for part_dir in data_dir.iterdir():
@@ -91,8 +91,9 @@ for part_dir in data_dir.iterdir():
         
         # Extract client data
         if not extract_dir.exists():
-            with zipfile.ZipFile(client_zip, 'r') as zip_ref:
-                zip_ref.extractall(extract_dir)
+            # with zipfile.ZipFile(client_zip, 'r') as zip_ref:
+            #     zip_ref.extractall(extract_dir)
+            pass
 
 # Process the JSON files in each client directory
 print("\nProcessing JSON files...")

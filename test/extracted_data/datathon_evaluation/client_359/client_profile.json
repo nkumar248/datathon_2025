@@ -1,0 +1,49 @@
+{
+    "name": "Emma Evelyne Suter",
+    "address": {
+        "city": "Bern",
+        "street name": "Niederdorf",
+        "street number": 33,
+        "postal code": "2498"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "2001-02-16",
+    "nationality": "Swiss",
+    "passport_number": "BJ5840698",
+    "passport_issue_date": "2021-03-23",
+    "passport_expiry_date": "2030-07-17",
+    "gender": "F",
+    "phone_number": "+41 094 046 26 55",
+    "email_address": "emma.suter@gmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Gymnasium Köniz Bern",
+        "graduation_year": 2019
+    },
+    "higher_education": [
+        {
+            "university": "University of Bern",
+            "graduation_year": 2023
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1200000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

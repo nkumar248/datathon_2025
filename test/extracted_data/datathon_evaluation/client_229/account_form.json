@@ -1,0 +1,17 @@
+{
+    "name": "Émilie Laetitia Boucher",
+    "first_name": "Émilie",
+    "middle_name": "Laetitia",
+    "last_name": "Boucher",
+    "passport_number": "BG4617404",
+    "currency": "EUR",
+    "address": {
+        "city": "Rennes",
+        "street name": "Place Vendôme",
+        "street number": 70,
+        "postal code": "37353"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 08 12 51 96 86",
+    "email_address": "emilie.boucher@numericable.fr"
+}

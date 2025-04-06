@@ -1,0 +1,17 @@
+{
+    "first_name": "Nicolas",
+    "middle_name": "Louis",
+    "last_name": "Gauthier",
+    "gender": "M",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "2001-01-14",
+    "passport_number": "WN1992419",
+    "passport_mrz": [
+        "P<FRAGAUTHIER<<NICOLAS<LOUIS<<<<<<<<<<<<<<<<<",
+        "WN1992419FRA010114<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-04-14",
+    "passport_expiry_date": "2033-04-13"
+}

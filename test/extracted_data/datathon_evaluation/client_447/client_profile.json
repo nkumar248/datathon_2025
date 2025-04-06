@@ -1,0 +1,87 @@
+{
+    "name": "Margot Gabriella Peeters",
+    "address": {
+        "city": "Antwerp",
+        "street name": "Place de la Liberté",
+        "street number": 16,
+        "postal code": "8607"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1945-09-30",
+    "nationality": "Belgian",
+    "passport_number": "CG8528890",
+    "passport_issue_date": "2019-03-18",
+    "passport_expiry_date": "2026-03-17",
+    "gender": "F",
+    "phone_number": "0400 409 451",
+    "email_address": "margot.peeters@proximus.be",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Koninklijk Atheneum Anderlecht",
+        "graduation_year": 1974
+    },
+    "higher_education": [
+        {
+            "university": "Hasselt University",
+            "graduation_year": 1979
+        },
+        {
+            "university": "Vesalius College",
+            "graduation_year": 1983
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1979,
+            "end_year": 1982,
+            "company": "Nyrstar NV",
+            "position": "Plant Manager",
+            "salary": 40000
+        },
+        {
+            "start_year": 1983,
+            "end_year": 1988,
+            "company": "Bekaert SA",
+            "position": "Operations Director",
+            "salary": 67000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 2015,
+            "company": "ArcelorMittal Belgium NV",
+            "position": "CEO",
+            "salary": 496000
+        }
+    ],
+    "aum": {
+        "savings": 860000,
+        "inheritance": 0,
+        "real_estate_value": 4630000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2270000,
+            "property location": "Antwerp"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1250000,
+            "property location": "Sint-Niklaas"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1110000,
+            "property location": "Lokeren"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

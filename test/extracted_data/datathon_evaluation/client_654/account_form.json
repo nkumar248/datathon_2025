@@ -1,0 +1,17 @@
+{
+    "name": "Laetitia Laurène Renault",
+    "first_name": "Laetitia",
+    "middle_name": "Laurène",
+    "last_name": "Renault",
+    "passport_number": "TB6673253",
+    "currency": "EUR",
+    "address": {
+        "city": "Angers",
+        "street name": "Rue de la Paix",
+        "street number": 44,
+        "postal code": "47189"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 01 67 69 05 25",
+    "email_address": "laetitia.renault@yahoo.com"
+}

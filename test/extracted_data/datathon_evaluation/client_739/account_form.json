@@ -1,0 +1,17 @@
+{
+    "name": "Richter Klein Schulze",
+    "first_name": "Richter",
+    "middle_name": "Klein",
+    "last_name": "Schulze",
+    "passport_number": "RN1314143",
+    "currency": "EUR",
+    "address": {
+        "city": "Monchengladbach",
+        "street name": "Kronprinzstraße",
+        "street number": 90,
+        "postal code": "93614"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "4591 441185",
+    "email_address": "richter.schulze@gmail.com"
+}

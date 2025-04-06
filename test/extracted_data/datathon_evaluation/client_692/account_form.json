@@ -1,0 +1,17 @@
+{
+    "name": "Maassen Voorn",
+    "first_name": "Maassen",
+    "middle_name": "",
+    "last_name": "Voorn",
+    "passport_number": "AR8772319",
+    "currency": "EUR",
+    "address": {
+        "city": "Imatra",
+        "street name": "Neljäs linja",
+        "street number": 21,
+        "postal code": "14510"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "047 105 34 42",
+    "email_address": "maassen.voorn@gmail.com"
+}

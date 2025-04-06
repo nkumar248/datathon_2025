@@ -1,0 +1,17 @@
+{
+    "first_name": "Viitanen",
+    "middle_name": "Koskinen",
+    "last_name": "Salminen",
+    "gender": "M",
+    "country": "Finland",
+    "country_code": "FIN",
+    "nationality": "Finnish",
+    "birth_date": "1968-11-14",
+    "passport_number": "BG5602888",
+    "passport_mrz": [
+        "P<FINSALMINEN<<VIITANEN<KOSKINEN<<<<<<<<<<<<<",
+        "BG5602888FIN681114<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-08-25",
+    "passport_expiry_date": "2032-08-24"
+}

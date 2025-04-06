@@ -1,0 +1,50 @@
+{
+    "name": "Dupont Peiren Lambrechts",
+    "address": {
+        "city": "Sint-Niklaas",
+        "street name": "Rue des Sœurs Noires",
+        "street number": 39,
+        "postal code": "5477"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "2001-02-25",
+    "nationality": "Belgian",
+    "passport_number": "AW6413009",
+    "passport_issue_date": "2019-05-30",
+    "passport_expiry_date": "2026-05-29",
+    "gender": "M",
+    "phone_number": "+32 0424 439 686",
+    "email_address": "dupont.lambrechts@icloud.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Institut Saint-Guibert",
+        "graduation_year": 2019
+    },
+    "higher_education": [
+        {
+            "university": "Vesalius College",
+            "graduation_year": 2025
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 2060000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

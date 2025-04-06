@@ -1,0 +1,83 @@
+{
+    "name": "Gómez Torres Martín",
+    "address": {
+        "city": "Toledo",
+        "street name": "Puerta del Sol",
+        "street number": 57,
+        "postal code": "55075"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1970-08-31",
+    "nationality": "Spanish",
+    "passport_number": "KZ2341061",
+    "passport_issue_date": "2018-05-01",
+    "passport_expiry_date": "2028-04-30",
+    "gender": "M",
+    "phone_number": "+34 697 748 366",
+    "email_address": "gomez.martin@yahoo.es",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "IES Antonio Machado Logroño",
+        "graduation_year": 1988
+    },
+    "higher_education": [
+        {
+            "university": "Polytechnic University of Madrid",
+            "graduation_year": 1994
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1995,
+            "end_year": 2000,
+            "company": "Naviera Armas S.A.",
+            "position": "Ship Broker",
+            "salary": 28000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2001,
+            "company": "Peñarroya Shipping S.A.",
+            "position": "Shipping Company Owner",
+            "salary": 37000
+        },
+        {
+            "start_year": 2003,
+            "end_year": 2025,
+            "company": "Transmediterránea S.A.",
+            "position": "Fleet Manager",
+            "salary": 333000
+        }
+    ],
+    "aum": {
+        "savings": 520000,
+        "inheritance": 5450000,
+        "real_estate_value": 2010000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2011,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 861000,
+            "property location": "Toledo"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1149000,
+            "property location": "Teruel"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

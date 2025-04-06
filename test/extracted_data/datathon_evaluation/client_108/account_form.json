@@ -1,0 +1,17 @@
+{
+    "name": "Hernández Sánchez Navarro",
+    "first_name": "Hernández",
+    "middle_name": "Sánchez",
+    "last_name": "Navarro",
+    "passport_number": "UH3673763",
+    "currency": "EUR",
+    "address": {
+        "city": "Santa Cruz de Tenerife",
+        "street name": "Passeig Marítim",
+        "street number": 18,
+        "postal code": "38947"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 649 647 756",
+    "email_address": "hernandez.navarro@gmail.com"
+}

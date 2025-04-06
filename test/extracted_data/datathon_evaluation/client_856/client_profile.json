@@ -1,0 +1,64 @@
+{
+    "name": "Laurène Ève Dubois",
+    "address": {
+        "city": "Bern",
+        "street name": "Place des Halles",
+        "street number": 76,
+        "postal code": "7634"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1998-01-11",
+    "nationality": "French",
+    "passport_number": "XK0654293",
+    "passport_issue_date": "2021-05-23",
+    "passport_expiry_date": "2031-05-22",
+    "gender": "F",
+    "phone_number": "+41 036 810 57 22",
+    "email_address": "laurene.dubois@freedom.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Buffon",
+        "graduation_year": 2016
+    },
+    "higher_education": [
+        {
+            "university": "HEC Paris",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2021,
+            "end_year": 2023,
+            "company": "UBS AG",
+            "position": "Family Office Manager",
+            "salary": 34000
+        },
+        {
+            "start_year": 2025,
+            "end_year": null,
+            "company": "Julius Baer Gruppe AG",
+            "position": "Investment Director",
+            "salary": 44000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 990000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

@@ -1,0 +1,76 @@
+{
+    "name": "Kaiser Egger Fuchs",
+    "address": {
+        "city": "Klagenfurt",
+        "street name": "Schlossallee",
+        "street number": 12,
+        "postal code": "3782"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1958-11-23",
+    "nationality": "Austrian",
+    "passport_number": "XW4429525",
+    "passport_issue_date": "2016-09-07",
+    "passport_expiry_date": "2026-09-06",
+    "gender": "M",
+    "phone_number": "+43 437 483 3583",
+    "email_address": "kaiser.fuchs@gmx.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "BG/BRG Neusiedl am See",
+        "graduation_year": 1978
+    },
+    "higher_education": [
+        {
+            "university": "Vienna University of Economics and Business",
+            "graduation_year": 1982
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1982,
+            "end_year": 1987,
+            "company": "Swarovski AG",
+            "position": "Assistant Designer",
+            "salary": 45000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 2019,
+            "company": "Swarovski AG",
+            "position": "Senior Designer",
+            "salary": 302000
+        }
+    ],
+    "aum": {
+        "savings": 580000,
+        "inheritance": 0,
+        "real_estate_value": 2900000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 920000,
+            "property location": "Klagenfurt"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1040000,
+            "property location": "Innsbruck"
+        },
+        {
+            "property type": "condo",
+            "property value": 940000,
+            "property location": "Tulln an der Donau"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

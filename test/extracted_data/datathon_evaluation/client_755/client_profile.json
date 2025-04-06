@@ -1,0 +1,86 @@
+{
+    "name": "Tiainen Lehtinen Tolvanen",
+    "address": {
+        "city": "Herstal",
+        "street name": "Rue de la République",
+        "street number": 62,
+        "postal code": "5170"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1979-03-05",
+    "nationality": "Finnish",
+    "passport_number": "ID1733000",
+    "passport_issue_date": "2021-11-25",
+    "passport_expiry_date": "2031-11-24",
+    "gender": "M",
+    "phone_number": "0464 400 002",
+    "email_address": "tiainen.tolvanen@icloud.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Kiteen lukio",
+        "graduation_year": 1998
+    },
+    "higher_education": [
+        {
+            "university": "University of Oulu",
+            "graduation_year": 2002
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2003,
+            "end_year": 2007,
+            "company": "Stella McCartney Belgium",
+            "position": "Assistant Designer",
+            "salary": 43000
+        },
+        {
+            "start_year": 2009,
+            "end_year": 2013,
+            "company": "Walter Van Beirendonck BVBA",
+            "position": "Senior Designer",
+            "salary": 60000
+        },
+        {
+            "start_year": 2014,
+            "end_year": 2018,
+            "company": "Walter Van Beirendonck BVBA",
+            "position": "Creative Director",
+            "salary": 86000
+        },
+        {
+            "start_year": 2020,
+            "end_year": null,
+            "company": "Stella McCartney Belgium",
+            "position": "Founder/Designer",
+            "salary": 262000
+        }
+    ],
+    "aum": {
+        "savings": 310000,
+        "inheritance": 460000,
+        "real_estate_value": 1050000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2010,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1050000,
+            "property location": "Herstal"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "France",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

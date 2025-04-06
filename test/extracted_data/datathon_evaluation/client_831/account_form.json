@@ -1,0 +1,17 @@
+{
+    "name": "Huber Rieder Fuchs",
+    "first_name": "Huber",
+    "middle_name": "Rieder",
+    "last_name": "Fuchs",
+    "passport_number": "MR5873777",
+    "currency": "EUR",
+    "address": {
+        "city": "Klagenfurt",
+        "street name": "Spiegelgasse",
+        "street number": 92,
+        "postal code": "6986"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 173 261 5262",
+    "email_address": "huber.fuchs@hotmail.com"
+}

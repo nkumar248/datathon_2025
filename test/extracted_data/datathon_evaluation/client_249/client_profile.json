@@ -1,0 +1,91 @@
+{
+    "name": "Raes Segers Roose",
+    "address": {
+        "city": "La Louvière",
+        "street name": "Chaussée de Waterloo",
+        "street number": 16,
+        "postal code": "9325"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1970-04-13",
+    "nationality": "Belgian",
+    "passport_number": "MG6021492",
+    "passport_issue_date": "2019-09-03",
+    "passport_expiry_date": "2026-09-02",
+    "gender": "M",
+    "phone_number": "+32 0466 250 481",
+    "email_address": "raes.roose@proximus.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Institut Notre-Dame de la Paix",
+        "graduation_year": 1990
+    },
+    "higher_education": [
+        {
+            "university": "University of Mons",
+            "graduation_year": 1994
+        },
+        {
+            "university": "Vesalius College",
+            "graduation_year": 1997
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1994,
+            "end_year": 1999,
+            "company": "BNP Paribas Wealth Management Belgium",
+            "position": "Financial Advisor",
+            "salary": 49000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2001,
+            "company": "KBC Private Banking NV",
+            "position": "Portfolio Manager",
+            "salary": 50000
+        },
+        {
+            "start_year": 2002,
+            "end_year": null,
+            "company": "BNP Paribas Wealth Management Belgium",
+            "position": "Wealth Manager",
+            "salary": 608000
+        }
+    ],
+    "aum": {
+        "savings": 1160000,
+        "inheritance": 3160000,
+        "real_estate_value": 4540000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2013,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 925000,
+            "property location": "La Louvière"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 970000,
+            "property location": "Charleroi"
+        },
+        {
+            "property type": "villa",
+            "property value": 2645000,
+            "property location": "Herstal"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

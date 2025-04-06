@@ -1,0 +1,17 @@
+{
+    "first_name": "Clémentine",
+    "middle_name": "Laetitia",
+    "last_name": "Garcia",
+    "gender": "F",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1961-06-03",
+    "passport_number": "BD8695678",
+    "passport_mrz": [
+        "P<FRAGARCIA<<CLÉMENTINE<LAETITIA<<<<<<<<<<<<<",
+        "BD8695678FRA610603<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2018-06-26",
+    "passport_expiry_date": "2028-06-25"
+}

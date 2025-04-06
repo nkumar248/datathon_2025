@@ -1,0 +1,17 @@
+{
+    "name": "Lorenz Richter",
+    "first_name": "Lorenz",
+    "middle_name": "",
+    "last_name": "Richter",
+    "passport_number": "TH3486112",
+    "currency": "EUR",
+    "address": {
+        "city": "Erlangen",
+        "street name": "Kantstraße",
+        "street number": 66,
+        "postal code": "47420"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 8168 624350",
+    "email_address": "lorenz.richter@icloud.com"
+}

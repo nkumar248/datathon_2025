@@ -1,0 +1,98 @@
+{
+    "name": "Emma Garance Dubois",
+    "address": {
+        "city": "Angers",
+        "street name": "Place des Vosges",
+        "street number": 36,
+        "postal code": "93985"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1958-08-17",
+    "nationality": "French",
+    "passport_number": "XU4991380",
+    "passport_issue_date": "2016-12-04",
+    "passport_expiry_date": "2026-12-03",
+    "gender": "F",
+    "phone_number": "+33 02 22 70 84 03",
+    "email_address": "emma.dubois@gmail.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Lycée Henri IV",
+        "graduation_year": 1978
+    },
+    "higher_education": [
+        {
+            "university": "EMIC de Lyon",
+            "graduation_year": 1983
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1983,
+            "end_year": 1986,
+            "company": "Saint-Gobain S.A.",
+            "position": "Plant Manager",
+            "salary": 32000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 1987,
+            "company": "Legrand S.A.",
+            "position": "Operations Director",
+            "salary": 50000
+        },
+        {
+            "start_year": 1988,
+            "end_year": 1989,
+            "company": "Legrand S.A.",
+            "position": "CEO",
+            "salary": 61000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 1996,
+            "company": "Alstom S.A.",
+            "position": "Chairman",
+            "salary": 267000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 2019,
+            "company": "Alstom S.A.",
+            "position": "Conglomerate Owner",
+            "salary": 760000
+        }
+    ],
+    "aum": {
+        "savings": 1450000,
+        "inheritance": 0,
+        "real_estate_value": 6744000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2410000,
+            "property location": "Angers"
+        },
+        {
+            "property type": "house",
+            "property value": 1644000,
+            "property location": "Brest"
+        },
+        {
+            "property type": "villa",
+            "property value": 2690000,
+            "property location": "Lyon"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "France"
+    ],
+    "currency": "EUR"
+}

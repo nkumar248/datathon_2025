@@ -1,0 +1,89 @@
+{
+    "name": "Beatrice Anna Rizzo",
+    "address": {
+        "city": "Pisa",
+        "street name": "Via Veneto",
+        "street number": 28,
+        "postal code": "20002"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1974-10-26",
+    "nationality": "Italian",
+    "passport_number": "XZ0405264",
+    "passport_issue_date": "2023-12-04",
+    "passport_expiry_date": "2033-12-03",
+    "gender": "F",
+    "phone_number": "339 1351867",
+    "email_address": "beatrice.rizzo@libero.it",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Liceo Classico Giovanni Paolo II Catania",
+        "graduation_year": 1994
+    },
+    "higher_education": [
+        {
+            "university": "University of Rome La Sapienza",
+            "graduation_year": 1999
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1999,
+            "end_year": 2002,
+            "company": "Galleria degli Uffizi",
+            "position": "Art Dealer",
+            "salary": 28000
+        },
+        {
+            "start_year": 2002,
+            "end_year": 2004,
+            "company": "Pinacoteca di Brera",
+            "position": "Gallery Owner",
+            "salary": 37000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2007,
+            "company": "Pinacoteca di Brera",
+            "position": "Art Advisor",
+            "salary": 65000
+        },
+        {
+            "start_year": 2007,
+            "end_year": null,
+            "company": "Galleria degli Uffizi",
+            "position": "Curator",
+            "salary": 534000
+        }
+    ],
+    "aum": {
+        "savings": 770000,
+        "inheritance": 1750000,
+        "real_estate_value": 2140000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2015,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1039000,
+            "property location": "Pisa"
+        },
+        {
+            "property type": "house",
+            "property value": 1101000,
+            "property location": "Trieste"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

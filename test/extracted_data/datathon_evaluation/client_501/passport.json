@@ -1,0 +1,17 @@
+{
+    "first_name": "Fabienne",
+    "middle_name": "",
+    "last_name": "Baumgartner",
+    "gender": "F",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "2001-12-27",
+    "passport_number": "FX8917470",
+    "passport_mrz": [
+        "P<CHEBAUMGARTNER<<FABIENNE<<<<<<<<<<<<<<<<<<<",
+        "FX8917470CHE011227<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2021-09-07",
+    "passport_expiry_date": "2031-09-06"
+}

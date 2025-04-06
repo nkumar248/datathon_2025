@@ -1,0 +1,17 @@
+{
+    "name": "Lambert Martin",
+    "first_name": "Lambert",
+    "middle_name": "",
+    "last_name": "Martin",
+    "passport_number": "CG9117783",
+    "currency": "EUR",
+    "address": {
+        "city": "Rennes",
+        "street name": "Avenue Parmentier",
+        "street number": 70,
+        "postal code": "54564"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "03 49 68 52 59",
+    "email_address": "lambert.martin@live.fr"
+}

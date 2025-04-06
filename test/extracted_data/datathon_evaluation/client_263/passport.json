@@ -1,0 +1,17 @@
+{
+    "first_name": "Élodie",
+    "middle_name": "Daphné",
+    "last_name": "Maes",
+    "gender": "F",
+    "country": "Belgium",
+    "country_code": "BEL",
+    "nationality": "Belgian",
+    "birth_date": "1974-08-28",
+    "passport_number": "SU6240598",
+    "passport_mrz": [
+        "P<BELMAES<<ÉLODIE<DAPHNÉ<<<<<<<<<<<<<<<<<<<<<",
+        "SU6240598BEL740828<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-08-10",
+    "passport_expiry_date": "2030-08-09"
+}

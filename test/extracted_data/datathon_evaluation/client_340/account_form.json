@@ -1,0 +1,17 @@
+{
+    "name": "Michiels Sanders Peters",
+    "first_name": "Michiels",
+    "middle_name": "Sanders",
+    "last_name": "Peters",
+    "passport_number": "PY0491637",
+    "currency": "EUR",
+    "address": {
+        "city": "Mol",
+        "street name": "Grand Place",
+        "street number": 54,
+        "postal code": "1383"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0462 871 432",
+    "email_address": "michiels.peters@hotmail.com"
+}

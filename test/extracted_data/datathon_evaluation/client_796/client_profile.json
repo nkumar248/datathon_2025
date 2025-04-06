@@ -1,0 +1,76 @@
+{
+    "name": "Clémentine Laetitia Garcia",
+    "address": {
+        "city": "Orléans",
+        "street name": "Pont des Arts",
+        "street number": 26,
+        "postal code": "93749"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1961-06-03",
+    "nationality": "French",
+    "passport_number": "BD8695678",
+    "passport_issue_date": "2018-06-26",
+    "passport_expiry_date": "2028-06-25",
+    "gender": "F",
+    "phone_number": "06 24 14 05 97",
+    "email_address": "clementine.garcia@numericable.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Vaucanson",
+        "graduation_year": 1979
+    },
+    "higher_education": [
+        {
+            "university": "École Polytechnique",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1985,
+            "end_year": 1988,
+            "company": "Schneider Electric S.E.",
+            "position": "Plant Manager",
+            "salary": 0
+        },
+        {
+            "start_year": 1989,
+            "end_year": 2022,
+            "company": "Saint-Gobain S.A.",
+            "position": "Operations Director",
+            "salary": 275000
+        }
+    ],
+    "aum": {
+        "savings": 580000,
+        "inheritance": 0,
+        "real_estate_value": 5692000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 3410000,
+            "property location": "Orléans"
+        },
+        {
+            "property type": "flat",
+            "property value": 1212000,
+            "property location": "Rennes"
+        },
+        {
+            "property type": "flat",
+            "property value": 1070000,
+            "property location": "Limoges"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

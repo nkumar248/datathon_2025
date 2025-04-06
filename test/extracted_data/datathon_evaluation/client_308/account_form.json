@@ -1,0 +1,17 @@
+{
+    "name": "Lucas Juliette Lemaire",
+    "first_name": "Lucas",
+    "middle_name": "Juliette",
+    "last_name": "Lemaire",
+    "passport_number": "PJ1729203",
+    "currency": "EUR",
+    "address": {
+        "city": "Lokeren",
+        "street name": "Rue de la Révolution Belge",
+        "street number": 5,
+        "postal code": "9313"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0436 408 994",
+    "email_address": "lucas.lemaire@scarlet.be"
+}

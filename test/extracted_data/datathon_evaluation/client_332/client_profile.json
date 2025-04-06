@@ -1,0 +1,77 @@
+{
+    "name": "Emma Araceli Jiménez",
+    "address": {
+        "city": "Jerez de la Frontera",
+        "street name": "Calle de Alcalá",
+        "street number": 70,
+        "postal code": "16742"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1974-10-09",
+    "nationality": "Spanish",
+    "passport_number": "XN0876568",
+    "passport_issue_date": "2017-01-23",
+    "passport_expiry_date": "2027-01-22",
+    "gender": "F",
+    "phone_number": "604 341 423",
+    "email_address": "emma.jimenez@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "IES María Zambrano Sevilla",
+        "graduation_year": 1992
+    },
+    "higher_education": [
+        {
+            "university": "Complutense University of Madrid",
+            "graduation_year": 1998
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1998,
+            "end_year": 2000,
+            "company": "CaixaBank S.A.",
+            "position": "Family Office Manager",
+            "salary": 24000
+        },
+        {
+            "start_year": 2002,
+            "end_year": 2007,
+            "company": "BBVA S.A.",
+            "position": "Investment Director",
+            "salary": 52000
+        },
+        {
+            "start_year": 2009,
+            "end_year": null,
+            "company": "Banco Santander S.A.",
+            "position": "CFO",
+            "salary": 196000
+        }
+    ],
+    "aum": {
+        "savings": 340000,
+        "inheritance": 2850000,
+        "real_estate_value": 1690000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2012,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1690000,
+            "property location": "Jerez de la Frontera"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

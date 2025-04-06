@@ -1,0 +1,57 @@
+{
+    "name": "Esposito Rizzo Lombardi",
+    "address": {
+        "city": "Palermo",
+        "street name": "Corso Como",
+        "street number": 27,
+        "postal code": "31516"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1998-06-10",
+    "nationality": "Italian",
+    "passport_number": "KJ6749684",
+    "passport_issue_date": "2022-08-24",
+    "passport_expiry_date": "2032-08-23",
+    "gender": "M",
+    "phone_number": "+39 381 2955589",
+    "email_address": "esposito.lombardi@tiscali.it",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Liceo Classico Annibale Mariotti Siena",
+        "graduation_year": 2016
+    },
+    "higher_education": [
+        {
+            "university": "Luiss Guido Carli",
+            "graduation_year": 2022
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2022,
+            "end_year": 2024,
+            "company": "Galleria Borghese",
+            "position": "Art Dealer",
+            "salary": 0
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 2030000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

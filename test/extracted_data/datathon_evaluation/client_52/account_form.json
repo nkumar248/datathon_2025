@@ -1,0 +1,17 @@
+{
+    "name": "Peeters Vogel Wagemakers",
+    "first_name": "Peeters",
+    "middle_name": "Vogel",
+    "last_name": "Wagemakers",
+    "passport_number": "LI2419650",
+    "currency": "EUR",
+    "address": {
+        "city": "Zaandam",
+        "street name": "Waterlooplein",
+        "street number": 24,
+        "postal code": "8165 48"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "06 54070666",
+    "email_address": "peeters.wagemakers@live.nl"
+}

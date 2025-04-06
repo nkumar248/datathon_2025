@@ -1,0 +1,17 @@
+{
+    "first_name": "Moreau",
+    "middle_name": "",
+    "last_name": "Fournier",
+    "gender": "M",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1966-01-30",
+    "passport_number": "TW4694567",
+    "passport_mrz": [
+        "P<FRAFOURNIER<<MOREAU<<<<<<<<<<<<<<<<<<<<<<<<",
+        "TW4694567FRA660130<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-06-08",
+    "passport_expiry_date": "2033-06-07"
+}

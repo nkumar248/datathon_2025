@@ -1,0 +1,17 @@
+{
+    "name": "Virtanen Paananen Laine",
+    "first_name": "Virtanen",
+    "middle_name": "Paananen",
+    "last_name": "Laine",
+    "passport_number": "DK2374826",
+    "currency": "EUR",
+    "address": {
+        "city": "Hämeenlinna",
+        "street name": "Helsinginkatu",
+        "street number": 71,
+        "postal code": "57910"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 040 318 89 901",
+    "email_address": "virtanen.laine@surffi.net"
+}

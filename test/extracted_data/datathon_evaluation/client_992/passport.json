@@ -1,0 +1,17 @@
+{
+    "first_name": "Boucher",
+    "middle_name": "Thomas",
+    "last_name": "Bernard",
+    "gender": "M",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1998-09-17",
+    "passport_number": "CO9327673",
+    "passport_mrz": [
+        "P<FRABERNARD<<BOUCHER<THOMAS<<<<<<<<<<<<<<<<<",
+        "CO9327673FRA980917<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2021-07-06",
+    "passport_expiry_date": "2031-07-05"
+}

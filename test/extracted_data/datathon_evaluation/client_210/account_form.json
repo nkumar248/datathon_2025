@@ -1,0 +1,17 @@
+{
+    "name": "Herrmann Krüger Schulze",
+    "first_name": "Herrmann",
+    "middle_name": "Krüger",
+    "last_name": "Schulze",
+    "passport_number": "KG1256831",
+    "currency": "EUR",
+    "address": {
+        "city": "Münster",
+        "street name": "Brandenburgische Straße",
+        "street number": 4,
+        "postal code": "06096"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "8787 605590",
+    "email_address": "herrmann.schulze@versatel.de"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Wagemakers Vogel Maassen",
+    "first_name": "Wagemakers",
+    "middle_name": "Vogel",
+    "last_name": "Maassen",
+    "passport_number": "XW5570843",
+    "currency": "EUR",
+    "address": {
+        "city": "Assen",
+        "street name": "Torenstraat",
+        "street number": 78,
+        "postal code": "9971 27"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 29324982",
+    "email_address": "wagemakers.maassen@hetnet.nl"
+}

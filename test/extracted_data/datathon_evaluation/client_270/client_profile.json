@@ -1,0 +1,84 @@
+{
+    "name": "Salminen Tiainen Rissanen",
+    "address": {
+        "city": "Lahti",
+        "street name": "Telakkakatu",
+        "street number": 31,
+        "postal code": "29940"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1954-10-05",
+    "nationality": "Finnish",
+    "passport_number": "SF3444006",
+    "passport_issue_date": "2018-01-05",
+    "passport_expiry_date": "2028-01-04",
+    "gender": "M",
+    "phone_number": "043 354 03 97",
+    "email_address": "salminen.rissanen@phoenix.fi",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Siuntion lukio",
+        "graduation_year": 1972
+    },
+    "higher_education": [
+        {
+            "university": "Aalto University School of Arts, Design and Architecture",
+            "graduation_year": 1977
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1978,
+            "end_year": 1982,
+            "company": "Sanoma Media Finland Oy",
+            "position": "Journalist",
+            "salary": 36000
+        },
+        {
+            "start_year": 1984,
+            "end_year": 1988,
+            "company": "Yleisradio Oy",
+            "position": "Editor",
+            "salary": 64000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 2015,
+            "company": "MTV3 Oy",
+            "position": "Publisher",
+            "salary": 526000
+        }
+    ],
+    "aum": {
+        "savings": 910000,
+        "inheritance": 0,
+        "real_estate_value": 2917000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1237000,
+            "property location": "Lahti"
+        },
+        {
+            "property type": "condo",
+            "property value": 840000,
+            "property location": "Espoo"
+        },
+        {
+            "property type": "condo",
+            "property value": 840000,
+            "property location": "Pori"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "France"
+    ],
+    "currency": "EUR"
+}

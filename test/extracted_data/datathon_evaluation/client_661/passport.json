@@ -1,0 +1,17 @@
+{
+    "first_name": "Dubois",
+    "middle_name": "Bertrand",
+    "last_name": "Bernard",
+    "gender": "M",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "2002-05-06",
+    "passport_number": "MX7400647",
+    "passport_mrz": [
+        "P<FRABERNARD<<DUBOIS<BERTRAND<<<<<<<<<<<<<<<<",
+        "MX7400647FRA020506<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-03-01",
+    "passport_expiry_date": "2032-02-29"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Kaufmann Furrer Burkart",
+    "first_name": "Kaufmann",
+    "middle_name": "Furrer",
+    "last_name": "Burkart",
+    "passport_number": "KY3102319",
+    "currency": "CHF",
+    "address": {
+        "city": "Thun",
+        "street name": "Steinstrasse",
+        "street number": 50,
+        "postal code": "5724"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 020 408 97 57",
+    "email_address": "kaufmann.burkart@freedom.ch"
+}

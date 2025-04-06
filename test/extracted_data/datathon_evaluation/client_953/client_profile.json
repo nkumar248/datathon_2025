@@ -1,0 +1,75 @@
+{
+    "name": "Fuchs Rieder Reiter",
+    "address": {
+        "city": "Stockerau",
+        "street name": "Donaustraße",
+        "street number": 82,
+        "postal code": "1665"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1988-02-24",
+    "nationality": "Austrian",
+    "passport_number": "BW6971467",
+    "passport_issue_date": "2022-11-23",
+    "passport_expiry_date": "2032-11-22",
+    "gender": "M",
+    "phone_number": "+43 727 105 4199",
+    "email_address": "fuchs.reiter@liwest.at",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Erzbischöfliches Gymnasium Borromäum",
+        "graduation_year": 2006
+    },
+    "higher_education": [
+        {
+            "university": "Montanuniversität Leoben",
+            "graduation_year": 2011
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2012,
+            "end_year": 2015,
+            "company": "Marinomed Biotechnologie GmbH",
+            "position": "Research Scientist",
+            "salary": 31000
+        },
+        {
+            "start_year": 2015,
+            "end_year": null,
+            "company": "Octapharma AG",
+            "position": "Biotech Startup Founder",
+            "salary": 62000
+        }
+    ],
+    "aum": {
+        "savings": 80000,
+        "inheritance": 3750000,
+        "real_estate_value": 1780000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 880000,
+            "property location": "Stockerau"
+        },
+        {
+            "property type": "condo",
+            "property value": 900000,
+            "property location": "Eisenstadt"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

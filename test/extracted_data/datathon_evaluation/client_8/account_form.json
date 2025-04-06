@@ -1,0 +1,17 @@
+{
+    "name": "Joris Wouters Smets",
+    "first_name": "Joris",
+    "middle_name": "Wouters",
+    "last_name": "Smets",
+    "passport_number": "PM4993564",
+    "currency": "EUR",
+    "address": {
+        "city": "Antwerp",
+        "street name": "Rue des Deux Portes",
+        "street number": 24,
+        "postal code": "3965"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0496 313 378",
+    "email_address": "joris.smets@voo.be"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Yara Daniëlle Brinkman",
+    "first_name": "Yara",
+    "middle_name": "Daniëlle",
+    "last_name": "Brinkman",
+    "passport_number": "SA3933734",
+    "currency": "EUR",
+    "address": {
+        "city": "Leeuwarden",
+        "street name": "Markt",
+        "street number": 25,
+        "postal code": "6904 87"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 22735008",
+    "email_address": "yara.brinkman@gmail.com"
+}

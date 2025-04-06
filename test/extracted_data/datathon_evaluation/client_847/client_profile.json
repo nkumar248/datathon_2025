@@ -1,0 +1,92 @@
+{
+    "name": "Delphine Alice Marchand",
+    "address": {
+        "city": "Rouen",
+        "street name": "Rue de Bretagne",
+        "street number": 59,
+        "postal code": "18585"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1975-07-15",
+    "nationality": "French",
+    "passport_number": "AC3364823",
+    "passport_issue_date": "2022-01-06",
+    "passport_expiry_date": "2032-01-05",
+    "gender": "F",
+    "phone_number": "04 22 17 54 72",
+    "email_address": "delphine.marchand@outlook.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Lycée Jean-Baptiste Say",
+        "graduation_year": 1993
+    },
+    "higher_education": [
+        {
+            "university": "École Nationale d'Administration (ENA)",
+            "graduation_year": 1999
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1999,
+            "end_year": 2002,
+            "company": "Louvre Museum",
+            "position": "Art Dealer",
+            "salary": 29000
+        },
+        {
+            "start_year": 2002,
+            "end_year": 2003,
+            "company": "Musée Rodin",
+            "position": "Gallery Owner",
+            "salary": 50000
+        },
+        {
+            "start_year": 2003,
+            "end_year": 2007,
+            "company": "Centre Pompidou",
+            "position": "Art Advisor",
+            "salary": 71000
+        },
+        {
+            "start_year": 2007,
+            "end_year": 2010,
+            "company": "Musée Rodin",
+            "position": "Curator",
+            "salary": 89000
+        },
+        {
+            "start_year": 2011,
+            "end_year": 2023,
+            "company": "Musée Rodin",
+            "position": "Museum Director",
+            "salary": 534000
+        }
+    ],
+    "aum": {
+        "savings": 800000,
+        "inheritance": 1340000,
+        "real_estate_value": 1690000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2005,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1690000,
+            "property location": "Rouen"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

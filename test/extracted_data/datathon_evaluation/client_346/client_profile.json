@@ -1,0 +1,45 @@
+{
+    "name": "Matilda Heta Tolvanen",
+    "address": {
+        "city": "Vantaa",
+        "street name": "Meritullinkatu",
+        "street number": 26,
+        "postal code": "83035"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "2003-03-19",
+    "nationality": "Finnish",
+    "passport_number": "TU6626590",
+    "passport_issue_date": "2024-10-10",
+    "passport_expiry_date": "2034-10-09",
+    "gender": "F",
+    "phone_number": "047 586 58 70",
+    "email_address": "matilda.tolvanen@dnainternet.fi",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Varkauden lukio",
+        "graduation_year": 2013
+    },
+    "higher_education": [],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 2100000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "France"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,77 @@
+{
+    "name": "Chloé Bernard",
+    "address": {
+        "city": "Saint-Étienne",
+        "street name": "Quai d'Orsay",
+        "street number": 42,
+        "postal code": "86441"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1984-10-31",
+    "nationality": "French",
+    "passport_number": "RA1392587",
+    "passport_issue_date": "2021-08-28",
+    "passport_expiry_date": "2031-08-27",
+    "gender": "F",
+    "phone_number": "+33 03 23 41 84 94",
+    "email_address": "chloe.bernard@live.fr",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Lycée Paul Valéry",
+        "graduation_year": 2003
+    },
+    "higher_education": [
+        {
+            "university": "University of Lyon",
+            "graduation_year": 2009
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2008,
+            "end_year": 2010,
+            "company": "Cellectis S.A.",
+            "position": "Research Scientist",
+            "salary": 33000
+        },
+        {
+            "start_year": 2011,
+            "end_year": 2015,
+            "company": "Ipsen S.A.",
+            "position": "Biotech Startup Founder",
+            "salary": 44000
+        },
+        {
+            "start_year": 2015,
+            "end_year": null,
+            "company": "Cellectis S.A.",
+            "position": "CEO",
+            "salary": 101000
+        }
+    ],
+    "aum": {
+        "savings": 150000,
+        "inheritance": 1460000,
+        "real_estate_value": 1670000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1670000,
+            "property location": "Saint-Étienne"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

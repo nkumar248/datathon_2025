@@ -1,0 +1,17 @@
+{
+    "name": "Krol Verhoeven Stevens",
+    "first_name": "Krol",
+    "middle_name": "Verhoeven",
+    "last_name": "Stevens",
+    "passport_number": "ZH5326056",
+    "currency": "EUR",
+    "address": {
+        "city": "Leeuwarden",
+        "street name": "Raadhuisstraat",
+        "street number": 15,
+        "postal code": "6585 85"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 24416954",
+    "email_address": "krol.stevens@gmail.com"
+}

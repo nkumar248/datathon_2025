@@ -1,0 +1,17 @@
+{
+    "name": "Janssen Schipper Snijders",
+    "first_name": "Janssen",
+    "middle_name": "Schipper",
+    "last_name": "Snijders",
+    "passport_number": "XR2995956",
+    "currency": "EUR",
+    "address": {
+        "city": "Tilburg",
+        "street name": "Nieuwegeinseweg",
+        "street number": 39,
+        "postal code": "9181 09"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "06 88734483",
+    "email_address": "janssen.snijders@kpnmail.nl"
+}

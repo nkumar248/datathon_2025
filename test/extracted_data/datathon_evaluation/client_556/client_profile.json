@@ -1,0 +1,81 @@
+{
+    "name": "Wouters Raes",
+    "address": {
+        "city": "Aalst",
+        "street name": "Place de la Liberté",
+        "street number": 64,
+        "postal code": "7413"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1957-08-03",
+    "nationality": "Belgian",
+    "passport_number": "NT0828057",
+    "passport_issue_date": "2031-06-21",
+    "passport_expiry_date": "2024-06-22",
+    "gender": "M",
+    "phone_number": "+32 0492 340 915",
+    "email_address": "wouters.raes@icloud.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Institut Saint-Guibert",
+        "graduation_year": 1975
+    },
+    "higher_education": [
+        {
+            "university": "Brussels School of International Studies",
+            "graduation_year": 1981
+        },
+        {
+            "university": "Solvay Brussels School of Economics and Management",
+            "graduation_year": 1984
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1982,
+            "end_year": 1983,
+            "company": "ING Belgium SA/NV",
+            "position": "Family Office Manager",
+            "salary": 34000
+        },
+        {
+            "start_year": 1985,
+            "end_year": 2018,
+            "company": "Belfius Bank SA",
+            "position": "Investment Director",
+            "salary": 375000
+        }
+    ],
+    "aum": {
+        "savings": 650000,
+        "inheritance": 0,
+        "real_estate_value": 3210000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 930000,
+            "property location": "Aalst"
+        },
+        {
+            "property type": "house",
+            "property value": 1440000,
+            "property location": "Turnhout"
+        },
+        {
+            "property type": "flat",
+            "property value": 840000,
+            "property location": "Ghent"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

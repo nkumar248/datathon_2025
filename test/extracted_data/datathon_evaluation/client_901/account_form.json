@@ -1,0 +1,17 @@
+{
+    "name": "Schwarz Steiner Kaiser",
+    "first_name": "Schwarz",
+    "middle_name": "Steiner",
+    "last_name": "Kaiser",
+    "passport_number": "II1226336",
+    "currency": "EUR",
+    "address": {
+        "city": "Linz",
+        "street name": "Simmeringer Hauptstraße",
+        "street number": 51,
+        "postal code": "1573"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 041 964 6446",
+    "email_address": "schwarz.kaiser@icloud.com"
+}

@@ -1,0 +1,85 @@
+{
+    "name": "Hoffmann Koch Scholz",
+    "address": {
+        "city": "Münster",
+        "street name": "Luisenstraße",
+        "street number": 35,
+        "postal code": "93219"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1981-08-26",
+    "nationality": "German",
+    "passport_number": "SF3180883",
+    "passport_issue_date": "2019-01-25",
+    "passport_expiry_date": "2029-01-24",
+    "gender": "M",
+    "phone_number": "+49 7512 725277",
+    "email_address": "hoffmann.scholz@icloud.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Schiller-Gymnasium Berlin",
+        "graduation_year": 2000
+    },
+    "higher_education": [
+        {
+            "university": "Ludwig Maximilian University of Munich",
+            "graduation_year": 2005
+        },
+        {
+            "university": "Bucerius Law School",
+            "graduation_year": 2010
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2005,
+            "end_year": 2007,
+            "company": "Blackstone Deutschland GmbH",
+            "position": "Analyst",
+            "salary": 42000
+        },
+        {
+            "start_year": 2008,
+            "end_year": 2023,
+            "company": "Apollo Global Management GmbH",
+            "position": "Associate",
+            "salary": 149000
+        }
+    ],
+    "aum": {
+        "savings": 220000,
+        "inheritance": 420000,
+        "real_estate_value": 4830000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2007,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2090000,
+            "property location": "Münster"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1350000,
+            "property location": "Cologne"
+        },
+        {
+            "property type": "house",
+            "property value": 1390000,
+            "property location": "Wuppertal"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Lisa Julia Bauer",
+    "first_name": "Lisa",
+    "middle_name": "Julia",
+    "last_name": "Bauer",
+    "passport_number": "GU3175353",
+    "currency": "EUR",
+    "address": {
+        "city": "Mödling",
+        "street name": "Schönlaterngasse",
+        "street number": 73,
+        "postal code": "2001"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "111 130 7457",
+    "email_address": "lisa.bauer@vol.at"
+}

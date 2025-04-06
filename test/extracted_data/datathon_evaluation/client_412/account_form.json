@@ -1,0 +1,17 @@
+{
+    "name": "Kaiser Egger Fuchs",
+    "first_name": "Kaiser",
+    "middle_name": "Egger",
+    "last_name": "Fuchs",
+    "passport_number": "XW4429525",
+    "currency": "EUR",
+    "address": {
+        "city": "Klagenfurt",
+        "street name": "Schlossallee",
+        "street number": 12,
+        "postal code": "3782"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 437 483 3583",
+    "email_address": "kaiser.fuchs@gmx.at"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Colombe Louise Marchand",
+    "address": {
+        "city": "Treviso",
+        "street name": "Via Nazionale",
+        "street number": 66,
+        "postal code": "12048"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1998-11-25",
+    "nationality": "French",
+    "passport_number": "VZ0369002",
+    "passport_issue_date": "2020-06-27",
+    "passport_expiry_date": "2030-06-26",
+    "gender": "F",
+    "phone_number": "+39 309 2341562",
+    "email_address": "colombe.marchand@tin.it",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée Montaigne",
+        "graduation_year": 2017
+    },
+    "higher_education": [
+        {
+            "university": "IUT de Rennes",
+            "graduation_year": 2022
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2022,
+            "end_year": 2025,
+            "company": "Selex ES S.p.A.",
+            "position": "Software Developer",
+            "salary": 33000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 2860000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Italy",
+        "France"
+    ],
+    "currency": "EUR"
+}

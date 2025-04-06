@@ -1,0 +1,79 @@
+{
+    "name": "Mertens Peters Raes",
+    "address": {
+        "city": "Ieper",
+        "street name": "Rue de la République",
+        "street number": 97,
+        "postal code": "4736"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1991-06-02",
+    "nationality": "Belgian",
+    "passport_number": "ER9706506",
+    "passport_issue_date": "2022-05-03",
+    "passport_expiry_date": "2029-05-02",
+    "gender": "M",
+    "phone_number": "+32 0408 486 072",
+    "email_address": "mertens.raes@skype.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Institut Saint-Louis",
+        "graduation_year": 2010
+    },
+    "higher_education": [
+        {
+            "university": "Brussels School of International Studies",
+            "graduation_year": 2015
+        },
+        {
+            "university": "Thomas More University of Applied Sciences",
+            "graduation_year": 2018
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2016,
+            "end_year": 2020,
+            "company": "Option NV",
+            "position": "Software Developer",
+            "salary": 36000
+        },
+        {
+            "start_year": 2022,
+            "end_year": null,
+            "company": "Telenet Group NV",
+            "position": "Startup Founder",
+            "salary": 52000
+        }
+    ],
+    "aum": {
+        "savings": 40000,
+        "inheritance": 6920000,
+        "real_estate_value": 2560000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1220000,
+            "property location": "Ieper"
+        },
+        {
+            "property type": "house",
+            "property value": 1340000,
+            "property location": "Roeselare"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "first_name": "Sánchez",
+    "middle_name": "Hernández",
+    "last_name": "Ramos",
+    "gender": "M",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "1974-06-18",
+    "passport_number": "YS2519793",
+    "passport_mrz": [
+        "P<ESPSÁNCHEZ<<RAMOS<HERNÁNDEZ<<<<<<<<<<<<<<<<",
+        "YS2519793ESP740618<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2021-12-01",
+    "passport_expiry_date": "2031-11-30"
+}

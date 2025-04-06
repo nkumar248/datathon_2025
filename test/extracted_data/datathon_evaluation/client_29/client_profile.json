@@ -1,0 +1,101 @@
+{
+    "name": "Luna Jasmijn Veenhoven",
+    "address": {
+        "city": "Venlo",
+        "street name": "Goudsesingel",
+        "street number": 52,
+        "postal code": "4222 51"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1970-11-25",
+    "nationality": "Dutch",
+    "passport_number": "IQ5891689",
+    "passport_issue_date": "2021-10-27",
+    "passport_expiry_date": "2031-10-26",
+    "gender": "F",
+    "phone_number": "06 42049183",
+    "email_address": "luna.veenhoven@kpnmail.nl",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Meerwaert College Weesp",
+        "graduation_year": 1988
+    },
+    "higher_education": [
+        {
+            "university": "NWO - Netherlands Organisation for Scientific Research",
+            "graduation_year": 1994
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1995,
+            "end_year": 2000,
+            "company": "AkzoNobel N.V.",
+            "position": "Plant Manager",
+            "salary": 43000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2006,
+            "company": "Unilever N.V.",
+            "position": "Operations Director",
+            "salary": 68000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2011,
+            "company": "AkzoNobel N.V.",
+            "position": "CEO",
+            "salary": 139000
+        },
+        {
+            "start_year": 2013,
+            "end_year": 2017,
+            "company": "Heineken N.V.",
+            "position": "Chairman",
+            "salary": 177000
+        },
+        {
+            "start_year": 2018,
+            "end_year": null,
+            "company": "Royal Dutch Shell plc",
+            "position": "Conglomerate Owner",
+            "salary": 314000
+        }
+    ],
+    "aum": {
+        "savings": 580000,
+        "inheritance": 2660000,
+        "real_estate_value": 5150000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2008,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1350000,
+            "property location": "Venlo"
+        },
+        {
+            "property type": "house",
+            "property value": 1990000,
+            "property location": "Arnhem"
+        },
+        {
+            "property type": "villa",
+            "property value": 1810000,
+            "property location": "Assen"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

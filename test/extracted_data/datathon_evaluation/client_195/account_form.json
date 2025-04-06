@@ -1,0 +1,17 @@
+{
+    "name": "Neumann Schäfer Weber",
+    "first_name": "Neumann",
+    "middle_name": "Schäfer",
+    "last_name": "Weber",
+    "passport_number": "CB7170622",
+    "currency": "EUR",
+    "address": {
+        "city": "Dresden",
+        "street name": "Speicherstadt",
+        "street number": 93,
+        "postal code": "01230"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 0467 958262",
+    "email_address": "neumann.weber@o2online.de"
+}

@@ -1,0 +1,17 @@
+{
+    "first_name": "Martini",
+    "middle_name": "Malatesta",
+    "last_name": "Bianchi",
+    "gender": "M",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1974-11-20",
+    "passport_number": "QS6293524",
+    "passport_mrz": [
+        "P<ITABIANCHI<<MARTINI<MALATESTA<<<<<<<<<<<<<<",
+        "QS6293524ITA741120<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-06-16",
+    "passport_expiry_date": "2033-06-15"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Niemi Peltola Salo",
+    "first_name": "Niemi",
+    "middle_name": "Peltola",
+    "last_name": "Salo",
+    "passport_number": "HC5977538",
+    "currency": "EUR",
+    "address": {
+        "city": "Rauma",
+        "street name": "Neljäs linja",
+        "street number": 6,
+        "postal code": "31173"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 048 110 48 79",
+    "email_address": "niemi.salo@suomi24.fi"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Ferrari Rizzo Celli",
+    "first_name": "Ferrari",
+    "middle_name": "Rizzo",
+    "last_name": "Celli",
+    "passport_number": "BO2654125",
+    "currency": "EUR",
+    "address": {
+        "city": "Catania",
+        "street name": "Via XXV Aprile",
+        "street number": 95,
+        "postal code": "01447"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 352 5362295",
+    "email_address": "ferrari.celli@wind.it"
+}

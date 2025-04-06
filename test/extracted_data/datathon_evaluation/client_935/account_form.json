@@ -1,0 +1,17 @@
+{
+    "name": "Ingrid Lucas Roose",
+    "first_name": "Ingrid",
+    "middle_name": "Lucas",
+    "last_name": "Roose",
+    "passport_number": "CT3847033",
+    "currency": "EUR",
+    "address": {
+        "city": "Turnhout",
+        "street name": "Rue de l'Hôtel des Monnaies",
+        "street number": 96,
+        "postal code": "7832"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0426 888 761",
+    "email_address": "ingrid.roose@yahoo.com"
+}

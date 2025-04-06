@@ -1,0 +1,98 @@
+{
+    "name": "Ingrid Élodie Roelandts",
+    "address": {
+        "city": "Wavre",
+        "street name": "Avenue de Tervuren",
+        "street number": 29,
+        "postal code": "0528"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1963-10-27",
+    "nationality": "Belgian",
+    "passport_number": "ZW9719494",
+    "passport_issue_date": "2020-10-20",
+    "passport_expiry_date": "2027-10-19",
+    "gender": "F",
+    "phone_number": "+32 0440 554 965",
+    "email_address": "ingrid.roelandts@yahoo.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycee Royal Athenee Vauboisy",
+        "graduation_year": 1983
+    },
+    "higher_education": [
+        {
+            "university": "Brussels School of International Studies",
+            "graduation_year": 1988
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1988,
+            "end_year": 1992,
+            "company": "Umicore SA",
+            "position": "Plant Manager",
+            "salary": 37000
+        },
+        {
+            "start_year": 1994,
+            "end_year": 1998,
+            "company": "Bekaert SA",
+            "position": "Operations Director",
+            "salary": 60000
+        },
+        {
+            "start_year": 1998,
+            "end_year": 1999,
+            "company": "ArcelorMittal Belgium NV",
+            "position": "CEO",
+            "salary": 68000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2004,
+            "company": "Nyrstar NV",
+            "position": "Chairman",
+            "salary": 132000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2024,
+            "company": "Umicore SA",
+            "position": "Conglomerate Owner",
+            "salary": 1159000
+        }
+    ],
+    "aum": {
+        "savings": 1700000,
+        "inheritance": 0,
+        "real_estate_value": 3168000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1040000,
+            "property location": "Wavre"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1068000,
+            "property location": "Roeselare"
+        },
+        {
+            "property type": "condo",
+            "property value": 1060000,
+            "property location": "Hasselt"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

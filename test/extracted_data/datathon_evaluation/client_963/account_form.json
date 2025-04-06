@@ -1,0 +1,17 @@
+{
+    "name": "Simon Laurent Guillaume",
+    "first_name": "Simon",
+    "middle_name": "Laurent",
+    "last_name": "Guillaume",
+    "passport_number": "YQ1917228",
+    "currency": "EUR",
+    "address": {
+        "city": "Reims",
+        "street name": "Rue Gay-Lussac",
+        "street number": 5,
+        "postal code": "29468"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 00 22 35 61 03",
+    "email_address": "simon.guillaume@icloud.com"
+}

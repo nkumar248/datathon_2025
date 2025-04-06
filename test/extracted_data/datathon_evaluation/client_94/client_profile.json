@@ -1,0 +1,44 @@
+{
+    "name": "Hannelore Anouk Krol",
+    "address": {
+        "city": "Hoofddorp",
+        "street name": "Kalverstraat",
+        "street number": 4,
+        "postal code": "5785 52"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "2002-07-24",
+    "nationality": "Dutch",
+    "passport_number": "NH5683801",
+    "passport_issue_date": "2023-01-04",
+    "passport_expiry_date": "2033-01-03",
+    "gender": "F",
+    "phone_number": "+31 06 90206880",
+    "email_address": "hannelore.krol@yahoo.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Openbaar Lyceum Hengelo",
+        "graduation_year": 2021
+    },
+    "higher_education": [],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 2780000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

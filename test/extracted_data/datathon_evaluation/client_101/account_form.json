@@ -1,0 +1,17 @@
+{
+    "name": "Jensen Jespersen Laursen",
+    "first_name": "Jensen",
+    "middle_name": "Jespersen",
+    "last_name": "Laursen",
+    "passport_number": "TI0008703",
+    "currency": "DKK",
+    "address": {
+        "city": "Horsens",
+        "street name": "Linnemannsgade",
+        "street number": 90,
+        "postal code": "1366"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 29 70 80 70",
+    "email_address": "jensen.laursen@telia.dk"
+}

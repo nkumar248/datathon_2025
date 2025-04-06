@@ -1,0 +1,44 @@
+{
+    "name": "Cecilia Federica Livi",
+    "address": {
+        "city": "Genoa",
+        "street name": "Piazza De Ferrari",
+        "street number": 95,
+        "postal code": "66223"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "2003-11-10",
+    "nationality": "Italian",
+    "passport_number": "JY5290683",
+    "passport_issue_date": "2016-09-16",
+    "passport_expiry_date": "2026-09-15",
+    "gender": "F",
+    "phone_number": "+39 394 9726901",
+    "email_address": "cecilia.livi@gmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Liceo Linguistico Internazionale Gabriele d'Annunzio Pescara",
+        "graduation_year": 2022
+    },
+    "higher_education": [],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 2770000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

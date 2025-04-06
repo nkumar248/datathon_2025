@@ -1,0 +1,78 @@
+{
+    "name": "Angelica Claudia Livi",
+    "address": {
+        "city": "Perugia",
+        "street name": "Via dei Banchi Vecchi",
+        "street number": 31,
+        "postal code": "62602"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1959-05-18",
+    "nationality": "Italian",
+    "passport_number": "OE6856419",
+    "passport_issue_date": "2021-03-10",
+    "passport_expiry_date": "2031-03-09",
+    "gender": "F",
+    "phone_number": "+39 327 4845407",
+    "email_address": "angelica.livi@icloud.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Liceo Artistico Statale Umberto Boccioni Milano",
+        "graduation_year": 1977
+    },
+    "higher_education": [
+        {
+            "university": "John Cabot University",
+            "graduation_year": 1983
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1984,
+            "end_year": 1988,
+            "company": "Menarini Industrie Farmaceutiche Riunite S.r.l.",
+            "position": "Research Scientist",
+            "salary": 27000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 1993,
+            "company": "Menarini Industrie Farmaceutiche Riunite S.r.l.",
+            "position": "Clinical Trials Manager",
+            "salary": 42000
+        },
+        {
+            "start_year": 1994,
+            "end_year": 2020,
+            "company": "Menarini Industrie Farmaceutiche Riunite S.r.l.",
+            "position": "Regulatory Affairs Director",
+            "salary": 383000
+        }
+    ],
+    "aum": {
+        "savings": 780000,
+        "inheritance": 0,
+        "real_estate_value": 2440000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1430000,
+            "property location": "Perugia"
+        },
+        {
+            "property type": "condo",
+            "property value": 1010000,
+            "property location": "Padua"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

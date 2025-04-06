@@ -1,0 +1,50 @@
+{
+    "name": "Heikkinen Uusitalo Tolvanen",
+    "address": {
+        "city": "Rauma",
+        "street name": "Kauppakartanonkatu",
+        "street number": 10,
+        "postal code": "34431"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "2001-12-16",
+    "nationality": "Finnish",
+    "passport_number": "UK4931623",
+    "passport_issue_date": "2016-04-08",
+    "passport_expiry_date": "2026-04-07",
+    "gender": "M",
+    "phone_number": "043 821 04 08",
+    "email_address": "heikkinen.tolvanen@elisa.fi",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Sysmän lukio",
+        "graduation_year": 2019
+    },
+    "higher_education": [
+        {
+            "university": "Aalto University",
+            "graduation_year": 2024
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 2410000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Finland"
+    ],
+    "currency": "EUR"
+}

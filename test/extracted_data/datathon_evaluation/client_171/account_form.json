@@ -1,0 +1,17 @@
+{
+    "name": "Silvestri Moretti Malatesta",
+    "first_name": "Silvestri",
+    "middle_name": "Moretti",
+    "last_name": "Malatesta",
+    "passport_number": "CF8968725",
+    "currency": "EUR",
+    "address": {
+        "city": "Parma",
+        "street name": "Via dei Tribunali",
+        "street number": 23,
+        "postal code": "53066"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 353 5314801",
+    "email_address": "silvestri.malatesta@aruba.it"
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Fiona Emma Lang",
+    "address": {
+        "city": "Tulln an der Donau",
+        "street name": "Simmeringer Hauptstraße",
+        "street number": 23,
+        "postal code": "3546"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "2000-11-11",
+    "nationality": "Austrian",
+    "passport_number": "SK9680642",
+    "passport_issue_date": "2019-09-10",
+    "passport_expiry_date": "2029-09-09",
+    "gender": "F",
+    "phone_number": "+43 075 985 5830",
+    "email_address": "fiona.lang@yahoo.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Bischöfliches Gymnasium Petrinum",
+        "graduation_year": 2008
+    },
+    "higher_education": [
+        {
+            "university": "IMC University of Applied Sciences Krems",
+            "graduation_year": 2024
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 2780000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

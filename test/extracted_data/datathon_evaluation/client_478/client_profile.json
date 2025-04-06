@@ -1,0 +1,78 @@
+{
+    "name": "Faure Fournier Bernard",
+    "address": {
+        "city": "Brest",
+        "street name": "",
+        "street number": 50,
+        "postal code": "99682"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1962-04-29",
+    "nationality": "French",
+    "passport_number": "KR5683541",
+    "passport_issue_date": "2021-08-13",
+    "passport_expiry_date": "2031-08-12",
+    "gender": "M",
+    "phone_number": "+33 06 58 85 14 73",
+    "email_address": "faure.bernard@aliceadsl.fr",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Lycée Voltaire",
+        "graduation_year": 1982
+    },
+    "higher_education": [
+        {
+            "university": "École Nationale d'Administration (ENA)",
+            "graduation_year": 1986
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1986,
+            "end_year": 1989,
+            "company": "Dior S.A.",
+            "position": "Assistant Designer",
+            "salary": 29000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 1990,
+            "company": "Hermès International S.A.",
+            "position": "Senior Designer",
+            "salary": 45000
+        },
+        {
+            "start_year": 1992,
+            "end_year": 2023,
+            "company": "Hermès International S.A.",
+            "position": "Creative Director",
+            "salary": 607000
+        }
+    ],
+    "aum": {
+        "savings": 1030000,
+        "inheritance": 0,
+        "real_estate_value": 4040000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 2340000,
+            "property location": "Brest"
+        },
+        {
+            "property type": "house",
+            "property value": 1700000,
+            "property location": "Nice"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

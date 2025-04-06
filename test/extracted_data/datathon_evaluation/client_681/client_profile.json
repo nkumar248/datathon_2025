@@ -1,0 +1,77 @@
+{
+    "name": "Diana Lina Koch",
+    "address": {
+        "city": "Mannheim",
+        "street name": "Luisenstraße",
+        "street number": 22,
+        "postal code": "53366"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1958-12-14",
+    "nationality": "German",
+    "passport_number": "FT8324086",
+    "passport_issue_date": "2017-06-14",
+    "passport_expiry_date": "2027-06-13",
+    "gender": "F",
+    "phone_number": "4355 666057",
+    "email_address": "diana.koch@unitybox.de",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Schiller-Gymnasium Berlin",
+        "graduation_year": 1976
+    },
+    "higher_education": [
+        {
+            "university": "University of Göttingen",
+            "graduation_year": 1982
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1983,
+            "end_year": 1988,
+            "company": "Deutsche Bank AG",
+            "position": "Family Office Manager",
+            "salary": 51000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 2019,
+            "company": "Commerzbank AG",
+            "position": "Investment Director",
+            "salary": 334000
+        }
+    ],
+    "aum": {
+        "savings": 670000,
+        "inheritance": 0,
+        "real_estate_value": 3807000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1150000,
+            "property location": "Mannheim"
+        },
+        {
+            "property type": "flat",
+            "property value": 1237000,
+            "property location": "Frankfurt am Main"
+        },
+        {
+            "property type": "condo",
+            "property value": 1420000,
+            "property location": "Essen"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

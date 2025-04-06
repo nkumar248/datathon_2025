@@ -1,0 +1,17 @@
+{
+    "name": "Aurora Hanna Tolvanen",
+    "first_name": "Aurora",
+    "middle_name": "Hanna",
+    "last_name": "Tolvanen",
+    "passport_number": "GP0752966",
+    "currency": "EUR",
+    "address": {
+        "city": "Espoo",
+        "street name": "Lapinlahdenkatu",
+        "street number": 1,
+        "postal code": "81139"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 047 125 16 90",
+    "email_address": "aurora.tolvanen@outlook.com"
+}

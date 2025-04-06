@@ -1,0 +1,17 @@
+{
+    "name": "Gómez Martín Herrera",
+    "first_name": "Gómez",
+    "middle_name": "Martín",
+    "last_name": "Herrera",
+    "passport_number": "WM2413105",
+    "currency": "EUR",
+    "address": {
+        "city": "Teruel",
+        "street name": "Calle de la Reina Cristina",
+        "street number": 7,
+        "postal code": "73008"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "637 291 745",
+    "email_address": "gomez.herrera@hotmail.com"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Louna Hortense Bernard",
+    "first_name": "Louna",
+    "middle_name": "Hortense",
+    "last_name": "Bernard",
+    "passport_number": "FG7975562",
+    "currency": "EUR",
+    "address": {
+        "city": "Lille",
+        "street name": "Rue de la Santé",
+        "street number": 87,
+        "postal code": "70683"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 03 87 17 32 24",
+    "email_address": "louna.bernard@hotmail.com"
+}

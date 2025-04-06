@@ -1,0 +1,80 @@
+{
+    "name": "Aada Iida Mattila",
+    "address": {
+        "city": "Hämeenlinna",
+        "street name": "Kolmas linja",
+        "street number": 84,
+        "postal code": "62353"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1990-06-11",
+    "nationality": "Finnish",
+    "passport_number": "DP1418738",
+    "passport_issue_date": "2016-04-25",
+    "passport_expiry_date": "2026-04-24",
+    "gender": "F",
+    "phone_number": "+358 043 024 97 21",
+    "email_address": "aada.mattila@suomi24.fi",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Lappeenranta Lyceum",
+        "graduation_year": 2008
+    },
+    "higher_education": [
+        {
+            "university": "University of Oulu",
+            "graduation_year": 2014
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2015,
+            "end_year": 2019,
+            "company": "Sponda Oyj",
+            "position": "Property Manager",
+            "salary": 42000
+        },
+        {
+            "start_year": 2021,
+            "end_year": null,
+            "company": "Technopolis Plc",
+            "position": "Developer",
+            "salary": 60000
+        }
+    ],
+    "aum": {
+        "savings": 60000,
+        "inheritance": 5660000,
+        "real_estate_value": 2839000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 779000,
+            "property location": "Hämeenlinna"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1140000,
+            "property location": "Jyväskylä"
+        },
+        {
+            "property type": "condo",
+            "property value": 920000,
+            "property location": "Kuopio"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

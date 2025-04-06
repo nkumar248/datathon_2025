@@ -1,0 +1,82 @@
+{
+    "name": "Janssen Maassen Wagemakers",
+    "address": {
+        "city": "Doetinchem",
+        "street name": "Nieuwegeinseweg",
+        "street number": 4,
+        "postal code": "8800 58"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1982-12-15",
+    "nationality": "Dutch",
+    "passport_number": "TT1410955",
+    "passport_issue_date": "2018-08-06",
+    "passport_expiry_date": "2028-08-05",
+    "gender": "M",
+    "phone_number": "+31 06 93409764",
+    "email_address": "janssen.wagemakers@hotmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Hervormd Lyceum Zutphen",
+        "graduation_year": 2001
+    },
+    "higher_education": [
+        {
+            "university": "Erasmus University Rotterdam",
+            "graduation_year": 2005
+        },
+        {
+            "university": "Vrije Universiteit Amsterdam - School of Business and Economics",
+            "graduation_year": 2010
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2006,
+            "end_year": 2011,
+            "company": "APG Asset Management N.V.",
+            "position": "Stockbroker",
+            "salary": 43000
+        },
+        {
+            "start_year": 2012,
+            "end_year": 2015,
+            "company": "PGGM Investments",
+            "position": "Portfolio Manager",
+            "salary": 68000
+        },
+        {
+            "start_year": 2017,
+            "end_year": null,
+            "company": "Robeco Institutional Asset Management B.V.",
+            "position": "Hedge Fund Manager",
+            "salary": 149000
+        }
+    ],
+    "aum": {
+        "savings": 200000,
+        "inheritance": 220000,
+        "real_estate_value": 1610000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2014,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1610000,
+            "property location": "Doetinchem"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

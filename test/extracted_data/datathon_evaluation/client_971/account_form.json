@@ -1,0 +1,17 @@
+{
+    "name": "Olivia Romane Peiren",
+    "first_name": "Olivia",
+    "middle_name": "Romane",
+    "last_name": "Peiren",
+    "passport_number": "KW7402943",
+    "currency": "EUR",
+    "address": {
+        "city": "Ostend",
+        "street name": "Rue des Deux Portes",
+        "street number": 51,
+        "postal code": "8953"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0474 009 161",
+    "email_address": "olivia.peiren@proximus.be"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Kuhn Furrer Ackermann",
+    "first_name": "Kuhn",
+    "middle_name": "Furrer",
+    "last_name": "Ackermann",
+    "passport_number": "HX0931819",
+    "currency": "CHF",
+    "address": {
+        "city": "St. Gallen",
+        "street name": "Stadthausplatz",
+        "street number": 67,
+        "postal code": "6394"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "039 418 54 571",
+    "email_address": "kuhn.ackermann@teli.ch"
+}

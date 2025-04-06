@@ -1,0 +1,17 @@
+{
+    "name": "Hortense Romane Thiry",
+    "first_name": "Hortense",
+    "middle_name": "Romane",
+    "last_name": "Thiry",
+    "passport_number": "GQ9175607",
+    "currency": "EUR",
+    "address": {
+        "city": "Ostend",
+        "street name": "Rue des Bouchers",
+        "street number": 39,
+        "postal code": "5857"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0464 906 993",
+    "email_address": "hortense.thiry@base.be"
+}

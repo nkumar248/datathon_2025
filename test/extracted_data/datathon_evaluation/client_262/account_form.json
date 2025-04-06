@@ -1,0 +1,17 @@
+{
+    "name": "Ilaria Giovanna Landi",
+    "first_name": "Ilaria",
+    "middle_name": "Giovanna",
+    "last_name": "Landi",
+    "passport_number": "AE2251450",
+    "currency": "EUR",
+    "address": {
+        "city": "Reggio Calabria",
+        "street name": "Piazza della Repubblica",
+        "street number": 6,
+        "postal code": "26819"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 315 5282746",
+    "email_address": "ilaria.landi@outlook.com"
+}

@@ -1,0 +1,17 @@
+{
+    "first_name": "Furrer",
+    "middle_name": "Frey",
+    "last_name": "Müller",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1994-06-30",
+    "passport_number": "OS2465747",
+    "passport_mrz": [
+        "P<CHEMÜLLER<<FURRER<FREY<<<<<<<<<<<<<<<<<<<<<",
+        "OS2465747CHE940630<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-01-03",
+    "passport_expiry_date": "2032-01-02"
+}

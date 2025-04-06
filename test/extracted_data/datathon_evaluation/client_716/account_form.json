@@ -1,0 +1,17 @@
+{
+    "name": "Lilli Isabel Richter",
+    "first_name": "Lilli",
+    "middle_name": "Isabel",
+    "last_name": "Richter",
+    "passport_number": "IZ9588534",
+    "currency": "EUR",
+    "address": {
+        "city": "Mannheim",
+        "street name": "Unter den Linden",
+        "street number": 5,
+        "postal code": "35981"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 2362 360786",
+    "email_address": "lilli.richter@yahoo.com"
+}

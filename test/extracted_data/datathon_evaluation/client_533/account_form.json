@@ -1,0 +1,17 @@
+{
+    "name": "Lena Renate Schwarz",
+    "first_name": "Lena",
+    "middle_name": "Renate",
+    "last_name": "Schwarz",
+    "passport_number": "XH7221152",
+    "currency": "EUR",
+    "address": {
+        "city": "Wels",
+        "street name": "Graben",
+        "street number": 100,
+        "postal code": "9367"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "059 773 9258",
+    "email_address": "lena.schwarz@hotmail.com"
+}

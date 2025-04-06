@@ -1,0 +1,75 @@
+{
+    "name": "Díaz Torres Vázquez",
+    "address": {
+        "city": "Aarhus",
+        "street name": "Store Kongensgade",
+        "street number": 5,
+        "postal code": "1182"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1987-04-23",
+    "nationality": "Spanish",
+    "passport_number": "RN0094938",
+    "passport_issue_date": "2019-11-27",
+    "passport_expiry_date": "2029-11-26",
+    "gender": "M",
+    "phone_number": "+45 66 94 15 46",
+    "email_address": "diaz.vazquez@icloud.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Instituto de Bachillerato Artístico IES Reina Sofia Tenerife",
+        "graduation_year": 2005
+    },
+    "higher_education": [
+        {
+            "university": "University of Seville",
+            "graduation_year": 2010
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2011,
+            "end_year": 2014,
+            "company": "A.P. Moller - Maersk A/S",
+            "position": "Junior Trader",
+            "salary": 26000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "Norden A/S",
+            "position": "Senior Trader",
+            "salary": 47000
+        }
+    ],
+    "aum": {
+        "savings": 70000,
+        "inheritance": 9810000,
+        "real_estate_value": 2350000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1440000,
+            "property location": "Aarhus"
+        },
+        {
+            "property type": "condo",
+            "property value": 910000,
+            "property location": "Córdoba"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

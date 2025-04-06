@@ -1,0 +1,100 @@
+{
+    "name": "Riedo Bühler",
+    "address": {
+        "city": "Bienna",
+        "street name": "Waisenhausplatz",
+        "street number": 66,
+        "postal code": "7622"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1977-03-12",
+    "nationality": "Swiss",
+    "passport_number": "HM4843763",
+    "passport_issue_date": "2024-05-02",
+    "passport_expiry_date": "2034-05-01",
+    "gender": "M",
+    "phone_number": "+41 067 003 49 70",
+    "email_address": "riedo.buhler@swisscom.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Gymnasium Leonhard Winterthur",
+        "graduation_year": 1996
+    },
+    "higher_education": [
+        {
+            "university": "University of Geneva",
+            "graduation_year": 2000
+        },
+        {
+            "university": "EPFL",
+            "graduation_year": 2004
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2001,
+            "end_year": 2003,
+            "company": "Lombard Odier Darier Hentsch & Cie",
+            "position": "Family Office Manager",
+            "salary": 64000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2010,
+            "company": "Credit Suisse AG",
+            "position": "Investment Director",
+            "salary": 116000
+        },
+        {
+            "start_year": 2007,
+            "end_year": 2016,
+            "company": "Credit Suisse AG",
+            "position": "CFO",
+            "salary": 115000
+        },
+        {
+            "start_year": 2018,
+            "end_year": 2023,
+            "company": "Julius Baer Gruppe AG",
+            "position": "COO",
+            "salary": 466000
+        },
+        {
+            "start_year": 2025,
+            "end_year": null,
+            "company": "Julius Baer Gruppe AG",
+            "position": "CEO",
+            "salary": 282000
+        }
+    ],
+    "aum": {
+        "savings": 560000,
+        "inheritance": 5740000,
+        "real_estate_value": 10110000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2014,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 4400000,
+            "property location": "Bienna"
+        },
+        {
+            "property type": "villa",
+            "property value": 5710000,
+            "property location": "Basel"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

@@ -1,0 +1,71 @@
+{
+    "name": "Rissanen Heikkinen Savolainen",
+    "address": {
+        "city": "Vaasa",
+        "street name": "Lönnrotinkatu",
+        "street number": 95,
+        "postal code": "89986"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1976-10-28",
+    "nationality": "Finnish",
+    "passport_number": "LZ4134761",
+    "passport_issue_date": "2016-06-30",
+    "passport_expiry_date": "2026-06-29",
+    "gender": "M",
+    "phone_number": "040 767 56 88",
+    "email_address": "rissanen.savolainen@elisa.fi",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lohjan lukio",
+        "graduation_year": 1995
+    },
+    "higher_education": [
+        {
+            "university": "Aalto University School of Arts, Design and Architecture",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2001,
+            "end_year": 2002,
+            "company": "Ateneum Art Museum",
+            "position": "Art Dealer",
+            "salary": 41000
+        },
+        {
+            "start_year": 2002,
+            "end_year": null,
+            "company": "Tampere Art Museum",
+            "position": "Gallery Owner",
+            "salary": 286000
+        }
+    ],
+    "aum": {
+        "savings": 480000,
+        "inheritance": 890000,
+        "real_estate_value": 1390000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2015,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1390000,
+            "property location": "Vaasa"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Italy"
+    ],
+    "currency": "EUR"
+}

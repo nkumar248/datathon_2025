@@ -1,0 +1,17 @@
+{
+    "name": "Bauer Schmitz Herrmann",
+    "first_name": "Bauer",
+    "middle_name": "Schmitz",
+    "last_name": "Herrmann",
+    "passport_number": "XI7043567",
+    "currency": "EUR",
+    "address": {
+        "city": "Cologne",
+        "street name": "Augustusplatz",
+        "street number": 9,
+        "postal code": "56714"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "4689 061477",
+    "email_address": "bauer.herrmann@o2online.de"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Juliane Ida Schmidt",
+    "first_name": "Juliane",
+    "middle_name": "Ida",
+    "last_name": "Schmidt",
+    "passport_number": "FG6468945",
+    "currency": "EUR",
+    "address": {
+        "city": "Mannheim",
+        "street name": "Friedrich-Ebert-Anlage",
+        "street number": 18,
+        "postal code": "78860"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "7516 557082",
+    "email_address": "juliane.schmidt@gmx.de"
+}

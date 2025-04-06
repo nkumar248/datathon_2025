@@ -1,0 +1,71 @@
+{
+    "name": "Matilda Lotta Viitanen",
+    "address": {
+        "city": "Jarvenpää",
+        "street name": "Salmisaarenranta",
+        "street number": 73,
+        "postal code": "12518"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1971-01-21",
+    "nationality": "Finnish",
+    "passport_number": "ED2692331",
+    "passport_issue_date": "2021-11-25",
+    "passport_expiry_date": "2031-11-24",
+    "gender": "F",
+    "phone_number": "+358 042 190 43 49",
+    "email_address": "matilda.viitanen@gmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lahti Christian Institute",
+        "graduation_year": 1989
+    },
+    "higher_education": [
+        {
+            "university": "Metropolia University of Applied Sciences",
+            "graduation_year": 1993
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1994,
+            "end_year": 1999,
+            "company": "St1 Oy",
+            "position": "Drilling Engineer",
+            "salary": 58000
+        },
+        {
+            "start_year": 2001,
+            "end_year": null,
+            "company": "Fortum Corporation",
+            "position": "Reservoir Engineer",
+            "salary": 291000
+        }
+    ],
+    "aum": {
+        "savings": 550000,
+        "inheritance": 1970000,
+        "real_estate_value": 850000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2010,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 850000,
+            "property location": "Jarvenpää"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

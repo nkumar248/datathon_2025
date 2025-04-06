@@ -1,0 +1,17 @@
+{
+    "name": "Tolvanen Viitanen Niskanen",
+    "first_name": "Tolvanen",
+    "middle_name": "Viitanen",
+    "last_name": "Niskanen",
+    "passport_number": "XJ2455900",
+    "currency": "EUR",
+    "address": {
+        "city": "Hyvinkää",
+        "street name": "Neitsytpolku",
+        "street number": 66,
+        "postal code": "31141"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 043 369 05 29",
+    "email_address": "tolvanen.niskanen@finet.fi"
+}

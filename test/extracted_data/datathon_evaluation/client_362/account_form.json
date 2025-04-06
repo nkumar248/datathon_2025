@@ -1,0 +1,17 @@
+{
+    "name": "Daniela Carmen Castro",
+    "first_name": "Daniela",
+    "middle_name": "Carmen",
+    "last_name": "Castro",
+    "passport_number": "VN0445910",
+    "currency": "EUR",
+    "address": {
+        "city": "Gijón",
+        "street name": "Plaza Mayor",
+        "street number": 84,
+        "postal code": "03051"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 668 675 218",
+    "email_address": "daniela.castro@yahoo.com"
+}

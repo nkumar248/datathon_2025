@@ -1,0 +1,17 @@
+{
+    "name": "Wouters Maes Moens",
+    "first_name": "Wouters",
+    "middle_name": "Maes",
+    "last_name": "Moens",
+    "passport_number": "VR0408890",
+    "currency": "EUR",
+    "address": {
+        "city": "Leuven",
+        "street name": "Rue des Étuves",
+        "street number": 11,
+        "postal code": "5385"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0464 291 844",
+    "email_address": "wouters.moens@hotmail.com"
+}

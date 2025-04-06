@@ -1,0 +1,17 @@
+{
+    "name": "Højgaard Laursen Jensen",
+    "first_name": "Højgaard",
+    "middle_name": "Laursen",
+    "last_name": "Jensen",
+    "passport_number": "SQ9917183",
+    "currency": "DKK",
+    "address": {
+        "city": "Greve",
+        "street name": "Skindergade",
+        "street number": 80,
+        "postal code": "2645"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 64 00 16 56",
+    "email_address": "hjgaard.jensen@outlook.com"
+}

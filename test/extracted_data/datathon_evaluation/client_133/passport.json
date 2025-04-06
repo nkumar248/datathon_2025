@@ -1,0 +1,17 @@
+{
+    "first_name": "María",
+    "middle_name": "Almudena",
+    "last_name": "Suárez",
+    "gender": "F",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "1976-04-18",
+    "passport_number": "YK9630232",
+    "passport_mrz": [
+        "P<ESPSUÁREZ<<MARÍA<ALMUDENA<<<<<<<<<<<<<<<<<<",
+        "YK9630232ESP760418<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-04-08",
+    "passport_expiry_date": "2032-04-07"
+}

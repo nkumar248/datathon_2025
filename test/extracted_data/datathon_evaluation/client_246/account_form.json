@@ -1,0 +1,17 @@
+{
+    "name": "Laura Idun Nørregaard",
+    "first_name": "Laura",
+    "middle_name": "Idun",
+    "last_name": "Nørregaard",
+    "passport_number": "UB2276859",
+    "currency": "DKK",
+    "address": {
+        "city": "Roskilde",
+        "street name": "Rådhuspladsen",
+        "street number": 11,
+        "postal code": "6344"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "58 69 62 35",
+    "email_address": "laura.nrregaard@yahoo.com"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Mathilde Alma Nielsen",
+    "first_name": "Mathilde",
+    "middle_name": "Alma",
+    "last_name": "Nielsen",
+    "passport_number": "ZW5326891",
+    "currency": "CHF",
+    "address": {
+        "city": "Lucerne",
+        "street name": "Marktgasse",
+        "street number": 46,
+        "postal code": "0937"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 062 592 61 23",
+    "email_address": "mathilde.nielsen@swissonline.ch"
+}

@@ -1,0 +1,94 @@
+{
+    "name": "Gitte Andrea Petersen",
+    "address": {
+        "city": "Næstved",
+        "street name": "Kattesundet",
+        "street number": 25,
+        "postal code": "9206"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1959-02-15",
+    "nationality": "Danish",
+    "passport_number": "FM0870095",
+    "passport_issue_date": "2017-05-28",
+    "passport_expiry_date": "2027-05-27",
+    "gender": "F",
+    "phone_number": "+45 05 37 51 82",
+    "email_address": "gitte.petersen@yahoo.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Frederikshavn Gymnasium",
+        "graduation_year": 1977
+    },
+    "higher_education": [
+        {
+            "university": "International Business Academy (IBA)",
+            "graduation_year": 1983
+        },
+        {
+            "university": "University College Absalon",
+            "graduation_year": 1987
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1983,
+            "end_year": 1986,
+            "company": " Marriott International Danmark A/S",
+            "position": "Hotel Manager",
+            "salary": 259000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 1991,
+            "company": "Scandic Hotels Danmark A/S",
+            "position": "General Manager",
+            "salary": 499000
+        },
+        {
+            "start_year": 1992,
+            "end_year": 1997,
+            "company": "Radisson Hotel Group Danmark A/S",
+            "position": "Regional Vice President",
+            "salary": 1019000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2019,
+            "company": "Choice Hotels Danmark A/S",
+            "position": "CEO",
+            "salary": 4544000
+        }
+    ],
+    "aum": {
+        "savings": 7940000,
+        "inheritance": 0,
+        "real_estate_value": 5721000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1361000,
+            "property location": "Næstved"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1610000,
+            "property location": "Helsingør"
+        },
+        {
+            "property type": "villa",
+            "property value": 2750000,
+            "property location": "Vejle"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

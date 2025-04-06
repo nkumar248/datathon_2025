@@ -1,0 +1,17 @@
+{
+    "name": "Robert Pierre Robin",
+    "first_name": "Robert",
+    "middle_name": "Pierre",
+    "last_name": "Robin",
+    "passport_number": "NA4159614",
+    "currency": "EUR",
+    "address": {
+        "city": "Brest",
+        "street name": "Rue Marbeuf",
+        "street number": 96,
+        "postal code": "58371"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 05 52 35 42 64",
+    "email_address": "robert.robin@bbox.fr"
+}

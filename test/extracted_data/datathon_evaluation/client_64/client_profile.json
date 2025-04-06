@@ -1,0 +1,57 @@
+{
+    "name": "Dácil Angela Torres",
+    "address": {
+        "city": "Seville",
+        "street name": "Plaza de la Magdalena",
+        "street number": 83,
+        "postal code": "55552"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1999-05-05",
+    "nationality": "Spanish",
+    "passport_number": "BF0717144",
+    "passport_issue_date": "2020-05-17",
+    "passport_expiry_date": "2025-05-16",
+    "gender": "F",
+    "phone_number": "+34 693 965 690",
+    "email_address": "dacil.torres@hotmail.es",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "IES Andrés Laguna Segovia",
+        "graduation_year": 2019
+    },
+    "higher_education": [
+        {
+            "university": "CEU San Pablo University",
+            "graduation_year": 2024
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2024,
+            "end_year": 2025,
+            "company": "Telefónica S.A.",
+            "position": "Software Developer",
+            "salary": 26000
+        }
+    ],
+    "aum": {
+        "savings": 0,
+        "inheritance": 2470000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,81 @@
+{
+    "name": "Van den Berg Spaans Visser",
+    "address": {
+        "city": "Venlo",
+        "street name": "Rembrandtplein",
+        "street number": 9,
+        "postal code": "2327 07"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1966-12-13",
+    "nationality": "Dutch",
+    "passport_number": "GT2324743",
+    "passport_issue_date": "2023-09-13",
+    "passport_expiry_date": "2033-09-12",
+    "gender": "M",
+    "phone_number": "+31 06 96333667",
+    "email_address": "vandenberg.visser@kpnmail.nl",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Pieter Nieuwland College Utrecht",
+        "graduation_year": 1986
+    },
+    "higher_education": [
+        {
+            "university": "University of Amsterdam",
+            "graduation_year": 1991
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1990,
+            "end_year": 1992,
+            "company": "Rabobank Group",
+            "position": "Investment Banker",
+            "salary": 39000
+        },
+        {
+            "start_year": 1992,
+            "end_year": null,
+            "company": "SNS Bank N.V.",
+            "position": "Private Equity Investor",
+            "salary": 384000
+        }
+    ],
+    "aum": {
+        "savings": 760000,
+        "inheritance": 3060000,
+        "real_estate_value": 4040000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2014,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1090000,
+            "property location": "Venlo"
+        },
+        {
+            "property type": "flat",
+            "property value": 1190000,
+            "property location": "Maastricht"
+        },
+        {
+            "property type": "house",
+            "property value": 1760000,
+            "property location": "Hoofddorp"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

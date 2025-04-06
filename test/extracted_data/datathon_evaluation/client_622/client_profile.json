@@ -1,0 +1,83 @@
+{
+    "name": "Essi Aada Heikkinen",
+    "address": {
+        "city": "Turku",
+        "street name": "Karjalankatu",
+        "street number": 47,
+        "postal code": "88076"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1981-11-27",
+    "nationality": "Finnish",
+    "passport_number": "OG8881394",
+    "passport_issue_date": "2032-05-12",
+    "passport_expiry_date": "2022-05-13",
+    "gender": "F",
+    "phone_number": "+358 041 148 42 10",
+    "email_address": "essi.heikkinen@luukku.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Helsingin Ranskalainen Koulu",
+        "graduation_year": 2001
+    },
+    "higher_education": [
+        {
+            "university": "Diaconia University of Applied Sciences",
+            "graduation_year": 2004
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2005,
+            "end_year": 2006,
+            "company": "Pharmia Sinensis Oy",
+            "position": "Research Scientist",
+            "salary": 38000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2009,
+            "company": "Finnish Red Cross Blood Service",
+            "position": "Clinical Trials Manager",
+            "salary": 56000
+        },
+        {
+            "start_year": 2011,
+            "end_year": null,
+            "company": "Orion Corporation",
+            "position": "Regulatory Affairs Director",
+            "salary": 255000
+        }
+    ],
+    "aum": {
+        "savings": 410000,
+        "inheritance": 470000,
+        "real_estate_value": 1591000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 681000,
+            "property location": "Turku"
+        },
+        {
+            "property type": "condo",
+            "property value": 910000,
+            "property location": "Kotka"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "France"
+    ],
+    "currency": "EUR"
+}

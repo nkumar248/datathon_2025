@@ -1,0 +1,17 @@
+{
+    "name": "Conti Leonardi Marino",
+    "first_name": "Conti",
+    "middle_name": " Leonardi",
+    "last_name": " Marino",
+    "passport_number": "CS9947284",
+    "currency": "EUR",
+    "address": {
+        "city": "Florence",
+        "street name": "Via dei Banchi Vecchi",
+        "street number": 14,
+        "postal code": "94709"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "++32 338 4801028",
+    "email_address": "conti marino@virgilio it"
+}

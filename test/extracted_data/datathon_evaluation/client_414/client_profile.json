@@ -1,0 +1,77 @@
+{
+    "name": "Madsen Højgaard Nielsen",
+    "address": {
+        "city": "Helsingør",
+        "street name": "Sortedams Dossering",
+        "street number": 100,
+        "postal code": "7936"
+    },
+    "country_of_domicile": "Denmark,Switzerland",
+    "birth_date": "1961-12-31",
+    "nationality": "Danish",
+    "passport_number": "DO5050506",
+    "passport_issue_date": "2024-07-13",
+    "passport_expiry_date": "2034-07-12",
+    "gender": "M",
+    "phone_number": "34 77 87 88",
+    "email_address": "madsen.nielsen@gmail.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Birkerød Gymnasium",
+        "graduation_year": 1979
+    },
+    "higher_education": [
+        {
+            "university": "Copenhagen Business School",
+            "graduation_year": 1984
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1985,
+            "end_year": 1987,
+            "company": "Kromann Reumert",
+            "position": "Associate Attorney",
+            "salary": 294000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 2022,
+            "company": "Kromann Reumert",
+            "position": "Senior Associate",
+            "salary": 2107000
+        }
+    ],
+    "aum": {
+        "savings": 4010000,
+        "inheritance": 0,
+        "real_estate_value": 4172000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1202000,
+            "property location": "Helsingør"
+        },
+        {
+            "property type": "flat",
+            "property value": 1190000,
+            "property location": "Copenhagen"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1780000,
+            "property location": "Silkeborg"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "France"
+    ],
+    "currency": "DKK"
+}

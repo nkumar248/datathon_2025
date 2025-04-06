@@ -1,0 +1,90 @@
+{
+    "name": "Dekkers Visser Jansen",
+    "address": {
+        "city": "Groningen",
+        "street name": "Overtoom",
+        "street number": 76,
+        "postal code": "5986 98"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1963-05-26",
+    "nationality": "Dutch",
+    "passport_number": "PL2449447",
+    "passport_issue_date": "2017-11-01",
+    "passport_expiry_date": "2027-10-31",
+    "gender": "M",
+    "phone_number": "+31 06 44559219",
+    "email_address": "dekkers.jansen@hotspots.nl",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Bonaventura College Leiden",
+        "graduation_year": 1983
+    },
+    "higher_education": [
+        {
+            "university": "Tio University of Applied Sciences",
+            "graduation_year": 1987
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1988,
+            "end_year": 1993,
+            "company": "Airbus Netherlands B.V.",
+            "position": "Aerospace Engineer",
+            "salary": 51000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 1995,
+            "company": "Stork Aerospace B.V.",
+            "position": "Program Manager",
+            "salary": 58000
+        },
+        {
+            "start_year": 1996,
+            "end_year": 1998,
+            "company": "NLR - Netherlands Aerospace Centre",
+            "position": "Director of Operations",
+            "salary": 85000
+        },
+        {
+            "start_year": 1998,
+            "end_year": 2024,
+            "company": "Fokker Technologies B.V.",
+            "position": "VP of Business Development",
+            "salary": 944000
+        }
+    ],
+    "aum": {
+        "savings": 1690000,
+        "inheritance": 0,
+        "real_estate_value": 4890000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2410000,
+            "property location": "Groningen"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1104000,
+            "property location": "Eindhoven"
+        },
+        {
+            "property type": "house",
+            "property value": 1376000,
+            "property location": "Assen"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

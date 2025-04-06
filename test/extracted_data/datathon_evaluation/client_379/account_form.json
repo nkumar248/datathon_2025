@@ -1,0 +1,17 @@
+{
+    "name": "Sofia Carlotta Ricci",
+    "first_name": "Sofia",
+    "middle_name": "Carlotta",
+    "last_name": "Ricci",
+    "passport_number": "OH5367114",
+    "currency": "EUR",
+    "address": {
+        "city": "Pisa",
+        "street name": "Corso Vittorio Emanuele II",
+        "street number": 90,
+        "postal code": "38020"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 398 7960873",
+    "email_address": "sofia.ricci@wind.it"
+}

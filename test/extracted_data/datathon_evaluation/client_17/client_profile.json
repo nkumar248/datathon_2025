@@ -1,0 +1,83 @@
+{
+    "name": "Aada Koskinen",
+    "address": {
+        "city": "Mikkeli",
+        "street name": "Ratapihantie",
+        "street number": 80,
+        "postal code": "57378"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1981-01-19",
+    "nationality": "Finnish",
+    "passport_number": "AO5734774",
+    "passport_issue_date": "2016-04-20",
+    "passport_expiry_date": "2029-04-19",
+    "gender": "F",
+    "phone_number": "+358 041 890 17 10",
+    "email_address": "aada.koskinen@icloud.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Salpausselän lukio",
+        "graduation_year": 2000
+    },
+    "higher_education": [
+        {
+            "university": "Åbo Akademi University School of Economics",
+            "graduation_year": 2004
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2004,
+            "end_year": 2007,
+            "company": "Nordea Private Banking",
+            "position": "Financial Advisor",
+            "salary": 36000
+        },
+        {
+            "start_year": 2007,
+            "end_year": 2011,
+            "company": "Danske Bank Wealth Management",
+            "position": "Portfolio Manager",
+            "salary": 60000
+        },
+        {
+            "start_year": 2011,
+            "end_year": null,
+            "company": "Danske Bank Wealth Management",
+            "position": "Wealth Manager",
+            "salary": 323000
+        }
+    ],
+    "aum": {
+        "savings": 430000,
+        "inheritance": 1150000,
+        "real_estate_value": 2130000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2015,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1060000,
+            "property location": "Mikkeli"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1070000,
+            "property location": "Pori"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Finland"
+    ],
+    "currency": "EUR"
+}

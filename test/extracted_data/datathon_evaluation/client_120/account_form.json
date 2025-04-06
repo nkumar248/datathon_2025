@@ -1,0 +1,17 @@
+{
+    "name": "Chloé Segers",
+    "first_name": "Chloé",
+    "middle_name": "",
+    "last_name": "Segers",
+    "passport_number": "ZV7790419",
+    "currency": "EUR",
+    "address": {
+        "city": "Leuven",
+        "street name": "Rue de la Révolution Belge",
+        "street number": 91,
+        "postal code": "1344"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0489 762 922",
+    "email_address": "chloe.segers@gmail.com"
+}

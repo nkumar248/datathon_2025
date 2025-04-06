@@ -1,0 +1,17 @@
+{
+    "first_name": "Alejandra",
+    "middle_name": "Carmen",
+    "last_name": "Herrera",
+    "gender": "F",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "1960-09-17",
+    "passport_number": "DJ0808656",
+    "passport_mrz": [
+        "P<ESPHERRERA<<ALEJANDRA<CARMEN<<<<<<<<<<<<<<<",
+        "DJ0808656ESP600917<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-12-05",
+    "passport_expiry_date": "2033-12-04"
+}

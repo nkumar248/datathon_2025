@@ -1,0 +1,77 @@
+{
+    "name": "Roelandts Van den Berghe",
+    "address": {
+        "city": "Poperinge",
+        "street name": "Place Saint-Géry",
+        "street number": 56,
+        "postal code": "6014"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1965-01-25",
+    "nationality": "Belgian",
+    "passport_number": "RA1335137",
+    "passport_issue_date": "2023-03-04",
+    "passport_expiry_date": "2030-03-03",
+    "gender": "M",
+    "phone_number": "+32 0498 441 322",
+    "email_address": "roelandts.vandenberghe@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Koninklijk Atheneum Anderlecht",
+        "graduation_year": 1983
+    },
+    "higher_education": [
+        {
+            "university": "University of Mons",
+            "graduation_year": 1987
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1988,
+            "end_year": 1990,
+            "company": "Warehouses De Pauw SA",
+            "position": "Property Manager",
+            "salary": 38000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 1995,
+            "company": "AG Real Estate SA",
+            "position": "Developer",
+            "salary": 55000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 2025,
+            "company": "Befimmo SA",
+            "position": "Construction Company Owner",
+            "salary": 787000
+        }
+    ],
+    "aum": {
+        "savings": 1340000,
+        "inheritance": 1390000,
+        "real_estate_value": 830000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2006,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 830000,
+            "property location": "Poperinge"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

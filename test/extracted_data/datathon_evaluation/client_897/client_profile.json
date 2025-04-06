@@ -1,0 +1,58 @@
+{
+    "name": "Karen Agnes Kristensen",
+    "address": {
+        "city": "Svendborg",
+        "street name": "Æbeløgade",
+        "street number": 67,
+        "postal code": "4574"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1996-05-09",
+    "nationality": "Danish",
+    "passport_number": "RQ8453724",
+    "passport_issue_date": "2017-04-09",
+    "passport_expiry_date": "2027-04-08",
+    "gender": "F",
+    "phone_number": "+45 09 44 53 02",
+    "email_address": "karen.kristensen@yahoo.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Tønder Gymnasium",
+        "graduation_year": 2015
+    },
+    "higher_education": [
+        {
+            "university": "University of Copenhagen",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2020,
+            "end_year": null,
+            "company": "Microsoft Danmark A/S",
+            "position": "Software Developer",
+            "salary": 384000
+        }
+    ],
+    "aum": {
+        "savings": 290000,
+        "inheritance": 18420000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Italy"
+    ],
+    "currency": "DKK"
+}

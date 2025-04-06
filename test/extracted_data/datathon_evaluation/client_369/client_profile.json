@@ -1,0 +1,86 @@
+{
+    "name": "Maier Meier",
+    "address": {
+        "city": "Hanover",
+        "street name": "Bahnhofsplatz",
+        "street number": 56,
+        "postal code": "68006"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1964-04-01",
+    "nationality": "German",
+    "passport_number": "HF3223562",
+    "passport_issue_date": "2021-10-12",
+    "passport_expiry_date": "2031-10-11",
+    "gender": "M",
+    "phone_number": "",
+    "email_address": "maier.meier@yahoo.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Otto-Hahn-Gymnasium Karlsruhe",
+        "graduation_year": 1982
+    },
+    "higher_education": [
+        {
+            "university": "Ludwigsburg University of Education",
+            "graduation_year": 1986
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1987,
+            "end_year": 1992,
+            "company": "Hilton Worldwide Deutschland GmbH",
+            "position": "Hotel Manager",
+            "salary": 50000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 1996,
+            "company": "Hilton Worldwide Deutschland GmbH",
+            "position": "General Manager",
+            "salary": 57000
+        },
+        {
+            "start_year": 1998,
+            "end_year": 1999,
+            "company": "Marriott International GmbH",
+            "position": "Regional Vice President",
+            "salary": 92000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2024,
+            "company": "Accor Hotels Deutschland GmbH",
+            "position": "CEO",
+            "salary": 1119000
+        }
+    ],
+    "aum": {
+        "savings": 2080000,
+        "inheritance": 0,
+        "real_estate_value": 2030000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1040000,
+            "property location": "Hanover"
+        },
+        {
+            "property type": "flat",
+            "property value": 990000,
+            "property location": "Stuttgart"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

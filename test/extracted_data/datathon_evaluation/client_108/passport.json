@@ -1,0 +1,17 @@
+{
+    "first_name": "Hernández",
+    "middle_name": "Sánchez",
+    "last_name": "Navarro",
+    "gender": "M",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "1985-01-14",
+    "passport_number": "UH3673763",
+    "passport_mrz": [
+        "P<ESPNAVARRO<<HERNÁNDEZ<SÁNCHEZ<<<<<<<<<<<<<<",
+        "UH3673763ESP850114<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-01-09",
+    "passport_expiry_date": "2034-01-08"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Lena Lea Huber",
+    "first_name": "Lena",
+    "middle_name": "Lea",
+    "last_name": "Huber",
+    "passport_number": "HU7085254",
+    "currency": "EUR",
+    "address": {
+        "city": "Stockerau",
+        "street name": "Naschmarkt",
+        "street number": 60,
+        "postal code": "2480"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 989 598 3861",
+    "email_address": "lena.huber@magenta.at"
+}

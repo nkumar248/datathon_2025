@@ -1,0 +1,85 @@
+{
+    "name": "Kaiser Hofer Rieder",
+    "address": {
+        "city": "Ried im Innkreis",
+        "street name": "Westbahnstraße",
+        "street number": 33,
+        "postal code": "3370"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1974-10-22",
+    "nationality": "Austrian",
+    "passport_number": "JB5209167",
+    "passport_issue_date": "2019-01-26",
+    "passport_expiry_date": "2029-01-25",
+    "gender": "M",
+    "phone_number": "+43 087 720 1708",
+    "email_address": "kaiser.rieder@kabsi.at",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Musisches Gymnasium Wien",
+        "graduation_year": 1994
+    },
+    "higher_education": [
+        {
+            "university": "Montanuniversität Leoben",
+            "graduation_year": 1998
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1999,
+            "end_year": 2001,
+            "company": "Microsoft Austria GmbH",
+            "position": "Software Developer",
+            "salary": 33000
+        },
+        {
+            "start_year": 2003,
+            "end_year": 2008,
+            "company": "Cisco Systems Austria GmbH",
+            "position": "Startup Founder",
+            "salary": 48000
+        },
+        {
+            "start_year": 2008,
+            "end_year": 2013,
+            "company": "Cisco Systems Austria GmbH",
+            "position": "CEO",
+            "salary": 123000
+        },
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "Microsoft Austria GmbH",
+            "position": "Venture Capitalist",
+            "salary": 456000
+        }
+    ],
+    "aum": {
+        "savings": 650000,
+        "inheritance": 3240000,
+        "real_estate_value": 1020000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2010,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1020000,
+            "property location": "Ried im Innkreis"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

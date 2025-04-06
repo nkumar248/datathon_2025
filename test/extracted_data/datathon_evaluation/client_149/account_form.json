@@ -1,0 +1,17 @@
+{
+    "name": "Díaz Ruiz Romero",
+    "first_name": "Díaz",
+    "middle_name": "Ruiz",
+    "last_name": "Romero",
+    "passport_number": "VA9800121",
+    "currency": "EUR",
+    "address": {
+        "city": "Boxtel",
+        "street name": "Langegracht",
+        "street number": 58,
+        "postal code": "9068 83"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 27053565",
+    "email_address": "diaz.romero@icloud.com"
+}

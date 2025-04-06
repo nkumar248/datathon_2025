@@ -1,0 +1,58 @@
+{
+    "name": "Ackermann Egli Burkart",
+    "address": {
+        "city": "Baden",
+        "street name": "Münstergasse",
+        "street number": 10,
+        "postal code": "1643"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1997-08-19",
+    "nationality": "Swiss",
+    "passport_number": "CK0679421",
+    "passport_issue_date": "2018-09-19",
+    "passport_expiry_date": "2028-09-18",
+    "gender": "M",
+    "phone_number": "+41 084 522 81 99",
+    "email_address": "ackermann.burkart@sunrise.ch",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Gymnasium Köniz Bern",
+        "graduation_year": 2016
+    },
+    "higher_education": [
+        {
+            "university": "Geneva Business School",
+            "graduation_year": 2022
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2022,
+            "end_year": null,
+            "company": "Mediterranean Shipping Company (MSC) SA",
+            "position": "Ship Broker",
+            "salary": 64000
+        }
+    ],
+    "aum": {
+        "savings": 30000,
+        "inheritance": 1910000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2020,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Denmark"
+    ],
+    "currency": "CHF"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Rizzo Marino Romano",
+    "first_name": "Rizzo",
+    "middle_name": " Marino",
+    "last_name": "Romano",
+    "passport_number": "WS3476799",
+    "currency": "EUR",
+    "address": {
+        "city": "Turin",
+        "street name": "Via Nazionale",
+        "street number": 28,
+        "postal code": "50201"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "336 1404238",
+    "email_address": "rizzo.romano@alice.it"
+}

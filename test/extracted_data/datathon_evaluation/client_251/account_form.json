@@ -1,0 +1,17 @@
+{
+    "name": "Sterckx Vandenberghe Jacobs",
+    "first_name": "Sterckx",
+    "middle_name": "Vandenberghe",
+    "last_name": " Jacobs",
+    "passport_number": "DP2640631",
+    "currency": "EUR",
+    "address": {
+        "city": "Tournai",
+        "street name": "Rue de l'Hôtel des Monnaies",
+        "street number": 9,
+        "postal code": "6583"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0429 234 817",
+    "email_address": "sterckx.jacobs@icloud.com"
+}

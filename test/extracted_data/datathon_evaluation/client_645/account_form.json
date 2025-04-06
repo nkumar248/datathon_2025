@@ -1,0 +1,17 @@
+{
+    "name": "Ambre Laurène Simon",
+    "first_name": "Ambre",
+    "middle_name": "Laurène",
+    "last_name": "Simon",
+    "passport_number": "RY1273860",
+    "currency": "EUR",
+    "address": {
+        "city": "Paris",
+        "street name": "Rue de Rivoli",
+        "street number": 49,
+        "postal code": "83835"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 04 18 84 75 27",
+    "email_address": "ambre.simon@numericable.fr"
+}

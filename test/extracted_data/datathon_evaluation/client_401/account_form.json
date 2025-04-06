@@ -1,0 +1,17 @@
+{
+    "name": "Lang Schmid Schnell",
+    "first_name": "Lang",
+    "middle_name": "Schmid",
+    "last_name": "Schnell",
+    "passport_number": "WD8695026",
+    "currency": "EUR",
+    "address": {
+        "city": "Zwettl",
+        "street name": "Kohlmarkt",
+        "street number": 8,
+        "postal code": "5666"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 693 116 8028",
+    "email_address": "lang.schnell@outlook.com"
+}

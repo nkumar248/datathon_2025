@@ -1,0 +1,68 @@
+{
+    "name": "Sofía Dácil Gómez",
+    "address": {
+        "city": "Jerez de la Frontera",
+        "street name": "Calle de Serranos",
+        "street number": 33,
+        "postal code": "93426"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1991-02-17",
+    "nationality": "Spanish",
+    "passport_number": "XF0434769",
+    "passport_issue_date": "2020-05-11",
+    "passport_expiry_date": "2030-05-10",
+    "gender": "F",
+    "phone_number": "672 911 432",
+    "email_address": "sofia.gomez@vodafone.es",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Instituto de Bachillerato Artístico IES Reina Sofia Tenerife",
+        "graduation_year": 2010
+    },
+    "higher_education": [
+        {
+            "university": "University of Seville",
+            "graduation_year": 2013
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2015,
+            "end_year": null,
+            "company": "CaixaBank S.A.",
+            "position": "Family Office Manager",
+            "salary": 23000
+        }
+    ],
+    "aum": {
+        "savings": 30000,
+        "inheritance": 2710000,
+        "real_estate_value": 2190000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1440000,
+            "property location": "Jerez de la Frontera"
+        },
+        {
+            "property type": "flat",
+            "property value": 750000,
+            "property location": "Gijón"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

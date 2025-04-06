@@ -1,0 +1,95 @@
+{
+    "name": "González Martín",
+    "address": {
+        "city": "Bilbao",
+        "street name": "Calle de Alcalá",
+        "street number": 47,
+        "postal code": "76823"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1956-12-25",
+    "nationality": "Spanish",
+    "passport_number": "GZ4555758",
+    "passport_issue_date": "2018-02-18",
+    "passport_expiry_date": "2028-02-17",
+    "gender": "M",
+    "phone_number": "+34 653 929 713",
+    "email_address": "gonzalez.martin@hotmail.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Colegio Jesús-María Tarragona",
+        "graduation_year": 1975
+    },
+    "higher_education": [
+        {
+            "university": "Universidad Pontificia Comillas",
+            "graduation_year": 1981
+        },
+        {
+            "university": "IE University",
+            "graduation_year": 1983
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1981,
+            "end_year": 1986,
+            "company": "KKR Iberia Asesoramiento S.A.",
+            "position": "Analyst",
+            "salary": 28000
+        },
+        {
+            "start_year": 1988,
+            "end_year": 1993,
+            "company": "Groupe Carlyle S.A.R.L.",
+            "position": "Associate",
+            "salary": 38000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 1994,
+            "company": "Apax Partners España S.A.",
+            "position": "Investment Director",
+            "salary": 56000
+        },
+        {
+            "start_year": 1996,
+            "end_year": 2017,
+            "company": "Groupe Carlyle S.A.R.L.",
+            "position": "Partner",
+            "salary": 467000
+        }
+    ],
+    "aum": {
+        "savings": 850000,
+        "inheritance": 0,
+        "real_estate_value": 2430000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 950000,
+            "property location": "Bilbao"
+        },
+        {
+            "property type": "flat",
+            "property value": 710000,
+            "property location": "Cartagena"
+        },
+        {
+            "property type": "condo",
+            "property value": 770000,
+            "property location": "Guadalajara"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Switzerland"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Hanna Peltola",
+    "first_name": "Hanna",
+    "middle_name": "",
+    "last_name": "Peltola",
+    "passport_number": "GR3491794",
+    "currency": "EUR",
+    "address": {
+        "city": "Oulu",
+        "street name": "Siltasaarenkatu",
+        "street number": 66,
+        "postal code": "84387"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 047 389 02 90",
+    "email_address": "hanna.peltola@finet.fi"
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Rizzo Ricci Esposito",
+    "address": {
+        "city": "Bari",
+        "street name": "Piazza Farnese",
+        "street number": 39,
+        "postal code": "84585"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "2003-01-02",
+    "nationality": "Italian",
+    "passport_number": "GG7132012",
+    "passport_issue_date": "2021-06-21",
+    "passport_expiry_date": "2031-06-20",
+    "gender": "M",
+    "phone_number": "+39 352 0445879",
+    "email_address": "rizzo.esposito@fastweb.it",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Liceo Linguistico Internazionale Galileo Galilei Firenze",
+        "graduation_year": 2022
+    },
+    "higher_education": [
+        {
+            "university": "European University of Rome",
+            "graduation_year": 2025
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1370000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

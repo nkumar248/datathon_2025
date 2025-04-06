@@ -1,0 +1,17 @@
+{
+    "first_name": "Friso",
+    "middle_name": "",
+    "last_name": "Wagemakers",
+    "gender": "F",
+    "country": "Netherlands",
+    "country_code": "NLD",
+    "nationality": "Dutch",
+    "birth_date": "1993-12-17",
+    "passport_number": "XO1568074",
+    "passport_mrz": [
+        "P<NLDWAGEMAKERS<<FRISO<<<<<<<<<<<<<<<<<<<<<<<",
+        "XO1568074NLD931217<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-08-08",
+    "passport_expiry_date": "2034-08-07"
+}

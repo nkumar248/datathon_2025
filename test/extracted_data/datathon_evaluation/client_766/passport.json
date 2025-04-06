@@ -1,0 +1,17 @@
+{
+    "first_name": "Esposito",
+    "middle_name": "",
+    "last_name": "Fantini",
+    "gender": "M",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1978-11-16",
+    "passport_number": "FI6744560",
+    "passport_mrz": [
+        "P<ITAFANTINI<<ESPOSITO<<<<<<<<<<<<<<<<<<<<<<<",
+        "FI6744560ITA781116<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2016-10-26",
+    "passport_expiry_date": "2026-10-25"
+}

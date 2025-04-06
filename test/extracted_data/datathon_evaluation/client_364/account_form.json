@@ -1,0 +1,17 @@
+{
+    "name": "Chloé Bernard",
+    "first_name": "Chloé",
+    "middle_name": "",
+    "last_name": "Bernard",
+    "passport_number": "RA1392587",
+    "currency": "EUR",
+    "address": {
+        "city": "Saint-Étienne",
+        "street name": "Quai d'Orsay",
+        "street number": 42,
+        "postal code": "86441"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "++31 03 23 41 84 94",
+    "email_address": "chloe.bernard@live.fr"
+}

@@ -1,0 +1,73 @@
+{
+    "name": "Snijders Schipper",
+    "address": {
+        "city": "Rotterdam",
+        "street name": "Waldeck Pyrmontkade",
+        "street number": 42,
+        "postal code": "7544 60"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1994-09-16",
+    "nationality": "Dutch",
+    "passport_number": "SJ6689806",
+    "passport_issue_date": "2022-12-09",
+    "passport_expiry_date": "2032-12-08",
+    "gender": "M",
+    "phone_number": "06 03588813",
+    "email_address": "snijders.schipper@hotspots.nl",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Openbaar Lyceum Hengelo",
+        "graduation_year": 2012
+    },
+    "higher_education": [
+        {
+            "university": "Utrecht University",
+            "graduation_year": 2003
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "ING Private Banking",
+            "position": "Family Office Manager",
+            "salary": 61000
+        }
+    ],
+    "aum": {
+        "savings": 50000,
+        "inheritance": 2130000,
+        "real_estate_value": 5709000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1449000,
+            "property location": "Rotterdam"
+        },
+        {
+            "property type": "house",
+            "property value": 1800000,
+            "property location": "Boxtel"
+        },
+        {
+            "property type": "villa",
+            "property value": 2460000,
+            "property location": "Enschede"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Agnes Idun Madsen",
+    "address": {
+        "city": "Silkeborg",
+        "street name": "Store Kongensgade",
+        "street number": 61,
+        "postal code": "2230"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "2003-06-09",
+    "nationality": "Danish",
+    "passport_number": "YT4108279",
+    "passport_issue_date": "2021-05-15",
+    "passport_expiry_date": "2031-05-14",
+    "gender": "F",
+    "phone_number": "+45 10 67 76 49",
+    "email_address": "agnes.madsen@all.dk",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Sønderborg Statsskole",
+        "graduation_year": 2022
+    },
+    "higher_education": [],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 20490000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

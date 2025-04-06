@@ -1,0 +1,74 @@
+{
+    "name": "Imke Henriette Zimmermann",
+    "address": {
+        "city": "Heidelberg",
+        "street name": "Rathausstraße",
+        "street number": 21,
+        "postal code": "98917"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1990-01-29",
+    "nationality": "German",
+    "passport_number": "JZ6792795",
+    "passport_issue_date": "2018-07-08",
+    "passport_expiry_date": "2028-07-07",
+    "gender": "F",
+    "phone_number": "0907 860545",
+    "email_address": "imke.zimmermann@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Pestalozzi-Gymnasium Nürnberg",
+        "graduation_year": 2008
+    },
+    "higher_education": [
+        {
+            "university": "Heidelberg University of Education",
+            "graduation_year": 2013
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2013,
+            "end_year": null,
+            "company": "Fresenius SE & Co. KGaA",
+            "position": "Research Scientist",
+            "salary": 87000
+        }
+    ],
+    "aum": {
+        "savings": 110000,
+        "inheritance": 3560000,
+        "real_estate_value": 3596000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1460000,
+            "property location": "Heidelberg"
+        },
+        {
+            "property type": "condo",
+            "property value": 1096000,
+            "property location": "Braunschweig"
+        },
+        {
+            "property type": "condo",
+            "property value": 1040000,
+            "property location": "Freiburg im Breisgau"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

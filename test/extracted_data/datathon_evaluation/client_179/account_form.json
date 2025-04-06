@@ -1,0 +1,17 @@
+{
+    "name": "Blanca Anaís Soto",
+    "first_name": "Blanca",
+    "middle_name": "Anaís",
+    "last_name": "Soto",
+    "passport_number": "PS8702100",
+    "currency": "EUR",
+    "address": {
+        "city": "Geel",
+        "street name": "Rue des Deux Portes",
+        "street number": 81,
+        "postal code": "3601"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0461 397 233",
+    "email_address": "blanca.soto@edpnet.be"
+}

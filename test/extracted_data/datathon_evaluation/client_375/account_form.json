@@ -1,0 +1,17 @@
+{
+    "name": "Galli Rizzo Fantini",
+    "first_name": "Galli",
+    "middle_name": "Rizzo",
+    "last_name": "Fantini",
+    "passport_number": "XW4773694",
+    "currency": "EUR",
+    "address": {
+        "city": "Pisa",
+        "street name": "Via del Governo Vecchio",
+        "street number": 57,
+        "postal code": "56488"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "317 0322885",
+    "email_address": "galli.fantini@aruba.it"
+}

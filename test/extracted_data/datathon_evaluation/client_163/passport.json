@@ -1,0 +1,17 @@
+{
+    "first_name": "Keller",
+    "middle_name": "Baumgartner",
+    "last_name": "Burkart",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1989-01-13",
+    "passport_number": "YJ5485278",
+    "passport_mrz": [
+        "P<CHEBURKART<<KELLER<BAUMGARTNER<<<<<<<<<<<<<",
+        "YJ5485278CHE890113<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2021-08-17",
+    "passport_expiry_date": "2031-08-16"
+}

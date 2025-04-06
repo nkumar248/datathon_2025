@@ -1,0 +1,17 @@
+{
+    "name": "Léa Amélie Van den Berghe",
+    "first_name": "Léa",
+    "middle_name": "Amélie",
+    "last_name": "Van den Berghe",
+    "passport_number": "WF4706927",
+    "currency": "EUR",
+    "address": {
+        "city": "Liège",
+        "street name": "Rue Wiertz",
+        "street number": 8,
+        "postal code": "0862"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0416 542 513",
+    "email_address": "lea.vandenberghe@hotmail.com"
+}

@@ -1,0 +1,65 @@
+{
+    "name": "Lehmann Jost Weber",
+    "address": {
+        "city": "Appenzell",
+        "street name": "Stadthausplatz",
+        "street number": 29,
+        "postal code": "1260"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1999-03-25",
+    "nationality": "Swiss",
+    "passport_number": "UO2130531",
+    "passport_issue_date": "2024-09-09",
+    "passport_expiry_date": "2034-09-08",
+    "gender": "M",
+    "phone_number": "+41 006 271 81 23",
+    "email_address": "lehmann.weber@lycos.ch",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Liceo di Lugano Lugano",
+        "graduation_year": 2018
+    },
+    "higher_education": [
+        {
+            "university": "HSR Hochschule für Technik Rapperswil",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2022,
+            "end_year": 2023,
+            "company": "Mediterranean Shipping Company (MSC) SA",
+            "position": "Ship Broker",
+            "salary": 67000
+        },
+        {
+            "start_year": 2025,
+            "end_year": 2025,
+            "company": "Maersk Line (Switzerland) A/S",
+            "position": "Shipping Company Owner",
+            "salary": 100000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 980000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2020,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Germany"
+    ],
+    "currency": "CHF"
+}

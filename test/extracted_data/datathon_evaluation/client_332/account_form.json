@@ -1,0 +1,17 @@
+{
+    "name": "Emma Araceli Jiménez",
+    "first_name": "Emma",
+    "middle_name": "Araceli",
+    "last_name": "Jiménez",
+    "passport_number": "XN0876568",
+    "currency": "EUR",
+    "address": {
+        "city": "Jerez de la Frontera",
+        "street name": "Calle de Alcalá",
+        "street number": 70,
+        "postal code": "16742"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "604 341 423",
+    "email_address": "emma.jimenez@outlook.com"
+}

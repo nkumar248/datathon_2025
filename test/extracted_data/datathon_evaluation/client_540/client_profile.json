@@ -1,0 +1,58 @@
+{
+    "name": "Julia Daantje Maassen",
+    "address": {
+        "city": "Zaandam",
+        "street name": "Nieuwegeinseweg",
+        "street number": 10,
+        "postal code": "1865 29"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1997-06-15",
+    "nationality": "Dutch",
+    "passport_number": "HJ5766036",
+    "passport_issue_date": "2016-05-23",
+    "passport_expiry_date": "2026-05-22",
+    "gender": "F",
+    "phone_number": "+31 06 67296054",
+    "email_address": "julia.maassen@chello.nl",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Bonaventura College Leiden",
+        "graduation_year": 2015
+    },
+    "higher_education": [
+        {
+            "university": "Utrecht University",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2022,
+            "end_year": 2025,
+            "company": "G-Star Raw C.V.",
+            "position": "Assistant Designer",
+            "salary": 41000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 2460000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

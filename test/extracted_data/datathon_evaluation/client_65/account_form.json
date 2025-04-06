@@ -1,0 +1,17 @@
+{
+    "name": "Giulia Emanuela Moretti",
+    "first_name": "Giulia",
+    "middle_name": "Emanuela",
+    "last_name": "Moretti",
+    "passport_number": "AW4470669",
+    "currency": "EUR",
+    "address": {
+        "city": "Siena",
+        "street name": "Via Condotti",
+        "street number": 20,
+        "postal code": "89316"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 397 1568819",
+    "email_address": "giulia.moretti@infinito.it"
+}

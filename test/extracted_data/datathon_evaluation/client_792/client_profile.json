@@ -1,0 +1,78 @@
+{
+    "name": "Sophia Fabienne Schneider",
+    "address": {
+        "city": "Brugg",
+        "street name": "Rathausgasse",
+        "street number": 69,
+        "postal code": "3136"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1988-03-15",
+    "nationality": "Swiss",
+    "passport_number": "CQ2305242",
+    "passport_issue_date": "2016-06-02",
+    "passport_expiry_date": "2026-06-01",
+    "gender": "F",
+    "phone_number": "075 788 94 89",
+    "email_address": "sophia.schneider@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "École secondaire de La Chaux-de-Fonds Neuchâtel",
+        "graduation_year": 2006
+    },
+    "higher_education": [
+        {
+            "university": "Lausanne Hospitality School",
+            "graduation_year": 2011
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2011,
+            "end_year": 2014,
+            "company": "Equity4u AG",
+            "position": "Analyst",
+            "salary": 60000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2019,
+            "company": "Invision Private Equity AG",
+            "position": "Associate",
+            "salary": 85000
+        },
+        {
+            "start_year": 2020,
+            "end_year": 2025,
+            "company": "Capvis Equity Partners AG",
+            "position": "Investment Director",
+            "salary": 187000
+        }
+    ],
+    "aum": {
+        "savings": 210000,
+        "inheritance": 1340000,
+        "real_estate_value": 5230000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 5230000,
+            "property location": "Brugg"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Spain"
+    ],
+    "currency": "CHF"
+}

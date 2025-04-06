@@ -1,0 +1,17 @@
+{
+    "first_name": "Clara",
+    "middle_name": "Lucía",
+    "last_name": "Castro",
+    "gender": "F",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "1990-05-11",
+    "passport_number": "SD4310572",
+    "passport_mrz": [
+        "P<ESPCASTRO<<CLARA<LUCÍA<<<<<<<<<<<<<<<<<<<<<",
+        "SD4310572ESP900511<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2017-10-25",
+    "passport_expiry_date": "2027-10-24"
+}

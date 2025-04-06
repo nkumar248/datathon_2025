@@ -1,0 +1,17 @@
+{
+    "name": "Diana Schmidt",
+    "first_name": "Diana",
+    "middle_name": "",
+    "last_name": "Schmidt",
+    "passport_number": "JF8417538",
+    "currency": "EUR",
+    "address": {
+        "city": "Cologne",
+        "street name": "Schlachte",
+        "street number": 93,
+        "postal code": "75259"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "++41 1684 350927",
+    "email_address": "diana.schmidt@outlook.com"
+}

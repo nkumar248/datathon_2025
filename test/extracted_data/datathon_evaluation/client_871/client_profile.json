@@ -1,0 +1,70 @@
+{
+    "name": "Peters Vandenberghe Moens",
+    "address": {
+        "city": "Mechelen",
+        "street name": "Rue de la Convention",
+        "street number": 5,
+        "postal code": "4448"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1981-06-14",
+    "nationality": "Belgian",
+    "passport_number": "HC5195304",
+    "passport_issue_date": "2020-12-20",
+    "passport_expiry_date": "2027-12-19",
+    "gender": "M",
+    "phone_number": "0477 886 756",
+    "email_address": "peters.moens@outlook.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "College Patroklia",
+        "graduation_year": 1999
+    },
+    "higher_education": [
+        {
+            "university": "PXL University of Applied Sciences and Arts",
+            "graduation_year": 2004
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2005,
+            "end_year": 2007,
+            "company": "GSK Vaccines SA",
+            "position": "Research Scientist",
+            "salary": 37000
+        },
+        {
+            "start_year": 2008,
+            "end_year": null,
+            "company": "Janssen Pharmaceutica NV",
+            "position": "Clinical Trials Manager",
+            "salary": 220000
+        }
+    ],
+    "aum": {
+        "savings": 310000,
+        "inheritance": 3960000,
+        "real_estate_value": 1740000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2007,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1740000,
+            "property location": "Mechelen"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

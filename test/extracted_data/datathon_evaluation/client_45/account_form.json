@@ -1,0 +1,17 @@
+{
+    "name": "Hortense Amélie Roose",
+    "first_name": "Hortense",
+    "middle_name": "Amélie",
+    "last_name": "Roose",
+    "passport_number": "NL6912901",
+    "currency": "EUR",
+    "address": {
+        "city": "Brussels",
+        "street name": "Rue Wiertz",
+        "street number": 20,
+        "postal code": "1386"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0485 781 258",
+    "email_address": "hortense.roose@telenet.be"
+}

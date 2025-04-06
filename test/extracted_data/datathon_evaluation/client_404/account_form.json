@@ -1,0 +1,17 @@
+{
+    "name": "Vogel Verhoeven Spaans",
+    "first_name": "Vogel",
+    "middle_name": "Verhoeven",
+    "last_name": "Spaans",
+    "passport_number": "SE9309667",
+    "currency": "EUR",
+    "address": {
+        "city": "Arnhem",
+        "street name": "Rembrandtplein",
+        "street number": 49,
+        "postal code": "4488 13"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "06 97683129",
+    "email_address": "vogel.spaans@yahoo.com"
+}

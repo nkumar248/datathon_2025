@@ -1,0 +1,17 @@
+{
+    "name": "Hanna Ella Niemi",
+    "first_name": "Hanna",
+    "middle_name": "Ella",
+    "last_name": "Niemi",
+    "passport_number": "FH4151664",
+    "currency": "EUR",
+    "address": {
+        "city": "Lappeenranta",
+        "street name": "Unioninkatu",
+        "street number": 91,
+        "postal code": "21530"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "042 519 52 89",
+    "email_address": "hanna.niemi@surffi.net"
+}

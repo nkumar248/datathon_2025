@@ -1,0 +1,57 @@
+{
+    "name": "Matilda Vilma Virtanen",
+    "address": {
+        "city": "Oulu",
+        "street name": "Katariinankatu",
+        "street number": 96,
+        "postal code": "11316"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1999-10-21",
+    "nationality": "Finnish",
+    "passport_number": "PI1432218",
+    "passport_issue_date": "2020-11-15",
+    "passport_expiry_date": "2030-11-14",
+    "gender": "F",
+    "phone_number": "+358 048 743 11 47",
+    "email_address": "matilda.virtanen@phoenix.fi",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Varkauden lukio",
+        "graduation_year": 2018
+    },
+    "higher_education": [
+        {
+            "university": "Haaga-Helia University of Applied Sciences",
+            "graduation_year": 2022
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2023,
+            "end_year": null,
+            "company": "Patria Aviation Oy",
+            "position": "Aerospace Engineer",
+            "salary": 41000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 2420000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

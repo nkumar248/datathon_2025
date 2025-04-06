@@ -1,0 +1,75 @@
+{
+    "name": "Bernard David Marchand",
+    "address": {
+        "city": "Angers",
+        "street name": "Pont des Arts",
+        "street number": 41,
+        "postal code": "49831"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1981-07-03",
+    "nationality": "French",
+    "passport_number": "JD2756270",
+    "passport_issue_date": "2021-03-26",
+    "passport_expiry_date": "2031-03-25",
+    "gender": "M",
+    "phone_number": "+33 07 20 03 61 13",
+    "email_address": "bernard.marchand@neuf.fr",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée Paul Valéry",
+        "graduation_year": 2000
+    },
+    "higher_education": [
+        {
+            "university": "IUT de Grenoble",
+            "graduation_year": 2004
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2006,
+            "end_year": 2009,
+            "company": "Servier Laboratories",
+            "position": "Research Scientist",
+            "salary": 32000
+        },
+        {
+            "start_year": 2010,
+            "end_year": 2014,
+            "company": "Sanofi S.A.",
+            "position": "Clinical Trials Manager",
+            "salary": 49000
+        }
+    ],
+    "aum": {
+        "savings": 190000,
+        "inheritance": 250000,
+        "real_estate_value": 2963000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2011,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1793000,
+            "property location": "Angers"
+        },
+        {
+            "property type": "flat",
+            "property value": 1170000,
+            "property location": "Reims"
+        }
+    ],
+    "investment_risk_profile": "",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

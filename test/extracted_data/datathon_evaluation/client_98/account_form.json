@@ -1,0 +1,17 @@
+{
+    "name": "Camille Gabrielle Thomas",
+    "first_name": "Camille",
+    "middle_name": "Gabrielle",
+    "last_name": "Thomas",
+    "passport_number": "NG0555909",
+    "currency": "EUR",
+    "address": {
+        "city": "Krems an der Donau",
+        "street name": "Opernring",
+        "street number": 74,
+        "postal code": "6041"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 927 331 9021",
+    "email_address": "camille.thomas@aon.at"
+}

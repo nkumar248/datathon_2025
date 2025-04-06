@@ -1,0 +1,17 @@
+{
+    "name": "Schmidt Schäfer Richter",
+    "first_name": "Schmidt",
+    "middle_name": "Schäfer",
+    "last_name": "Richter",
+    "passport_number": "VG6200699",
+    "currency": "EUR",
+    "address": {
+        "city": "Cologne",
+        "street name": "Johannisstraße",
+        "street number": 3,
+        "postal code": "85411"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "8946 321920",
+    "email_address": "schmidt.richter@o2online.de"
+}

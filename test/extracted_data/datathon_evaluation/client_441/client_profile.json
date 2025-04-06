@@ -1,0 +1,85 @@
+{
+    "name": "Hinterleitner Fischer Krämer",
+    "address": {
+        "city": "Tours",
+        "street name": "Avenue Victor Hugo",
+        "street number": 94,
+        "postal code": "25875"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1982-12-06",
+    "nationality": "Austrian",
+    "passport_number": "DA5430553",
+    "passport_issue_date": "2024-02-17",
+    "passport_expiry_date": "2034-02-16",
+    "gender": "M",
+    "phone_number": "+33 02 36 56 44 22",
+    "email_address": "hinterleitner.kramer@laposte.net",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Gymnasium Sacré Coeur Pressbaum",
+        "graduation_year": 2000
+    },
+    "higher_education": [
+        {
+            "university": "University of Vienna",
+            "graduation_year": 2006
+        },
+        {
+            "university": "Carinthia University of Applied Sciences",
+            "graduation_year": 2010
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2006,
+            "end_year": 2008,
+            "company": "Total S.A.",
+            "position": "Drilling Engineer",
+            "salary": 30000
+        },
+        {
+            "start_year": 2012,
+            "end_year": 2025,
+            "company": "EDF S.A.",
+            "position": "Operations Manager",
+            "salary": 243000
+        }
+    ],
+    "aum": {
+        "savings": 370000,
+        "inheritance": 2390000,
+        "real_estate_value": 5190000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2010,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2680000,
+            "property location": "Tours"
+        },
+        {
+            "property type": "flat",
+            "property value": 740000,
+            "property location": "Eisenstadt"
+        },
+        {
+            "property type": "villa",
+            "property value": 1770000,
+            "property location": "Baden bei Wien"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "France"
+    ],
+    "currency": "EUR"
+}

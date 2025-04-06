@@ -1,0 +1,78 @@
+{
+    "name": "Koch Schmitz Müller",
+    "address": {
+        "city": "Hamburg",
+        "street name": "Großer Hirschgraben",
+        "street number": 36,
+        "postal code": "85786"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1980-12-20",
+    "nationality": "German",
+    "passport_number": "FY5186618",
+    "passport_issue_date": "2021-03-24",
+    "passport_expiry_date": "2031-03-23",
+    "gender": "M",
+    "phone_number": "+49 0586 400272",
+    "email_address": "koch.muller@1und1.de",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Lessing-Gymnasium Frankfurt",
+        "graduation_year": 2000
+    },
+    "higher_education": [
+        {
+            "university": "Leipzig Graduate School of Management",
+            "graduation_year": 2005
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2004,
+            "end_year": 2009,
+            "company": "Deutsche Bank AG",
+            "position": "Family Office Manager",
+            "salary": 53000
+        },
+        {
+            "start_year": 2011,
+            "end_year": 2016,
+            "company": "Dresdner Bank AG",
+            "position": "Investment Director",
+            "salary": 71000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "Berliner Sparkasse",
+            "position": "CFO",
+            "salary": 173000
+        }
+    ],
+    "aum": {
+        "savings": 260000,
+        "inheritance": 1220000,
+        "real_estate_value": 890000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2010,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 890000,
+            "property location": "Hamburg"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

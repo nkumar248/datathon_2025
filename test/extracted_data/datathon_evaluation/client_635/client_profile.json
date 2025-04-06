@@ -1,0 +1,78 @@
+{
+    "name": "Schulz Schmitt Schmitz",
+    "address": {
+        "city": "Heidelberg",
+        "street name": "Bahnhofsplatz",
+        "street number": 48,
+        "postal code": "29105"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1962-11-22",
+    "nationality": "German",
+    "passport_number": "LQ7102642",
+    "passport_issue_date": "2019-03-20",
+    "passport_expiry_date": "2029-03-19",
+    "gender": "M",
+    "phone_number": "0990 010198",
+    "email_address": "schulz.schmitz@hotmail.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Gymnasium zum Grauen Kloster",
+        "graduation_year": 1980
+    },
+    "higher_education": [
+        {
+            "university": "Munich University of Applied Sciences",
+            "graduation_year": 1986
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1986,
+            "end_year": 1990,
+            "company": "Liebherr-Aerospace GmbH",
+            "position": "Aerospace Engineer",
+            "salary": 44000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 1996,
+            "company": "Airbus Operations GmbH",
+            "position": "Program Manager",
+            "salary": 84000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 2023,
+            "company": "Liebherr-Aerospace GmbH",
+            "position": "Director of Operations",
+            "salary": 727000
+        }
+    ],
+    "aum": {
+        "savings": 1490000,
+        "inheritance": 0,
+        "real_estate_value": 3740000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2310000,
+            "property location": "Heidelberg"
+        },
+        {
+            "property type": "condo",
+            "property value": 1430000,
+            "property location": "Berlin"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Germany"
+    ],
+    "currency": "EUR"
+}

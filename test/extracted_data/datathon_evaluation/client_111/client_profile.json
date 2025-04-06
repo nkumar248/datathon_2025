@@ -1,0 +1,63 @@
+{
+    "name": "Schipper Meijer Maassen",
+    "address": {
+        "city": "Utrecht",
+        "street name": "Leidseplein",
+        "street number": 79,
+        "postal code": "6759 93"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1993-02-07",
+    "nationality": "Dutch",
+    "passport_number": "SG1492797",
+    "passport_issue_date": "2017-10-03",
+    "passport_expiry_date": "2027-10-02",
+    "gender": "M",
+    "phone_number": "+31 06 74769173",
+    "email_address": "schipper.maassen@tele2.nl",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Maurick College Vught",
+        "graduation_year": 2010
+    },
+    "higher_education": [
+        {
+            "university": "Wittenborg University of Applied Sciences",
+            "graduation_year": 2015
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2017,
+            "end_year": null,
+            "company": "PGGM Real Estate",
+            "position": "Property Manager",
+            "salary": 42000
+        }
+    ],
+    "aum": {
+        "savings": 50000,
+        "inheritance": 4680000,
+        "real_estate_value": 940000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 940000,
+            "property location": "Utrecht"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

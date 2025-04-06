@@ -1,0 +1,58 @@
+{
+    "name": "Neumann Schäfer Weber",
+    "address": {
+        "city": "Dresden",
+        "street name": "Speicherstadt",
+        "street number": 93,
+        "postal code": "01230"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "2000-02-03",
+    "nationality": "German",
+    "passport_number": "CB7170622",
+    "passport_issue_date": "2019-07-10",
+    "passport_expiry_date": "2029-07-09",
+    "gender": "M",
+    "phone_number": "+49 0467 958262",
+    "email_address": "neumann.weber@o2online.de",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Bismarck-Gymnasium Karlsruhe",
+        "graduation_year": 2018
+    },
+    "higher_education": [
+        {
+            "university": "Freiburg University of Education",
+            "graduation_year": 2024
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2024,
+            "end_year": null,
+            "company": "Allianz SE",
+            "position": "Investment Banker",
+            "salary": 41000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 1000000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2016,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

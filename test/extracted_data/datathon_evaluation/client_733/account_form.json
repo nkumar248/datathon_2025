@@ -1,0 +1,17 @@
+{
+    "name": "Esposito Rizzo Lombardi",
+    "first_name": "Rizzo",
+    "middle_name": "Esposito",
+    "last_name": "Lombardi",
+    "passport_number": "KJ6749684",
+    "currency": "EUR",
+    "address": {
+        "city": "Palermo",
+        "street name": "Corso Como",
+        "street number": 27,
+        "postal code": "31516"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 381 2955589",
+    "email_address": "esposito.lombardi@tiscali.it"
+}

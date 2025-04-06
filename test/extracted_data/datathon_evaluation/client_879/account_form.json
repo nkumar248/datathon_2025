@@ -1,0 +1,17 @@
+{
+    "name": "Daniela Cayetana Navarro",
+    "first_name": "Daniela",
+    "middle_name": "Cayetana",
+    "last_name": "Navarro",
+    "passport_number": "SA9009877",
+    "currency": "EUR",
+    "address": {
+        "city": "Salamanca",
+        "street name": "Plaza de la Trinidad",
+        "street number": 18,
+        "postal code": "09910"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 639 005 119",
+    "email_address": "daniela.navarro@telefonica.es"
+}

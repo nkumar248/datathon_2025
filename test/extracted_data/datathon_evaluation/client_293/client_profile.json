@@ -1,0 +1,64 @@
+{
+    "name": " Jacobs Michiels Maes",
+    "address": {
+        "city": "Herstal",
+        "street name": "Avenue de la Joyeuse Entrée",
+        "street number": 19,
+        "postal code": "9672"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1999-03-11",
+    "nationality": "Belgian",
+    "passport_number": "CB6991627",
+    "passport_issue_date": "2017-04-17",
+    "passport_expiry_date": "2024-04-16",
+    "gender": "M",
+    "phone_number": "+32 0438 627 868",
+    "email_address": "jacobs.maes@edpnet.be",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Institut Notre-Dame de la Paix",
+        "graduation_year": 2016
+    },
+    "higher_education": [
+        {
+            "university": "United Business Institutes",
+            "graduation_year": 2022
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2023,
+            "end_year": 2024,
+            "company": "Trafigura Belgium NV",
+            "position": "Junior Trader",
+            "salary": 41000
+        },
+        {
+            "start_year": 2025,
+            "end_year": null,
+            "company": "Louis Dreyfus Commodities Belgium",
+            "position": "Senior Trader",
+            "salary": 52000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 1520000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2019,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

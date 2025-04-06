@@ -1,0 +1,63 @@
+{
+    "name": "Déborah Amanda Hagenbuch",
+    "address": {
+        "city": "Baden",
+        "street name": "Rue des Délices",
+        "street number": 52,
+        "postal code": "1796"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1991-02-06",
+    "nationality": "Swiss",
+    "passport_number": "WK7698742",
+    "passport_issue_date": "2020-10-24",
+    "passport_expiry_date": "2030-10-23",
+    "gender": "F",
+    "phone_number": "+41 097 664 04 85",
+    "email_address": "deborah.hagenbuch@upc.ch",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Gymnasium und Wirtschaftsmittelschule Sarnen Obwalden",
+        "graduation_year": 2008
+    },
+    "higher_education": [
+        {
+            "university": "Zurich University of Applied Sciences",
+            "graduation_year": 2014
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2015,
+            "end_year": null,
+            "company": "Georg Fischer Ltd.",
+            "position": "Plant Manager",
+            "salary": 62000
+        }
+    ],
+    "aum": {
+        "savings": 60000,
+        "inheritance": 4340000,
+        "real_estate_value": 5700000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 5700000,
+            "property location": "Baden"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

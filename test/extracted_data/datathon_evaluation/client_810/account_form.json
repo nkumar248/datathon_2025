@@ -1,0 +1,17 @@
+{
+    "name": "Daantje Joke Krol",
+    "first_name": "Daantje",
+    "middle_name": "Joke",
+    "last_name": "Krol",
+    "passport_number": "LZ6333975",
+    "currency": "EUR",
+    "address": {
+        "city": "Delft",
+        "street name": "Eindhovenseweg",
+        "street number": 26,
+        "postal code": "1299 36"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "06 05321381",
+    "email_address": "daantje.krol@hotmail.com"
+}

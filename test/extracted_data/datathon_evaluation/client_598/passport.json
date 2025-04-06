@@ -1,0 +1,17 @@
+{
+    "first_name": "Bertrand",
+    "middle_name": "Bernard",
+    "last_name": "Laurent",
+    "gender": "M",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1959-07-20",
+    "passport_number": "RY9904827",
+    "passport_mrz": [
+        "P<FRALAURENT<<BERTRAND<BERNARD<<<<<<<<<<<<<<<",
+        "RY9904827FRA590720<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2020-09-07",
+    "passport_expiry_date": "2030-09-06"
+}

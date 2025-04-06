@@ -1,0 +1,17 @@
+{
+    "name": "Santoro Landi Fabbri",
+    "first_name": "Santoro",
+    "middle_name": "Landi",
+    "last_name": "Fabbri",
+    "passport_number": "VV9536537",
+    "currency": "EUR",
+    "address": {
+        "city": "Modena",
+        "street name": "Via dei Tribunali",
+        "street number": 11,
+        "postal code": "13229"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "328 2383285",
+    "email_address": "santoro.fabbri@tiscali.it"
+}

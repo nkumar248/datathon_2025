@@ -1,0 +1,17 @@
+{
+    "name": "Bernard Moreau Legrand",
+    "first_name": "Bernard",
+    "middle_name": "Moreau",
+    "last_name": "Legrand",
+    "passport_number": "BB4214113",
+    "currency": "EUR",
+    "address": {
+        "city": "Grenoble",
+        "street name": "Avenue de l'Opéra",
+        "street number": 12,
+        "postal code": "70830"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 07 84 43 11 03",
+    "email_address": "bernard.legrand@neuf.fr"
+}

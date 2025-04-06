@@ -1,0 +1,81 @@
+{
+    "name": "Alice Fatima Peters",
+    "address": {
+        "city": "Leuven",
+        "street name": "Rue des Deux Portes",
+        "street number": 72,
+        "postal code": "5127"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1979-07-26",
+    "nationality": "Belgian",
+    "passport_number": "XL9920586",
+    "passport_issue_date": "2018-03-12",
+    "passport_expiry_date": "2025-03-11",
+    "gender": "F",
+    "phone_number": "0488 456 238",
+    "email_address": "alice.peters@icloud.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Ecole Secondaire Libre du Sacré-Cœur",
+        "graduation_year": 1998
+    },
+    "higher_education": [
+        {
+            "university": "Vrije Universiteit Brussel",
+            "graduation_year": 2003
+        },
+        {
+            "university": "Vesalius College",
+            "graduation_year": 2007
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2003,
+            "end_year": 2006,
+            "company": "Liedekerke Wolters Waelbroeck Kirkpatrick",
+            "position": "Associate Attorney",
+            "salary": 38000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2009,
+            "company": "Linklaters LLP",
+            "position": "Senior Associate",
+            "salary": 59000
+        },
+        {
+            "start_year": 2010,
+            "end_year": null,
+            "company": "Liedekerke Wolters Waelbroeck Kirkpatrick",
+            "position": "Partner",
+            "salary": 276000
+        }
+    ],
+    "aum": {
+        "savings": 460000,
+        "inheritance": 1250000,
+        "real_estate_value": 1430000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2011,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1430000,
+            "property location": "Leuven"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

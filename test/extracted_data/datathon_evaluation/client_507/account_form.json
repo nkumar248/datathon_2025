@@ -1,0 +1,17 @@
+{
+    "name": "Hernández Navarro Fernández",
+    "first_name": "Hernández",
+    "middle_name": "Navarro",
+    "last_name": "Fernández",
+    "passport_number": "CX3237164",
+    "currency": "EUR",
+    "address": {
+        "city": "Córdoba",
+        "street name": "Calle de la Princesa",
+        "street number": 88,
+        "postal code": "33133"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "675 526 248",
+    "email_address": "hernandez.fernandez@hotmail.es"
+}

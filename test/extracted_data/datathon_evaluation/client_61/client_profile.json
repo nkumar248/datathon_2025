@@ -1,0 +1,76 @@
+{
+    "name": "Essi Laura Salo",
+    "address": {
+        "city": "Fürth",
+        "street name": "Prager Straße",
+        "street number": 52,
+        "postal code": "48654"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1973-10-25",
+    "nationality": "Finnish",
+    "passport_number": "HZ3157996",
+    "passport_issue_date": "2022-06-17",
+    "passport_expiry_date": "2032-06-16",
+    "gender": "F",
+    "phone_number": "+49 3144 637085",
+    "email_address": "essi.salo@gmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Hyvinkään Sveitsin lukio",
+        "graduation_year": 1992
+    },
+    "higher_education": [
+        {
+            "university": "Oulu University of Applied Science",
+            "graduation_year": 1997
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1997,
+            "end_year": 1998,
+            "company": "Merck KGaA",
+            "position": "Research Scientist",
+            "salary": 37000
+        },
+        {
+            "start_year": 1998,
+            "end_year": null,
+            "company": "Boehringer Ingelheim GmbH",
+            "position": "Clinical Trials Manager",
+            "salary": 304000
+        }
+    ],
+    "aum": {
+        "savings": 570000,
+        "inheritance": 4230000,
+        "real_estate_value": 3860000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2009,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2260000,
+            "property location": "Fürth"
+        },
+        {
+            "property type": "house",
+            "property value": 1600000,
+            "property location": "Hämeenlinna"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

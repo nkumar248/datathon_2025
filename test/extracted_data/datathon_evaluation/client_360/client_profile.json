@@ -1,0 +1,50 @@
+{
+    "name": "Bauer Schmitz Herrmann",
+    "address": {
+        "city": "Cologne",
+        "street name": "Augustusplatz",
+        "street number": 9,
+        "postal code": "56714"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "2000-12-10",
+    "nationality": "German",
+    "passport_number": "XI7043567",
+    "passport_issue_date": "2019-05-02",
+    "passport_expiry_date": "2029-05-01",
+    "gender": "M",
+    "phone_number": "4689 061477",
+    "email_address": "bauer.herrmann@o2online.de",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Maria-Theresia-Gymnasium München",
+        "graduation_year": 2018
+    },
+    "higher_education": [
+        {
+            "university": "Jacobs University Bremen",
+            "graduation_year": 2025
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1560000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2016,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

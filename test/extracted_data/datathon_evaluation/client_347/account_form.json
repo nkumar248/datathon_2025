@@ -1,0 +1,17 @@
+{
+    "name": "Peltola Laaksonen Niemi",
+    "first_name": "Peltola",
+    "middle_name": "Laaksonen",
+    "last_name": "Niemi",
+    "passport_number": "OK9606813",
+    "currency": "EUR",
+    "address": {
+        "city": "Siilinjärvi",
+        "street name": "Kulosaarentie",
+        "street number": 50,
+        "postal code": "21497"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 042 786 76 91",
+    "email_address": "peltola.niemi@outlook.com"
+}

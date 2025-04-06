@@ -1,0 +1,17 @@
+{
+    "name": "Amanda Gabriela Keller",
+    "first_name": "Amanda",
+    "middle_name": "Gabriela",
+    "last_name": "Keller",
+    "passport_number": "FK8207770",
+    "currency": "CHF",
+    "address": {
+        "city": "Aarau",
+        "street name": "Place de la Navigation",
+        "street number": 69,
+        "postal code": "6112"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 063 442 05 87",
+    "email_address": "amanda.keller@freedom.ch"
+}

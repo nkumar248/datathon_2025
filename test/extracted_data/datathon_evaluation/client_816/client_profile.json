@@ -1,0 +1,71 @@
+{
+    "name": "Louna Hortense Bernard",
+    "address": {
+        "city": "Lille",
+        "street name": "Rue de la Santé",
+        "street number": 87,
+        "postal code": "70683"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1994-01-02",
+    "nationality": "French",
+    "passport_number": "FG7975562",
+    "passport_issue_date": "2016-07-31",
+    "passport_expiry_date": "2026-07-30",
+    "gender": "F",
+    "phone_number": "+33 03 87 17 32 24",
+    "email_address": "louna.bernard@hotmail.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Lycée Vaucanson",
+        "graduation_year": 2013
+    },
+    "higher_education": [
+        {
+            "university": "Sorbonne University",
+            "graduation_year": 2017
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2018,
+            "end_year": 2023,
+            "company": "Orange S.A.",
+            "position": "Software Developer",
+            "salary": 41000
+        },
+        {
+            "start_year": 2025,
+            "end_year": null,
+            "company": "STMicroelectronics S.A.",
+            "position": "Startup Founder",
+            "salary": 44000
+        }
+    ],
+    "aum": {
+        "savings": 30000,
+        "inheritance": 2170000,
+        "real_estate_value": 1880000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1880000,
+            "property location": "Lille"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "France"
+    ],
+    "currency": "EUR"
+}

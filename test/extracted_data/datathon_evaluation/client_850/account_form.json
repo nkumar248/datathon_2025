@@ -1,0 +1,17 @@
+{
+    "name": "Léa Manon Dumont",
+    "first_name": "Léa",
+    "middle_name": "Manon",
+    "last_name": "Dumont",
+    "passport_number": "HE9798786",
+    "currency": "EUR",
+    "address": {
+        "city": "Ostend",
+        "street name": "Rue des Chartreux",
+        "street number": 11,
+        "postal code": "9287"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "++43 0470 816 253",
+    "email_address": "lea.dumont@scarlet.be"
+}

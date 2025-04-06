@@ -1,0 +1,17 @@
+{
+    "name": "Zbinden Egli Lehmann",
+    "first_name": "Zbinden",
+    "middle_name": "Egli",
+    "last_name": "Lehmann",
+    "passport_number": "TR5343505",
+    "currency": "CHF",
+    "address": {
+        "city": "Thun",
+        "street name": "Place des Halles",
+        "street number": 42,
+        "postal code": "6081"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 030 219 74 20",
+    "email_address": "zbinden.lehmann@freedom.ch"
+}

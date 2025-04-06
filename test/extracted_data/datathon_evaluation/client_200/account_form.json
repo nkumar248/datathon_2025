@@ -1,0 +1,17 @@
+{
+    "name": "Krol Vogel Visser",
+    "first_name": "Krol",
+    "middle_name": "Vogel",
+    "last_name": "Visser",
+    "passport_number": "TO5018884",
+    "currency": "EUR",
+    "address": {
+        "city": "Tilburg",
+        "street name": "Spoorweghaven",
+        "street number": 77,
+        "postal code": "6654 37"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 60199445",
+    "email_address": "krol.visser@outlook.com"
+}

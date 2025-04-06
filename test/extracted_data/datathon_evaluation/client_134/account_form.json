@@ -1,0 +1,17 @@
+{
+    "name": "Giovanna Eleonora Galli",
+    "first_name": "Giovanna",
+    "middle_name": "Eleonora",
+    "last_name": "Galli",
+    "passport_number": "KO1513989",
+    "currency": "EUR",
+    "address": {
+        "city": "Bari",
+        "street name": "Via Dora Riparia",
+        "street number": 42,
+        "postal code": "36618"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 337 0500871",
+    "email_address": "giovanna.galli@yahoo.com"
+}

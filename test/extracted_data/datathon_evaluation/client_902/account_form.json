@@ -1,0 +1,17 @@
+{
+    "name": "Jost Kaufmann Lehmann",
+    "first_name": "Jost",
+    "middle_name": "Kaufmann",
+    "last_name": "Lehmann",
+    "passport_number": "TN2795542",
+    "currency": "CHF",
+    "address": {
+        "city": "Herisau",
+        "street name": "Metzgergasse",
+        "street number": 12,
+        "postal code": "6056"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 009 349 14 73",
+    "email_address": "jost.lehmann@outlook.com"
+}

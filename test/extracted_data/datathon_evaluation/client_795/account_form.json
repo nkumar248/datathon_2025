@@ -1,0 +1,17 @@
+{
+    "name": "Lecomte Lemaire Peters",
+    "first_name": "Lecomte",
+    "middle_name": "Lemaire",
+    "last_name": "Peters",
+    "passport_number": "NR3374988",
+    "currency": "EUR",
+    "address": {
+        "city": "Hasselt",
+        "street name": "Rue de la Convention",
+        "street number": 100,
+        "postal code": "0635"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0470 156 557",
+    "email_address": "lecomte.peters@base.be"
+}

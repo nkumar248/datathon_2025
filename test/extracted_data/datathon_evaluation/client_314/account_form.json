@@ -1,0 +1,17 @@
+{
+    "name": "Beatrice Cecilia Ricci",
+    "first_name": "Beatrice",
+    "middle_name": "Cecilia",
+    "last_name": "Ricci",
+    "passport_number": "JP3731458",
+    "currency": "EUR",
+    "address": {
+        "city": "Reggio Calabria",
+        "street name": "Piazza Venezia",
+        "street number": 42,
+        "postal code": "77062"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 323 3565233",
+    "email_address": "beatrice.ricci@outlook.com"
+}

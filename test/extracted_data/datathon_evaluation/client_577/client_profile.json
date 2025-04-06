@@ -1,0 +1,86 @@
+{
+    "name": "Concha Estefanía Hernández",
+    "address": {
+        "city": "Cuenca",
+        "street name": "Calle de la Victoria",
+        "street number": 56,
+        "postal code": "44122"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1959-09-24",
+    "nationality": "Spanish",
+    "passport_number": "PS2597097",
+    "passport_issue_date": "2016-04-14",
+    "passport_expiry_date": "2026-04-13",
+    "gender": "F",
+    "phone_number": "+34 657 123 038",
+    "email_address": "concha.hernandez@terra.es",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Instituto de Educación Secundaria IES Pedro Salinas Jaén",
+        "graduation_year": 1978
+    },
+    "higher_education": [
+        {
+            "university": "University of Seville",
+            "graduation_year": 1983
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1983,
+            "end_year": 1984,
+            "company": "Adolfo Domínguez S.A.",
+            "position": "Assistant Designer",
+            "salary": 26000
+        },
+        {
+            "start_year": 1984,
+            "end_year": 1985,
+            "company": "Mango MNG Holdings S.L.",
+            "position": "Senior Designer",
+            "salary": 36000
+        },
+        {
+            "start_year": 1987,
+            "end_year": 1988,
+            "company": "Mango MNG Holdings S.L.",
+            "position": "Creative Director",
+            "salary": 58000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 2020,
+            "company": "Inditex S.A.",
+            "position": "Founder/Designer",
+            "salary": 874000
+        }
+    ],
+    "aum": {
+        "savings": 1720000,
+        "inheritance": 0,
+        "real_estate_value": 2380000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1300000,
+            "property location": "Cuenca"
+        },
+        {
+            "property type": "condo",
+            "property value": 1080000,
+            "property location": "Castellón de la Plana"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

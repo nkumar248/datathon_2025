@@ -1,0 +1,17 @@
+{
+    "name": "Fatima Élise Simons",
+    "first_name": "Fatima",
+    "middle_name": "Élise",
+    "last_name": "Simons",
+    "passport_number": "CV8506330",
+    "currency": "EUR",
+    "address": {
+        "city": "La Louvière",
+        "street name": "Place de la Liberté",
+        "street number": 47,
+        "postal code": "4306"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0474 850 809",
+    "email_address": "fatima.simons@icloud.com"
+}

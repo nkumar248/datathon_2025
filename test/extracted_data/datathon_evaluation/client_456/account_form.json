@@ -1,0 +1,17 @@
+{
+    "name": "Livi Lotti Silvestri",
+    "first_name": "Livi",
+    "middle_name": "Lotti",
+    "last_name": "Silvestri",
+    "passport_number": "BQ3924907",
+    "currency": "EUR",
+    "address": {
+        "city": "Verona",
+        "street name": "Piazza Maggiore",
+        "street number": 28,
+        "postal code": "98798"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 365 2952556",
+    "email_address": "livi.silvestri@virgilio.it"
+}

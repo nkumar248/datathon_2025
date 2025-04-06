@@ -1,0 +1,57 @@
+{
+    "name": "Manon Alice Raes",
+    "address": {
+        "city": "Leuven",
+        "street name": "Rue Belliard",
+        "street number": 60,
+        "postal code": "2714"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1999-12-04",
+    "nationality": "Belgian",
+    "passport_number": "FW8294865",
+    "passport_issue_date": "2019-09-14",
+    "passport_expiry_date": "2026-09-13",
+    "gender": "F",
+    "phone_number": "0419 387 590",
+    "email_address": "manon.raes@belgacom.be",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Onze-Lieve-Vrouwe-Wavercollege",
+        "graduation_year": 2017
+    },
+    "higher_education": [
+        {
+            "university": "Artevelde University of Applied Sciences",
+            "graduation_year": 2023
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2023,
+            "end_year": null,
+            "company": "Thales Alenia Space Belgium",
+            "position": "Aerospace Engineer",
+            "salary": 41000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 2470000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": "",
+        "profession": ""
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Short",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

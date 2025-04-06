@@ -1,0 +1,17 @@
+{
+    "name": "Anaïs Inès Bernard",
+    "first_name": "Anaïs",
+    "middle_name": "Inès",
+    "last_name": "Bernard",
+    "passport_number": "TJ0920615",
+    "currency": "EUR",
+    "address": {
+        "city": "Saint-Denis",
+        "street name": "Avenue de la Grande Armée",
+        "street number": 70,
+        "postal code": "55824"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 07 02 38 85 42",
+    "email_address": "anais.bernard@wanadoo.fr"
+}

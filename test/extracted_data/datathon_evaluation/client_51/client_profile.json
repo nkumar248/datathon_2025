@@ -1,0 +1,76 @@
+{
+    "name": "Krog Sørensen Lykke",
+    "address": {
+        "city": "Ikast",
+        "street name": "Strøget",
+        "street number": 14,
+        "postal code": "0030"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1963-08-28",
+    "nationality": "Danish",
+    "passport_number": "TQ3563384",
+    "passport_issue_date": "2017-04-23",
+    "passport_expiry_date": "2027-04-22",
+    "gender": "M",
+    "phone_number": "+45 08 32 85 68",
+    "email_address": "krog.lykke@wanadoo.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Slagelse Gymnasium",
+        "graduation_year": 1981
+    },
+    "higher_education": [
+        {
+            "university": "CBS International Business School",
+            "graduation_year": 1986
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1987,
+            "end_year": 1992,
+            "company": "Radisson Hotel Group Danmark A/S",
+            "position": "Hotel Manager",
+            "salary": 352000
+        },
+        {
+            "start_year": 1994,
+            "end_year": 2024,
+            "company": "Radisson Hotel Group Danmark A/S",
+            "position": "General Manager",
+            "salary": 2020000
+        }
+    ],
+    "aum": {
+        "savings": 3620000,
+        "inheritance": 0,
+        "real_estate_value": 4227000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 2340000,
+            "property location": "Ikast"
+        },
+        {
+            "property type": "condo",
+            "property value": 907000,
+            "property location": "Skanderborg"
+        },
+        {
+            "property type": "flat",
+            "property value": 980000,
+            "property location": "Næstved"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

@@ -1,0 +1,75 @@
+{
+    "name": "Willems De Jong Wagemakers",
+    "address": {
+        "city": "Doetinchem",
+        "street name": "Utrechtsedwarsstraat",
+        "street number": 33,
+        "postal code": "4839 90"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1979-11-05",
+    "nationality": "Dutch",
+    "passport_number": "UD0378796",
+    "passport_issue_date": "2023-09-07",
+    "passport_expiry_date": "2033-09-06",
+    "gender": "M",
+    "phone_number": "+31 06 95925740",
+    "email_address": "willems.wagemakers@upcmail.nl",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Montessori Lyceum Rotterdam",
+        "graduation_year": 1997
+    },
+    "higher_education": [
+        {
+            "university": "Nyenrode Business Universiteit",
+            "graduation_year": 2003
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2005,
+            "end_year": 2008,
+            "company": "Galapagos N.V.",
+            "position": "Biotech Startup Founder",
+            "salary": 60000
+        },
+        {
+            "start_year": 2010,
+            "end_year": null,
+            "company": "Philips Healthcare",
+            "position": "CEO",
+            "salary": 345000
+        }
+    ],
+    "aum": {
+        "savings": 480000,
+        "inheritance": 150000,
+        "real_estate_value": 2604000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2013,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1284000,
+            "property location": "Doetinchem"
+        },
+        {
+            "property type": "flat",
+            "property value": 1320000,
+            "property location": "Roosendaal"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

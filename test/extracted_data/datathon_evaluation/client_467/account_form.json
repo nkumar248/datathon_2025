@@ -1,0 +1,17 @@
+{
+    "name": "Gil Hernández Ramos",
+    "first_name": "Gil",
+    "middle_name": "Hernández",
+    "last_name": "Ramos",
+    "passport_number": "YB4250500",
+    "currency": "EUR",
+    "address": {
+        "city": "Castellón de la Plana",
+        "street name": "Plaza del Ayuntamiento",
+        "street number": 47,
+        "postal code": "78709"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 639 706 042",
+    "email_address": "gil.ramos@hotmail.com"
+}

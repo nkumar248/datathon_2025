@@ -1,0 +1,17 @@
+{
+    "name": "Dubois Bertrand Bernard",
+    "first_name": "Dubois",
+    "middle_name": "Bertrand",
+    "last_name": "Bernard",
+    "passport_number": "MX7400647",
+    "currency": "EUR",
+    "address": {
+        "city": "Saint-Denis",
+        "street name": "Rue Marbeuf",
+        "street number": 51,
+        "postal code": "26755"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 02 39 58 66 62",
+    "email_address": "dubois.bernard@free.fr"
+}

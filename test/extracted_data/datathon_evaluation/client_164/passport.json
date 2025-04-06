@@ -1,0 +1,17 @@
+{
+    "first_name": "Gitte",
+    "middle_name": "Amanda",
+    "last_name": "Østergaard",
+    "gender": "F",
+    "country": "Denmark",
+    "country_code": "DN",
+    "nationality": "Danish",
+    "birth_date": "1957-05-25",
+    "passport_number": "GZ7603695",
+    "passport_mrz": [
+        "P<DNKØSTERGAARD<<GITTE<AMANDA<<<<<<<<<<<<<<<<",
+        "GZ7603695DNK570525<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-04-09",
+    "passport_expiry_date": "2034-04-08"
+}

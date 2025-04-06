@@ -1,0 +1,17 @@
+{
+    "name": "Salo Paananen Koskinen",
+    "first_name": "Salo",
+    "middle_name": "Paananen",
+    "last_name": "Koskinen",
+    "passport_number": "DH0961857",
+    "currency": "EUR",
+    "address": {
+        "city": "Kokkola",
+        "street name": "Lapinlahdenkatu",
+        "street number": 87,
+        "postal code": "04399"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 043 695 35 68",
+    "email_address": "salo.koskinen@hotmail.com"
+}

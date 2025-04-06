@@ -1,0 +1,17 @@
+{
+    "name": "Mulders Kuipers Van Dijk",
+    "first_name": "Mulders",
+    "middle_name": "Kuipers",
+    "last_name": "Van Dijk",
+    "passport_number": "NK8032348",
+    "currency": "EUR",
+    "address": {
+        "city": "Deventer",
+        "street name": "Lijnbaan",
+        "street number": 61,
+        "postal code": "3951 30"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 39068056",
+    "email_address": "mulders.vandijk@live.nl"
+}

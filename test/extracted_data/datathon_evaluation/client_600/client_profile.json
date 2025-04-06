@@ -1,0 +1,80 @@
+{
+    "name": "Petersen Haugaard",
+    "address": {
+        "city": "Slagelse",
+        "street name": "Østerbrogade",
+        "street number": 2,
+        "postal code": "9335"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1984-01-29",
+    "nationality": "Danish",
+    "passport_number": "RY3783934",
+    "passport_issue_date": "2024-11-24",
+    "passport_expiry_date": "2034-11-23",
+    "gender": "M",
+    "phone_number": "+45 27 80 94 88",
+    "email_address": "petersen.haugaard@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Skive Gymnasium",
+        "graduation_year": 2001
+    },
+    "higher_education": [
+        {
+            "university": "International Business Academy (IBA)",
+            "graduation_year": 2007
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2007,
+            "end_year": 2011,
+            "company": "EQT Partners A/S",
+            "position": "Analyst",
+            "salary": 254000
+        },
+        {
+            "start_year": 2012,
+            "end_year": 2024,
+            "company": "EQT Partners A/S",
+            "position": "Associate",
+            "salary": 843000
+        }
+    ],
+    "aum": {
+        "savings": 1160000,
+        "inheritance": 44950000,
+        "real_estate_value": 3992000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2009,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1820000,
+            "property location": "Slagelse"
+        },
+        {
+            "property type": "flat",
+            "property value": 1092000,
+            "property location": "Roskilde"
+        },
+        {
+            "property type": "flat",
+            "property value": 1080000,
+            "property location": "Esbjerg"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

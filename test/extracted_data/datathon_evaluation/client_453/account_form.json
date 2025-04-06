@@ -1,0 +1,17 @@
+{
+    "name": "Consuelo África Vázquez",
+    "first_name": "Consuelo",
+    "middle_name": "África",
+    "last_name": "Vázquez",
+    "passport_number": "BC9033627",
+    "currency": "EUR",
+    "address": {
+        "city": "Cuenca",
+        "street name": "Calle de la Princesa",
+        "street number": 35,
+        "postal code": "93048"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 608 395 713",
+    "email_address": "consuelo.vazquez@yahoo.com"
+}

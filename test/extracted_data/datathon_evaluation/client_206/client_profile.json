@@ -1,0 +1,95 @@
+{
+    "name": "Lea Leonie Schnell",
+    "address": {
+        "city": "Baden bei Wien",
+        "street name": "Porzellangasse",
+        "street number": 86,
+        "postal code": "3438"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1977-04-12",
+    "nationality": "Austrian",
+    "passport_number": "LC5165000",
+    "passport_issue_date": "2016-09-20",
+    "passport_expiry_date": "2026-09-19",
+    "gender": "F",
+    "phone_number": "+43 719 318 0690",
+    "email_address": "lea.schnell@aon.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Gymnasium St. Gilgen",
+        "graduation_year": 1997
+    },
+    "higher_education": [
+        {
+            "university": "University of Vienna",
+            "graduation_year": 2001
+        },
+        {
+            "university": "Johannes Kepler University Linz",
+            "graduation_year": 2006
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2002,
+            "end_year": 2004,
+            "company": "Jumbo Shipping Austria",
+            "position": "Ship Broker",
+            "salary": 30000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2009,
+            "company": "Werner & Mertz GmbH",
+            "position": "Shipping Company Owner",
+            "salary": 50000
+        },
+        {
+            "start_year": 2010,
+            "end_year": 2015,
+            "company": "Werner & Mertz GmbH",
+            "position": "Fleet Manager",
+            "salary": 129000
+        },
+        {
+            "start_year": 2016,
+            "end_year": 2018,
+            "company": "Werner & Mertz GmbH",
+            "position": "Maritime Industry Leader",
+            "salary": 145000
+        },
+        {
+            "start_year": 2019,
+            "end_year": 2024,
+            "company": "Jumbo Shipping Austria",
+            "position": "Logistics Conglomerate Owner",
+            "salary": 250000
+        }
+    ],
+    "aum": {
+        "savings": 390000,
+        "inheritance": 1390000,
+        "real_estate_value": 1180000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2010,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1180000,
+            "property location": "Baden bei Wien"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

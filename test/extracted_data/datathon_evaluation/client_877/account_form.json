@@ -1,0 +1,17 @@
+{
+    "name": "Lena Steiner",
+    "first_name": "Lena",
+    "middle_name": "",
+    "last_name": "Steiner",
+    "passport_number": "CH4949462",
+    "currency": "EUR",
+    "address": {
+        "city": "Amstetten",
+        "street name": "Alpenstraße",
+        "street number": 21,
+        "postal code": "5389"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "894 094 4696",
+    "email_address": "lena.steiner@yahoo.com"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Russo Belli",
+    "first_name": "Russo",
+    "middle_name": "",
+    "last_name": "Belli",
+    "passport_number": "WO7579358",
+    "currency": "EUR",
+    "address": {
+        "city": "Catania",
+        "street name": "Via IV Novembre",
+        "street number": 70,
+        "postal code": "06126"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 312 5177390",
+    "email_address": "russo.belli@gmail.com"
+}

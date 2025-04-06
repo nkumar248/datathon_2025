@@ -1,0 +1,17 @@
+{
+    "name": "Josefiina Emilia Hiltunen",
+    "first_name": "Josefiina",
+    "middle_name": "Emilia",
+    "last_name": "Hiltunen",
+    "passport_number": "JF8162700",
+    "currency": "EUR",
+    "address": {
+        "city": "Vaasa",
+        "street name": "Aleksanterinkatu",
+        "street number": 88,
+        "postal code": "35364"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 041 017 23 61",
+    "email_address": "josefiina.hiltunen@outlook.com"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Emanuela Martina Galli",
+    "first_name": "Emanuela",
+    "middle_name": "Martina",
+    "last_name": "Galli",
+    "passport_number": "JU4492118",
+    "currency": "EUR",
+    "address": {
+        "city": "Verona",
+        "street name": "Via Roma",
+        "street number": 71,
+        "postal code": "75954"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "373 5235347",
+    "email_address": "emanuela.galli@icloud.com"
+}

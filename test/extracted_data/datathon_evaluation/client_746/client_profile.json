@@ -1,0 +1,94 @@
+{
+    "name": "Lemaire Lecomte",
+    "address": {
+        "city": "Liège",
+        "street name": "Rue de la Madeleine",
+        "street number": 1,
+        "postal code": "2275"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1962-03-18",
+    "nationality": "Belgian",
+    "passport_number": "JQ0301262",
+    "passport_issue_date": "2020-08-07",
+    "passport_expiry_date": "2027-08-06",
+    "gender": "M",
+    "phone_number": "+32 0465 269 171",
+    "email_address": "lemaire.lecomte@voo.be",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Atheneum Brugge Centrum",
+        "graduation_year": 1981
+    },
+    "higher_education": [
+        {
+            "university": "LUCA School of Arts",
+            "graduation_year": 1984
+        },
+        {
+            "university": "Vrije Universiteit Brussel",
+            "graduation_year": 1990
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1985,
+            "end_year": 1989,
+            "company": "Walter Van Beirendonck BVBA",
+            "position": "Assistant Designer",
+            "salary": 41000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 1993,
+            "company": "Dries Van Noten NV",
+            "position": "Senior Designer",
+            "salary": 61000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 1999,
+            "company": "Ann Demeulemeester BVBA",
+            "position": "Creative Director",
+            "salary": 74000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2022,
+            "company": "Stella McCartney Belgium",
+            "position": "Founder/Designer",
+            "salary": 632000
+        }
+    ],
+    "aum": {
+        "savings": 1020000,
+        "inheritance": 0,
+        "real_estate_value": 4026000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1206000,
+            "property location": "Liège"
+        },
+        {
+            "property type": "condo",
+            "property value": 1030000,
+            "property location": "Sint-Niklaas"
+        },
+        {
+            "property type": "house",
+            "property value": 1790000,
+            "property location": "Mechelen"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

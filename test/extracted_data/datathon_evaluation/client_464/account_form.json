@@ -1,0 +1,17 @@
+{
+    "name": "Lina Lilli Schmidt",
+    "first_name": "Lina",
+    "middle_name": "Lilli",
+    "last_name": "Schmidt",
+    "passport_number": "HF7804883",
+    "currency": "EUR",
+    "address": {
+        "city": "Dresden",
+        "street name": "Tauentzienstraße",
+        "street number": 48,
+        "postal code": "13006"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 3023 005256",
+    "email_address": "lina.schmidt@yahoo.com"
+}

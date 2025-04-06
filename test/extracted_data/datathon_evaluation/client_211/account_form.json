@@ -1,0 +1,17 @@
+{
+    "name": "Dubois Robert Lemaître",
+    "first_name": "Dubois",
+    "middle_name": "Robert",
+    "last_name": "Lemaître",
+    "passport_number": "QX9057514",
+    "currency": "EUR",
+    "address": {
+        "city": "Dijon",
+        "street name": "Rue Royale",
+        "street number": 21,
+        "postal code": "34448"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 08 03 26 76 69",
+    "email_address": "dubois.lemaitre@icloud.com"
+}

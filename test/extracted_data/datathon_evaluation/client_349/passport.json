@@ -1,0 +1,17 @@
+{
+    "first_name": " Joséphine",
+    "middle_name": "Jade",
+    "last_name": "Moreau",
+    "gender": "F",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1967-05-13",
+    "passport_number": "VO8504741",
+    "passport_mrz": [
+        "P<FRAMOREAU<< JOSÉPHINE<JADE<<<<<<<<<<<<<<<<<",
+        "VO8504741FRA670513<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2021-05-26",
+    "passport_expiry_date": "2031-05-25"
+}

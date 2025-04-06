@@ -1,0 +1,17 @@
+{
+    "name": "Kaiser Hofer Koller",
+    "first_name": "Kaiser",
+    "middle_name": "Hofer",
+    "last_name": "Koller",
+    "passport_number": "DO2503244",
+    "currency": "EUR",
+    "address": {
+        "city": "Dornbirn",
+        "street name": "Rotenturmstraße",
+        "street number": 57,
+        "postal code": "5304"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 210 519 2861",
+    "email_address": "kaiser.koller@kabsi.at"
+}

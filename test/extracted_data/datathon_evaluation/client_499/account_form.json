@@ -1,0 +1,17 @@
+{
+    "name": "Smeets Stam Maassen",
+    "first_name": "Smeets",
+    "middle_name": "Stam",
+    "last_name": "Maassen",
+    "passport_number": "GJ0024450",
+    "currency": "EUR",
+    "address": {
+        "city": "Boxtel",
+        "street name": "Maliebaan",
+        "street number": 61,
+        "postal code": "1831 72"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 30501096",
+    "email_address": "smeets.maassen@icloud.com"
+}

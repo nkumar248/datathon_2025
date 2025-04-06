@@ -1,0 +1,17 @@
+{
+    "name": "Moreau Richard Marchand",
+    "first_name": "Moreau",
+    "middle_name": "Richard",
+    "last_name": "Marchand",
+    "passport_number": "NT6100339",
+    "currency": "EUR",
+    "address": {
+        "city": "Besançon",
+        "street name": "Avenue de l'Opéra",
+        "street number": 89,
+        "postal code": "51475"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "03 55 82 88 47",
+    "email_address": "moreau.marchand@numericable.fr"
+}

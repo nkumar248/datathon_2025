@@ -1,0 +1,17 @@
+{
+    "first_name": "Schmidt",
+    "middle_name": "Fischer",
+    "last_name": "Maier",
+    "gender": "M",
+    "country": "Austria",
+    "country_code": "AUT",
+    "nationality": "Austrian",
+    "birth_date": "1954-12-03",
+    "passport_number": "HX3577067",
+    "passport_mrz": [
+        "P<AUTMAIER<<SCHMIDT<FISCHER<<<<<<<<<<<<<<<<<<",
+        "HX3577067AUT541203<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2021-05-20",
+    "passport_expiry_date": "2031-05-19"
+}

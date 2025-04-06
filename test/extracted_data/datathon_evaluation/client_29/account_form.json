@@ -1,0 +1,17 @@
+{
+    "name": "Luna Jasmijn Veenhoven",
+    "first_name": "Luna",
+    "middle_name": "Jasmijn",
+    "last_name": "Veenhoven",
+    "passport_number": "IQ5891689",
+    "currency": "EUR",
+    "address": {
+        "city": "Venlo",
+        "street name": "Goudsesingel",
+        "street number": 52,
+        "postal code": "4222 51"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "06 42049183",
+    "email_address": "luna.veenhoven@kpnmail.nl"
+}

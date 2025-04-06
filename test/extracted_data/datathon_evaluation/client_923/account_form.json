@@ -1,0 +1,17 @@
+{
+    "name": "Fournier Garcia Nicolas",
+    "first_name": "Fournier",
+    "middle_name": "Garcia",
+    "last_name": "Nicolas",
+    "passport_number": "HN2885447",
+    "currency": "EUR",
+    "address": {
+        "city": "Lille",
+        "street name": "Place des Vosges",
+        "street number": 74,
+        "postal code": "69247"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "01 79 60 96 09",
+    "email_address": "fournier.nicolas@yahoo.com"
+}

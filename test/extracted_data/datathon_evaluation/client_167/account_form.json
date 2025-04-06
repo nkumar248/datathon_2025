@@ -1,0 +1,17 @@
+{
+    "name": "Rissanen Hiltunen Heikkinen",
+    "first_name": "Rissanen",
+    "middle_name": "Hiltunen",
+    "last_name": "Heikkinen",
+    "passport_number": "HD4253751",
+    "currency": "EUR",
+    "address": {
+        "city": "Turku",
+        "street name": "Merituulentie",
+        "street number": 19,
+        "postal code": "06086"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 040 371 31 39",
+    "email_address": "rissanen.heikkinen@elisa.fi"
+}

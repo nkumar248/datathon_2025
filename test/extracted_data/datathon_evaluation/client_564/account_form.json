@@ -1,0 +1,17 @@
+{
+    "name": "Esposito Rizzo Silvestri",
+    "first_name": "Esposito",
+    "middle_name": "Rizzo",
+    "last_name": "Silvestri",
+    "passport_number": "SI8643067",
+    "currency": "EUR",
+    "address": {
+        "city": "Verona",
+        "street name": "Piazza Castello",
+        "street number": 77,
+        "postal code": "86660"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 386 3928866",
+    "email_address": "esposito.silvestri@tiscali.it"
+}

@@ -1,0 +1,98 @@
+{
+    "name": "Paananen Rissanen Seppälä",
+    "address": {
+        "city": "Fredericia",
+        "street name": "Nytorv",
+        "street number": 92,
+        "postal code": "5193"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1958-05-29",
+    "nationality": "Finnish",
+    "passport_number": "WU7724971",
+    "passport_issue_date": "2021-11-14",
+    "passport_expiry_date": "2031-11-13",
+    "gender": "M",
+    "phone_number": "+45 88 53 05 83",
+    "email_address": "paananen.seppala@yousee.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Sysmän lukio",
+        "graduation_year": 1977
+    },
+    "higher_education": [
+        {
+            "university": "University of Helsinki",
+            "graduation_year": 1983
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1982,
+            "end_year": 1983,
+            "company": "JP/Politikens Hus A/S",
+            "position": "Journalist",
+            "salary": 36000
+        },
+        {
+            "start_year": 1984,
+            "end_year": 1986,
+            "company": "TV 2 Danmark A/S",
+            "position": "Editor",
+            "salary": 59000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 1989,
+            "company": "DR (Danish Broadcasting Corporation)",
+            "position": "Publisher",
+            "salary": 78000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 1994,
+            "company": "TV 2 Danmark A/S",
+            "position": "TV/Radio Host",
+            "salary": 118000
+        },
+        {
+            "start_year": 1996,
+            "end_year": 2019,
+            "company": "DR (Danish Broadcasting Corporation)",
+            "position": "Media Conglomerate Owner",
+            "salary": 1509000
+        }
+    ],
+    "aum": {
+        "savings": 2730000,
+        "inheritance": 0,
+        "real_estate_value": 3216000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1436000,
+            "property location": "Fredericia"
+        },
+        {
+            "property type": "condo",
+            "property value": 950000,
+            "property location": "Joensuu"
+        },
+        {
+            "property type": "condo",
+            "property value": 830000,
+            "property location": "Turku"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

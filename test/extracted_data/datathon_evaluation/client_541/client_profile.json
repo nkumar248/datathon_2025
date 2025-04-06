@@ -1,0 +1,83 @@
+{
+    "name": "Céline Lea Wyss",
+    "address": {
+        "city": "Neuchatel",
+        "street name": "Petersplatz",
+        "street number": 94,
+        "postal code": "7547"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1985-09-06",
+    "nationality": "Swiss",
+    "passport_number": "XZ2226706",
+    "passport_issue_date": "2019-11-17",
+    "passport_expiry_date": "2029-11-16",
+    "gender": "F",
+    "phone_number": "+41 041 730 69 51",
+    "email_address": "celine.wyss@upc.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Gymnasium am Münster Schaffhausen",
+        "graduation_year": 2004
+    },
+    "higher_education": [
+        {
+            "university": "Suffolk University in Geneva",
+            "graduation_year": 2008
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2015,
+            "company": "Züblin Immobilien AG",
+            "position": "Property Manager",
+            "salary": 61000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2018,
+            "company": "Swiss Prime Site AG",
+            "position": "Developer",
+            "salary": 98000
+        },
+        {
+            "start_year": 2018,
+            "end_year": null,
+            "company": " Implenia AG",
+            "position": "Construction Company Owner",
+            "salary": 181000
+        }
+    ],
+    "aum": {
+        "savings": 270000,
+        "inheritance": 1790000,
+        "real_estate_value": 4300000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2019,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1740000,
+            "property location": "Neuchatel"
+        },
+        {
+            "property type": "condo",
+            "property value": 2560000,
+            "property location": "Bienna"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "France"
+    ],
+    "currency": "CHF"
+}

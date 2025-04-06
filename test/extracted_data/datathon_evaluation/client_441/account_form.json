@@ -1,0 +1,17 @@
+{
+    "name": "Hinterleitner Fischer Krämer",
+    "first_name": "Hinterleitner",
+    "middle_name": "Fischer",
+    "last_name": "Krämer",
+    "passport_number": "DA5430553",
+    "currency": "EUR",
+    "address": {
+        "city": "Tours",
+        "street name": "Avenue Victor Hugo",
+        "street number": 94,
+        "postal code": "25875"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 02 36 56 44 22",
+    "email_address": "hinterleitner.kramer@laposte.net"
+}

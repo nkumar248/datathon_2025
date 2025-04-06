@@ -1,0 +1,17 @@
+{
+    "name": "Hanna Henriette Fischer",
+    "first_name": "Henriette",
+    "middle_name": "Hanna",
+    "last_name": "Fischer",
+    "passport_number": "JC2338579",
+    "currency": "EUR",
+    "address": {
+        "city": "",
+        "street name": "Europa-Center",
+        "street number": 99,
+        "postal code": "18085"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "9368 293996",
+    "email_address": "hanna.fischer@hotmail.com"
+}

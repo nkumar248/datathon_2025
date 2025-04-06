@@ -1,0 +1,90 @@
+{
+    "name": "Charlotte Thiry",
+    "address": {
+        "city": "Poperinge",
+        "street name": "Rue des Dominicains",
+        "street number": 22,
+        "postal code": "0865"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1957-07-01",
+    "nationality": "Belgian",
+    "passport_number": "IL2357375",
+    "passport_issue_date": "2019-12-04",
+    "passport_expiry_date": "2026-12-03",
+    "gender": "F",
+    "phone_number": "+32 0438 078 145",
+    "email_address": "charlotte.thiry@icloud.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Institut Saint-Stanislas",
+        "graduation_year": 1964
+    },
+    "higher_education": [
+        {
+            "university": "Ghent University",
+            "graduation_year": 1980
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1981,
+            "end_year": 1983,
+            "company": "Thales Alenia Space Belgium",
+            "position": "Aerospace Engineer",
+            "salary": 36000
+        },
+        {
+            "start_year": 1985,
+            "end_year": 1986,
+            "company": "Sabca SA",
+            "position": "Program Manager",
+            "salary": 51000
+        },
+        {
+            "start_year": 1988,
+            "end_year": 1993,
+            "company": "Thales Alenia Space Belgium",
+            "position": "Director of Operations",
+            "salary": 119000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 2018,
+            "company": "Sonaca SA",
+            "position": "VP of Business Development",
+            "salary": 918000
+        }
+    ],
+    "aum": {
+        "savings": 1480000,
+        "inheritance": 0,
+        "real_estate_value": 3575000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1225000,
+            "property location": "Poperinge"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1320000,
+            "property location": "Mechelen"
+        },
+        {
+            "property type": "condo",
+            "property value": 1030000,
+            "property location": "Maaseik"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

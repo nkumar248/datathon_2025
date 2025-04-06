@@ -1,0 +1,17 @@
+{
+    "first_name": "Uusitalo",
+    "middle_name": "Salminen",
+    "last_name": "Niskanen",
+    "gender": "M",
+    "country": "Finland",
+    "country_code": "FIN",
+    "nationality": "Finnish",
+    "birth_date": "2003-09-20",
+    "passport_number": "CK7045871",
+    "passport_mrz": [
+        "P<FINNISKANEN<<UUSITALO<SALMINEN<<<<<<<<<<<<<",
+        "CK7045871FIN030920<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-01-13",
+    "passport_expiry_date": "2034-01-12"
+}

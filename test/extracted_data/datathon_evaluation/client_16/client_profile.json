@@ -1,0 +1,65 @@
+{
+    "name": "Lotti Landi Livi",
+    "address": {
+        "city": "Udine",
+        "street name": "Piazza del Popolo",
+        "street number": 48,
+        "postal code": "39427"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1995-09-01",
+    "nationality": "Italian",
+    "passport_number": "OV6873766",
+    "passport_issue_date": "2020-10-17",
+    "passport_expiry_date": "2030-10-16",
+    "gender": "M",
+    "phone_number": "+39 333 1549470",
+    "email_address": "lotti.livi@icloud.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Liceo Classico Marco Polo Venezia",
+        "graduation_year": 2013
+    },
+    "higher_education": [
+        {
+            "university": "European University of Rome",
+            "graduation_year": 2019
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2019,
+            "end_year": 2022,
+            "company": "Ignazio Messina & C. S.p.A.",
+            "position": "Ship Broker",
+            "salary": 25000
+        },
+        {
+            "start_year": 2022,
+            "end_year": null,
+            "company": "Grimaldi Group S.p.A.",
+            "position": "Shipping Company Owner",
+            "salary": 44000
+        }
+    ],
+    "aum": {
+        "savings": 30000,
+        "inheritance": 2420000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

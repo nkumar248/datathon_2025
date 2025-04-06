@@ -1,0 +1,17 @@
+{
+    "name": "Kristin Greta Schulz",
+    "first_name": "Kristin",
+    "middle_name": "Greta",
+    "last_name": "Schulz",
+    "passport_number": "TX8158909",
+    "currency": "EUR",
+    "address": {
+        "city": "Münster",
+        "street name": "Neuer Markt",
+        "street number": 96,
+        "postal code": "00573"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 7112 658044",
+    "email_address": "kristin.schulz@o2online.de"
+}

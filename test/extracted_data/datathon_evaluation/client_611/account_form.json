@@ -1,0 +1,17 @@
+{
+    "name": "Gabriella Adèle Vandenberghe",
+    "first_name": "Gabriella",
+    "middle_name": "Adèle",
+    "last_name": "Vandenberghe",
+    "passport_number": "LL6542165",
+    "currency": "EUR",
+    "address": {
+        "city": "Mechelen",
+        "street name": "Rue de la Régence",
+        "street number": 93,
+        "postal code": "1691"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0448 385 013",
+    "email_address": "gabriella.vandenberghe@skynet.be"
+}

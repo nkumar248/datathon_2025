@@ -1,0 +1,90 @@
+{
+    "name": "Laura Idun Nørregaard",
+    "address": {
+        "city": "Roskilde",
+        "street name": "Rådhuspladsen",
+        "street number": 11,
+        "postal code": "6344"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1963-09-03",
+    "nationality": "Danish",
+    "passport_number": "UB2276859",
+    "passport_issue_date": "2018-03-24",
+    "passport_expiry_date": "2028-03-23",
+    "gender": "F",
+    "phone_number": "58 69 62 35",
+    "email_address": "laura.nrregaard@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Kolding Gymnasium",
+        "graduation_year": 1981
+    },
+    "higher_education": [
+        {
+            "university": "University College Absalon",
+            "graduation_year": 1986
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1988,
+            "end_year": 1993,
+            "company": "Bestseller A/S",
+            "position": "Assistant Designer",
+            "salary": 369000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 1999,
+            "company": "Ganni A/S",
+            "position": "Senior Designer",
+            "salary": 382000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2005,
+            "company": "Ganni A/S",
+            "position": "Creative Director",
+            "salary": 541000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2024,
+            "company": "Won Hundred A/S",
+            "position": "Founder/Designer",
+            "salary": 4189000
+        }
+    ],
+    "aum": {
+        "savings": 7940000,
+        "inheritance": 0,
+        "real_estate_value": 5000000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1890000,
+            "property location": "Roskilde"
+        },
+        {
+            "property type": "flat",
+            "property value": 1020000,
+            "property location": "Roskilde"
+        },
+        {
+            "property type": "villa",
+            "property value": 2090000,
+            "property location": "Greve"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

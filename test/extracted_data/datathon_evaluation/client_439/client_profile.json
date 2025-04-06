@@ -1,0 +1,86 @@
+{
+    "name": "Katharina Lisa Gruber",
+    "address": {
+        "city": "Graz",
+        "street name": "Schlossallee",
+        "street number": 50,
+        "postal code": "1523"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1980-12-08",
+    "nationality": "Austrian",
+    "passport_number": "QK8682817",
+    "passport_issue_date": "2019-06-06",
+    "passport_expiry_date": "2029-06-05",
+    "gender": "F",
+    "phone_number": "912 495 7666",
+    "email_address": "katharina.gruber@aon.at",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "BORG Deutschlandsberg",
+        "graduation_year": 2000
+    },
+    "higher_education": [
+        {
+            "university": "University of Salzburg",
+            "graduation_year": 2005
+        },
+        {
+            "university": "Danube Private University Krems",
+            "graduation_year": 2007
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2004,
+            "end_year": 2007,
+            "company": "LGT Bank Österreich AG",
+            "position": "Financial Advisor",
+            "salary": 29000
+        },
+        {
+            "start_year": 2007,
+            "end_year": 2011,
+            "company": "UniCredit Private Banking",
+            "position": "Portfolio Manager",
+            "salary": 51000
+        },
+        {
+            "start_year": 2011,
+            "end_year": null,
+            "company": "LGT Bank Österreich AG",
+            "position": "Wealth Manager",
+            "salary": 186000
+        }
+    ],
+    "aum": {
+        "savings": 270000,
+        "inheritance": 7270000,
+        "real_estate_value": 2170000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2007,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 893000,
+            "property location": "Graz"
+        },
+        {
+            "property type": "house",
+            "property value": 1277000,
+            "property location": "Rosenheim"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

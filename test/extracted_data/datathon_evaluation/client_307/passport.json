@@ -1,0 +1,17 @@
+{
+    "first_name": "Amanda",
+    "middle_name": "Gabriela",
+    "last_name": "Keller",
+    "gender": "F",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1977-02-12",
+    "passport_number": "FK8207770",
+    "passport_mrz": [
+        "P<CHEKELLER<<AMANDA<<<<<<<<<<<<<<<<<<<<<<<<<<",
+        "FK8207770CHE770212<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "1970-08-11",
+    "passport_expiry_date": "1980-08-10"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Amanda Alberte Friis",
+    "first_name": "Amanda",
+    "middle_name": "Alberte",
+    "last_name": "Friis",
+    "passport_number": "YY0562437",
+    "currency": "DKK",
+    "address": {
+        "city": "Gladsaxe",
+        "street name": "Langebro",
+        "street number": 54,
+        "postal code": "2914"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "16 68 88 63",
+    "email_address": "amanda.friis@hotmail.com"
+}

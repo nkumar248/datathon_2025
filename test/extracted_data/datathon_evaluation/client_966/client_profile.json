@@ -1,0 +1,83 @@
+{
+    "name": "Schultz Herrmann Zimmermann",
+    "address": {
+        "city": "Essen",
+        "street name": "Holstenwall",
+        "street number": 4,
+        "postal code": "01129"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1982-06-27",
+    "nationality": "German",
+    "passport_number": "DR6018855",
+    "passport_issue_date": "2018-07-22",
+    "passport_expiry_date": "2028-07-21",
+    "gender": "M",
+    "phone_number": "+49 2684 814976",
+    "email_address": "schultz.zimmermann@gmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Otto-Hahn-Gymnasium Karlsruhe",
+        "graduation_year": 2002
+    },
+    "higher_education": [
+        {
+            "university": "Freiburg University of Education",
+            "graduation_year": 2007
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2006,
+            "end_year": 2010,
+            "company": "Software AG",
+            "position": "Software Developer",
+            "salary": 45000
+        },
+        {
+            "start_year": 2011,
+            "end_year": 2013,
+            "company": "SAP SE",
+            "position": "Startup Founder",
+            "salary": 62000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2025,
+            "company": "Bosch Software Innovations GmbH",
+            "position": "CEO",
+            "salary": 158000
+        }
+    ],
+    "aum": {
+        "savings": 210000,
+        "inheritance": 7430000,
+        "real_estate_value": 5130000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2011,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2950000,
+            "property location": "Essen"
+        },
+        {
+            "property type": "villa",
+            "property value": 2180000,
+            "property location": "Erlangen"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

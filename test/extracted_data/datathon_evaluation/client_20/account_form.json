@@ -1,0 +1,17 @@
+{
+    "name": "Jost Kuhn Weber",
+    "first_name": "Jost",
+    "middle_name": "Kuhn",
+    "last_name": "Weber",
+    "passport_number": "PF6703626",
+    "currency": "CHF",
+    "address": {
+        "city": "Olten",
+        "street name": "Quai du Général-Guisan",
+        "street number": 40,
+        "postal code": "8302"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 049 164 71 67",
+    "email_address": "jost.weber@swisscom.ch"
+}

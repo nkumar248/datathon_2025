@@ -1,0 +1,17 @@
+{
+    "first_name": "Sofia",
+    "middle_name": "Carlotta",
+    "last_name": "Ricci",
+    "gender": "F",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1987-07-09",
+    "passport_number": "OH5367114",
+    "passport_mrz": [
+        "P<ITARICCI<<SOFIA<CARLOTTA<<<<<<<<<<<<<<<<<<<",
+        "OH5367114ITA870709<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-08-13",
+    "passport_expiry_date": "2033-08-12"
+}

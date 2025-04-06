@@ -1,0 +1,17 @@
+{
+    "name": "Koskinen Tiainen Miettinen",
+    "first_name": "Koskinen",
+    "middle_name": "Tiainen",
+    "last_name": "Miettinen",
+    "passport_number": "VH1961785",
+    "currency": "EUR",
+    "address": {
+        "city": "Jyväskylä",
+        "street name": "Kauppakartanonkatu",
+        "street number": 100,
+        "postal code": "84214"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 046 891 79 48",
+    "email_address": "koskinen.miettinen@elisa.fi"
+}

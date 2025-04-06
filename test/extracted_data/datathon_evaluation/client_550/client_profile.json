@@ -1,0 +1,96 @@
+{
+    "name": "Mulders Voorn Willems",
+    "address": {
+        "city": "Delft",
+        "street name": "Willemsparkweg",
+        "street number": 36,
+        "postal code": "7524 75"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1961-10-05",
+    "nationality": "Dutch",
+    "passport_number": "ZE6122633",
+    "passport_issue_date": "2017-06-28",
+    "passport_expiry_date": "2027-06-27",
+    "gender": "M",
+    "phone_number": "06 92118338",
+    "email_address": "mulders.willems@upcmail.nl",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "VWO Dalton Den Haag",
+        "graduation_year": 1980
+    },
+    "higher_education": [
+        {
+            "university": "Koninklijk Nederlands Meteorologisch Instituut (KNMI)",
+            "graduation_year": 1985
+        },
+        {
+            "university": "Amsterdam University College",
+            "graduation_year": 1988
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1986,
+            "end_year": 1987,
+            "company": "Unilever N.V.",
+            "position": "Plant Manager",
+            "salary": 39000
+        },
+        {
+            "start_year": 1987,
+            "end_year": 1991,
+            "company": "AkzoNobel N.V.",
+            "position": "Operations Director",
+            "salary": 68000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 1992,
+            "company": "Royal Dutch Shell plc",
+            "position": "CEO",
+            "salary": 94000
+        },
+        {
+            "start_year": 1992,
+            "end_year": 1994,
+            "company": "AkzoNobel N.V.",
+            "position": "Chairman",
+            "salary": 177000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 2022,
+            "company": "Heineken N.V.",
+            "position": "Conglomerate Owner",
+            "salary": 1395000
+        }
+    ],
+    "aum": {
+        "savings": 2390000,
+        "inheritance": 0,
+        "real_estate_value": 3100000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1545000,
+            "property location": "Delft"
+        },
+        {
+            "property type": "condo",
+            "property value": 1555000,
+            "property location": "Emmen"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

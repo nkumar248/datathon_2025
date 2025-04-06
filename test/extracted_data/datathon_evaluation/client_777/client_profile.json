@@ -1,0 +1,70 @@
+{
+    "name": "Andrea Ibáñez",
+    "address": {
+        "city": "Salamanca",
+        "street name": "Calle de los Reyes Católicos",
+        "street number": 71,
+        "postal code": "31520"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1983-01-28",
+    "nationality": "Spanish",
+    "passport_number": "YI2130315",
+    "passport_issue_date": "2023-07-08",
+    "passport_expiry_date": "2033-07-07",
+    "gender": "F",
+    "phone_number": "617 214 067",
+    "email_address": "andrea.ibanez@ya.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "IES Miguel Hernández Alicante",
+        "graduation_year": 2002
+    },
+    "higher_education": [
+        {
+            "university": "University of Valencia",
+            "graduation_year": 2006
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2007,
+            "end_year": 2011,
+            "company": "Meliá Hotels International S.A.",
+            "position": "Hotel Manager",
+            "salary": 26000
+        },
+        {
+            "start_year": 2011,
+            "end_year": null,
+            "company": "Barceló Hotels & Resorts S.A.",
+            "position": "General Manager",
+            "salary": 107000
+        }
+    ],
+    "aum": {
+        "savings": 150000,
+        "inheritance": 1120000,
+        "real_estate_value": 1410000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2008,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1410000,
+            "property location": "Salamanca"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Sofia Eleonora Fabbri",
+    "first_name": "Sofia",
+    "middle_name": "Eleonora",
+    "last_name": "Fabbri",
+    "passport_number": "EO2009260",
+    "currency": "EUR",
+    "address": {
+        "city": "Santa Cruz de Tenerife",
+        "street name": "Calle de la Universidad",
+        "street number": 36,
+        "postal code": "94872"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 625 798 872",
+    "email_address": "sofia.fabbri@telefonica.es"
+}

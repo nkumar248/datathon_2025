@@ -1,0 +1,17 @@
+{
+    "name": "Bruno Lotti Moretti",
+    "first_name": "Bruno",
+    "middle_name": "Lotti",
+    "last_name": "Moretti",
+    "passport_number": "TL0059278",
+    "currency": "EUR",
+    "address": {
+        "city": "Treviso",
+        "street name": "Via Po",
+        "street number": 24,
+        "postal code": "82415"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 328 0868634",
+    "email_address": "bruno.moretti@infinito.it"
+}

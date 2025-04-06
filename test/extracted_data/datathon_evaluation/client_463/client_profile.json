@@ -1,0 +1,81 @@
+{
+    "name": "Østergaard Petersen Gundersen",
+    "address": {
+        "city": "Odense",
+        "street name": "Vestergade",
+        "street number": 32,
+        "postal code": "0253"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1957-12-30",
+    "nationality": "Danish",
+    "passport_number": "WD6474048",
+    "passport_issue_date": "2019-09-28",
+    "passport_expiry_date": "2029-09-27",
+    "gender": "M",
+    "phone_number": "33 80 36 46",
+    "email_address": "stergaard.gundersen@cybercity.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Herning Gymnasium",
+        "graduation_year": 1976
+    },
+    "higher_education": [
+        {
+            "university": "University of Southern Denmark - Faculty of Engineering",
+            "graduation_year": 1981
+        },
+        {
+            "university": "Technical University of Denmark (DTU)",
+            "graduation_year": 1986
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1981,
+            "end_year": 1986,
+            "company": " Zealand Pharma A/S",
+            "position": "Research Scientist",
+            "salary": 345000
+        },
+        {
+            "start_year": 1988,
+            "end_year": 2018,
+            "company": "",
+            "position": "CRO",
+            "salary": 2396000
+        }
+    ],
+    "aum": {
+        "savings": 4200000,
+        "inheritance": 0,
+        "real_estate_value": 3015000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 830000,
+            "property location": "Odense"
+        },
+        {
+            "property type": "condo",
+            "property value": 925000,
+            "property location": "Sønderborg"
+        },
+        {
+            "property type": "condo",
+            "property value": 1260000,
+            "property location": "Skanderborg"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "France"
+    ],
+    "currency": "DKK"
+}

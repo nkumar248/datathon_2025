@@ -1,0 +1,17 @@
+{
+    "name": "Amélie Romane Lemaire",
+    "first_name": "Amélie",
+    "middle_name": "Romane",
+    "last_name": "Lemaire",
+    "passport_number": "CS2151009",
+    "currency": "EUR",
+    "address": {
+        "city": "Liège",
+        "street name": "Rue du Houblon",
+        "street number": 80,
+        "postal code": "7434"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0413 299 719",
+    "email_address": "amelie.lemaire@voo.be"
+}

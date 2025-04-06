@@ -1,0 +1,17 @@
+{
+    "name": "Charlotte Joyce Brinkman",
+    "first_name": "Charlotte",
+    "middle_name": "Joyce",
+    "last_name": "Brinkman",
+    "passport_number": "PI7193042",
+    "currency": "EUR",
+    "address": {
+        "city": "Deventer",
+        "street name": "IJsselkade",
+        "street number": 45,
+        "postal code": "7026 79"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 77532192",
+    "email_address": "charlotte.brinkman@chello.nl"
+}

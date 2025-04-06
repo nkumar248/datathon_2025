@@ -1,0 +1,17 @@
+{
+    "first_name": "Riedo",
+    "middle_name": "Werner",
+    "last_name": "Gasser",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1963-03-31",
+    "passport_number": "FB2075506",
+    "passport_mrz": [
+        "P<CHEGASSER<<RIEDO<WERNER<<<<<<<<<<<<<<<<<<<<",
+        "FB2075506CHE630331<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2020-11-15",
+    "passport_expiry_date": "2030-11-14"
+}

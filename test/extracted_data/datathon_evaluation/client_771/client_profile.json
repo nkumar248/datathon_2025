@@ -1,0 +1,98 @@
+{
+    "name": "Ingrid Léa Hermans",
+    "address": {
+        "city": "Aalst",
+        "street name": "Rue de la Madeleine",
+        "street number": 66,
+        "postal code": "9464"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1956-07-17",
+    "nationality": "Belgian",
+    "passport_number": "NP6164875",
+    "passport_issue_date": "2023-01-10",
+    "passport_expiry_date": "2030-01-09",
+    "gender": "F",
+    "phone_number": "+32 0464 710 447",
+    "email_address": "ingrid.hermans@voo.be",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Atheneum Antwerpen Linkeroever",
+        "graduation_year": 1976
+    },
+    "higher_education": [
+        {
+            "university": "Académie des Beaux-Arts de Tournai",
+            "graduation_year": 1979
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1980,
+            "end_year": 1983,
+            "company": "Vlaamse Radio- en Televisieomroeporganisatie (VRT)",
+            "position": "Journalist",
+            "salary": 39000
+        },
+        {
+            "start_year": 1983,
+            "end_year": 1985,
+            "company": "Vlaamse Radio- en Televisieomroeporganisatie (VRT)",
+            "position": "Editor",
+            "salary": 50000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 1988,
+            "company": "De Persgroep NV",
+            "position": "Publisher",
+            "salary": 74000
+        },
+        {
+            "start_year": 1988,
+            "end_year": 1991,
+            "company": "Medialaan NV",
+            "position": "TV/Radio Host",
+            "salary": 112000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 2017,
+            "company": "Vlaamse Radio- en Televisieomroeporganisatie (VRT)",
+            "position": "Media Conglomerate Owner",
+            "salary": 1074000
+        }
+    ],
+    "aum": {
+        "savings": 1930000,
+        "inheritance": 0,
+        "real_estate_value": 3194000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1324000,
+            "property location": "Aalst"
+        },
+        {
+            "property type": "condo",
+            "property value": 950000,
+            "property location": "Herstal"
+        },
+        {
+            "property type": "flat",
+            "property value": 920000,
+            "property location": "Binche"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

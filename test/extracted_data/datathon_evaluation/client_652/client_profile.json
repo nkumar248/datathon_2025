@@ -1,0 +1,101 @@
+{
+    "name": "Wouters Maes Moens",
+    "address": {
+        "city": "Leuven",
+        "street name": "Rue des Étuves",
+        "street number": 11,
+        "postal code": "5385"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1974-04-20",
+    "nationality": "Belgian",
+    "passport_number": "VR0408890",
+    "passport_issue_date": "2019-09-03",
+    "passport_expiry_date": "2026-09-02",
+    "gender": "M",
+    "phone_number": "+32 0464 291 844",
+    "email_address": "wouters.moens@hotmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Koninklijk Atheneum Anderlecht",
+        "graduation_year": 1993
+    },
+    "higher_education": [
+        {
+            "university": "KU Leuven",
+            "graduation_year": 1997
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1998,
+            "end_year": 1999,
+            "company": "Sonaca SA",
+            "position": "Aerospace Engineer",
+            "salary": 35000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2006,
+            "company": "Thales Alenia Space Belgium",
+            "position": "Program Manager",
+            "salary": 63000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2007,
+            "company": "Asco Industries NV",
+            "position": "Director of Operations",
+            "salary": 71000
+        },
+        {
+            "start_year": 2009,
+            "end_year": 2012,
+            "company": "Sonaca SA",
+            "position": "VP of Business Development",
+            "salary": 150000
+        },
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "Sabca SA",
+            "position": "CEO",
+            "salary": 652000
+        }
+    ],
+    "aum": {
+        "savings": 920000,
+        "inheritance": 1270000,
+        "real_estate_value": 4800000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2012,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2480000,
+            "property location": "Leuven"
+        },
+        {
+            "property type": "house",
+            "property value": 1420000,
+            "property location": "Geel"
+        },
+        {
+            "property type": "condo",
+            "property value": 900000,
+            "property location": "Tournai"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Gisèle Déborah Riedo",
+    "first_name": "Gisèle",
+    "middle_name": "Déborah",
+    "last_name": "Riedo",
+    "passport_number": "EI1066997",
+    "currency": "EUR",
+    "address": {
+        "city": "Milan",
+        "street name": "Via Dante Alighieri",
+        "street number": 14,
+        "postal code": "98041"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "362 2336157",
+    "email_address": "gisele.riedo@outlook.com"
+}

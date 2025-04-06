@@ -1,0 +1,17 @@
+{
+    "name": "Emma Louna Bertrand",
+    "first_name": "Emma",
+    "middle_name": "Louna",
+    "last_name": "Bertrand",
+    "passport_number": "CG6803206",
+    "currency": "EUR",
+    "address": {
+        "city": "Paris",
+        "street name": "Place Vendôme",
+        "street number": 90,
+        "postal code": "93904"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "03 20 64 89 96",
+    "email_address": "emma.bertrand@icloud.com"
+}

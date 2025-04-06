@@ -1,0 +1,44 @@
+{
+    "name": "Steiner Binder",
+    "address": {
+        "city": "Steinbach am Attersee",
+        "street name": "Liechtensteinstraße",
+        "street number": 3,
+        "postal code": "2135"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "2003-07-27",
+    "nationality": "Austrian",
+    "passport_number": "UB8479318",
+    "passport_issue_date": "2021-03-15",
+    "passport_expiry_date": "2031-03-14",
+    "gender": "M",
+    "phone_number": "+43 603 254 7855",
+    "email_address": "steiner.binder@magenta.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "HTL Mödling",
+        "graduation_year": 2021
+    },
+    "higher_education": [],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1950000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2020,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

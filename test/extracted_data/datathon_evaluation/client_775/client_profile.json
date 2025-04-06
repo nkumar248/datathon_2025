@@ -1,0 +1,82 @@
+{
+    "name": "Ortega Suárez Herrera",
+    "address": {
+        "city": "Santa Cruz de Tenerife",
+        "street name": "Calle de San Bernardo",
+        "street number": 59,
+        "postal code": "83041"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1981-08-13",
+    "nationality": "Spanish",
+    "passport_number": "MX1539803",
+    "passport_issue_date": "2021-12-14",
+    "passport_expiry_date": "2031-12-13",
+    "gender": "M",
+    "phone_number": "+34 699 299 774",
+    "email_address": "ortega.herrera@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Instituto de Bachillerato Artístico IES Reina Sofia Tenerife",
+        "graduation_year": 2001
+    },
+    "higher_education": [
+        {
+            "university": "Ramón Llull University",
+            "graduation_year": 2006
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2005,
+            "end_year": 2010,
+            "company": "Merlin Properties SOCIMI S.A.",
+            "position": "Property Manager",
+            "salary": 36000
+        },
+        {
+            "start_year": 2011,
+            "end_year": 2016,
+            "company": "Realia Business S.A.",
+            "position": "Developer",
+            "salary": 44000
+        },
+        {
+            "start_year": 2017,
+            "end_year": null,
+            "company": "Realia Business S.A.",
+            "position": "Construction Company Owner",
+            "salary": 108000
+        }
+    ],
+    "aum": {
+        "savings": 170000,
+        "inheritance": 440000,
+        "real_estate_value": 1669000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2006,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 889000,
+            "property location": "Santa Cruz de Tenerife"
+        },
+        {
+            "property type": "condo",
+            "property value": 780000,
+            "property location": "Madrid"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "Van den Berghe Maes Peiren",
+    "address": {
+        "city": "Genk",
+        "street name": "Rue des Chartreux",
+        "street number": 53,
+        "postal code": "5940"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1996-04-14",
+    "nationality": "Finnish",
+    "passport_number": "RJ8385147",
+    "passport_issue_date": "2022-11-12",
+    "passport_expiry_date": "2029-11-11",
+    "gender": "M",
+    "phone_number": "0428 834 169",
+    "email_address": "vandenberghe.peiren@telenet.be",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Institut Notre-Dame de la Paix",
+        "graduation_year": 2014
+    },
+    "higher_education": [
+        {
+            "university": "University of Mons",
+            "graduation_year": 2019
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2020,
+            "end_year": 2023,
+            "company": "Liedekerke Wolters Waelbroeck Kirkpatrick",
+            "position": "Associate Attorney",
+            "salary": 38000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 1620000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

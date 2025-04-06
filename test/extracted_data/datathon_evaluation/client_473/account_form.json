@@ -1,0 +1,17 @@
+{
+    "name": "Lisa Graf",
+    "first_name": "Lisa",
+    "middle_name": "",
+    "last_name": "Graf",
+    "passport_number": "UK4860155",
+    "currency": "EUR",
+    "address": {
+        "city": "Vienna",
+        "street name": "Spiegelgasse",
+        "street number": 83,
+        "postal code": "0316"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 742 941 2031",
+    "email_address": "lisa.graf@magenta.at"
+}

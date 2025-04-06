@@ -1,0 +1,17 @@
+{
+    "name": "Madsen Højgaard Nielsen",
+    "first_name": "Madsen",
+    "middle_name": "Højgaard",
+    "last_name": "Nielsen",
+    "passport_number": "DO5050506",
+    "currency": "DKK",
+    "address": {
+        "city": "Helsingør",
+        "street name": "Sortedams Dossering",
+        "street number": 100,
+        "postal code": "7936"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "34 77 87 88",
+    "email_address": "madsen.nielsen@gmail.com"
+}

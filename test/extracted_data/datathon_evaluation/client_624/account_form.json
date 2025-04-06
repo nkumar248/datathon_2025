@@ -1,0 +1,17 @@
+{
+    "name": "Egli Bühler Roth",
+    "first_name": "Egli",
+    "middle_name": "Bühler",
+    "last_name": "Roth",
+    "passport_number": "TK7591655",
+    "currency": "CHF",
+    "address": {
+        "city": "Chur",
+        "street name": "Place des Halles",
+        "street number": 91,
+        "postal code": "3074"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "068 546 92 14",
+    "email_address": "egli.roth@lycos.ch"
+}

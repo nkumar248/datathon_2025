@@ -1,0 +1,17 @@
+{
+    "first_name": "Laurent",
+    "middle_name": "Garcia",
+    "last_name": "Thomas",
+    "gender": "M",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1977-10-15",
+    "passport_number": "OM8795378",
+    "passport_mrz": [
+        "P<FRATHOMAS<<LAURENT<GARCIA<<<<<<<<<<<<<<<<<<",
+        "OM8795378FRA771015<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-08-04",
+    "passport_expiry_date": "2034-08-03"
+}

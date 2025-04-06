@@ -1,0 +1,17 @@
+{
+    "name": "Bertrand Fournier Dupont",
+    "first_name": "Bertrand",
+    "middle_name": "Fournier",
+    "last_name": "Dupjont",
+    "passport_number": "IY9729857",
+    "currency": "EUR",
+    "address": {
+        "city": "Paris",
+        "street name": "Rue Marbeuf",
+        "street number": 72,
+        "postal code": "28263"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "02 28 37 95 12",
+    "email_address": "bertrand.dupont@icloud.com"
+}

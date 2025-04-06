@@ -1,0 +1,85 @@
+{
+    "name": "Bruno Malatesta Landi",
+    "address": {
+        "city": "Leeuwarden",
+        "street name": "Willemsparkweg",
+        "street number": 49,
+        "postal code": "2966 51"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1955-02-25",
+    "nationality": "Italian",
+    "passport_number": "TO3848241",
+    "passport_issue_date": "2021-04-03",
+    "passport_expiry_date": "2031-04-02",
+    "gender": "M",
+    "phone_number": "+31 06 36125469",
+    "email_address": "bruno.landi@gmail.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Liceo Artistico Statale Umberto Boccioni Milano",
+        "graduation_year": 1974
+    },
+    "higher_education": [
+        {
+            "university": "American University of Rome",
+            "graduation_year": 1977
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1979,
+            "end_year": 1981,
+            "company": "Crucell N.V.",
+            "position": "Research Scientist",
+            "salary": 28000
+        },
+        {
+            "start_year": 1981,
+            "end_year": 1984,
+            "company": "Philips Healthcare",
+            "position": "Biotech Startup Founder",
+            "salary": 37000
+        },
+        {
+            "start_year": 1985,
+            "end_year": 2015,
+            "company": "Philips Healthcare",
+            "position": "CEO",
+            "salary": 459000
+        }
+    ],
+    "aum": {
+        "savings": 890000,
+        "inheritance": 0,
+        "real_estate_value": 4041000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1148000,
+            "property location": "Leeuwarden"
+        },
+        {
+            "property type": "flat",
+            "property value": 563000,
+            "property location": "Naples"
+        },
+        {
+            "property type": "villa",
+            "property value": 2330000,
+            "property location": "Reggio Calabria"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy",
+        "Netherlands",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,97 @@
+{
+    "name": "Vogel Verhoeven Spaans",
+    "address": {
+        "city": "Arnhem",
+        "street name": "Rembrandtplein",
+        "street number": 49,
+        "postal code": "4488 13"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1954-07-23",
+    "nationality": "Dutch",
+    "passport_number": "SE9309667",
+    "passport_issue_date": "2024-10-17",
+    "passport_expiry_date": "2034-10-16",
+    "gender": "M",
+    "phone_number": "06 97683129",
+    "email_address": "vogel.spaans@yahoo.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "VWO Dalton Den Haag",
+        "graduation_year": 1973
+    },
+    "higher_education": [
+        {
+            "university": "Utrecht University",
+            "graduation_year": 1978
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1979,
+            "end_year": 1980,
+            "company": "NH Hotel Group Nederland B.V.",
+            "position": "Hotel Manager",
+            "salary": 39000
+        },
+        {
+            "start_year": 1981,
+            "end_year": 1982,
+            "company": "Accor Hospitality Nederland B.V.",
+            "position": "General Manager",
+            "salary": 58000
+        },
+        {
+            "start_year": 1982,
+            "end_year": 1986,
+            "company": "InterContinental Hotels Group Nederland B.V.",
+            "position": "Regional Vice President",
+            "salary": 88000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 1990,
+            "company": "NH Hotel Group Nederland B.V.",
+            "position": "CEO",
+            "salary": 186000
+        },
+        {
+            "start_year": 1992,
+            "end_year": 2015,
+            "company": "Accor Hospitality Nederland B.V.",
+            "position": "Hospitality Industry Leader",
+            "salary": 1380000
+        }
+    ],
+    "aum": {
+        "savings": 2290000,
+        "inheritance": 0,
+        "real_estate_value": 3561000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 930000,
+            "property location": "Arnhem"
+        },
+        {
+            "property type": "flat",
+            "property value": 991000,
+            "property location": "Leiden"
+        },
+        {
+            "property type": "house",
+            "property value": 1640000,
+            "property location": "Enschede"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,83 @@
+{
+    "name": "Furrer Riedo Wyss",
+    "address": {
+        "city": "Bellinzona",
+        "street name": "Spitalgasse",
+        "street number": 72,
+        "postal code": "6731"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1982-11-09",
+    "nationality": "Swiss",
+    "passport_number": "XD8582018",
+    "passport_issue_date": "2017-04-03",
+    "passport_expiry_date": "2027-04-02",
+    "gender": "M",
+    "phone_number": "+41 039 328 06 34",
+    "email_address": "furrer.wyss@bluewin.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Wirtschaftsgymnasium Olten Solothurn",
+        "graduation_year": 1991
+    },
+    "higher_education": [
+        {
+            "university": "EPFL",
+            "graduation_year": 2005
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2007,
+            "end_year": 2011,
+            "company": "Johnson & Johnson Switzerland",
+            "position": "Research Scientist",
+            "salary": 64000
+        },
+        {
+            "start_year": 2011,
+            "end_year": 2015,
+            "company": "Pfizer AG (Swiss branch)",
+            "position": "Clinical Trials Manager",
+            "salary": 88000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "Pfizer AG (Swiss branch)",
+            "position": "Regulatory Affairs Director",
+            "salary": 227000
+        }
+    ],
+    "aum": {
+        "savings": 330000,
+        "inheritance": 1280000,
+        "real_estate_value": 4180000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2011,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1710000,
+            "property location": "Bellinzona"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 2470000,
+            "property location": "Schaffhausen"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Germany"
+    ],
+    "currency": "CHF"
+}

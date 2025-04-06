@@ -1,0 +1,97 @@
+{
+    "name": "Laurène Léa Bonnet",
+    "address": {
+        "city": "Orléans",
+        "street name": "Avenue de la Grande Armée",
+        "street number": 31,
+        "postal code": "90004"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1969-10-17",
+    "nationality": "French",
+    "passport_number": "PB5593342",
+    "passport_issue_date": "2019-03-25",
+    "passport_expiry_date": "2029-03-24",
+    "gender": "F",
+    "phone_number": "+33 02 15 05 73 72",
+    "email_address": "laurene.bonnet@wanadoo.fr",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Lycée Victor Hugo",
+        "graduation_year": 1988
+    },
+    "higher_education": [
+        {
+            "university": "University of Lyon",
+            "graduation_year": 1992
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1993,
+            "end_year": 1997,
+            "company": "Unibail-Rodamco-Westfield SE",
+            "position": "Property Manager",
+            "salary": 29000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2004,
+            "company": "Groupe Bouygues",
+            "position": "Developer",
+            "salary": 63000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2008,
+            "company": "Groupe Bouygues",
+            "position": "Construction Company Owner",
+            "salary": 64000
+        },
+        {
+            "start_year": 2010,
+            "end_year": 2014,
+            "company": "Groupe Casino",
+            "position": "Real Estate Investment Trust (REIT) CEO",
+            "salary": 141000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2025,
+            "company": "Unibail-Rodamco-Westfield SE",
+            "position": "Landlord",
+            "salary": 219000
+        }
+    ],
+    "aum": {
+        "savings": 400000,
+        "inheritance": 3440000,
+        "real_estate_value": 3370000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2013,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 2300000,
+            "property location": "Orléans"
+        },
+        {
+            "property type": "flat",
+            "property value": 1070000,
+            "property location": "Tours"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria",
+        "France"
+    ],
+    "currency": "EUR"
+}

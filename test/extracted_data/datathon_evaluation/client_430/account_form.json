@@ -1,0 +1,17 @@
+{
+    "name": "Van der Meer Jansen Mulders",
+    "first_name": "Van der Meer",
+    "middle_name": "Jansen",
+    "last_name": "Mulders",
+    "passport_number": "EM6210094",
+    "currency": "EUR",
+    "address": {
+        "city": "Boxtel",
+        "street name": "PC Hoofdstraat",
+        "street number": 84,
+        "postal code": "2748 02"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 25559019",
+    "email_address": "vandermeer.mulders@outlook.com"
+}

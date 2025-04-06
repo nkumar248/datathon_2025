@@ -1,0 +1,17 @@
+{
+    "name": "Katharina Franziska Meier",
+    "first_name": "Katharina",
+    "middle_name": "Franziska",
+    "last_name": "Meier",
+    "passport_number": "YA5314462",
+    "currency": "EUR",
+    "address": {
+        "city": "Chemnitz",
+        "street name": "Max-Joseph-Straße",
+        "street number": 21,
+        "postal code": "54791"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "3462 004179",
+    "email_address": "katharina.meier@web.de"
+}

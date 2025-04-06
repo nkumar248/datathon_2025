@@ -1,0 +1,70 @@
+{
+    "name": "Lambert Martin",
+    "address": {
+        "city": "Rennes",
+        "street name": "Avenue Parmentier",
+        "street number": 70,
+        "postal code": "54564"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1987-12-30",
+    "nationality": "French",
+    "passport_number": "CG9117783",
+    "passport_issue_date": "2022-11-08",
+    "passport_expiry_date": "2032-11-07",
+    "gender": "M",
+    "phone_number": "03 49 68 52 59",
+    "email_address": "lambert.martin@live.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Janson-de-Sailly",
+        "graduation_year": 1994
+    },
+    "higher_education": [
+        {
+            "university": "University of Lyon",
+            "graduation_year": 2010
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2013,
+            "end_year": 2015,
+            "company": "Safran S.A.",
+            "position": "Program Manager",
+            "salary": 45000
+        },
+        {
+            "start_year": 2017,
+            "end_year": null,
+            "company": "Airbus S.A.S.",
+            "position": "Director of Operations",
+            "salary": 123000
+        }
+    ],
+    "aum": {
+        "savings": 130000,
+        "inheritance": 1670000,
+        "real_estate_value": 2310000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 2310000,
+            "property location": "Rennes"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Saar Tess Visser",
+    "first_name": "Saar",
+    "middle_name": "Tess",
+    "last_name": "Visser",
+    "passport_number": "ZF4549913",
+    "currency": "EUR",
+    "address": {
+        "city": "The Hague",
+        "street name": "Spoorweghaven",
+        "street number": 59,
+        "postal code": "2333 91"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 21473022",
+    "email_address": "saar.visser@upcmail.nl"
+}

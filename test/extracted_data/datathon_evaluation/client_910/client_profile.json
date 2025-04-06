@@ -1,0 +1,74 @@
+{
+    "name": "Antonia Giorgia Bianchi",
+    "address": {
+        "city": "Parma",
+        "street name": "Via Nazionale",
+        "street number": 94,
+        "postal code": "41522"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1987-03-08",
+    "nationality": "Dutch",
+    "passport_number": "EN7601403",
+    "passport_issue_date": "2017-09-22",
+    "passport_expiry_date": "2027-09-21",
+    "gender": "F",
+    "phone_number": "+39 332 6725320",
+    "email_address": "antonia.bianchi@infinito.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Liceo Scientifico Niccolò Copernico Padova",
+        "graduation_year": 2006
+    },
+    "higher_education": [
+        {
+            "university": "Superior School of Advanced Studies of Pisa",
+            "graduation_year": 2011
+        },
+        {
+            "university": "University of Turin",
+            "graduation_year": 2014
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2015,
+            "company": "Intesa Sanpaolo S.p.A.",
+            "position": "Family Office Manager",
+            "salary": 29000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "Banca Monte dei Paschi di Siena S.p.A.",
+            "position": "Investment Director",
+            "salary": 47000
+        }
+    ],
+    "aum": {
+        "savings": 80000,
+        "inheritance": 640000,
+        "real_estate_value": 1050000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2016,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1050000,
+            "property location": "Parma"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

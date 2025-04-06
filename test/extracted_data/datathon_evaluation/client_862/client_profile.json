@@ -1,0 +1,69 @@
+{
+    "name": "Soto Morales Navarro",
+    "address": {
+        "city": "Granada",
+        "street name": "Plaza de la Encarnación",
+        "street number": 82,
+        "postal code": "46079"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1995-01-31",
+    "nationality": "Spanish",
+    "passport_number": "GG7333783",
+    "passport_issue_date": "2018-05-28",
+    "passport_expiry_date": "2028-05-27",
+    "gender": "M",
+    "phone_number": "+34 623 801 064",
+    "email_address": "soto.navarro@wanadoo.es",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Colegio La Inmaculada Córdoba",
+        "graduation_year": 2012
+    },
+    "higher_education": [
+        {
+            "university": "Universidad Pontificia Comillas",
+            "graduation_year": 2018
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "Merlin Properties SOCIMI S.A.",
+            "position": "Property Manager",
+            "salary": 27000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 280000,
+        "real_estate_value": 1860000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 760000,
+            "property location": "Granada"
+        },
+        {
+            "property type": "condo",
+            "property value": 1100000,
+            "property location": "Vigo"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Denmark"
+    ],
+    "currency": "EUR"
+}

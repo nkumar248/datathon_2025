@@ -1,0 +1,17 @@
+{
+    "name": "Beatriz Catalina Gil",
+    "first_name": "Beatriz",
+    "middle_name": "Catalina",
+    "last_name": "Gil",
+    "passport_number": "RC7377224",
+    "currency": "EUR",
+    "address": {
+        "city": "Madrid",
+        "street name": "Plaza de la Magdalena",
+        "street number": 88,
+        "postal code": "34541"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 665 761 047",
+    "email_address": "beatriz.gil@terra.es"
+}

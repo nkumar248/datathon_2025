@@ -1,0 +1,75 @@
+{
+    "name": "Lotti Martini Fantini",
+    "address": {
+        "city": "Barcelona",
+        "street name": "Calle de San Bernardo",
+        "street number": 33,
+        "postal code": "70600"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1985-10-11",
+    "nationality": "Italian",
+    "passport_number": "BI0229085",
+    "passport_issue_date": "2017-09-24",
+    "passport_expiry_date": "2027-09-23",
+    "gender": "M",
+    "phone_number": "657 485 819",
+    "email_address": "lotti.fantini@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Istituto Tecnico Commerciale Statale Luigi Einaudi Torino",
+        "graduation_year": 2004
+    },
+    "higher_education": [
+        {
+            "university": "Ca' Foscari University of Venice",
+            "graduation_year": 2008
+        },
+        {
+            "university": "University of Naples Federico II",
+            "graduation_year": 2014
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2011,
+            "company": "Bankia S.A.",
+            "position": "Financial Advisor",
+            "salary": 24000
+        },
+        {
+            "start_year": 2013,
+            "end_year": null,
+            "company": "CaixaBank S.A.",
+            "position": "Portfolio Manager",
+            "salary": 99000
+        }
+    ],
+    "aum": {
+        "savings": 130000,
+        "inheritance": 6050000,
+        "real_estate_value": 2040000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2016,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2040000,
+            "property location": "Barcelona"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "Italy"
+    ],
+    "currency": "EUR"
+}

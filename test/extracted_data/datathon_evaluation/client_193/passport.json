@@ -1,0 +1,17 @@
+{
+    "first_name": "Emma",
+    "middle_name": "Capucine",
+    "last_name": "Bernard",
+    "gender": "F",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1989-04-27",
+    "passport_number": "XU9409325",
+    "passport_mrz": [
+        "P<FRABERNARD<<EMMA<CAPUCINE<<<<<<<<<<<<<<<<<<",
+        "XU9409325FRA890427<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2021-06-21",
+    "passport_expiry_date": "2031-06-20"
+}

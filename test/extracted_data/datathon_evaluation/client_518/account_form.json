@@ -1,0 +1,17 @@
+{
+    "name": "Louise Sørensen",
+    "first_name": "Louise",
+    "middle_name": "",
+    "last_name": "Sørensen",
+    "passport_number": "HR9277012",
+    "currency": "DKK",
+    "address": {
+        "city": "Gladsaxe",
+        "street name": "Vesterbrogade",
+        "street number": 29,
+        "postal code": "0224"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 22 41 29 00",
+    "email_address": "louise.srensen@telia.dk"
+}

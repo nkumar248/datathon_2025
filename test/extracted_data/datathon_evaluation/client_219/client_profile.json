@@ -1,0 +1,60 @@
+{
+    "name": "Friis Madsen Krog",
+    "address": {
+        "city": "Oviedo",
+        "street name": "Plaza del Ayuntamiento",
+        "street number": 64,
+        "postal code": "06482"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1957-10-24",
+    "nationality": "Danish",
+    "passport_number": "IX6559859",
+    "passport_issue_date": "2020-07-14",
+    "passport_expiry_date": "2030-07-13",
+    "gender": "M",
+    "phone_number": "+34 648 942 128",
+    "email_address": "friis.krogtelefonica.es",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Østre Borgerdyd Gymnasium",
+        "graduation_year": 1993
+    },
+    "higher_education": [
+        {
+            "university": "Technical University of Denmark (DTU)",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1999,
+            "end_year": 2000,
+            "company": "Alestis Aerospace S.L.",
+            "position": "Aerospace Engineer",
+            "salary": 248000
+        },
+        {
+            "start_year": 1999,
+            "end_year": null,
+            "company": "Airbus España S.L.",
+            "position": "Program Manager",
+            "salary": 1937000
+        }
+    ],
+    "aum": {
+        "savings": 3330000,
+        "inheritance": 0,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {},
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

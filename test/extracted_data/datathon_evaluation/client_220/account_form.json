@@ -1,0 +1,17 @@
+{
+    "name": "Francisca Tess Van der Meer",
+    "first_name": "Francisca",
+    "middle_name": "Tess",
+    "last_name": "Van der Meer",
+    "passport_number": "VA8421553",
+    "currency": "EUR",
+    "address": {
+        "city": "Groningen",
+        "street name": "Leidseplein",
+        "street number": 92,
+        "postal code": "0233 07"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 93973283",
+    "email_address": "francisca.vandermeer@planet.nl"
+}

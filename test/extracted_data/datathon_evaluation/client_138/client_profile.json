@@ -1,0 +1,76 @@
+{
+    "name": "Vandenberghe Van den Berghe Peeters",
+    "address": {
+        "city": "Kortrijk",
+        "street name": "Rue des Deux Portes",
+        "street number": 23,
+        "postal code": "7367"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1984-02-18",
+    "nationality": "Belgian",
+    "passport_number": "NX3216271",
+    "passport_issue_date": "2019-08-31",
+    "passport_expiry_date": "2026-08-30",
+    "gender": "M",
+    "phone_number": "+32 0483 453 852",
+    "email_address": "vandenberghe.peeters@belgacom.be",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "College Patroklia",
+        "graduation_year": 2001
+    },
+    "higher_education": [
+        {
+            "university": "University of Mons",
+            "graduation_year": 2006
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2007,
+            "end_year": 2011,
+            "company": "Clifford Chance LLP",
+            "position": "Associate Attorney",
+            "salary": 35000
+        },
+        {
+            "start_year": 2013,
+            "end_year": null,
+            "company": "Allen & Overy LLP",
+            "position": "Senior Associate",
+            "salary": 136000
+        }
+    ],
+    "aum": {
+        "savings": 180000,
+        "inheritance": 1660000,
+        "real_estate_value": 4100000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2005,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2580000,
+            "property location": "Kortrijk"
+        },
+        {
+            "property type": "house",
+            "property value": 1520000,
+            "property location": "Menen"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

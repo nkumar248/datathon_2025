@@ -1,0 +1,75 @@
+{
+    "name": "Ingrid Ève Guillaume",
+    "address": {
+        "city": "Paris",
+        "street name": "Rue Cujas",
+        "street number": 6,
+        "postal code": "17253"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1960-12-31",
+    "nationality": "French",
+    "passport_number": "AR5611049",
+    "passport_issue_date": "2019-07-06",
+    "passport_expiry_date": "2029-07-05",
+    "gender": "F",
+    "phone_number": "+33 09 12 70 99 78",
+    "email_address": "ingrid.guillaume@icloud.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée Carnot",
+        "graduation_year": 1980
+    },
+    "higher_education": [
+        {
+            "university": "EMIC de Lyon",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1985,
+            "end_year": 1987,
+            "company": "Société Générale S.A.",
+            "position": "Investment Banker",
+            "salary": 29000
+        },
+        {
+            "start_year": 1987,
+            "end_year": 1990,
+            "company": "Natixis S.A.",
+            "position": "Private Equity Investor",
+            "salary": 44000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 1991,
+            "company": "Crédit Agricole S.A.",
+            "position": "Hedge Fund Manager",
+            "salary": 61000
+        },
+        {
+            "start_year": 1992,
+            "end_year": 2021,
+            "company": "BNP Paribas S.A.",
+            "position": "Venture Capitalist",
+            "salary": 1124000
+        }
+    ],
+    "aum": {
+        "savings": 2030000,
+        "inheritance": 0,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {},
+    "real_estate_details": [],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria",
+        "France"
+    ],
+    "currency": "EUR"
+}

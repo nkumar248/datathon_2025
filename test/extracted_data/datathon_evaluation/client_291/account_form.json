@@ -1,0 +1,17 @@
+{
+    "name": "Cecilia Martina Marini",
+    "first_name": "Cecilia",
+    "middle_name": "Martina",
+    "last_name": "Marini",
+    "passport_number": "HB7488939",
+    "currency": "EUR",
+    "address": {
+        "city": "Turin",
+        "street name": "Via Ugo Bassi",
+        "street number": 63,
+        "postal code": "82366"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 316 5775051",
+    "email_address": "cecilia.marini@fastweb.it"
+}

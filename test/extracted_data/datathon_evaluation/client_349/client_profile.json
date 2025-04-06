@@ -1,0 +1,94 @@
+{
+    "name": " Joséphine Jade Moreau",
+    "address": {
+        "city": "Lille",
+        "street name": "Avenue Parmentier",
+        "street number": 83,
+        "postal code": "29281"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1967-05-13",
+    "nationality": "French",
+    "passport_number": "VO8504741",
+    "passport_issue_date": "2021-05-26",
+    "passport_expiry_date": "2031-05-25",
+    "gender": "F",
+    "phone_number": "02 46 81 72 79",
+    "email_address": "josephine.moreau@neuf.fr",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Lycée René Descartes",
+        "graduation_year": 1985
+    },
+    "higher_education": [
+        {
+            "university": "La Fémis",
+            "graduation_year": 1991
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1991,
+            "end_year": 1995,
+            "company": "Musée Rodin",
+            "position": "Art Dealer",
+            "salary": 34000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 2000,
+            "company": "Centre Pompidou",
+            "position": "Gallery Owner",
+            "salary": 53000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2002,
+            "company": "Musée Rodin",
+            "position": "Art Advisor",
+            "salary": 71000
+        },
+        {
+            "start_year": 2004,
+            "end_year": null,
+            "company": "Louvre Museum",
+            "position": "Curator",
+            "salary": 604000
+        }
+    ],
+    "aum": {
+        "savings": 1000000,
+        "inheritance": 1620000,
+        "real_estate_value": 4380000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1300000,
+            "property location": "Lille"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1540000,
+            "property location": "Nantes"
+        },
+        {
+            "property type": "flat",
+            "property value": 1540000,
+            "property location": "Toulouse"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

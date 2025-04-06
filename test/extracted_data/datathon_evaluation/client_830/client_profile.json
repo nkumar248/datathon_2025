@@ -1,0 +1,64 @@
+{
+    "name": "Rieder Reiter Steiner",
+    "address": {
+        "city": "Rosenheim",
+        "street name": "Ringstraße",
+        "street number": 97,
+        "postal code": "8703"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1990-06-13",
+    "nationality": "Austrian",
+    "passport_number": "FH1078082",
+    "passport_issue_date": "2024-07-09",
+    "passport_expiry_date": "2034-07-08",
+    "gender": "M",
+    "phone_number": "970 154 4861",
+    "email_address": "rieder.steiner@gmx.at",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Akademisches Gymnasium Graz",
+        "graduation_year": 2009
+    },
+    "higher_education": [
+        {
+            "university": "Vienna University of Technology",
+            "graduation_year": 2013
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2014,
+            "end_year": 2023,
+            "company": "Palfinger AG",
+            "position": "Plant Manager",
+            "salary": 39000
+        }
+    ],
+    "aum": {
+        "savings": 40000,
+        "inheritance": 1630000,
+        "real_estate_value": 1500000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 1500000,
+            "property location": "Rosenheim"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

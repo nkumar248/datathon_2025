@@ -1,0 +1,82 @@
+{
+    "name": "Jost Kägi",
+    "address": {
+        "city": "Lucerne",
+        "street name": "General-Guisan-Quai",
+        "street number": 20,
+        "postal code": "4228"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1967-12-25",
+    "nationality": "Swiss",
+    "passport_number": "YA2071478",
+    "passport_issue_date": "2017-10-26",
+    "passport_expiry_date": "2027-10-25",
+    "gender": "M",
+    "phone_number": "+41 095 556 65 08",
+    "email_address": "jost.kagi@icloud.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Kantonschule Solothurn Solothurn",
+        "graduation_year": 1986
+    },
+    "higher_education": [
+        {
+            "university": "University of Lucerne",
+            "graduation_year": 1978
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1992,
+            "end_year": 1996,
+            "company": "Maersk Line (Switzerland) A/S",
+            "position": "Ship Broker",
+            "salary": 57000
+        },
+        {
+            "start_year": 1998,
+            "end_year": 2000,
+            "company": "Mediterranean Shipping Company (MSC) SA",
+            "position": "Shipping Company Owner",
+            "salary": 94000
+        },
+        {
+            "start_year": 2000,
+            "end_year": null,
+            "company": "CMA CGM (Switzerland) SA",
+            "position": "Fleet Manager",
+            "salary": 844000
+        }
+    ],
+    "aum": {
+        "savings": 1580000,
+        "inheritance": 3540000,
+        "real_estate_value": 7950000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2013,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 5740000,
+            "property location": "Lucerne"
+        },
+        {
+            "property type": "condo",
+            "property value": 2210000,
+            "property location": "Bellinzona"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

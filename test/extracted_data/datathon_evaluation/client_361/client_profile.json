@@ -1,0 +1,88 @@
+{
+    "name": "Imke Gwendolyn Koch",
+    "address": {
+        "city": "Wiesbaden",
+        "street name": "Speicherstadt",
+        "street number": 71,
+        "postal code": "49917"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1963-06-19",
+    "nationality": "German",
+    "passport_number": "ZH7030418",
+    "passport_issue_date": "2017-11-16",
+    "passport_expiry_date": "2027-11-15",
+    "gender": "F",
+    "phone_number": "+49 1957 276032",
+    "email_address": "imke.koch@vodafone.de",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Heisenberg-Gymnasium Lüneburg",
+        "graduation_year": 1982
+    },
+    "higher_education": [
+        {
+            "university": "Ludwig Maximilian University of Munich",
+            "graduation_year": 1986
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1987,
+            "end_year": 1992,
+            "company": "Linklaters LLP",
+            "position": "Associate Attorney",
+            "salary": 49000
+        },
+        {
+            "start_year": 1994,
+            "end_year": 1995,
+            "company": "Hengeler Mueller",
+            "position": "Senior Associate",
+            "salary": 66000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 2000,
+            "company": "Linklaters LLP",
+            "position": "Partner",
+            "salary": 180000
+        },
+        {
+            "start_year": 2002,
+            "end_year": 2006,
+            "company": "Clifford Chance LLP",
+            "position": "Managing Partner",
+            "salary": 161000
+        },
+        {
+            "start_year": 2008,
+            "end_year": 2024,
+            "company": "Clifford Chance LLP",
+            "position": "Law Firm Chairman",
+            "salary": 827000
+        }
+    ],
+    "aum": {
+        "savings": 1580000,
+        "inheritance": 0,
+        "real_estate_value": 910000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 910000,
+            "property location": "Wiesbaden"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Almudena Araceli Morales",
+    "first_name": "Almdena",
+    "middle_name": "Araceli",
+    "last_name": "Morales",
+    "passport_number": "ZK7241169",
+    "currency": "EUR",
+    "address": {
+        "city": "Zaragoza",
+        "street name": "Calle de Alcalá",
+        "street number": 51,
+        "postal code": "44886"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "++358 626 258 534",
+    "email_address": "almudena.morales@gmail.com"
+}

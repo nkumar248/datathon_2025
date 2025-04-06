@@ -1,0 +1,17 @@
+{
+    "name": "Larsen Thomsen Jespersen",
+    "first_name": "Larsen",
+    "middle_name": "Thomsen",
+    "last_name": "Jespersen",
+    "passport_number": "DY2445580",
+    "currency": "DKK",
+    "address": {
+        "city": "Gladsaxe",
+        "street name": "Krystalgade",
+        "street number": 26,
+        "postal code": "6809"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 28 58 14 92",
+    "email_address": "larsen.jespersen@yousee.dk"
+}

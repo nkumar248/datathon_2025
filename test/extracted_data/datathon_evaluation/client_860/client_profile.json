@@ -1,0 +1,81 @@
+{
+    "name": "Gisèle Déborah Riedo",
+    "address": {
+        "city": "Milan",
+        "street name": "Via Dante Alighieri",
+        "street number": 14,
+        "postal code": "98041"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1959-10-22",
+    "nationality": "Swiss",
+    "passport_number": "EI1066997",
+    "passport_issue_date": "2019-03-24",
+    "passport_expiry_date": "2029-03-23",
+    "gender": "F",
+    "phone_number": "362 2336157",
+    "email_address": "gisele.riedo@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Kantonsschule Zürich Nord Zurich",
+        "graduation_year": 1978
+    },
+    "higher_education": [
+        {
+            "university": "ETH Zurich",
+            "graduation_year": 1982
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1983,
+            "end_year": 1984,
+            "company": "Roche S.p.A.",
+            "position": "Research Scientist",
+            "salary": 66000
+        },
+        {
+            "start_year": 1985,
+            "end_year": 1987,
+            "company": "Novartis Farma S.p.A.",
+            "position": "Biotech Startup Founder",
+            "salary": 90000
+        },
+        {
+            "start_year": 1987,
+            "end_year": 1992,
+            "company": "Novartis Farma S.p.A.",
+            "position": "CEO",
+            "salary": 191000
+        },
+        {
+            "start_year": 1992,
+            "end_year": 2020,
+            "company": "Novartis Farma S.p.A.",
+            "position": "Venture Capitalist",
+            "salary": 1433000
+        }
+    ],
+    "aum": {
+        "savings": 2690000,
+        "inheritance": 0,
+        "real_estate_value": 1280000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1280000,
+            "property location": "Milan"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Peters Vandenberghe Sanders",
+    "first_name": "Peters",
+    "middle_name": "Vandenberghe",
+    "last_name": "Sanders",
+    "passport_number": "FO0840322",
+    "currency": "EUR",
+    "address": {
+        "city": "Ieper",
+        "street name": "Rue Royale",
+        "street number": 42,
+        "postal code": "4260"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0412 487 955",
+    "email_address": "peters.sanders@gmail.com"
+}

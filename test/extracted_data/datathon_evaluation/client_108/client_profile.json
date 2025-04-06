@@ -1,0 +1,78 @@
+{
+    "name": "Hernández Sánchez Navarro",
+    "address": {
+        "city": "Santa Cruz de Tenerife",
+        "street name": "Passeig Marítim",
+        "street number": 18,
+        "postal code": "38947"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1985-01-14",
+    "nationality": "Spanish",
+    "passport_number": "UH3673763",
+    "passport_issue_date": "2024-01-09",
+    "passport_expiry_date": "2034-01-08",
+    "gender": "M",
+    "phone_number": "+34 649 647 756",
+    "email_address": "hernandez.navarro@gmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "IES Luis Vives Zaragoza",
+        "graduation_year": 1994
+    },
+    "higher_education": [
+        {
+            "university": "University of Valencia",
+            "graduation_year": 2009
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2008,
+            "end_year": 2012,
+            "company": "Uría Menéndez Abogados S.L.P.",
+            "position": "Associate Attorney",
+            "salary": 26000
+        },
+        {
+            "start_year": 2014,
+            "end_year": 2018,
+            "company": "Cuatrecasas Gonçalves Pereira S.L.P.",
+            "position": "Senior Associate",
+            "salary": 36000
+        },
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "Cuatrecasas Gonçalves Pereira S.L.P.",
+            "position": "Partner",
+            "salary": 98000
+        }
+    ],
+    "aum": {
+        "savings": 130000,
+        "inheritance": 7720000,
+        "real_estate_value": 1050000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2016,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1050000,
+            "property location": "Santa Cruz de Tenerife"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "France"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,82 @@
+{
+    "name": "Chloé Garcia",
+    "address": {
+        "city": "Saint-Étienne",
+        "street name": "Quai d'Orsay",
+        "street number": 39,
+        "postal code": "66251"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1968-03-26",
+    "nationality": "French",
+    "passport_number": "QT8671592",
+    "passport_issue_date": "2020-12-25",
+    "passport_expiry_date": "2030-12-24",
+    "gender": "F",
+    "phone_number": "+33 09 32 84 22 14",
+    "email_address": "chloe.garcia@wanadoo.fr",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Lycée Henri IV",
+        "graduation_year": 1986
+    },
+    "higher_education": [
+        {
+            "university": "Sorbonne University",
+            "graduation_year": 1991
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1992,
+            "end_year": 1995,
+            "company": "Musée Rodin",
+            "position": "Art Dealer",
+            "salary": 32000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 2000,
+            "company": "Louvre Museum",
+            "position": "Gallery Owner",
+            "salary": 59000
+        },
+        {
+            "start_year": 2001,
+            "end_year": null,
+            "company": "Musée Rodin",
+            "position": "Art Advisor",
+            "salary": 465000
+        }
+    ],
+    "aum": {
+        "savings": 820000,
+        "inheritance": 1880000,
+        "real_estate_value": 4040000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2011,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1860000,
+            "property location": "Saint-Étienne"
+        },
+        {
+            "property type": "house",
+            "property value": 2180000,
+            "property location": "Bordeaux"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "BTC"
+}

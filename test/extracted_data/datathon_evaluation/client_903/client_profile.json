@@ -1,0 +1,74 @@
+{
+    "name": "Furrer Schneider Frey",
+    "address": {
+        "city": "Bern",
+        "street name": "Steinstrasse",
+        "street number": 48,
+        "postal code": "6120"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1955-12-18",
+    "nationality": "Swiss",
+    "passport_number": "GQ8785880",
+    "passport_issue_date": "2018-11-26",
+    "passport_expiry_date": "2028-11-25",
+    "gender": "M",
+    "phone_number": "066 255 71 64",
+    "email_address": "furrer.frey@lycos.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Kantonschule Solothurn Solothurn",
+        "graduation_year": 1962
+    },
+    "higher_education": [
+        {
+            "university": "Geneva Business School",
+            "graduation_year": 1978
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1979,
+            "end_year": 1983,
+            "company": "Invision Private Equity AG",
+            "position": "Analyst",
+            "salary": 64000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 1990,
+            "company": "Partners Group Holding AG",
+            "position": "Investment Director",
+            "salary": 115000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 2016,
+            "company": "Partners Group Holding AG",
+            "position": "Partner",
+            "salary": 1602000
+        }
+    ],
+    "aum": {
+        "savings": 2640000,
+        "inheritance": 0,
+        "real_estate_value": 3050000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 3050000,
+            "property location": "Bern"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Spain"
+    ],
+    "currency": "CHF"
+}

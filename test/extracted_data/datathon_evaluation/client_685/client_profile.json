@@ -1,0 +1,77 @@
+{
+    "name": "Colombe Laurène Louis",
+    "address": {
+        "city": "Lyon",
+        "street name": "Rue Royale",
+        "street number": 87,
+        "postal code": "31457"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1973-05-28",
+    "nationality": "French",
+    "passport_number": "AT7587335",
+    "passport_issue_date": "2016-06-16",
+    "passport_expiry_date": "2026-06-15",
+    "gender": "F",
+    "phone_number": "+33 01 27 03 97 25",
+    "email_address": "colombe.louis@laposte.net",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Lycée Janson-de-Sailly",
+        "graduation_year": 1993
+    },
+    "higher_education": [
+        {
+            "university": "HEC Paris",
+            "graduation_year": 1996
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1997,
+            "end_year": 1999,
+            "company": "Hilton Worldwide France",
+            "position": "Hotel Manager",
+            "salary": 29000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2003,
+            "company": "InterContinental Hotels Group France",
+            "position": "General Manager",
+            "salary": 46000
+        },
+        {
+            "start_year": 2004,
+            "end_year": null,
+            "company": "Marriott International France",
+            "position": "Regional Vice President",
+            "salary": 352000
+        }
+    ],
+    "aum": {
+        "savings": 650000,
+        "inheritance": 260000,
+        "real_estate_value": 3100000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2010,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 3100000,
+            "property location": "Lyon"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

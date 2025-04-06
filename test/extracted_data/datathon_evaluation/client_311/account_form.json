@@ -1,0 +1,17 @@
+{
+    "name": "Kägi Brunner Wyss",
+    "first_name": "Kägi",
+    "middle_name": "Brunner",
+    "last_name": "Wyss",
+    "passport_number": "WW7653196",
+    "currency": "CHF",
+    "address": {
+        "city": "Chur",
+        "street name": "Marktgasse",
+        "street number": 48,
+        "postal code": "0897"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 059 657 97 66",
+    "email_address": "kagi.wyss@hotmail.com"
+}

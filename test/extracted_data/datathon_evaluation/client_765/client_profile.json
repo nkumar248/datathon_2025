@@ -1,0 +1,70 @@
+{
+    "name": "Gertrud Lea Kaiser",
+    "address": {
+        "city": "",
+        "street name": "Obere Donaustraße",
+        "street number": 100,
+        "postal code": "7853"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1964-04-26",
+    "nationality": "Austrian",
+    "passport_number": "DL6860577",
+    "passport_issue_date": "2022-10-24",
+    "passport_expiry_date": "2032-10-23",
+    "gender": "F",
+    "phone_number": "+43 639 843 1114",
+    "email_address": "gertrud.kaiser@vol.at",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Lycée Français de Vienne",
+        "graduation_year": 1984
+    },
+    "higher_education": [
+        {
+            "university": "IMC University of Applied Sciences Krems",
+            "graduation_year": 1987
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1989,
+            "end_year": 1992,
+            "company": "Alpha Private Equity",
+            "position": "Analyst",
+            "salary": 29000
+        },
+        {
+            "start_year": 1994,
+            "end_year": 2025,
+            "company": "Equity Partners Investment GmbH",
+            "position": "Associate",
+            "salary": 274000
+        }
+    ],
+    "aum": {
+        "savings": 530000,
+        "inheritance": 4580000,
+        "real_estate_value": 2170000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2012,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2170000,
+            "property location": "Kitzbühel"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

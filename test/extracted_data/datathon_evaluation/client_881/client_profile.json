@@ -1,0 +1,78 @@
+{
+    "name": "Ahonen Mäkinen Järvinen",
+    "address": {
+        "city": "Porvoo",
+        "street name": "Keskuskatu",
+        "street number": 67,
+        "postal code": "58030"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1960-08-03",
+    "nationality": "Finnish",
+    "passport_number": "UQ4376517",
+    "passport_issue_date": "2019-04-02",
+    "passport_expiry_date": "2029-04-01",
+    "gender": "M",
+    "phone_number": "045 880 77 72",
+    "email_address": "ahonen.jarvinen@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Siuntion lukio",
+        "graduation_year": 1979
+    },
+    "higher_education": [
+        {
+            "university": "Aalto University School of Arts, Design and Architecture",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1985,
+            "end_year": 1988,
+            "company": "Yleisradio Oy",
+            "position": "Journalist",
+            "salary": 36000
+        },
+        {
+            "start_year": 1988,
+            "end_year": 1993,
+            "company": "Alma Media Corporation",
+            "position": "Editor",
+            "salary": 72000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 2021,
+            "company": "Alma Media Corporation",
+            "position": "Publisher",
+            "salary": 584000
+        }
+    ],
+    "aum": {
+        "savings": 1010000,
+        "inheritance": 0,
+        "real_estate_value": 2870000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 780000,
+            "property location": "Porvoo"
+        },
+        {
+            "property type": "villa",
+            "property value": 2090000,
+            "property location": "Rauma"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

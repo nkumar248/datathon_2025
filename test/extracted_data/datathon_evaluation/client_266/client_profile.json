@@ -1,0 +1,58 @@
+{
+    "name": "Dominique Anna Hagenbuch",
+    "address": {
+        "city": "Bern",
+        "street name": "Spalenberg",
+        "street number": 84,
+        "postal code": "5321"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1998-01-29",
+    "nationality": "Swiss",
+    "passport_number": "KU2387160",
+    "passport_issue_date": "2017-01-29",
+    "passport_expiry_date": "2027-01-28",
+    "gender": "F",
+    "phone_number": "+41 057 899 07 48",
+    "email_address": "dominique.hagenbuch@gmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée cantonal de Porrentruy Jura",
+        "graduation_year": 2017
+    },
+    "higher_education": [
+        {
+            "university": "EPFL",
+            "graduation_year": 2022
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2021,
+            "end_year": 2025,
+            "company": "SRF Schweizer Radio und Fernsehen",
+            "position": "Journalist",
+            "salary": 59000
+        }
+    ],
+    "aum": {
+        "savings": 40000,
+        "inheritance": 2640000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Spain"
+    ],
+    "currency": "CHF"
+}

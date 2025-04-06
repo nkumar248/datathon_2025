@@ -1,0 +1,17 @@
+{
+    "name": "Emma Capucine Bernard",
+    "first_name": "Emma",
+    "middle_name": "Capucine",
+    "last_name": "Bernard",
+    "passport_number": "XU9409325",
+    "currency": "EUR",
+    "address": {
+        "city": "Toulon",
+        "street name": "Rue Royale",
+        "street number": 18,
+        "postal code": "98286"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 04 66 74 92 79",
+    "email_address": "emma.bernard@yahoo.com"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Daphné Olivia Segers",
+    "first_name": "Daphné",
+    "middle_name": "Olivia",
+    "last_name": "Segers",
+    "passport_number": "MH7220498",
+    "currency": "EUR",
+    "address": {
+        "city": "Roeselare",
+        "street name": "Grand Place",
+        "street number": 75,
+        "postal code": "8024"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0451 456 244",
+    "email_address": "daphne.segers@edpnet.be"
+}

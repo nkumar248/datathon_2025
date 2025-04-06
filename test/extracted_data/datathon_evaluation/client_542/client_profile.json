@@ -1,0 +1,70 @@
+{
+    "name": "De Jong Van Dijk Maassen",
+    "address": {
+        "city": "The Hague",
+        "street name": "Korte Voorhout",
+        "street number": 70,
+        "postal code": "7411 81"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1987-04-24",
+    "nationality": "Dutch",
+    "passport_number": "IM1718720",
+    "passport_issue_date": "2022-07-31",
+    "passport_expiry_date": "2032-07-30",
+    "gender": "M",
+    "phone_number": "06 11209373",
+    "email_address": "dejong.maassen@upcmail.nl",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "RSG Magister Almelo",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "Tio University of Applied Sciences",
+            "graduation_year": 2010
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2012,
+            "end_year": 2017,
+            "company": "Victor & Rolf B.V.",
+            "position": "Assistant Designer",
+            "salary": 49000
+        },
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "10 Feather Corporation B.V.",
+            "position": "Senior Designer",
+            "salary": 65000
+        }
+    ],
+    "aum": {
+        "savings": 90000,
+        "inheritance": 1760000,
+        "real_estate_value": 2020000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 2020000,
+            "property location": "The Hague"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

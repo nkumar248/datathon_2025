@@ -1,0 +1,49 @@
+{
+    "name": "Erika Gabriella Livi",
+    "address": {
+        "city": "Palermo",
+        "street name": "Piazza San Marco",
+        "street number": 17,
+        "postal code": "00234"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "2002-03-30",
+    "nationality": "Italian",
+    "passport_number": "EQ1601376",
+    "passport_issue_date": "2023-02-19",
+    "passport_expiry_date": "2033-02-18",
+    "gender": "F",
+    "phone_number": "+39 315 1488239",
+    "email_address": "erika.livi@outlook.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Liceo Linguistico Internazionale Gabriele d'Annunzio Pescara",
+        "graduation_year": 2021
+    },
+    "higher_education": [
+        {
+            "university": "John Cabot University",
+            "graduation_year": 2025
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 2210000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

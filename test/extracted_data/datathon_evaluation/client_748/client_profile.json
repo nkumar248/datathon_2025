@@ -1,0 +1,45 @@
+{
+    "name": "Chloé Peters",
+    "address": {
+        "city": "Geel",
+        "street name": "Rue de la Vierge",
+        "street number": 75,
+        "postal code": "8576"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "2004-03-21",
+    "nationality": "Belgian",
+    "passport_number": "IZ1711354",
+    "passport_issue_date": "2019-08-17",
+    "passport_expiry_date": "2026-08-16",
+    "gender": "F",
+    "phone_number": "+32 0481 812 926",
+    "email_address": "chloe.peters@icloud.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Institut de la Sainte-Famille d'Helmet",
+        "graduation_year": 2022
+    },
+    "higher_education": [],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1280000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2020,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

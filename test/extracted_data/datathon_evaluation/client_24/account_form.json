@@ -1,0 +1,17 @@
+{
+    "name": "Møller Jespersen Kristensen",
+    "first_name": "Møller",
+    "middle_name": "Jespersen",
+    "last_name": "Kristensen",
+    "passport_number": "DE3817044",
+    "currency": "DKK",
+    "address": {
+        "city": "Randers",
+        "street name": "Linnemannsgade",
+        "street number": 60,
+        "postal code": "4178"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 27 97 56 7",
+    "email_address": "mller.kristensen@yousee.dk"
+}

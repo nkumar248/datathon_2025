@@ -1,0 +1,63 @@
+{
+    "name": "Koch Krüger Uhlig",
+    "address": {
+        "city": "Gelsenkirchen",
+        "street name": "Zeil",
+        "street number": 20,
+        "postal code": "06938"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1990-02-13",
+    "nationality": "German",
+    "passport_number": "JW5748195",
+    "passport_issue_date": "2020-08-29",
+    "passport_expiry_date": "2030-08-28",
+    "gender": "M",
+    "phone_number": "5087 287883",
+    "email_address": "koch.uhlig@arcor.de",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Albert-Schweitzer-Gymnasium Hamburg",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "University of Göttingen",
+            "graduation_year": 2014
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "Glencore Deutschland GmbH",
+            "position": "Junior Trader",
+            "salary": 101000
+        }
+    ],
+    "aum": {
+        "savings": 110000,
+        "inheritance": 300000,
+        "real_estate_value": 1240000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1240000,
+            "property location": "Gelsenkirchen"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Germany"
+    ],
+    "currency": "EUR"
+}

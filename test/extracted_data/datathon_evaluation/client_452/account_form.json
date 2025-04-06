@@ -1,0 +1,17 @@
+{
+    "name": "Alma Eva Laursen",
+    "first_name": "Alma",
+    "middle_name": "Eva",
+    "last_name": "Laursen",
+    "passport_number": "RL1873243",
+    "currency": "EUR",
+    "address": {
+        "city": "Villach",
+        "street name": "Westbahnstraße",
+        "street number": 73,
+        "postal code": "6568"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 459 389 4912",
+    "email_address": "alma.laursen@vol.at"
+}

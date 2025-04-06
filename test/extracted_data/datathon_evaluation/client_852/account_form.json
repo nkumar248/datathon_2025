@@ -1,0 +1,17 @@
+{
+    "name": "Leonie Binder",
+    "first_name": "Leonie",
+    "middle_name": "",
+    "last_name": "Binder",
+    "passport_number": "AV2652785",
+    "currency": "EUR",
+    "address": {
+        "city": "Steinbach am Attersee",
+        "street name": "Liechtensteinstraße",
+        "street number": 83,
+        "postal code": "6923"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 290 584 0100",
+    "email_address": "leonie.binder@chello.at"
+}

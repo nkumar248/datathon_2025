@@ -1,0 +1,17 @@
+{
+    "first_name": "Larsen",
+    "middle_name": "Andersen",
+    "last_name": "Østergaard",
+    "gender": "M",
+    "country": "Denmark",
+    "country_code": "DNK",
+    "nationality": "Danish",
+    "birth_date": "1996-06-06",
+    "passport_number": "RM9599687",
+    "passport_mrz": [
+        "P<DNKØSTERGAARD<<LARSEN<ANDERSEN<<<<<<<<<<<<<",
+        "RM9599687DNK960606<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-06-15",
+    "passport_expiry_date": "2033-06-14"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Friso Wagemakers",
+    "first_name": "Friso",
+    "middle_name": "",
+    "last_name": "Wagemakers",
+    "passport_number": "XO1568074",
+    "currency": "EUR",
+    "address": {
+        "city": "Venlo",
+        "street name": "Nieuwmarkt",
+        "street number": 53,
+        "postal code": "3837 73"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 14094615",
+    "email_address": "friso.wagemakers@planet.nl"
+}

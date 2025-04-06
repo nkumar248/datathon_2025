@@ -1,0 +1,17 @@
+{
+    "name": "Giulia Daniela Bianchi",
+    "first_name": "Giulia",
+    "middle_name": "Daniela",
+    "last_name": "Bianchi",
+    "passport_number": "OL1802814",
+    "currency": "EUR",
+    "address": {
+        "city": "Perugia",
+        "street name": "Piazza Castello",
+        "street number": 83,
+        "postal code": "43079"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 370 4920799",
+    "email_address": "giulia.bianchi@yahoo.com"
+}

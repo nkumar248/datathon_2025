@@ -1,0 +1,17 @@
+{
+    "name": "Egger Mayr Schwarz",
+    "first_name": "Egger",
+    "middle_name": "Mayr",
+    "last_name": "Schwarz",
+    "passport_number": "JZ1299439",
+    "currency": "EUR",
+    "address": {
+        "city": "Graz",
+        "street name": "Alpenstraße",
+        "street number": 49,
+        "postal code": "7127"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 655 273 1736",
+    "email_address": "egger.schwarz@aon.at"
+}

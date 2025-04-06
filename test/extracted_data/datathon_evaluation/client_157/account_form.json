@@ -1,0 +1,17 @@
+{
+    "name": "Dubois Bernard Garcia",
+    "first_name": "Dubois",
+    "middle_name": "Bernard",
+    "last_name": "Garcia",
+    "passport_number": "LR8576608",
+    "currency": "EUR",
+    "address": {
+        "city": "Caen",
+        "street name": "Rue de l'Abbé Grégoire",
+        "street number": 6,
+        "postal code": "83496"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 09 97 50 15 14",
+    "email_address": "dubois.garcia@wanadoo.fr"
+}

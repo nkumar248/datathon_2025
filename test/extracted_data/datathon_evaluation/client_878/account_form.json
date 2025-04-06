@@ -1,0 +1,17 @@
+{
+    "name": "Laurent Legrand Nicolas",
+    "first_name": "Laurent",
+    "middle_name": "Legrand",
+    "last_name": "Nicolas",
+    "passport_number": "RI6355332",
+    "currency": "EUR",
+    "address": {
+        "city": "Le Mans",
+        "street name": "Boulevard Raspail",
+        "street number": 90,
+        "postal code": "42290"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "03 84 61 10 15",
+    "email_address": "laurent.nicolas@hotmail.com"
+}

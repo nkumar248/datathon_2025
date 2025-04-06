@@ -1,0 +1,17 @@
+{
+    "name": "Katharina Frieda Müller",
+    "first_name": "Katharina",
+    "middle_name": "Frieda",
+    "last_name": "Müller",
+    "passport_number": "EE9024276",
+    "currency": "EUR",
+    "address": {
+        "city": "Leipzig",
+        "street name": "Rathausstraße",
+        "street number": 67,
+        "postal code": "67035"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 0603 213618",
+    "email_address": "katharina.muller@arcor.de"
+}

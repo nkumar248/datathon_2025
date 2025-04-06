@@ -1,0 +1,17 @@
+{
+    "first_name": "Lena",
+    "middle_name": "",
+    "last_name": "Steiner",
+    "gender": "F",
+    "country": "Austria",
+    "country_code": "AUT",
+    "nationality": "Austrian",
+    "birth_date": "1987-04-18",
+    "passport_number": "CH4949462",
+    "passport_mrz": [
+        "P<AUTSTEINER<<LENA<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+        "CH4949462AUT870418<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-04-30",
+    "passport_expiry_date": "2032-04-29"
+}

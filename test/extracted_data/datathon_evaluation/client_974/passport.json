@@ -1,0 +1,17 @@
+{
+    "first_name": "Fuchs",
+    "middle_name": "Weber",
+    "last_name": "Rieder",
+    "gender": "M",
+    "country": "Austria",
+    "country_code": "AUT",
+    "nationality": "Austrian",
+    "birth_date": "1958-03-27",
+    "passport_number": "DI5098200",
+    "passport_mrz": [
+        "P<AUTRIEDER<<FUCHS<WEBER<<<<<<<<<<<<<<<<<<<<<",
+        "DI5098200AUT580327<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2016-09-28",
+    "passport_expiry_date": "2026-09-27"
+}

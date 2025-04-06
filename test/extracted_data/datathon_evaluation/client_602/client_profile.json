@@ -1,0 +1,82 @@
+{
+    "name": "Consuelo Almudena González",
+    "address": {
+        "city": "Córdoba",
+        "street name": "Diagonal",
+        "street number": 3,
+        "postal code": "91257"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1987-10-06",
+    "nationality": "Spanish",
+    "passport_number": "VZ3585606",
+    "passport_issue_date": "2020-01-31",
+    "passport_expiry_date": "2030-01-30",
+    "gender": "F",
+    "phone_number": "637 488 324",
+    "email_address": "consuelo.gonzalez@yahoo.es",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "IES Francisco de Quevedo Valladolid",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "Pompeu Fabra University",
+            "graduation_year": 2012
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2011,
+            "end_year": 2012,
+            "company": "CaixaForum",
+            "position": "Art Dealer",
+            "salary": 25000
+        },
+        {
+            "start_year": 2013,
+            "end_year": 2017,
+            "company": "CaixaForum",
+            "position": "Gallery Owner",
+            "salary": 41000
+        },
+        {
+            "start_year": 2018,
+            "end_year": null,
+            "company": "CaixaForum",
+            "position": "Art Advisor",
+            "salary": 100000
+        }
+    ],
+    "aum": {
+        "savings": 120000,
+        "inheritance": 1690000,
+        "real_estate_value": 1630000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 725000,
+            "property location": "Córdoba"
+        },
+        {
+            "property type": "condo",
+            "property value": 905000,
+            "property location": "Las Palmas de Gran Canaria"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

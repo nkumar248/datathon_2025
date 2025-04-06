@@ -1,0 +1,81 @@
+{
+    "name": "Andersen Mikkelsen Nielsen",
+    "address": {
+        "city": "Odense",
+        "street name": "Store Kongensgade",
+        "street number": 25,
+        "postal code": "5874"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1987-09-21",
+    "nationality": "Danish",
+    "passport_number": "WU5999167",
+    "passport_issue_date": "2022-06-12",
+    "passport_expiry_date": "2032-06-11",
+    "gender": "M",
+    "phone_number": "+45 65 94 36 82",
+    "email_address": "andersen.nielsen@telenor.dk",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Middelfart Gymnasium",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "Copenhagen Business School",
+            "graduation_year": 2010
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2012,
+            "end_year": 2014,
+            "company": "Carlsberg Byen A/S",
+            "position": "Property Manager",
+            "salary": 275000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "Jeudan A/S",
+            "position": "Developer",
+            "salary": 573000
+        }
+    ],
+    "aum": {
+        "savings": 660000,
+        "inheritance": 42780000,
+        "real_estate_value": 3925000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1377000,
+            "property location": "Odense"
+        },
+        {
+            "property type": "flat",
+            "property value": 1258000,
+            "property location": "Kolding"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1290000,
+            "property location": "Greve"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Italy"
+    ],
+    "currency": "DKK"
+}

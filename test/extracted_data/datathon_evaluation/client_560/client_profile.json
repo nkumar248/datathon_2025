@@ -1,0 +1,78 @@
+{
+    "name": "Lucas Justine De Smet",
+    "address": {
+        "city": "Poperinge",
+        "street name": "Rue de la République",
+        "street number": 53,
+        "postal code": "5238"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1984-02-18",
+    "nationality": "Belgian",
+    "passport_number": "FQ0645736",
+    "passport_issue_date": "2020-10-22",
+    "passport_expiry_date": "2027-10-21",
+    "gender": "F",
+    "phone_number": "0413 033 509",
+    "email_address": "lucas.desmet@yahoo.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Institut Notre-Dame de la Paix",
+        "graduation_year": 2002
+    },
+    "higher_education": [
+        {
+            "university": "Hasselt University",
+            "graduation_year": 2006
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2008,
+            "end_year": 2010,
+            "company": "BNP Paribas Wealth Management Belgium",
+            "position": "Financial Advisor",
+            "salary": 40000
+        },
+        {
+            "start_year": 2010,
+            "end_year": 2014,
+            "company": "KBC Private Banking NV",
+            "position": "Portfolio Manager",
+            "salary": 61000
+        },
+        {
+            "start_year": 2015,
+            "end_year": null,
+            "company": "BNP Paribas Wealth Management Belgium",
+            "position": "Wealth Manager",
+            "salary": 114000
+        }
+    ],
+    "aum": {
+        "savings": 190000,
+        "inheritance": 7190000,
+        "real_estate_value": 770000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2007,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 770000,
+            "property location": "Poperinge"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

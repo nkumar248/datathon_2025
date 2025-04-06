@@ -1,0 +1,17 @@
+{
+    "first_name": "Émilie",
+    "middle_name": "Ingrid",
+    "last_name": "Dupont",
+    "gender": "F",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1969-02-26",
+    "passport_number": "LN4793007",
+    "passport_mrz": [
+        "P<FRADUPONT<<ÉMILIE<INGRID<<<<<<<<<<<<<<<<<<<",
+        "LN4793007FRA690226<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-12-11",
+    "passport_expiry_date": "2032-12-10"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Bruno Lotti Silvestri",
+    "first_name": "Bruno",
+    "middle_name": "Lotti",
+    "last_name": "Silvestri",
+    "passport_number": "FB0646575",
+    "currency": "EUR",
+    "address": {
+        "city": "Verona",
+        "street name": "Piazza Castello",
+        "street number": 90,
+        "postal code": "42467"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 369 8905652",
+    "email_address": "bruno.silvestri@aruba.it"
+}

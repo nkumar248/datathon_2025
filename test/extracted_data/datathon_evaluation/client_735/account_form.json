@@ -1,0 +1,17 @@
+{
+    "name": "Lechner Rieder Mayr",
+    "first_name": "Lechner",
+    "middle_name": "Rieder",
+    "last_name": "Mayr",
+    "passport_number": "CE5440888",
+    "currency": "EUR",
+    "address": {
+        "city": "Krems an der Donau",
+        "street name": "Simmeringer Hauptstraße",
+        "street number": 62,
+        "postal code": "7817"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "439 714 0903",
+    "email_address": "lechner.mayr@gmail.com"
+}

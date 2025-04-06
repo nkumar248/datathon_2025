@@ -1,0 +1,64 @@
+{
+    "name": "Anna Miriam Wagner",
+    "address": {
+        "city": "Villach",
+        "street name": "Rotenturmstraße",
+        "street number": 22,
+        "postal code": "6366"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1995-10-07",
+    "nationality": "Austrian",
+    "passport_number": "LM8901267",
+    "passport_issue_date": "2018-03-11",
+    "passport_expiry_date": "2028-03-10",
+    "gender": "F",
+    "phone_number": "+43 271 540 2366",
+    "email_address": "anna.wagner@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Franziskanergymnasium Hall in Tirol",
+        "graduation_year": 2013
+    },
+    "higher_education": [
+        {
+            "university": "University of Innsbruck",
+            "graduation_year": 2007
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2019,
+            "end_year": 2024,
+            "company": "Immofinanz AG",
+            "position": "Stockbroker",
+            "salary": 45000
+        },
+        {
+            "start_year": 2024,
+            "end_year": null,
+            "company": "Constantia Industries AG",
+            "position": "Portfolio Manager",
+            "salary": 48000
+        }
+    ],
+    "aum": {
+        "savings": 40000,
+        "inheritance": 1720000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2020,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Camille Emma Dubois",
+    "first_name": "Camille",
+    "middle_name": "Emma",
+    "last_name": "Dubois",
+    "passport_number": "WP9765093",
+    "currency": "EUR",
+    "address": {
+        "city": "Toulon",
+        "street name": "Rue de Strasbourg",
+        "street number": 1,
+        "postal code": "76694"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 00 46 56 89 31",
+    "email_address": "camille.dubois@sfr.fr"
+}

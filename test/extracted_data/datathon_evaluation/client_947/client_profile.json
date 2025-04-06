@@ -1,0 +1,98 @@
+{
+    "name": "Beatriz Catalina Gil",
+    "address": {
+        "city": "Madrid",
+        "street name": "Plaza de la Magdalena",
+        "street number": 88,
+        "postal code": "34541"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1957-10-17",
+    "nationality": "Spanish",
+    "passport_number": "RC7377224",
+    "passport_issue_date": "2017-08-27",
+    "passport_expiry_date": "2027-08-26",
+    "gender": "F",
+    "phone_number": "+34 665 761 047",
+    "email_address": "beatriz.gil@terra.es",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Colegio El Pilar Getafe",
+        "graduation_year": 1976
+    },
+    "higher_education": [
+        {
+            "university": "ESADE Business & Law School",
+            "graduation_year": 1982
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1981,
+            "end_year": 1984,
+            "company": "Cepsa Trading S.A.U.",
+            "position": "Junior Trader",
+            "salary": 26000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 1989,
+            "company": "Enagás S.A.",
+            "position": "Senior Trader",
+            "salary": 39000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 1995,
+            "company": "Enagás S.A.",
+            "position": "Trading Desk Manager",
+            "salary": 55000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 1997,
+            "company": "Endesa S.A.",
+            "position": "Head of Commodities",
+            "salary": 110000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 2018,
+            "company": "Enagás S.A.",
+            "position": "Proprietary Trader",
+            "salary": 866000
+        }
+    ],
+    "aum": {
+        "savings": 1470000,
+        "inheritance": 0,
+        "real_estate_value": 3630000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1020000,
+            "property location": "Madrid"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1400000,
+            "property location": "Murcia"
+        },
+        {
+            "property type": "house",
+            "property value": 1210000,
+            "property location": "Bilbao"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

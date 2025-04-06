@@ -1,0 +1,87 @@
+{
+    "name": "Hernández Navarro Fernández",
+    "address": {
+        "city": "Córdoba",
+        "street name": "Calle de la Princesa",
+        "street number": 88,
+        "postal code": "33133"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1989-01-20",
+    "nationality": "Spanish",
+    "passport_number": "CX3237164",
+    "passport_issue_date": "2023-05-27",
+    "passport_expiry_date": "2033-05-26",
+    "gender": "M",
+    "phone_number": "675 526 248",
+    "email_address": "hernandez.fernandez@hotmail.es",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "IES Vicente Aleixandre Santander",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "Pompeu Fabra University",
+            "graduation_year": 2011
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2012,
+            "end_year": 2015,
+            "company": "PharmaMar S.A.",
+            "position": "Research Scientist",
+            "salary": 26000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2020,
+            "company": "PharmaMar S.A.",
+            "position": "Biotech Startup Founder",
+            "salary": 59000
+        },
+        {
+            "start_year": 2022,
+            "end_year": 2024,
+            "company": "Almirall S.A.",
+            "position": "CEO",
+            "salary": 58000
+        }
+    ],
+    "aum": {
+        "savings": 70000,
+        "inheritance": 850000,
+        "real_estate_value": 3440000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1000000,
+            "property location": "Córdoba"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1070000,
+            "property location": "Valladolid"
+        },
+        {
+            "property type": "house",
+            "property value": 1370000,
+            "property location": "Oviedo"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

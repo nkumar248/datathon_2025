@@ -1,0 +1,17 @@
+{
+    "name": "Gisèle Evelyne Bühler",
+    "first_name": "Gisèle",
+    "middle_name": "Evelyne",
+    "last_name": "Bühler",
+    "passport_number": "HI7027463",
+    "currency": "CHF",
+    "address": {
+        "city": "Zurich",
+        "street name": "Niederdorf",
+        "street number": 4,
+        "postal code": "0772"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "026 172 87 92",
+    "email_address": "gisele.buhler@sunrise.ch"
+}

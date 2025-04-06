@@ -1,0 +1,17 @@
+{
+    "name": "Bruno Belli Esposito",
+    "first_name": "Bruno",
+    "middle_name": "Belli",
+    "last_name": "Esposito",
+    "passport_number": "AV6042503",
+    "currency": "EUR",
+    "address": {
+        "city": "Modena",
+        "street name": "Via Dora Riparia",
+        "street number": 33,
+        "postal code": "55345"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 364 5744157",
+    "email_address": "bruno.esposito@hotmail.com"
+}

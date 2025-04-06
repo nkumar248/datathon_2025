@@ -1,0 +1,17 @@
+{
+    "name": "Fatima Margot Joris",
+    "first_name": "Fatima",
+    "middle_name": "Margot",
+    "last_name": "Joris",
+    "passport_number": "OL4579709",
+    "currency": "EUR",
+    "address": {
+        "city": "Maaseik",
+        "street name": "Rue du Houblon",
+        "street number": 99,
+        "postal code": "6583"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0437 339 067",
+    "email_address": "fatima.joris@voo.be"
+}

@@ -1,0 +1,81 @@
+{
+    "name": "Ginevra Erika Ferrari",
+    "address": {
+        "city": "Catania",
+        "street name": "Corso Vittorio Emanuele II",
+        "street number": 58,
+        "postal code": "53345"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1976-06-18",
+    "nationality": "Italian",
+    "passport_number": "UU4099878",
+    "passport_issue_date": "2020-02-19",
+    "passport_expiry_date": "2030-02-18",
+    "gender": "F",
+    "phone_number": "311 9332981",
+    "email_address": "ginevra.ferrari@wind.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Liceo Linguistico Internazionale Gabriele d'Annunzio Pescara",
+        "graduation_year": 1995
+    },
+    "higher_education": [
+        {
+            "university": "Superior School of Advanced Studies of Pisa",
+            "graduation_year": 2001
+        },
+        {
+            "university": "Italian Institute of Industrial Automation (IAS)",
+            "graduation_year": 2004
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2000,
+            "end_year": 2002,
+            "company": "Menarini Industrie Farmaceutiche Riunite S.r.l.",
+            "position": "Research Scientist",
+            "salary": 25000
+        },
+        {
+            "start_year": 2002,
+            "end_year": 2003,
+            "company": "Pfizer Italia S.r.l.",
+            "position": "Biotech Startup Founder",
+            "salary": 44000
+        },
+        {
+            "start_year": 2005,
+            "end_year": null,
+            "company": "Menarini Industrie Farmaceutiche Riunite S.r.l.",
+            "position": "CEO",
+            "salary": 276000
+        }
+    ],
+    "aum": {
+        "savings": 410000,
+        "inheritance": 6690000,
+        "real_estate_value": 930000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2006,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 930000,
+            "property location": "Catania"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

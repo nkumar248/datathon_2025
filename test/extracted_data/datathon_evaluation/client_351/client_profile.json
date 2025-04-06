@@ -1,0 +1,98 @@
+{
+    "name": "Josefine Melanie Fischer",
+    "address": {
+        "city": "Ried im Innkreis",
+        "street name": "Liechtensteinstraße",
+        "street number": 16,
+        "postal code": "7343"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1954-12-30",
+    "nationality": "Austrian",
+    "passport_number": "MA8275446",
+    "passport_issue_date": "2020-08-13",
+    "passport_expiry_date": "2030-08-12",
+    "gender": "F",
+    "phone_number": "+43 685 104 9332",
+    "email_address": "josefine.fischer@aon.at",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "HTL Mödling",
+        "graduation_year": 1973
+    },
+    "higher_education": [
+        {
+            "university": "Modul University Vienna",
+            "graduation_year": 1977
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1978,
+            "end_year": 1983,
+            "company": "Intercell AG",
+            "position": "Research Scientist",
+            "salary": 31000
+        },
+        {
+            "start_year": 1984,
+            "end_year": 1987,
+            "company": "Marinomed Biotechnologie GmbH",
+            "position": "Biotech Startup Founder",
+            "salary": 47000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 1993,
+            "company": "Baxter BioScience",
+            "position": "CEO",
+            "salary": 71000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 2000,
+            "company": "Marinomed Biotechnologie GmbH",
+            "position": "Venture Capitalist",
+            "salary": 144000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2015,
+            "company": "Octapharma AG",
+            "position": "Industry Leader",
+            "salary": 567000
+        }
+    ],
+    "aum": {
+        "savings": 960000,
+        "inheritance": 0,
+        "real_estate_value": 4283000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 643000,
+            "property location": "Ried im Innkreis"
+        },
+        {
+            "property type": "house",
+            "property value": 1360000,
+            "property location": "Dornbirn"
+        },
+        {
+            "property type": "villa",
+            "property value": 2280000,
+            "property location": "Spittal an der Drau"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

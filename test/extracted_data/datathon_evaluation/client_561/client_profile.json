@@ -1,0 +1,71 @@
+{
+    "name": "Voorn Van Dijk Veenhoven",
+    "address": {
+        "city": "Tilburg",
+        "street name": "Koninginnegracht",
+        "street number": 35,
+        "postal code": "0054 80"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1963-06-10",
+    "nationality": "Dutch",
+    "passport_number": "DC9907074",
+    "passport_issue_date": "2018-08-05",
+    "passport_expiry_date": "2028-08-04",
+    "gender": "M",
+    "phone_number": "+31 06 50930720",
+    "email_address": "voorn.veenhoven@live.nl",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Het Rijnlands Lyceum Oegstgeest",
+        "graduation_year": 1981
+    },
+    "higher_education": [
+        {
+            "university": "Nyenrode Business Universiteit",
+            "graduation_year": 1986
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1987,
+            "end_year": 1991,
+            "company": "ING Private Banking",
+            "position": "Financial Advisor",
+            "salary": 39000
+        },
+        {
+            "start_year": 1992,
+            "end_year": 2024,
+            "company": "ING Private Banking",
+            "position": "Portfolio Manager",
+            "salary": 412000
+        }
+    ],
+    "aum": {
+        "savings": 830000,
+        "inheritance": 0,
+        "real_estate_value": 2340000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1440000,
+            "property location": "Tilburg"
+        },
+        {
+            "property type": "flat",
+            "property value": 900000,
+            "property location": "Leiden"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

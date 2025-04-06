@@ -1,0 +1,98 @@
+{
+    "name": "Petra Heidi Fischer",
+    "address": {
+        "city": "Hallein",
+        "street name": "Franz-Josef-Kai",
+        "street number": 75,
+        "postal code": "4830"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1959-07-29",
+    "nationality": "Austrian",
+    "passport_number": "CM9139033",
+    "passport_issue_date": "2020-07-05",
+    "passport_expiry_date": "2030-07-04",
+    "gender": "F",
+    "phone_number": "+43 286 281 4613",
+    "email_address": "petra.fischer@yahoo.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "HAK/HAS Grödig",
+        "graduation_year": 1977
+    },
+    "higher_education": [
+        {
+            "university": "Montanuniversität Leoben",
+            "graduation_year": 1970
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1984,
+            "end_year": 1985,
+            "company": "Swarovski AG",
+            "position": "Assistant Designer",
+            "salary": 30000
+        },
+        {
+            "start_year": 1985,
+            "end_year": 1990,
+            "company": "Wolford AG",
+            "position": "Senior Designer",
+            "salary": 62000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 1996,
+            "company": "Swarovski AG",
+            "position": "Creative Director",
+            "salary": 105000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 2000,
+            "company": "Wolford AG",
+            "position": "Founder/Designer",
+            "salary": 123000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2020,
+            "company": "",
+            "position": "CTO",
+            "salary": 909000
+        }
+    ],
+    "aum": {
+        "savings": 1650000,
+        "inheritance": 0,
+        "real_estate_value": 4283000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 1760000,
+            "property location": "Hallein"
+        },
+        {
+            "property type": "villa",
+            "property value": 1613000,
+            "property location": "Dornbirn"
+        },
+        {
+            "property type": "condo",
+            "property value": 910000,
+            "property location": "Bruck an der Mur"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

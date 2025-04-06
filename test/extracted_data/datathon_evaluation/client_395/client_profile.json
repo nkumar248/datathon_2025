@@ -1,0 +1,81 @@
+{
+    "name": "Hannelore Francisca Verhoeven",
+    "address": {
+        "city": "Rotterdam",
+        "street name": "Langegracht",
+        "street number": 89,
+        "postal code": "2109 00"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1974-05-26",
+    "nationality": "Dutch",
+    "passport_number": "TQ1329459",
+    "passport_issue_date": "2018-06-21",
+    "passport_expiry_date": "2028-06-20",
+    "gender": "F",
+    "phone_number": "+31 06 31635105",
+    "email_address": "hannelore.verhoeven@upcmail.nl",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Montessori Lyceum Rotterdam",
+        "graduation_year": 1993
+    },
+    "higher_education": [
+        {
+            "university": "Gerrit Rietveld Academy",
+            "graduation_year": 1998
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1999,
+            "end_year": 2003,
+            "company": "Endemol Shine Group B.V.",
+            "position": "Journalist",
+            "salary": 43000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2006,
+            "company": "Endemol Shine Group B.V.",
+            "position": "Editor",
+            "salary": 61000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2008,
+            "company": "Endemol Shine Group B.V.",
+            "position": "Publisher",
+            "salary": 89000
+        },
+        {
+            "start_year": 2008,
+            "end_year": 2012,
+            "company": "Sanoma Media Netherlands B.V.",
+            "position": "TV/Radio Host",
+            "salary": 125000
+        },
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "Endemol Shine Group B.V.",
+            "position": "Media Conglomerate Owner",
+            "salary": 755000
+        }
+    ],
+    "aum": {
+        "savings": 1100000,
+        "inheritance": 0,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {},
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

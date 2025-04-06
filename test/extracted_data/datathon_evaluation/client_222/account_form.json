@@ -1,0 +1,17 @@
+{
+    "name": "Greta Kristin Scholz",
+    "first_name": "Greta",
+    "middle_name": "Kristin",
+    "last_name": "Scholz",
+    "passport_number": "WC5036384",
+    "currency": "EUR",
+    "address": {
+        "city": "Erlangen",
+        "street name": "Kurfürstendamm",
+        "street number": 92,
+        "postal code": "81284"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 5847 149952",
+    "email_address": "greta.scholz@versatel.de"
+}

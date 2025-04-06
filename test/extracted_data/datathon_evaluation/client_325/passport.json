@@ -1,0 +1,17 @@
+{
+    "first_name": "Vázquez",
+    "middle_name": "",
+    "last_name": "Rodríguez",
+    "gender": "M",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "1976-12-06",
+    "passport_number": "BL8329913",
+    "passport_mrz": [
+        "P<ESPRODRÍGUEZ<<VÁZQUEZ<<<<<<<<<<<<<<<<<<<<<<",
+        "BL8329913ESP761206<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-12-17",
+    "passport_expiry_date": "2032-12-16"
+}

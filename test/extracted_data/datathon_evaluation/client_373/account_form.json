@@ -1,0 +1,17 @@
+{
+    "name": "Margaux Ophélie Boucher",
+    "first_name": "Margaux",
+    "middle_name": "Ophélie",
+    "last_name": "Boucher",
+    "passport_number": "EV0283649",
+    "currency": "EUR",
+    "address": {
+        "city": "Rouen",
+        "street name": "Avenue de Choisy",
+        "street number": 20,
+        "postal code": "32421"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 05 64 05 16 67",
+    "email_address": "margaux.boucher@yahoo.com"
+}

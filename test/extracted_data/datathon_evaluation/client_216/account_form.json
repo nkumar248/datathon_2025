@@ -1,0 +1,17 @@
+{
+    "name": "Van der Meer Teunissen Krol",
+    "first_name": "Van der Meer",
+    "middle_name": "Teunissen",
+    "last_name": "Krol",
+    "passport_number": "GV6713320",
+    "currency": "EUR",
+    "address": {
+        "city": "The Hague",
+        "street name": "PC Hoofdstraat",
+        "street number": 38,
+        "postal code": "2448 87"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 85775392",
+    "email_address": "vandermeer.krol@home.nl"
+}

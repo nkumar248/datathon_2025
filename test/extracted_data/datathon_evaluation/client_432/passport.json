@@ -1,0 +1,17 @@
+{
+    "first_name": "Garcia",
+    "middle_name": "Simon",
+    "last_name": "Marchand",
+    "gender": "M",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1954-12-26",
+    "passport_number": "HW0008107",
+    "passport_mrz": [
+        "P<FRAMARCHAND<<GARCIA<SIMON<<<<<<<<<<<<<<<<<<",
+        "HW0008107FRA541226<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-07-05",
+    "passport_expiry_date": "2034-07-04"
+}

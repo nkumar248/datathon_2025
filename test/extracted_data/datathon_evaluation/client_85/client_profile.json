@@ -1,0 +1,68 @@
+{
+    "name": "Margaux Lina Moreau",
+    "address": {
+        "city": "Paris",
+        "street name": "Avenue de Gobelins",
+        "street number": 18,
+        "postal code": "81740"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1988-01-07",
+    "nationality": "French",
+    "passport_number": "SO9346308",
+    "passport_issue_date": "2018-02-21",
+    "passport_expiry_date": "2028-02-20",
+    "gender": "F",
+    "phone_number": "+33 05 09 60 97 29",
+    "email_address": "margaux.moreau@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée La Martinière Monplaisir",
+        "graduation_year": 2006
+    },
+    "higher_education": [
+        {
+            "university": "Sorbonne University",
+            "graduation_year": 2010
+        },
+        {
+            "university": "University of Montpellier",
+            "graduation_year": 2016
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2012,
+            "end_year": 2016,
+            "company": "STMicroelectronics S.A.",
+            "position": "Software Developer",
+            "salary": 34000
+        },
+        {
+            "start_year": 2016,
+            "end_year": 2023,
+            "company": "Dassault Systèmes SE",
+            "position": "Startup Founder",
+            "salary": 55000
+        }
+    ],
+    "aum": {
+        "savings": 70000,
+        "inheritance": 4570000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

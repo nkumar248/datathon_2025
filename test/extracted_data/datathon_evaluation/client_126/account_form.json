@@ -1,0 +1,17 @@
+{
+    "name": "Alexandra De Smet",
+    "first_name": "Alexandra",
+    "middle_name": "",
+    "last_name": "De Smet",
+    "passport_number": "PV0608902",
+    "currency": "EUR",
+    "address": {
+        "city": "Castellón de la Plana",
+        "street name": "Calle de San Juan Bautista",
+        "street number": 10,
+        "postal code": "28089"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 609 457 318",
+    "email_address": "alexandra.desmet@ono.es"
+}

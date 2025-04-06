@@ -1,0 +1,17 @@
+{
+    "name": "Araceli Valeria Romero",
+    "first_name": "Araceli",
+    "middle_name": "Valeria",
+    "last_name": "Romero",
+    "passport_number": "JI6173292",
+    "currency": "EUR",
+    "address": {
+        "city": "Las Palmas de Gran Canaria",
+        "street name": "Puerta del Sol",
+        "street number": 64,
+        "postal code": "21436"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 605 963 926",
+    "email_address": "araceli.romero@wanadoo.es"
+}

@@ -1,0 +1,70 @@
+{
+    "name": "Noemi Corinne Zbinden",
+    "address": {
+        "city": "Basel",
+        "street name": "Spitalgasse",
+        "street number": 88,
+        "postal code": "1018"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1969-12-20",
+    "nationality": "Swiss",
+    "passport_number": "XM5219644",
+    "passport_issue_date": "2022-05-10",
+    "passport_expiry_date": "2032-05-09",
+    "gender": "F",
+    "phone_number": "+41 073 222 68 65",
+    "email_address": "noemi.zbinden@gmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "École secondaire de Morges Vaud",
+        "graduation_year": 1988
+    },
+    "higher_education": [
+        {
+            "university": "Franklin University Switzerland",
+            "graduation_year": 1993
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1993,
+            "end_year": 1995,
+            "company": "Bellevue Palace Bern",
+            "position": "Hotel Manager",
+            "salary": 62000
+        },
+        {
+            "start_year": 1995,
+            "end_year": null,
+            "company": "Grand Resort Bad Ragaz",
+            "position": "General Manager",
+            "salary": 609000
+        }
+    ],
+    "aum": {
+        "savings": 1110000,
+        "inheritance": 6930000,
+        "real_estate_value": 2760000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2007,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 2760000,
+            "property location": "Basel"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

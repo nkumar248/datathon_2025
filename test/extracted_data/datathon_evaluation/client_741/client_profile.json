@@ -1,0 +1,78 @@
+{
+    "name": "Gabrielle Colombe Guillaume",
+    "address": {
+        "city": "Lyon",
+        "street name": "Avenue de Gobelins",
+        "street number": 88,
+        "postal code": "39185"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1984-08-27",
+    "nationality": "French",
+    "passport_number": "VS6343891",
+    "passport_issue_date": "2024-05-28",
+    "passport_expiry_date": "2034-05-27",
+    "gender": "F",
+    "phone_number": "+33 09 29 87 36 79",
+    "email_address": "gabrielle.guillaume@icloud.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Carnot",
+        "graduation_year": 2004
+    },
+    "higher_education": [
+        {
+            "university": "University of Montpellier",
+            "graduation_year": 2008
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2008,
+            "end_year": 2011,
+            "company": "Canal+ Group",
+            "position": "Journalist",
+            "salary": 34000
+        },
+        {
+            "start_year": 2011,
+            "end_year": 2014,
+            "company": "Vivendi S.A.",
+            "position": "Editor",
+            "salary": 44000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2023,
+            "company": "Vivendi S.A.",
+            "position": "Publisher",
+            "salary": 130000
+        }
+    ],
+    "aum": {
+        "savings": 170000,
+        "inheritance": 260000,
+        "real_estate_value": 1360000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2019,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1360000,
+            "property location": "Lyon"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

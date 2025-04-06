@@ -1,0 +1,73 @@
+{
+    "name": "Frieda Benita Lorenz",
+    "address": {
+        "city": "Nuremberg",
+        "street name": "Alexanderplatz",
+        "street number": 1,
+        "postal code": "18441"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1960-05-11",
+    "nationality": "German",
+    "passport_number": "QD1349769",
+    "passport_issue_date": "2022-05-23",
+    "passport_expiry_date": "2032-05-22",
+    "gender": "F",
+    "phone_number": "+49 3532 073919",
+    "email_address": "frieda.lorenz@1und1.de",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Albert-Einstein-Gymnasium Ulm",
+        "graduation_year": 1978
+    },
+    "higher_education": [
+        {
+            "university": "ISM Dortmund",
+            "graduation_year": 1984
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1985,
+            "end_year": 1986,
+            "company": "Kühne + Nagel (Deutschland) GmbH",
+            "position": "Ship Broker",
+            "salary": 43000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 1988,
+            "company": "DSV Air & Sea GmbH",
+            "position": "Shipping Company Owner",
+            "salary": 66000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 2021,
+            "company": "DSV Air & Sea GmbH",
+            "position": "Fleet Manager",
+            "salary": 903000
+        }
+    ],
+    "aum": {
+        "savings": 1690000,
+        "inheritance": 0,
+        "real_estate_value": 1650000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1650000,
+            "property location": "Nuremberg"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Germany"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "first_name": "Madsen",
+    "middle_name": "Bjerregaard",
+    "last_name": "Pedersen",
+    "gender": "M",
+    "country": "Italy",
+    "country_code": "DNK",
+    "nationality": "Italian",
+    "birth_date": "1957-04-26",
+    "passport_number": "ZV9148670",
+    "passport_mrz": [
+        "P<DNKPEDERSEN<<MADSEN<BJERREGAARD<<<<<<<<<<<<",
+        "ZV9148670DNK570426<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2020-02-21",
+    "passport_expiry_date": "2030-02-20"
+}

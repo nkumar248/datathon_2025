@@ -1,0 +1,83 @@
+{
+    "name": "Peters Peeters Lemaire",
+    "address": {
+        "city": "Antwerp",
+        "street name": "Rue du Trône",
+        "street number": 67,
+        "postal code": "1627"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1986-03-05",
+    "nationality": "Belgian",
+    "passport_number": "EY2896486",
+    "passport_issue_date": "2020-04-29",
+    "passport_expiry_date": "2027-04-28",
+    "gender": "M",
+    "phone_number": "+32 0444 303 668",
+    "email_address": "peters.lemaire@belgacom.be",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Sint-Bavohumaniora",
+        "graduation_year": 2004
+    },
+    "higher_education": [
+        {
+            "university": "Université catholique de Louvain",
+            "graduation_year": 1994
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2013,
+            "company": "Liedekerke Wolters Waelbroeck Kirkpatrick",
+            "position": "Associate Attorney",
+            "salary": 38000
+        },
+        {
+            "start_year": 2014,
+            "end_year": 2019,
+            "company": "Linklaters LLP",
+            "position": "Senior Associate",
+            "salary": 62000
+        },
+        {
+            "start_year": 2021,
+            "end_year": null,
+            "company": "Linklaters LLP",
+            "position": "Partner",
+            "salary": 73000
+        }
+    ],
+    "aum": {
+        "savings": 100000,
+        "inheritance": 3890000,
+        "real_estate_value": 2100000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1015000,
+            "property location": "Antwerp"
+        },
+        {
+            "property type": "house",
+            "property value": 1085000,
+            "property location": "Ostend"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "first_name": "Gisèle",
+    "middle_name": "Evelyne",
+    "last_name": "Bühler",
+    "gender": "F",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1957-09-13",
+    "passport_number": "HI7027463",
+    "passport_mrz": [
+        "P<CHEBÜHLER<<GISÈLE<EVELYNE<<<<<<<<<<<<<<<<<<",
+        "HI7027463CHE570913<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2020-10-27",
+    "passport_expiry_date": "2030-10-26"
+}

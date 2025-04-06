@@ -1,0 +1,77 @@
+{
+    "name": "Wagemakers Van Dijk Meijer",
+    "address": {
+        "city": "Hoofddorp",
+        "street name": "Moreelsepark",
+        "street number": 83,
+        "postal code": "8253 65"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1957-01-08",
+    "nationality": "Dutch",
+    "passport_number": "JS8450279",
+    "passport_issue_date": "2019-12-09",
+    "passport_expiry_date": "2029-12-08",
+    "gender": "M",
+    "phone_number": "+31 06 94372534",
+    "email_address": "wagemakers.meijer@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Montessori Lyceum Rotterdam",
+        "graduation_year": 1975
+    },
+    "higher_education": [
+        {
+            "university": "Erasmus University Rotterdam",
+            "graduation_year": 1979
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1981,
+            "end_year": 1984,
+            "company": "Sanoma Media Netherlands B.V.",
+            "position": "Journalist",
+            "salary": 42000
+        },
+        {
+            "start_year": 1985,
+            "end_year": 2017,
+            "company": "Sanoma Media Netherlands B.V.",
+            "position": "Editor",
+            "salary": 392000
+        }
+    ],
+    "aum": {
+        "savings": 690000,
+        "inheritance": 0,
+        "real_estate_value": 5220000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1440000,
+            "property location": "Hoofddorp"
+        },
+        {
+            "property type": "villa",
+            "property value": 2690000,
+            "property location": "Apeldoorn"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1090000,
+            "property location": "Helmond"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

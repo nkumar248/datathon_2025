@@ -1,0 +1,17 @@
+{
+    "name": "Fernández Gil",
+    "first_name": "Fernández",
+    "middle_name": "",
+    "last_name": "Gil",
+    "passport_number": "QL3802472",
+    "currency": "EUR",
+    "address": {
+        "city": "Florence",
+        "street name": "Corso Cairoli",
+        "street number": 43,
+        "postal code": "72697"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 382 9585821",
+    "email_address": "fernandez.gil@fastweb.it"
+}

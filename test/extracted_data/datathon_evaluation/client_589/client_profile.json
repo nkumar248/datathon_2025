@@ -1,0 +1,50 @@
+{
+    "name": "González Martín Suárez",
+    "address": {
+        "city": "Las Palmas de Gran Canaria",
+        "street name": "Calle de la Paz",
+        "street number": 30,
+        "postal code": "45643"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "2000-04-08",
+    "nationality": "Spanish",
+    "passport_number": "CX8362395",
+    "passport_issue_date": "2023-05-09",
+    "passport_expiry_date": "2028-05-08",
+    "gender": "M",
+    "phone_number": "600 620 015",
+    "email_address": "gonzalez.suarez@terra.es",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "IES Federico García Lorca Granada",
+        "graduation_year": 2018
+    },
+    "higher_education": [
+        {
+            "university": "Pompeu Fabra University",
+            "graduation_year": 2023
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1870000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2020,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "France"
+    ],
+    "currency": "EUR"
+}

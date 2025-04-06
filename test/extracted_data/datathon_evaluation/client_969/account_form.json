@@ -1,0 +1,17 @@
+{
+    "name": "Daniela Eleonora Conti",
+    "first_name": "Daniela",
+    "middle_name": "Eleonora",
+    "last_name": "Conti",
+    "passport_number": "HJ4014530",
+    "currency": "EUR",
+    "address": {
+        "city": "Ancona",
+        "street name": "Via del Tritone",
+        "street number": 9,
+        "postal code": "47076"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "++45343 0840055",
+    "email_address": "daniela.conti@wind.it"
+}

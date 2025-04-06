@@ -1,0 +1,17 @@
+{
+    "name": "Isabelle Julia Stam",
+    "first_name": "Isabelle",
+    "middle_name": "Julia",
+    "last_name": "Stam",
+    "passport_number": "YW2194929",
+    "currency": "EUR",
+    "address": {
+        "city": "Hoofddorp",
+        "street name": "Spoorweghaven",
+        "street number": 45,
+        "postal code": "9649 15"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 42365195",
+    "email_address": "isabelle.stam@outlook.com"
+}

@@ -1,0 +1,80 @@
+{
+    "name": "Jørgensen Gundersen Knudsen",
+    "address": {
+        "city": "Slagelse",
+        "street name": "Østerbrogade",
+        "street number": 86,
+        "postal code": "2140"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1993-03-08",
+    "nationality": "Danish",
+    "passport_number": "QS2556729",
+    "passport_issue_date": "2024-01-28",
+    "passport_expiry_date": "2034-01-27",
+    "gender": "M",
+    "phone_number": "+45 63 28 30 68",
+    "email_address": "jrgensen.knudsen@icloud.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Nyborg Gymnasium",
+        "graduation_year": 2012
+    },
+    "higher_education": [
+        {
+            "university": "Aarhus University",
+            "graduation_year": 2016
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2017,
+            "end_year": 2019,
+            "company": "Danske Bank A/S",
+            "position": "Investment Banker",
+            "salary": 281000
+        },
+        {
+            "start_year": 2021,
+            "end_year": null,
+            "company": "Nykredit A/S",
+            "position": "Private Equity Investor",
+            "salary": 413000
+        }
+    ],
+    "aum": {
+        "savings": 360000,
+        "inheritance": 2740000,
+        "real_estate_value": 4021000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1281000,
+            "property location": "Slagelse"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1460000,
+            "property location": "Holbæk"
+        },
+        {
+            "property type": "condo",
+            "property value": 1280000,
+            "property location": "Sønderborg"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

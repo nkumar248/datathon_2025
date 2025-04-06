@@ -1,0 +1,57 @@
+{
+    "name": "Jost Kaufmann Lehmann",
+    "address": {
+        "city": "Herisau",
+        "street name": "Metzgergasse",
+        "street number": 12,
+        "postal code": "6056"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1998-04-08",
+    "nationality": "Swiss",
+    "passport_number": "TN2795542",
+    "passport_issue_date": "2019-11-07",
+    "passport_expiry_date": "2029-11-06",
+    "gender": "M",
+    "phone_number": "+41 009 349 14 73",
+    "email_address": "jost.lehmann@outlook.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Gewerblich-industrielles Berufsbildungszentrum (BIG) Bern",
+        "graduation_year": 2018
+    },
+    "higher_education": [
+        {
+            "university": "Zurich University of Applied Sciences",
+            "graduation_year": 2023
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2022,
+            "end_year": 2025,
+            "company": "Swisscom AG",
+            "position": "Software Developer",
+            "salary": 62000
+        }
+    ],
+    "aum": {
+        "savings": 30000,
+        "inheritance": 2720000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Short",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

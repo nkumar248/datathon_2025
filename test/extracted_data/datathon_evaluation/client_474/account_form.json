@@ -1,0 +1,17 @@
+{
+    "name": "Françoise Gisèle Werner",
+    "first_name": "Françoise",
+    "middle_name": "Gisèle",
+    "last_name": "Werner",
+    "passport_number": "LT2776992",
+    "currency": "CHF",
+    "address": {
+        "city": "Bellinzona",
+        "street name": "Stadthausplatz",
+        "street number": 72,
+        "postal code": "8689"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "++31 081 211 49 32",
+    "email_address": "francoise.werner@hotmail.com"
+}

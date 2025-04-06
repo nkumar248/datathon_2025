@@ -1,0 +1,45 @@
+{
+    "name": "Francesca Beatrice Esposito",
+    "address": {
+        "city": "Trieste",
+        "street name": "Piazza San Marco",
+        "street number": 85,
+        "postal code": "34219"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "2003-09-03",
+    "nationality": "Italian",
+    "passport_number": "XJ6540748",
+    "passport_issue_date": "2017-05-06",
+    "passport_expiry_date": "2027-05-05",
+    "gender": "F",
+    "phone_number": "306 5835573",
+    "email_address": "francesca.esposito@alice.it",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Scuola Superiore di Studi Musicali e Coreografici Lucca",
+        "graduation_year": 2023
+    },
+    "higher_education": [],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1500000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

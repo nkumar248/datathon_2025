@@ -1,0 +1,58 @@
+{
+    "name": "Aada Mattila",
+    "address": {
+        "city": "Hyvinkää",
+        "street name": "Ratapihantie",
+        "street number": 98,
+        "postal code": "50690"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1999-05-14",
+    "nationality": "Finnish",
+    "passport_number": "OF7620798",
+    "passport_issue_date": "2022-05-05",
+    "passport_expiry_date": "2032-05-04",
+    "gender": "F",
+    "phone_number": "+358 046 161 65 65",
+    "email_address": "aada.mattila@luukku.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Varkauden lukio",
+        "graduation_year": 2018
+    },
+    "higher_education": [
+        {
+            "university": "Åbo Akademi University School of Economics",
+            "graduation_year": 2023
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2023,
+            "end_year": null,
+            "company": "Marriott International Oy",
+            "position": "Hotel Manager",
+            "salary": 35000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 1880000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "Finland"
+    ],
+    "currency": "EUR"
+}

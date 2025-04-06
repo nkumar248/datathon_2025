@@ -1,0 +1,17 @@
+{
+    "first_name": "Elisabeth",
+    "middle_name": "Chiara",
+    "last_name": "Meier",
+    "gender": "F",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1965-01-05",
+    "passport_number": "XR4420425",
+    "passport_mrz": [
+        "P<CHEMEIER<<ELISABETH<CHIARA<<<<<<<<<<<<<<<<<",
+        "XR4420425CHE650105<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2019-01-20",
+    "passport_expiry_date": "2029-01-19"
+}

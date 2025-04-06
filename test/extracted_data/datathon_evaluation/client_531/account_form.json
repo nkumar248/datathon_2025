@@ -1,0 +1,17 @@
+{
+    "name": "Idun Karen Petersen",
+    "first_name": "Idun",
+    "middle_name": "Karen",
+    "last_name": "Petersen",
+    "passport_number": "BI6245175",
+    "currency": "DKK",
+    "address": {
+        "city": "Slagelse",
+        "street name": "Sølvgade",
+        "street number": 89,
+        "postal code": "9364"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 35 13 46 53",
+    "email_address": "idun.petersen@webspace.dk"
+}

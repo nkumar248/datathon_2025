@@ -1,0 +1,17 @@
+{
+    "name": "Chloé Colombe Garcia",
+    "first_name": "Chloé",
+    "middle_name": "Colombe",
+    "last_name": "Gvarcia",
+    "passport_number": "RE5935689",
+    "currency": "EUR",
+    "address": {
+        "city": "Saint-Étienne",
+        "street name": "Avenue Montaigne",
+        "street number": 3,
+        "postal code": "38864"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "09 89 79 01 33",
+    "email_address": "chloe.garcia@neuf.fr"
+}

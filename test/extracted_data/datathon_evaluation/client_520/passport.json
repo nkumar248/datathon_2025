@@ -1,0 +1,17 @@
+{
+    "first_name": "Friis",
+    "middle_name": "Nørregaard",
+    "last_name": "Haugaard",
+    "gender": "M",
+    "country": "Denmark",
+    "country_code": "DNK",
+    "nationality": "Danish",
+    "birth_date": "1975-04-04",
+    "passport_number": "KD8473770",
+    "passport_mrz": [
+        "P<DNKHAUGAARD<<FRIIS<NØRREGAARD<<<<<<<<<<<<<<",
+        "KD8473770DNK750404<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-04-29",
+    "passport_expiry_date": "2034-04-28"
+}

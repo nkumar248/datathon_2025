@@ -1,0 +1,17 @@
+{
+    "name": "Isabella Gaia Fantini",
+    "first_name": "Isabella",
+    "middle_name": "Gaia",
+    "last_name": "Fantini",
+    "passport_number": "UM1368457",
+    "currency": "EUR",
+    "address": {
+        "city": "Verona",
+        "street name": "Via Dante Alighieri",
+        "street number": 18,
+        "postal code": "84701"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 315 7675736",
+    "email_address": "isabella.fantini@wind.it"
+}

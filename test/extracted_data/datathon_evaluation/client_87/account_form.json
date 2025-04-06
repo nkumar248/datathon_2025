@@ -1,0 +1,17 @@
+{
+    "name": "Uhlig Neumann Wolf",
+    "first_name": "Uhlig",
+    "middle_name": "Neumann",
+    "last_name": "Wolf",
+    "passport_number": "ZK1957231",
+    "currency": "EUR",
+    "address": {
+        "city": "Erlangen",
+        "street name": "Brandenburgische Straße",
+        "street number": 11,
+        "postal code": "02703"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "9368 146990",
+    "email_address": "uhlig.wolf@versatel.de"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "Sabrina Victoria Fuchs",
+    "address": {
+        "city": "Klagenfurt",
+        "street name": "Dominikanerbastei",
+        "street number": 67,
+        "postal code": "3442"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1999-09-07",
+    "nationality": "Austrian",
+    "passport_number": "PM5442285",
+    "passport_issue_date": "2017-10-07",
+    "passport_expiry_date": "2027-10-06",
+    "gender": "F",
+    "phone_number": "+43 445 036 7984",
+    "email_address": "sabrina.fuchs@vol.at",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Bischöfliches Gymnasium Petrinum",
+        "graduation_year": 2018
+    },
+    "higher_education": [
+        {
+            "university": "Danube Private University Krems",
+            "graduation_year": 2008
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2024,
+            "end_year": null,
+            "company": "Wolford AG",
+            "position": "Assistant Designer",
+            "salary": 32000
+        }
+    ],
+    "aum": {
+        "savings": 0,
+        "inheritance": 2120000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2020,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

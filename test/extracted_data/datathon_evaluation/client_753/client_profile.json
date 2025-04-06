@@ -1,0 +1,98 @@
+{
+    "name": "Olsen Krog Pedersen",
+    "address": {
+        "city": "Roskilde",
+        "street name": "Store Kongensgade",
+        "street number": 10,
+        "postal code": "2167"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1962-03-13",
+    "nationality": "Danish",
+    "passport_number": "AN0276475",
+    "passport_issue_date": "2024-05-31",
+    "passport_expiry_date": "2034-05-30",
+    "gender": "M",
+    "phone_number": "+45 40 70 33 54",
+    "email_address": "olsen.pedersen@webspace.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Nyborg Gymnasium",
+        "graduation_year": 1981
+    },
+    "higher_education": [
+        {
+            "university": "University of Copenhagen",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1985,
+            "end_year": 1987,
+            "company": "Jyske Bank Private Banking",
+            "position": "Financial Advisor",
+            "salary": 251000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 1992,
+            "company": "Nykur Private Banking",
+            "position": "Portfolio Manager",
+            "salary": 410000
+        },
+        {
+            "start_year": 1992,
+            "end_year": 1996,
+            "company": "Danske Bank Wealth Management",
+            "position": "Wealth Manager",
+            "salary": 551000
+        },
+        {
+            "start_year": 1998,
+            "end_year": 2001,
+            "company": "Nordea Private Banking Danmark",
+            "position": "Family Office Executive",
+            "salary": 1011000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2022,
+            "company": "Nykur Private Banking",
+            "position": "Private Banker",
+            "salary": 5784000
+        }
+    ],
+    "aum": {
+        "savings": 10460000,
+        "inheritance": 0,
+        "real_estate_value": 6170000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2850000,
+            "property location": "Roskilde"
+        },
+        {
+            "property type": "house",
+            "property value": 1930000,
+            "property location": "Randers"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1390000,
+            "property location": "Skanderborg"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

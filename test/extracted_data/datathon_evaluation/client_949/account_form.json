@@ -1,0 +1,17 @@
+{
+    "name": "Garance Laetitia Bernard",
+    "first_name": "Garance",
+    "middle_name": "Laetitia",
+    "last_name": "Bernard",
+    "passport_number": "DX4559677",
+    "currency": "EUR",
+    "address": {
+        "city": "Lyon",
+        "street name": "Quai d'Orsay",
+        "street number": 49,
+        "postal code": "87531"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "03 86 70 09 67",
+    "email_address": "garance.bernard@numericable.fr"
+}

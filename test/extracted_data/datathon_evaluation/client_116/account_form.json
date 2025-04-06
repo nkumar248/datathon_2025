@@ -1,0 +1,17 @@
+{
+    "name": "Koch Schmitz Müller",
+    "first_name": "Koch",
+    "middle_name": "Schmitz",
+    "last_name": "Müller",
+    "passport_number": "FY5186618",
+    "currency": "EUR",
+    "address": {
+        "city": "Hamburg",
+        "street name": "Großer Hirschgraben",
+        "street number": 36,
+        "postal code": "85786"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 0586 400272",
+    "email_address": "koch.muller@1und1.de"
+}

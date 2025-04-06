@@ -1,0 +1,17 @@
+{
+    "name": "Salo Järvinen Heikkinen",
+    "first_name": "Salo",
+    "middle_name": "Järvinen",
+    "last_name": "Heikkinen",
+    "passport_number": "LT6060409",
+    "currency": "EUR",
+    "address": {
+        "city": "Kokkola",
+        "street name": "Neitsytpolku",
+        "street number": 4,
+        "postal code": "08795"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 047 179 29 90",
+    "email_address": "salo.heikkinen@surffi.net"
+}

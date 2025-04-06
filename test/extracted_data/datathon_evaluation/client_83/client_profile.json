@@ -1,0 +1,87 @@
+{
+    "name": "Juliette Ingrid Robert",
+    "address": {
+        "city": "Toulon",
+        "street name": "Avenue Montaigne",
+        "street number": 7,
+        "postal code": "52149"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1973-12-02",
+    "nationality": "French",
+    "passport_number": "TV7596303",
+    "passport_issue_date": "2024-06-06",
+    "passport_expiry_date": "2034-06-05",
+    "gender": "F",
+    "phone_number": "+33 07 92 33 27 73",
+    "email_address": "juliette.robert@numericable.fr",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Lycée Gustave Eiffel",
+        "graduation_year": 1992
+    },
+    "higher_education": [
+        {
+            "university": "EMIC de Toulouse",
+            "graduation_year": 1997
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1998,
+            "end_year": 2001,
+            "company": "Société Générale Private Banking",
+            "position": "Financial Advisor",
+            "salary": 33000
+        },
+        {
+            "start_year": 2003,
+            "end_year": 2007,
+            "company": "La Banque Postale Private Banking",
+            "position": "Portfolio Manager",
+            "salary": 46000
+        },
+        {
+            "start_year": 2007,
+            "end_year": null,
+            "company": "Crédit Agricole Private Banking",
+            "position": "Wealth Manager",
+            "salary": 382000
+        }
+    ],
+    "aum": {
+        "savings": 660000,
+        "inheritance": 2000000,
+        "real_estate_value": 4541000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2007,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1390000,
+            "property location": "Toulon"
+        },
+        {
+            "property type": "condo",
+            "property value": 1061000,
+            "property location": "Grenoble"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 2090000,
+            "property location": "Orléans"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

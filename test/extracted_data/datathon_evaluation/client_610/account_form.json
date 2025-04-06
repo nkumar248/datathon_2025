@@ -1,0 +1,17 @@
+{
+    "name": "Astrid Daantje Stam",
+    "first_name": "Astrid",
+    "middle_name": "Daantje",
+    "last_name": "Stam",
+    "passport_number": "OW3896164",
+    "currency": "EUR",
+    "address": {
+        "city": "The Hague",
+        "street name": "Spoorweghaven",
+        "street number": 14,
+        "postal code": "3835 69"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "06 08457592",
+    "email_address": "astrid.stam@icloud.com"
+}

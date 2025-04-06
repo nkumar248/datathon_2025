@@ -1,0 +1,93 @@
+{
+    "name": "Kaiser Hofer Koller",
+    "address": {
+        "city": "Dornbirn",
+        "street name": "Rotenturmstraße",
+        "street number": 57,
+        "postal code": "5304"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1965-11-08",
+    "nationality": "Austrian",
+    "passport_number": "DO2503244",
+    "passport_issue_date": "2016-12-24",
+    "passport_expiry_date": "2026-12-23",
+    "gender": "M",
+    "phone_number": "+43 210 519 2861",
+    "email_address": "kaiser.koller@kabsi.at",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "BORG Deutschlandsberg",
+        "graduation_year": 1985
+    },
+    "higher_education": [
+        {
+            "university": "Graz University of Technology",
+            "graduation_year": 1990
+        },
+        {
+            "university": "University of Salzburg",
+            "graduation_year": 1992
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1989,
+            "end_year": 1993,
+            "company": "Gerry Weber International AG",
+            "position": "Assistant Designer",
+            "salary": 31000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 1997,
+            "company": "Wolford AG",
+            "position": "Senior Designer",
+            "salary": 45000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 2002,
+            "company": "Gerry Weber International AG",
+            "position": "Creative Director",
+            "salary": 122000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2023,
+            "company": "Wolford AG",
+            "position": "Founder/Designer",
+            "salary": 539000
+        }
+    ],
+    "aum": {
+        "savings": 960000,
+        "inheritance": 610000,
+        "real_estate_value": 3377000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2015,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1157000,
+            "property location": "Dornbirn"
+        },
+        {
+            "property type": "villa",
+            "property value": 2220000,
+            "property location": "Bregenz"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

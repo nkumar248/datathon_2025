@@ -1,0 +1,17 @@
+{
+    "name": "Dekkers Brinkman Van der Meer",
+    "first_name": "Dekkers",
+    "middle_name": "Brinkman",
+    "last_name": "Van der Meer",
+    "passport_number": "NQ7280657",
+    "currency": "EUR",
+    "address": {
+        "city": "The Hague",
+        "street name": "Waldeck Pyrmontkade",
+        "street number": 10,
+        "postal code": "4424 85"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 37533968",
+    "email_address": "dekkers.vandermeer@chello.nl"
+}

@@ -1,0 +1,17 @@
+{
+    "first_name": "Floriane",
+    "middle_name": "Capucine",
+    "last_name": "Boucher",
+    "gender": "F",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1983-08-19",
+    "passport_number": "KH5464590",
+    "passport_mrz": [
+        "P<FRABOUCHER<<FLORIANE<CAPUCINE<<<<<<<<<<<<<<",
+        "KH5464590FRA830819<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-06-09",
+    "passport_expiry_date": "2033-06-08"
+}

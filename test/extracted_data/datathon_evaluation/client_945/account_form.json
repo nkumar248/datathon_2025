@@ -1,0 +1,17 @@
+{
+    "name": "Ambre Capucine Lefebvre",
+    "first_name": "Ambre",
+    "middle_name": "Capucine",
+    "last_name": "Lefebvre",
+    "passport_number": "SM3598723",
+    "currency": "EUR",
+    "address": {
+        "city": "Reims",
+        "street name": "Rue de la Santé",
+        "street number": 72,
+        "postal code": "76894"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 04 77 46 43 51",
+    "email_address": "ambre.lefebvre@aliceadsl.fr"
+}

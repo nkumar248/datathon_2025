@@ -1,0 +1,17 @@
+{
+    "name": "Sofía Cristina Álvarez",
+    "first_name": "Sofía",
+    "middle_name": "Cristina",
+    "last_name": "Álvarez",
+    "passport_number": "TL6751690",
+    "currency": "EUR",
+    "address": {
+        "city": "Almería",
+        "street name": "Rambla",
+        "street number": 30,
+        "postal code": "93468"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 685 281 472",
+    "email_address": "sofia.alvarez@ya.com"
+}

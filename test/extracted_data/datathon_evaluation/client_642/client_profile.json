@@ -1,0 +1,80 @@
+{
+    "name": "Schmidt Haider Huber",
+    "address": {
+        "city": "Bregenz",
+        "street name": "Enzersdorfer Straße",
+        "street number": 47,
+        "postal code": "2432"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1982-05-23",
+    "nationality": "Austrian",
+    "passport_number": "FT1359190",
+    "passport_issue_date": "2018-04-12",
+    "passport_expiry_date": "2028-04-11",
+    "gender": "M",
+    "phone_number": "+43 089 901 0668",
+    "email_address": "schmidt.huber@magenta.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "HTL Mödling",
+        "graduation_year": 1990
+    },
+    "higher_education": [
+        {
+            "university": "University of Vienna",
+            "graduation_year": 2006
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2006,
+            "end_year": 2010,
+            "company": "Styria Medien AG",
+            "position": "Journalist",
+            "salary": 29000
+        },
+        {
+            "start_year": 2011,
+            "end_year": null,
+            "company": "News Networld Media GmbH",
+            "position": "Editor",
+            "salary": 106000
+        }
+    ],
+    "aum": {
+        "savings": 170000,
+        "inheritance": 730000,
+        "real_estate_value": 3740000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2013,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 930000,
+            "property location": "Bregenz"
+        },
+        {
+            "property type": "flat",
+            "property value": 760000,
+            "property location": "Rosenheim"
+        },
+        {
+            "property type": "villa",
+            "property value": 2050000,
+            "property location": "Vienna"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Eleonora Gaia Lotti",
+    "first_name": "Eleonora",
+    "middle_name": "Gaia",
+    "last_name": "Lotti",
+    "passport_number": "RO4105612",
+    "currency": "EUR",
+    "address": {
+        "city": "Taranto",
+        "street name": "Via del Corso",
+        "street number": 21,
+        "postal code": "93462"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "301 7424768",
+    "email_address": "eleonora.lotti@yahoo.com"
+}

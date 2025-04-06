@@ -1,0 +1,70 @@
+{
+    "name": "Van den Berg Verhoeven Bakker",
+    "address": {
+        "city": "Hengelo",
+        "street name": "Damrak",
+        "street number": 2,
+        "postal code": "2990 08"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1993-03-12",
+    "nationality": "Dutch",
+    "passport_number": "HV8061341",
+    "passport_issue_date": "2021-10-31",
+    "passport_expiry_date": "2031-10-30",
+    "gender": "M",
+    "phone_number": "+31 06 80723856",
+    "email_address": "vandenberg.bakker@hetnet.nl",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Stedelijk Lyceum Enschede",
+        "graduation_year": 2010
+    },
+    "higher_education": [
+        {
+            "university": "Nyenrode Business Universiteit",
+            "graduation_year": 2015
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2016,
+            "end_year": 2020,
+            "company": "GitPulse B.V.",
+            "position": "Software Developer",
+            "salary": 47000
+        },
+        {
+            "start_year": 2021,
+            "end_year": 2023,
+            "company": "GitPulse B.V.",
+            "position": "Startup Founder",
+            "salary": 68000
+        }
+    ],
+    "aum": {
+        "savings": 50000,
+        "inheritance": 370000,
+        "real_estate_value": 1480000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1480000,
+            "property location": "Hengelo"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "first_name": "Lechner",
+    "middle_name": "Rieder",
+    "last_name": "Mayr",
+    "gender": "M",
+    "country": "Austria",
+    "country_code": "AUT",
+    "nationality": "Austrian",
+    "birth_date": "1978-11-30",
+    "passport_number": "CE5440888",
+    "passport_mrz": [
+        "P<AUTMAYR<<LECHNER<RIEDER<<<<<<<<<<<<<<<<<<<<",
+        "CE5440888AUT781130<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-08-15",
+    "passport_expiry_date": "2033-08-14"
+}

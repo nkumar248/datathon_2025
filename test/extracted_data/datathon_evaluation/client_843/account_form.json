@@ -1,0 +1,17 @@
+{
+    "name": "Maja Hannah Maier",
+    "first_name": "Maja",
+    "middle_name": "Hannah",
+    "last_name": "Maier",
+    "passport_number": "BK8563287",
+    "currency": "EUR",
+    "address": {
+        "city": "Hyvinkää",
+        "street name": "Radiokatu",
+        "street number": 47,
+        "postal code": "20805"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "048 991 56 0",
+    "email_address": "maja.maier@outlook.com"
+}

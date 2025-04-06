@@ -1,0 +1,17 @@
+{
+    "name": "Alina Diana Bauer",
+    "first_name": "Alina",
+    "middle_name": "Diana",
+    "last_name": "Bauer",
+    "passport_number": "HV4466683",
+    "currency": "EUR",
+    "address": {
+        "city": "Nuremberg",
+        "street name": "Kronprinzstraße",
+        "street number": 17,
+        "postal code": "52237"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 8417 347995",
+    "email_address": "alina.bauer@web.de"
+}

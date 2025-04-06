@@ -1,0 +1,17 @@
+{
+    "name": "Déborah Amanda Hagenbuch",
+    "first_name": "Déborah",
+    "middle_name": "Amanda",
+    "last_name": "Hagenbuch",
+    "passport_number": "WK7698742",
+    "currency": "CHF",
+    "address": {
+        "city": "Baden",
+        "street name": "Rue des Délices",
+        "street number": 52,
+        "postal code": "1796"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 097 664 04 85",
+    "email_address": "deborah.hagenbuch@upc.ch"
+}

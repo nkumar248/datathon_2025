@@ -1,0 +1,17 @@
+{
+    "name": "Laurent Simon Bernard",
+    "first_name": "Laurent",
+    "middle_name": "Simon",
+    "last_name": "Bernard",
+    "passport_number": "MA0729776",
+    "currency": "EUR",
+    "address": {
+        "city": "Lille",
+        "street name": "Rue Cujas",
+        "street number": 3,
+        "postal code": "39604"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 08 33 00 14 6",
+    "email_address": "laurent.bernard@neuf.fr"
+}

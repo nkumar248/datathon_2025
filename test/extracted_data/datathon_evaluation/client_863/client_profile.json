@@ -1,0 +1,84 @@
+{
+    "name": "Alba Emma Gil",
+    "address": {
+        "city": "Vigo",
+        "street name": "Calle de los Reyes Católicos",
+        "street number": 61,
+        "postal code": "98057"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1958-05-12",
+    "nationality": "Spanish",
+    "passport_number": "LS7262002",
+    "passport_issue_date": "2020-10-28",
+    "passport_expiry_date": "2030-10-27",
+    "gender": "F",
+    "phone_number": "+34 672 471 357",
+    "email_address": "alba.gil@hotmail.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "IES Ginés Martínez de Aranda Albacete",
+        "graduation_year": 1977
+    },
+    "higher_education": [
+        {
+            "university": "IESE Business School",
+            "graduation_year": 1983
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1982,
+            "end_year": 1986,
+            "company": "Realia Business S.A.",
+            "position": "Property Manager",
+            "salary": 27000
+        },
+        {
+            "start_year": 1988,
+            "end_year": 1990,
+            "company": "Metrovacesa S.A.",
+            "position": "Developer",
+            "salary": 35000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 2019,
+            "company": "Metrovacesa S.A.",
+            "position": "Construction Company Owner",
+            "salary": 476000
+        }
+    ],
+    "aum": {
+        "savings": 850000,
+        "inheritance": 0,
+        "real_estate_value": 3173000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 920000,
+            "property location": "Vigo"
+        },
+        {
+            "property type": "house",
+            "property value": 1393000,
+            "property location": "Toledo"
+        },
+        {
+            "property type": "condo",
+            "property value": 860000,
+            "property location": "Madrid"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Switzerland"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,75 @@
+{
+    "name": "Schwarz Steiner Kaiser",
+    "address": {
+        "city": "Linz",
+        "street name": "Simmeringer Hauptstraße",
+        "street number": 51,
+        "postal code": "1573"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1993-02-19",
+    "nationality": "Austrian",
+    "passport_number": "II1226336",
+    "passport_issue_date": "2019-02-03",
+    "passport_expiry_date": "2029-02-02",
+    "gender": "M",
+    "phone_number": "+43 041 964 6446",
+    "email_address": "schwarz.kaiser@icloud.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Gymnasium Bregenz",
+        "graduation_year": 2011
+    },
+    "higher_education": [
+        {
+            "university": "Johannes Kepler University Linz",
+            "graduation_year": 2016
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2017,
+            "end_year": 2019,
+            "company": "FACC AG",
+            "position": "Aerospace Engineer",
+            "salary": 29000
+        },
+        {
+            "start_year": 2021,
+            "end_year": 2025,
+            "company": "AMSC Austria",
+            "position": "Program Manager",
+            "salary": 47000
+        }
+    ],
+    "aum": {
+        "savings": 40000,
+        "inheritance": 3580000,
+        "real_estate_value": 2650000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 1610000,
+            "property location": "Linz"
+        },
+        {
+            "property type": "house",
+            "property value": 1040000,
+            "property location": "Dornbirn"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

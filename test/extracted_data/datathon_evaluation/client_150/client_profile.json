@@ -1,0 +1,82 @@
+{
+    "name": "Bauer Schnell Steiner",
+    "address": {
+        "city": "Tours",
+        "street name": "Rue de Vaugirard",
+        "street number": 81,
+        "postal code": "48789"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1984-01-17",
+    "nationality": "Austrian",
+    "passport_number": "BS4887732",
+    "passport_issue_date": "2021-01-18",
+    "passport_expiry_date": "2031-01-17",
+    "gender": "M",
+    "phone_number": "+33 09 94 08 17 23",
+    "email_address": "bauer.steiner@free.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "HTL Mödling",
+        "graduation_year": 2001
+    },
+    "higher_education": [
+        {
+            "university": "Vienna University of Economics and Business",
+            "graduation_year": 2007
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2008,
+            "end_year": 2012,
+            "company": "EDF S.A.",
+            "position": "Drilling Engineer",
+            "salary": 32000
+        },
+        {
+            "start_year": 2012,
+            "end_year": null,
+            "company": "Total S.A.",
+            "position": "Reservoir Engineer",
+            "salary": 114000
+        }
+    ],
+    "aum": {
+        "savings": 170000,
+        "inheritance": 1660000,
+        "real_estate_value": 3943000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2008,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1618000,
+            "property location": "Tours"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1135000,
+            "property location": "Rosenheim"
+        },
+        {
+            "property type": "house",
+            "property value": 1190000,
+            "property location": "Krems an der Donau"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria",
+        "France",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

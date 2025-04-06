@@ -1,0 +1,17 @@
+{
+    "first_name": "Galli",
+    "middle_name": "Rizzo",
+    "last_name": "Fantini",
+    "gender": "M",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1982-07-10",
+    "passport_number": "XW4773694",
+    "passport_mrz": [
+        "P<ITAFANTINI<<GALLI<RIZZO<<<<<<<<<<<<<<<<<<<<",
+        "XW4773694ITA820710<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2018-04-22",
+    "passport_expiry_date": "2028-04-21"
+}

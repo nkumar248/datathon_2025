@@ -1,0 +1,17 @@
+{
+    "name": "Concha Estefanía Hernández",
+    "first_name": "Concha",
+    "middle_name": "Estefanía",
+    "last_name": "Hernández",
+    "passport_number": "PS2597097",
+    "currency": "EUR",
+    "address": {
+        "city": "Cuenca",
+        "street name": "Calle de la Victoria",
+        "street number": 56,
+        "postal code": "44122"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 657 123 038",
+    "email_address": "concha.hernandez@terra.es"
+}

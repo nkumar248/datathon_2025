@@ -1,0 +1,17 @@
+{
+    "name": "Hanne Ida Olsen",
+    "first_name": "Hanne",
+    "middle_name": "Ida",
+    "last_name": "Olsen",
+    "passport_number": "XV9175145",
+    "currency": "EUR",
+    "address": {
+        "city": "Vaasa",
+        "street name": "Karjalankatu",
+        "street number": 41,
+        "postal code": "82976"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 041 583 41 52",
+    "email_address": "hanne.olsen@pp.inet.fi"
+}

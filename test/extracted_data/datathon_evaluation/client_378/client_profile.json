@@ -1,0 +1,92 @@
+{
+    "name": "Lucía Encarna Pérez",
+    "address": {
+        "city": "Logroño",
+        "street name": "Calle de la Reina Cristina",
+        "street number": 85,
+        "postal code": "62416"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1968-02-20",
+    "nationality": "Spanish",
+    "passport_number": "CR2806702",
+    "passport_issue_date": "2017-04-08",
+    "passport_expiry_date": "2027-04-07",
+    "gender": "F",
+    "phone_number": "655 517 873",
+    "email_address": "lucia.perez@ya.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Colegio El Pilar Getafe",
+        "graduation_year": 1985
+    },
+    "higher_education": [
+        {
+            "university": "University of Barcelona",
+            "graduation_year": 1990
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1991,
+            "end_year": 1995,
+            "company": "Enagás S.A.",
+            "position": "Drilling Engineer",
+            "salary": 23000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 2002,
+            "company": "Enagás S.A.",
+            "position": "Reservoir Engineer",
+            "salary": 55000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2007,
+            "company": "Enagás S.A.",
+            "position": "Operations Manager",
+            "salary": 63000
+        },
+        {
+            "start_year": 2009,
+            "end_year": 2013,
+            "company": "Repsol S.A.",
+            "position": "VP of Exploration",
+            "salary": 109000
+        },
+        {
+            "start_year": 2015,
+            "end_year": null,
+            "company": "Gas Natural Fenosa S.A.",
+            "position": "CEO",
+            "salary": 322000
+        }
+    ],
+    "aum": {
+        "savings": 500000,
+        "inheritance": 7050000,
+        "real_estate_value": 2520000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2006,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2520000,
+            "property location": "Logroño"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Hannah Gertrud Müller",
+    "first_name": "Hannah",
+    "middle_name": "Gertrud",
+    "last_name": "Müller",
+    "passport_number": "QR9183549",
+    "currency": "EUR",
+    "address": {
+        "city": "Bruck an der Mur",
+        "street name": "Kohlmarkt",
+        "street number": 52,
+        "postal code": "9420"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "461 230 9158",
+    "email_address": "hannah.muller@vol.at"
+}

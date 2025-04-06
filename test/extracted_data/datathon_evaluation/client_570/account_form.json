@@ -1,0 +1,17 @@
+{
+    "name": "Ambre Capucine Simon",
+    "first_name": "Ambre",
+    "middle_name": "Capucine",
+    "last_name": "Simon",
+    "passport_number": "TD6283742",
+    "currency": "EUR",
+    "address": {
+        "city": "Tours",
+        "street name": "Rue Elzévir",
+        "street number": 94,
+        "postal code": "35091"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "06 84 65 56 89",
+    "email_address": "ambre.simon@icloud.com"
+}

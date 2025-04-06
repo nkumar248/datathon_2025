@@ -1,0 +1,71 @@
+{
+    "name": "Smeets Stam Maassen",
+    "address": {
+        "city": "Boxtel",
+        "street name": "Maliebaan",
+        "street number": 61,
+        "postal code": "1831 72"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1993-12-10",
+    "nationality": "Dutch",
+    "passport_number": "GJ0024450",
+    "passport_issue_date": "2018-07-17",
+    "passport_expiry_date": "2028-07-16",
+    "gender": "M",
+    "phone_number": "+31 06 30501096",
+    "email_address": "smeets.maassen@icloud.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Stedelijk Lyceum Enschede",
+        "graduation_year": 2011
+    },
+    "higher_education": [
+        {
+            "university": "Vrije Universiteit Amsterdam - School of Business and Economics",
+            "graduation_year": 2018
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2017,
+            "end_year": 2018,
+            "company": "NH Hotel Group Nederland B.V.",
+            "position": "Hotel Manager",
+            "salary": 46000
+        },
+        {
+            "start_year": 2018,
+            "end_year": null,
+            "company": "Marriott International Nederland B.V.",
+            "position": "General Manager",
+            "salary": 91000
+        }
+    ],
+    "aum": {
+        "savings": 90000,
+        "inheritance": 2060000,
+        "real_estate_value": 1010000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2016,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1010000,
+            "property location": "Boxtel"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

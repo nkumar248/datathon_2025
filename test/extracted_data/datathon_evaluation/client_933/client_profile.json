@@ -1,0 +1,65 @@
+{
+    "name": "Gabriella Emanuela Lotti",
+    "address": {
+        "city": "Genoa",
+        "street name": "Galleria Vittorio Emanuele II",
+        "street number": 71,
+        "postal code": "69450"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1996-02-27",
+    "nationality": "Italian",
+    "passport_number": "HR1200895",
+    "passport_issue_date": "2023-05-21",
+    "passport_expiry_date": "2033-05-20",
+    "gender": "F",
+    "phone_number": "+39 393 8296912",
+    "email_address": "gabriella.lotti@wind.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Istituto Tecnico Agrario Statale Giuseppe Garibaldi Parma",
+        "graduation_year": 2014
+    },
+    "higher_education": [
+        {
+            "university": "International School for Advanced Studies (SISSA)",
+            "graduation_year": 2020
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2019,
+            "end_year": 2022,
+            "company": "Roche S.p.A.",
+            "position": "Research Scientist",
+            "salary": 25000
+        },
+        {
+            "start_year": 2024,
+            "end_year": null,
+            "company": "Roche S.p.A.",
+            "position": "Biotech Startup Founder",
+            "salary": 39000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 990000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

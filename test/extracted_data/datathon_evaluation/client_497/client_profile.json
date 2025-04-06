@@ -1,0 +1,86 @@
+{
+    "name": "Jørgensen Jespersen",
+    "address": {
+        "city": "Silkeborg",
+        "street name": "Vesterbrogade",
+        "street number": 24,
+        "postal code": "7196"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1957-06-19",
+    "nationality": "Danish",
+    "passport_number": "PD6760030",
+    "passport_issue_date": "2024-03-28",
+    "passport_expiry_date": "2034-03-27",
+    "gender": "M",
+    "phone_number": "+45 84 91 40 12",
+    "email_address": "jrgensen.jespersen@all.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Skt. Knuds Gymnasium",
+        "graduation_year": 1976
+    },
+    "higher_education": [
+        {
+            "university": "University College Lillebælt",
+            "graduation_year": 1981
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1981,
+            "end_year": 1985,
+            "company": "Torm A/S",
+            "position": "Junior Trader",
+            "salary": 275000
+        },
+        {
+            "start_year": 1985,
+            "end_year": 1990,
+            "company": "DSV A/S",
+            "position": "Senior Trader",
+            "salary": 442000
+        },
+        {
+            "start_year": 1992,
+            "end_year": 1994,
+            "company": "Torm A/S",
+            "position": "Trading Desk Manager",
+            "salary": 535000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 2018,
+            "company": "Torm A/S",
+            "position": "Head of Commodities",
+            "salary": 7923000
+        }
+    ],
+    "aum": {
+        "savings": 12650000,
+        "inheritance": 0,
+        "real_estate_value": 4200000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1810000,
+            "property location": "Silkeborg"
+        },
+        {
+            "property type": "house",
+            "property value": 2390000,
+            "property location": "Gentofte"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

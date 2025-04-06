@@ -1,0 +1,64 @@
+{
+    "name": "Carlijn Bo Bakker",
+    "address": {
+        "city": "Zaandam",
+        "street name": "Overtoom",
+        "street number": 13,
+        "postal code": "3920 32"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1983-12-24",
+    "nationality": "Belgian",
+    "passport_number": "ZF4024604",
+    "passport_issue_date": "2016-07-18",
+    "passport_expiry_date": "2026-07-17",
+    "gender": "F",
+    "phone_number": "+31 06 25733105",
+    "email_address": "carlijn.bakker@tele2.nl",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Maurick College Vught",
+        "graduation_year": 2001
+    },
+    "higher_education": [
+        {
+            "university": "Utrecht University",
+            "graduation_year": 2007
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2007,
+            "end_year": 2012,
+            "company": "MSD Animal Health",
+            "position": "Research Scientist",
+            "salary": 63000
+        },
+        {
+            "start_year": 2012,
+            "end_year": 2023,
+            "company": "Novartis Farma B.V.",
+            "position": "Clinical Trials Manager",
+            "salary": 146000
+        }
+    ],
+    "aum": {
+        "savings": 200000,
+        "inheritance": 3770000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2009,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

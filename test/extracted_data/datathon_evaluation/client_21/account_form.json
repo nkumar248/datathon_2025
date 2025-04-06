@@ -1,0 +1,17 @@
+{
+    "name": "Federica Daniela Belli",
+    "first_name": "Federica",
+    "middle_name": "Daniela",
+    "last_name": "Belli",
+    "passport_number": "KZ0833007",
+    "currency": "EUR",
+    "address": {
+        "city": "Reggio Calabria",
+        "street name": "Via dei Fori Imperiali",
+        "street number": 69,
+        "postal code": "02913"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "399 6553372",
+    "email_address": "federica.belli@unidata.it"
+}

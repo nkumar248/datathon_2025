@@ -1,0 +1,98 @@
+{
+    "name": "Heidi Sarah Wagner",
+    "address": {
+        "city": "Amstetten",
+        "street name": "Währinger Straße",
+        "street number": 59,
+        "postal code": "7430"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1959-04-19",
+    "nationality": "Austrian",
+    "passport_number": "XN8403498",
+    "passport_issue_date": "2023-04-30",
+    "passport_expiry_date": "2033-04-29",
+    "gender": "F",
+    "phone_number": "+43 328 684 5679",
+    "email_address": "heidi.wagner@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Gymnasium St. Gilgen",
+        "graduation_year": 1977
+    },
+    "higher_education": [
+        {
+            "university": "University of Vienna",
+            "graduation_year": 1982
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1983,
+            "end_year": 1984,
+            "company": "Gerry Weber International AG",
+            "position": "Assistant Designer",
+            "salary": 29000
+        },
+        {
+            "start_year": 1984,
+            "end_year": 1986,
+            "company": "Gerry Weber International AG",
+            "position": "Senior Designer",
+            "salary": 50000
+        },
+        {
+            "start_year": 1988,
+            "end_year": 1991,
+            "company": "Gerry Weber International AG",
+            "position": "Creative Director",
+            "salary": 66000
+        },
+        {
+            "start_year": 1992,
+            "end_year": 1997,
+            "company": "Swarovski AG",
+            "position": "Founder/Designer",
+            "salary": 245000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 2020,
+            "company": "Gerry Weber International AG",
+            "position": "Luxury Brand Owner",
+            "salary": 1167000
+        }
+    ],
+    "aum": {
+        "savings": 2030000,
+        "inheritance": 0,
+        "real_estate_value": 3600000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1020000,
+            "property location": "Amstetten"
+        },
+        {
+            "property type": "villa",
+            "property value": 1830000,
+            "property location": "Tulln an der Donau"
+        },
+        {
+            "property type": "flat",
+            "property value": 750000,
+            "property location": "Spittal an der Drau"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

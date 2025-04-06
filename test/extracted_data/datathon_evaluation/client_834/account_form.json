@@ -1,0 +1,17 @@
+{
+    "name": "Hortense Charlotte Lemaire",
+    "first_name": "Hortense",
+    "middle_name": "Charlotte",
+    "last_name": "Lemaire",
+    "passport_number": "ME3714981",
+    "currency": "EUR",
+    "address": {
+        "city": "Menen",
+        "street name": "Rue du Houblon",
+        "street number": 25,
+        "postal code": "1592"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0417 737 902",
+    "email_address": "hortense.lemaire@telenet.be"
+}

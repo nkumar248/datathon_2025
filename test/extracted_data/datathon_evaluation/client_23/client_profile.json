@@ -1,0 +1,88 @@
+{
+    "name": "Freja Idun Østergaard",
+    "address": {
+        "city": "Helsingør",
+        "street name": "Store Kannikestræde",
+        "street number": 1,
+        "postal code": "4633"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1966-09-07",
+    "nationality": "Danish",
+    "passport_number": "DR2046462",
+    "passport_issue_date": "2023-06-11",
+    "passport_expiry_date": "2033-06-10",
+    "gender": "F",
+    "phone_number": "+45 48 22 04 54",
+    "email_address": "freja.stergaard@telenor.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Faaborg Gymnasium",
+        "graduation_year": 1985
+    },
+    "higher_education": [
+        {
+            "university": "The Danish National School of Theatre and Contemporary Dance",
+            "graduation_year": 1989
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1990,
+            "end_year": 1995,
+            "company": "JP/Politikens Hus A/S",
+            "position": "Journalist",
+            "salary": 335000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 1999,
+            "company": "JP/Politikens Hus A/S",
+            "position": "Editor",
+            "salary": 355000
+        },
+        {
+            "start_year": 1999,
+            "end_year": null,
+            "company": "Berlingske Media A/S",
+            "position": "Publisher",
+            "salary": 3588000
+        }
+    ],
+    "aum": {
+        "savings": 6630000,
+        "inheritance": 8730000,
+        "real_estate_value": 4812000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2005,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1432000,
+            "property location": "Helsingør"
+        },
+        {
+            "property type": "villa",
+            "property value": 2380000,
+            "property location": "Roskilde"
+        },
+        {
+            "property type": "flat",
+            "property value": 1000000,
+            "property location": "Roskilde"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Netherlands"
+    ],
+    "currency": "DKK"
+}

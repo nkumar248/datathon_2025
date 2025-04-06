@@ -1,0 +1,17 @@
+{
+    "first_name": "Chloé",
+    "middle_name": "",
+    "last_name": "Segers",
+    "gender": "F",
+    "country": "Belgium",
+    "country_code": "BEL",
+    "nationality": "Belgian",
+    "birth_date": "1995-05-10",
+    "passport_number": "ZV7790419",
+    "passport_mrz": [
+        "P<BELCHLOÉ<<SEGERS<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+        "ZV7790419BEL950510<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2016-04-12",
+    "passport_expiry_date": "2023-04-11"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Muñoz Romero Díaz",
+    "first_name": "Muñoz",
+    "middle_name": "Romero",
+    "last_name": "Díaz",
+    "passport_number": "EY1727583",
+    "currency": "EUR",
+    "address": {
+        "city": "Jerez de la Frontera",
+        "street name": "Calle de Serranos",
+        "street number": 77,
+        "postal code": "98054"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 690 620 963",
+    "email_address": "munoz.diaz@hotmail.es"
+}

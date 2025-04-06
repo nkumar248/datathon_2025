@@ -1,0 +1,75 @@
+{
+    "name": "Andrea Lisa Lechner",
+    "address": {
+        "city": "Bregenz",
+        "street name": "Erzherzog-Johann-Allee",
+        "street number": 89,
+        "postal code": "5974"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1994-03-04",
+    "nationality": "Austrian",
+    "passport_number": "VR0503969",
+    "passport_issue_date": "2022-10-20",
+    "passport_expiry_date": "2033-01-06",
+    "gender": "F",
+    "phone_number": "+43 778 589 9649",
+    "email_address": "andrea.lechner@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Stiftsgymnasium Melk",
+        "graduation_year": 2012
+    },
+    "higher_education": [
+        {
+            "university": "FH Joanneum University of Applied Sciences",
+            "graduation_year": 2016
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2017,
+            "end_year": 2022,
+            "company": "SAP Austria GmbH",
+            "position": "Software Developer",
+            "salary": 35000
+        },
+        {
+            "start_year": 2024,
+            "end_year": null,
+            "company": "Ubitricity GesmbH",
+            "position": "Startup Founder",
+            "salary": 45000
+        }
+    ],
+    "aum": {
+        "savings": 40000,
+        "inheritance": 4410000,
+        "real_estate_value": 1792000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 852000,
+            "property location": "Bregenz"
+        },
+        {
+            "property type": "flat",
+            "property value": 940000,
+            "property location": "Eisenstadt"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Execution-Only",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

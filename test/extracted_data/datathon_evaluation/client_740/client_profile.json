@@ -1,0 +1,85 @@
+{
+    "name": "Yara Luna Kuipers",
+    "address": {
+        "city": "Hengelo",
+        "street name": "Nieuwmarkt",
+        "street number": 27,
+        "postal code": "0450 29"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1947-06-15",
+    "nationality": "Dutch",
+    "passport_number": "WI9082958",
+    "passport_issue_date": "2023-04-29",
+    "passport_expiry_date": "2033-04-28",
+    "gender": "F",
+    "phone_number": "+31 06 48075506",
+    "email_address": "yara.kuipers@kpnmail.nl",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Meerwaert College Weesp",
+        "graduation_year": 1974
+    },
+    "higher_education": [
+        {
+            "university": "NWO - Netherlands Organisation for Scientific Research",
+            "graduation_year": 1981
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1980,
+            "end_year": 1981,
+            "company": "CMA CGM Nederland B.V.",
+            "position": "Ship Broker",
+            "salary": 43000
+        },
+        {
+            "start_year": 1983,
+            "end_year": 1984,
+            "company": "A.P. Moller-Maersk Group",
+            "position": "Shipping Company Owner",
+            "salary": 63000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 1988,
+            "company": "CMA CGM Nederland B.V.",
+            "position": "Fleet Manager",
+            "salary": 88000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 2017,
+            "company": "A.P. Moller-Maersk Group",
+            "position": "Maritime Industry Leader",
+            "salary": 1229000
+        }
+    ],
+    "aum": {
+        "savings": 2250000,
+        "inheritance": 0,
+        "real_estate_value": 3678000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1208000,
+            "property location": "Hengelo"
+        },
+        {
+            "property type": "villa",
+            "property value": 2470000,
+            "property location": "Tilburg"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

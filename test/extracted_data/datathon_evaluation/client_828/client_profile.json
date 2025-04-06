@@ -1,0 +1,58 @@
+{
+    "name": "De Smet Michiels Dupont",
+    "address": {
+        "city": "Maaseik",
+        "street name": "Rue de l'Hôtel des Monnaies",
+        "street number": 60,
+        "postal code": "7959"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1994-03-14",
+    "nationality": "Belgian",
+    "passport_number": "ZJ0230334",
+    "passport_issue_date": "2018-01-02",
+    "passport_expiry_date": "2025-01-01",
+    "gender": "M",
+    "phone_number": "0427 472 215",
+    "email_address": "desmet.dupont@yahoo.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Sint-Bavohumaniora",
+        "graduation_year": 2012
+    },
+    "higher_education": [
+        {
+            "university": "University of Mons",
+            "graduation_year": 2017
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2017,
+            "end_year": null,
+            "company": "UCB Pharma SA",
+            "position": "Research Scientist",
+            "salary": 51000
+        }
+    ],
+    "aum": {
+        "savings": 40000,
+        "inheritance": 2180000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2020,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

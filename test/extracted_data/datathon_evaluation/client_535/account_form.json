@@ -1,0 +1,17 @@
+{
+    "name": "Romane Louise Vandenberghe",
+    "first_name": "Romane",
+    "middle_name": "Louise",
+    "last_name": "Vandenberghe",
+    "passport_number": "",
+    "currency": "EUR",
+    "address": {
+        "city": "Geel",
+        "street name": "Chaussée de Waterloo",
+        "street number": 41,
+        "postal code": "3496"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0461 166 909",
+    "email_address": "romane.vandenberghe@tvcablenet.be"
+}

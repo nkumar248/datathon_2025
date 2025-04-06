@@ -1,0 +1,17 @@
+{
+    "first_name": "Martínez",
+    "middle_name": "Fernández",
+    "last_name": "Ruiz",
+    "gender": "M",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "1971-01-07",
+    "passport_number": "IX0242942",
+    "passport_mrz": [
+        "P<ESPRUIZ<<MARTÍNEZ<FERNÁNDEZ<<<<<<<<<<<<<<<<",
+        "IX0242942ESP710107<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-05-27",
+    "passport_expiry_date": "2034-05-26"
+}

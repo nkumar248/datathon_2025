@@ -1,0 +1,100 @@
+{
+    "name": "Guillaume Marchand Robert",
+    "address": {
+        "city": "Bordeaux",
+        "street name": "Rue du Faubourg Saint-Honoré",
+        "street number": 56,
+        "postal code": "14549"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1967-03-26",
+    "nationality": "French",
+    "passport_number": "CR4216449",
+    "passport_issue_date": "2024-02-17",
+    "passport_expiry_date": "2034-02-16",
+    "gender": "M",
+    "phone_number": "+33 02 54 81 79 26",
+    "email_address": "guillaume.robert@laposte.net",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Camille Claudel",
+        "graduation_year": 1984
+    },
+    "higher_education": [
+        {
+            "university": "American Graduate School of Business in Paris",
+            "graduation_year": 1991
+        },
+        {
+            "university": "Skema Business School",
+            "graduation_year": 1995
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1991,
+            "end_year": 1994,
+            "company": "Natixis S.A.",
+            "position": "Investment Banker",
+            "salary": 29000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 1998,
+            "company": "BNP Paribas S.A.",
+            "position": "Private Equity Investor",
+            "salary": 42000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2002,
+            "company": "Natixis S.A.",
+            "position": "Hedge Fund Manager",
+            "salary": 59000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2008,
+            "company": "BNP Paribas S.A.",
+            "position": "Venture Capitalist",
+            "salary": 119000
+        },
+        {
+            "start_year": 2009,
+            "end_year": null,
+            "company": "Société Générale S.A.",
+            "position": "Billionaire Investor",
+            "salary": 486000
+        }
+    ],
+    "aum": {
+        "savings": 780000,
+        "inheritance": 4020000,
+        "real_estate_value": 4672000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2011,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1552000,
+            "property location": "Bordeaux"
+        },
+        {
+            "property type": "villa",
+            "property value": 3120000,
+            "property location": "Nantes"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Bianchi Leonardi Silvestri",
+    "first_name": "Bianchi",
+    "middle_name": " Leonardi",
+    "last_name": "Silvestri",
+    "passport_number": "CO1384351",
+    "currency": "EUR",
+    "address": {
+        "city": "Palermo",
+        "street name": "Via Dante",
+        "street number": 56,
+        "postal code": "00258"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 353 0259686",
+    "email_address": "bianchi.silvestri@hotmail.com"
+}

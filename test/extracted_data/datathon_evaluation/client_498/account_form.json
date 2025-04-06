@@ -1,0 +1,17 @@
+{
+    "name": "Isabella Eva Jespersen",
+    "first_name": "Isabella",
+    "middle_name": "Eva",
+    "last_name": "Jespersen",
+    "passport_number": "ZN5048110",
+    "currency": "DKK",
+    "address": {
+        "city": "Slagelse",
+        "street name": "Rådhuspladsen",
+        "street number": 99,
+        "postal code": "8496"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 61 22 36 35",
+    "email_address": "isabella.jespersen@telia.dk"
+}

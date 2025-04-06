@@ -1,0 +1,71 @@
+{
+    "name": "Moens Goossens Smets",
+    "address": {
+        "city": "Antwerp",
+        "street name": "Rue des Étuves",
+        "street number": 56,
+        "postal code": "7131"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1980-05-05",
+    "nationality": "Belgian",
+    "passport_number": "UH4457358",
+    "passport_issue_date": "2022-09-11",
+    "passport_expiry_date": "2029-09-10",
+    "gender": "M",
+    "phone_number": "+32 0430 085 055",
+    "email_address": "moens.smets@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Institut Saint-Joseph",
+        "graduation_year": 2000
+    },
+    "higher_education": [
+        {
+            "university": "Académie des Beaux-Arts de Tournai",
+            "graduation_year": 2005
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2005,
+            "end_year": 2008,
+            "company": "Vlaamse Radio- en Televisieomroeporganisatie (VRT)",
+            "position": "Journalist",
+            "salary": 37000
+        },
+        {
+            "start_year": 2008,
+            "end_year": null,
+            "company": "De Persgroep NV",
+            "position": "Editor",
+            "salary": 227000
+        }
+    ],
+    "aum": {
+        "savings": 330000,
+        "inheritance": 7710000,
+        "real_estate_value": 1800000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2014,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 1800000,
+            "property location": "Antwerp"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

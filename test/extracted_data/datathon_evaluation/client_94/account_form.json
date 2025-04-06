@@ -1,0 +1,17 @@
+{
+    "name": "Hannelore Anouk Krol",
+    "first_name": "Hannelore",
+    "middle_name": "Anouk",
+    "last_name": "Krol",
+    "passport_number": "NH5683801",
+    "currency": "EUR",
+    "address": {
+        "city": "Hoofddorp",
+        "street name": "Kalverstraat",
+        "street number": 4,
+        "postal code": "5785 52"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 90206880",
+    "email_address": "hannelore.krol@yahoo.com"
+}

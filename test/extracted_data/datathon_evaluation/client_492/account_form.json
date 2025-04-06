@@ -1,0 +1,17 @@
+{
+    "name": "Juliane Katharina Zimmermann",
+    "first_name": "Juliane",
+    "middle_name": "Katharina",
+    "last_name": "Zimmermann",
+    "passport_number": "OQ2087155",
+    "currency": "EUR",
+    "address": {
+        "city": "Karlsruhe",
+        "street name": "Marienplatz",
+        "street number": 62,
+        "postal code": "14182"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "1204 906625",
+    "email_address": "juliane.zimmermann@unitybox.de"
+}

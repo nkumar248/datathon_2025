@@ -1,0 +1,65 @@
+{
+    "name": "Peters Michiels Vandenberghe",
+    "address": {
+        "city": "Antwerp",
+        "street name": "Rue de la Convention",
+        "street number": 70,
+        "postal code": "2442"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1996-04-15",
+    "nationality": "Belgian",
+    "passport_number": "RN4774383",
+    "passport_issue_date": "2023-12-07",
+    "passport_expiry_date": "2030-12-06",
+    "gender": "M",
+    "phone_number": "+32 0422 145 463",
+    "email_address": "peters.vandenberghe@base.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Institut Notre-Dame de la Paix",
+        "graduation_year": 2014
+    },
+    "higher_education": [
+        {
+            "university": "Vrije Universiteit Brussel",
+            "graduation_year": 2020
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2021,
+            "end_year": 2023,
+            "company": "PMV NV",
+            "position": "Analyst",
+            "salary": 41000
+        },
+        {
+            "start_year": 2025,
+            "end_year": null,
+            "company": "Sofina SA",
+            "position": "Associate",
+            "salary": 59000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 1440000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

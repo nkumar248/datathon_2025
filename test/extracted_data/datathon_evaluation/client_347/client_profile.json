@@ -1,0 +1,73 @@
+{
+    "name": "Peltola Laaksonen Niemi",
+    "address": {
+        "city": "Siilinjärvi",
+        "street name": "Kulosaarentie",
+        "street number": 50,
+        "postal code": "21497"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1990-08-07",
+    "nationality": "Finnish",
+    "passport_number": "OK9606813",
+    "passport_issue_date": "2018-12-05",
+    "passport_expiry_date": "2028-12-04",
+    "gender": "M",
+    "phone_number": "+358 042 786 76 91",
+    "email_address": "peltola.niemi@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Joensuu Christian College",
+        "graduation_year": 2008
+    },
+    "higher_education": [
+        {
+            "university": "Diaconia University of Applied Sciences",
+            "graduation_year": 2014
+        },
+        {
+            "university": "University of Turku",
+            "graduation_year": 2019
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "Patria Aviation Oy",
+            "position": "Aerospace Engineer",
+            "salary": 117000
+        }
+    ],
+    "aum": {
+        "savings": 140000,
+        "inheritance": 4500000,
+        "real_estate_value": 3050000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2340000,
+            "property location": "Siilinjärvi"
+        },
+        {
+            "property type": "condo",
+            "property value": 710000,
+            "property location": "Seinäjoki"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Finland"
+    ],
+    "currency": "EUR"
+}

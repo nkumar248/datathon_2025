@@ -1,0 +1,17 @@
+{
+    "first_name": "Becker",
+    "middle_name": "Schulz",
+    "last_name": "Hoffmann",
+    "gender": "M",
+    "country": "Germany",
+    "country_code": "DEU",
+    "nationality": "German",
+    "birth_date": "1972-08-13",
+    "passport_number": "GN1922821",
+    "passport_mrz": [
+        "P<DEUHOFFMANN<<BECKER<SCHULZ<<<<<<<<<<<<<<<<<",
+        "GN1922821DEU720813<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-01-20",
+    "passport_expiry_date": "2033-01-19"
+}

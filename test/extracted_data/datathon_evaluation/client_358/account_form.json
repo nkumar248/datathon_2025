@@ -1,0 +1,17 @@
+{
+    "name": "Cristina Andrea Martínez",
+    "first_name": "Cristina",
+    "middle_name": "Andrea",
+    "last_name": "Martínez",
+    "passport_number": "YH9395987",
+    "currency": "EUR",
+    "address": {
+        "city": "San Sebastián",
+        "street name": "Plaza de la Constitución",
+        "street number": 30,
+        "postal code": "73992"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 605 702 576",
+    "email_address": "cristina.martinez@terra.es"
+}

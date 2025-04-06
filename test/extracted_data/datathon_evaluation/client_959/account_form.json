@@ -1,0 +1,17 @@
+{
+    "name": "Vázquez Soto González",
+    "first_name": "Vázquez",
+    "middle_name": "Soto",
+    "last_name": "González",
+    "passport_number": "WG3911595",
+    "currency": "EUR",
+    "address": {
+        "city": "Málaga",
+        "street name": "Calle de la Universidad",
+        "street number": 92,
+        "postal code": "81279"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 605 946 867",
+    "email_address": "vazquez.gonzalez@telefonica.es"
+}

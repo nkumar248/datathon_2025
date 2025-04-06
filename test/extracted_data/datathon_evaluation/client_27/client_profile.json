@@ -1,0 +1,97 @@
+{
+    "name": "Alejandra Carmen Herrera",
+    "address": {
+        "city": "Córdoba",
+        "street name": "Rambla",
+        "street number": 50,
+        "postal code": "15524"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1960-09-17",
+    "nationality": "Spanish",
+    "passport_number": "DJ0808656",
+    "passport_issue_date": "2023-12-05",
+    "passport_expiry_date": "2033-12-04",
+    "gender": "F",
+    "phone_number": "602 807 744",
+    "email_address": "alejandra.herrera@wanadoo.es",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "IES Jorge Guillén Salamanca",
+        "graduation_year": 1980
+    },
+    "higher_education": [
+        {
+            "university": "University of Granada",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1985,
+            "end_year": 1990,
+            "company": "Metrovacesa S.A.",
+            "position": "Property Manager",
+            "salary": 31000
+        },
+        {
+            "start_year": 1992,
+            "end_year": 1996,
+            "company": "Realia Business S.A.",
+            "position": "Developer",
+            "salary": 36000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 2002,
+            "company": "Realia Business S.A.",
+            "position": "Construction Company Owner",
+            "salary": 97000
+        },
+        {
+            "start_year": 2002,
+            "end_year": 2006,
+            "company": "Merlin Properties SOCIMI S.A.",
+            "position": "Real Estate Investment Trust (REIT) CEO",
+            "salary": 85000
+        },
+        {
+            "start_year": 2007,
+            "end_year": 2021,
+            "company": "Metrovacesa S.A.",
+            "position": "Landlord",
+            "salary": 562000
+        }
+    ],
+    "aum": {
+        "savings": 890000,
+        "inheritance": 0,
+        "real_estate_value": 2773000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1088000,
+            "property location": "Córdoba"
+        },
+        {
+            "property type": "flat",
+            "property value": 755000,
+            "property location": "Segovia"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 930000,
+            "property location": "Segovia"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

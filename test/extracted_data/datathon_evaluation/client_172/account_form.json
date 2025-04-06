@@ -1,0 +1,17 @@
+{
+    "name": "Belli Landi Donati",
+    "first_name": "Belli",
+    "middle_name": "Landi",
+    "last_name": "Donati",
+    "passport_number": "VK0360169",
+    "currency": "EUR",
+    "address": {
+        "city": "Treviso",
+        "street name": "Via Condotti",
+        "street number": 73,
+        "postal code": "01009"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "390 7087234",
+    "email_address": "belli.donati@unidata.it"
+}

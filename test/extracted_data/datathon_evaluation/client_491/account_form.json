@@ -1,0 +1,17 @@
+{
+    "name": "Hanne Anna Kristensen",
+    "first_name": "Hanne",
+    "middle_name": "Anna",
+    "last_name": "Kristensen",
+    "passport_number": "TS7583528",
+    "currency": "DKK",
+    "address": {
+        "city": "Ikast",
+        "street name": "Krimsvej",
+        "street number": 84,
+        "postal code": "2228"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 93 54 90 73",
+    "email_address": "hanne.kristensen@wanadoo.dk"
+}

@@ -1,0 +1,93 @@
+{
+    "name": "Janssens Roelandts",
+    "address": {
+        "city": "Ghent",
+        "street name": "Rue de la Loi",
+        "street number": 29,
+        "postal code": "5202"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1962-11-23",
+    "nationality": "Belgian",
+    "passport_number": "NN7256948",
+    "passport_issue_date": "2016-10-19",
+    "passport_expiry_date": "2023-10-18",
+    "gender": "M",
+    "phone_number": "+32 0427 352 019",
+    "email_address": "janssens.roelandts@skype.be",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Ecole Secondaire Libre du Sacré-Cœur",
+        "graduation_year": 1981
+    },
+    "higher_education": [
+        {
+            "university": "Solvay Brussels School of Economics and Management",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1987,
+            "end_year": 1989,
+            "company": "CMB NV",
+            "position": "Ship Broker",
+            "salary": 35000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 1992,
+            "company": "Wallenius Wilhelmsen Logistics Belgium NV",
+            "position": "Shipping Company Owner",
+            "salary": 60000
+        },
+        {
+            "start_year": 1994,
+            "end_year": 1999,
+            "company": "CMB NV",
+            "position": "Fleet Manager",
+            "salary": 130000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2005,
+            "company": "Wallenius Wilhelmsen Logistics Belgium NV",
+            "position": "Maritime Industry Leader",
+            "salary": 206000
+        },
+        {
+            "start_year": 2007,
+            "end_year": 2023,
+            "company": "Exmar NV",
+            "position": "Logistics Conglomerate Owner",
+            "salary": 647000
+        }
+    ],
+    "aum": {
+        "savings": 1190000,
+        "inheritance": 0,
+        "real_estate_value": 1970000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 760000,
+            "property location": "Ghent"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1210000,
+            "property location": "Ghent"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

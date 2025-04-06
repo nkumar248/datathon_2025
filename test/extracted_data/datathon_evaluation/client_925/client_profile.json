@@ -1,0 +1,87 @@
+{
+    "name": "Salo Laaksonen Peltola",
+    "address": {
+        "city": "Porvoo",
+        "street name": "Fredrikinkatu",
+        "street number": 69,
+        "postal code": "41356"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1981-01-11",
+    "nationality": "Finnish",
+    "passport_number": "DK7814004",
+    "passport_issue_date": "2018-05-18",
+    "passport_expiry_date": "2028-05-17",
+    "gender": "M",
+    "phone_number": "049 960 54 24",
+    "email_address": "salo.peltola@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Espoonlahden koulu",
+        "graduation_year": 1998
+    },
+    "higher_education": [
+        {
+            "university": "University of Turku",
+            "graduation_year": 2004
+        },
+        {
+            "university": "University of Jyväskylä",
+            "graduation_year": 2008
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2004,
+            "end_year": 2009,
+            "company": "Skanska Talonrakennus Oy",
+            "position": "Property Manager",
+            "salary": 51000
+        },
+        {
+            "start_year": 2010,
+            "end_year": 2011,
+            "company": "Skanska Talonrakennus Oy",
+            "position": "Developer",
+            "salary": 56000
+        },
+        {
+            "start_year": 2011,
+            "end_year": null,
+            "company": "Sponda Oyj",
+            "position": "Construction Company Owner",
+            "salary": 267000
+        }
+    ],
+    "aum": {
+        "savings": 430000,
+        "inheritance": 720000,
+        "real_estate_value": 1850000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2010,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 787000,
+            "property location": "Porvoo"
+        },
+        {
+            "property type": "condo",
+            "property value": 1063000,
+            "property location": "Sipoo"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Finland"
+    ],
+    "currency": "EUR"
+}

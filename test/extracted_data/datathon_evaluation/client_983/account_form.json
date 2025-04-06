@@ -1,0 +1,17 @@
+{
+    "name": "Giovanna Giorgia Moretti",
+    "first_name": "Giovanna",
+    "middle_name": "Giorgia",
+    "last_name": "Moretti",
+    "passport_number": "WO5850910",
+    "currency": "EUR",
+    "address": {
+        "city": "Reggio Calabria",
+        "street name": "Corso Vittorio Emanuele II",
+        "street number": 76,
+        "postal code": "04760"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 345 5013419",
+    "email_address": "giovanna.moretti@icloud.com"
+}

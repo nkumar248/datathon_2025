@@ -1,0 +1,17 @@
+{
+    "name": "Josefine Katharina Rieder",
+    "first_name": "Josefine",
+    "middle_name": "Katharina",
+    "last_name": "Rieder",
+    "passport_number": "RU8286200",
+    "currency": "EUR",
+    "address": {
+        "city": "Gmunden",
+        "street name": "Untere Donaustraße",
+        "street number": 1,
+        "postal code": "9688"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "298 207 1264",
+    "email_address": "josefine.rieder@upc.at"
+}

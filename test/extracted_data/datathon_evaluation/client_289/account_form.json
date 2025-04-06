@@ -1,0 +1,17 @@
+{
+    "name": "Wagemakers Van Dijk Meijer",
+    "first_name": "Wagemakers",
+    "middle_name": "Van Dijk",
+    "last_name": "Meijer",
+    "passport_number": "JS8450279",
+    "currency": "EUR",
+    "address": {
+        "city": "Hoofddorp",
+        "street name": "Moreelsepark",
+        "street number": 83,
+        "postal code": "8253 65"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 94372534",
+    "email_address": "wagemakers.meijer@outlook.com"
+}

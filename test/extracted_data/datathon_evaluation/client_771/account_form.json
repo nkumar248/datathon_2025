@@ -1,0 +1,17 @@
+{
+    "name": "Ingrid Léa Hermans",
+    "first_name": "Ingrid",
+    "middle_name": "Léa",
+    "last_name": "Hermans",
+    "passport_number": "NP6164875",
+    "currency": "EUR",
+    "address": {
+        "city": "Aalst",
+        "street name": "Rue de la Madeleine",
+        "street number": 66,
+        "postal code": "9464"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0464 710 447",
+    "email_address": "ingrid.hermans@voo.be"
+}

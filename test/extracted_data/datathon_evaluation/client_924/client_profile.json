@@ -1,0 +1,95 @@
+{
+    "name": "Laursen Kristensen Oddershede",
+    "address": {
+        "city": "Gladsaxe",
+        "street name": "Østerbrogade",
+        "street number": 9,
+        "postal code": "0749"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1978-04-03",
+    "nationality": "Danish",
+    "passport_number": "CM3790628",
+    "passport_issue_date": "2019-08-27",
+    "passport_expiry_date": "2029-08-26",
+    "gender": "M",
+    "phone_number": "+45 68 74 34 72",
+    "email_address": "laursen.oddershede@gmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Holstebro Gymnasium",
+        "graduation_year": 1997
+    },
+    "higher_education": [
+        {
+            "university": "University of Copenhagen",
+            "graduation_year": 2001
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2002,
+            "end_year": 2003,
+            "company": "Nykur Private Banking",
+            "position": "Financial Advisor",
+            "salary": 284000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2008,
+            "company": "Jyske Bank Private Banking",
+            "position": "Portfolio Manager",
+            "salary": 413000
+        },
+        {
+            "start_year": 2009,
+            "end_year": 2011,
+            "company": "Danske Bank Wealth Management",
+            "position": "Wealth Manager",
+            "salary": 504000
+        },
+        {
+            "start_year": 2013,
+            "end_year": null,
+            "company": "Nordea Private Banking Danmark",
+            "position": "Family Office Executive",
+            "salary": 3779000
+        }
+    ],
+    "aum": {
+        "savings": 4710000,
+        "inheritance": 48120000,
+        "real_estate_value": 5562000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2012,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1160000,
+            "property location": "Gladsaxe"
+        },
+        {
+            "property type": "house",
+            "property value": 1602000,
+            "property location": "Randers"
+        },
+        {
+            "property type": "villa",
+            "property value": 2800000,
+            "property location": "Sønderborg"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Netherlands"
+    ],
+    "currency": "DKK"
+}

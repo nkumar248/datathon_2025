@@ -1,0 +1,83 @@
+{
+    "name": "Louna Mertens",
+    "address": {
+        "city": "Herstal",
+        "street name": "Rue de la République",
+        "street number": 13,
+        "postal code": "8943"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1966-03-22",
+    "nationality": "Belgian",
+    "passport_number": "FF7529906",
+    "passport_issue_date": "2024-07-23",
+    "passport_expiry_date": "2031-07-22",
+    "gender": "F",
+    "phone_number": "+32 0402 359 525",
+    "email_address": "louna.mertens@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Institut Saint-Joseph",
+        "graduation_year": 1985
+    },
+    "higher_education": [
+        {
+            "university": "Vlerick Business School",
+            "graduation_year": 1989
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1990,
+            "end_year": 1995,
+            "company": "Petercam SA",
+            "position": "Financial Advisor",
+            "salary": 37000
+        },
+        {
+            "start_year": 1996,
+            "end_year": 1998,
+            "company": "BNP Paribas Wealth Management Belgium",
+            "position": "Portfolio Manager",
+            "salary": 54000
+        },
+        {
+            "start_year": 1998,
+            "end_year": 2024,
+            "company": "Petercam SA",
+            "position": "Wealth Manager",
+            "salary": 651000
+        }
+    ],
+    "aum": {
+        "savings": 1200000,
+        "inheritance": 4490000,
+        "real_estate_value": 2780000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2010,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 800000,
+            "property location": "Herstal"
+        },
+        {
+            "property type": "villa",
+            "property value": 1980000,
+            "property location": "Antwerp"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

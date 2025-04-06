@@ -1,0 +1,17 @@
+{
+    "name": "Alba Emma Gil",
+    "first_name": "Alba",
+    "middle_name": "Emma",
+    "last_name": "Gil",
+    "passport_number": "LS7262002",
+    "currency": "EUR",
+    "address": {
+        "city": "Vigo",
+        "street name": "Calle de los Reyes Católicos",
+        "street number": 61,
+        "postal code": "98057"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 672 471 357",
+    "email_address": "alba.gil@hotmail.com"
+}

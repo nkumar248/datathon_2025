@@ -1,0 +1,17 @@
+{
+    "name": "Müller Binder Mayr",
+    "first_name": "Müller",
+    "middle_name": "Binder",
+    "last_name": "Mayr",
+    "passport_number": "PY9975157",
+    "currency": "EUR",
+    "address": {
+        "city": "Spittal an der Drau",
+        "street name": "Westbahnstraße",
+        "street number": 40,
+        "postal code": "0116"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "++49948 597 1333",
+    "email_address": "muller.mayr@gmail.com"
+}

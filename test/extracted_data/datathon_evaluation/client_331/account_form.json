@@ -1,0 +1,17 @@
+{
+    "name": "Tanja Renate Krämer",
+    "first_name": "Tanja",
+    "middle_name": "Renate",
+    "last_name": "Krämer",
+    "passport_number": "SD7578568",
+    "currency": "EUR",
+    "address": {
+        "city": "Baden bei Wien",
+        "street name": "Andreas-Hofer-Straße",
+        "street number": 8,
+        "postal code": "6362"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 379 766 5061",
+    "email_address": "tanja.kramer@hotmail.com"
+}

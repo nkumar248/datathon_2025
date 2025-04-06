@@ -1,0 +1,83 @@
+{
+    "name": "Brunner Gmür Kammermann",
+    "address": {
+        "city": "Aarau",
+        "street name": "Niederdorf",
+        "street number": 78,
+        "postal code": "2350"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1981-08-04",
+    "nationality": "Swiss",
+    "passport_number": "IY5160064",
+    "passport_issue_date": "2021-10-24",
+    "passport_expiry_date": "2031-10-23",
+    "gender": "M",
+    "phone_number": "+41 089 739 68 20",
+    "email_address": "brunner.kammermann@swissonline.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Kantonsschule Zürich Nord Zurich",
+        "graduation_year": 2000
+    },
+    "higher_education": [
+        {
+            "university": "University of Zurich",
+            "graduation_year": 2005
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2006,
+            "end_year": 2009,
+            "company": "Gunvor Group Ltd. (Swiss branch)",
+            "position": "Junior Trader",
+            "salary": 61000
+        },
+        {
+            "start_year": 2010,
+            "end_year": 2013,
+            "company": "Glencore International AG",
+            "position": "Senior Trader",
+            "salary": 93000
+        },
+        {
+            "start_year": 2013,
+            "end_year": null,
+            "company": "Gunvor Group Ltd. (Swiss branch)",
+            "position": "Trading Desk Manager",
+            "salary": 424000
+        }
+    ],
+    "aum": {
+        "savings": 590000,
+        "inheritance": 5830000,
+        "real_estate_value": 7510000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2012,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 4610000,
+            "property location": "Aarau"
+        },
+        {
+            "property type": "house",
+            "property value": 2900000,
+            "property location": "Olten"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Austria"
+    ],
+    "currency": "CHF"
+}

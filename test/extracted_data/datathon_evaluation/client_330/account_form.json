@@ -1,0 +1,17 @@
+{
+    "name": "Clara Lucía Castro",
+    "first_name": "Clara",
+    "middle_name": "Lucía",
+    "last_name": "Castro",
+    "passport_number": "SD4310572",
+    "currency": "EUR",
+    "address": {
+        "city": "Logroño",
+        "street name": "Calle de San Juan Bautista",
+        "street number": 80,
+        "postal code": "47508"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "604 298 751",
+    "email_address": "clara.castro@yahoo.com"
+}

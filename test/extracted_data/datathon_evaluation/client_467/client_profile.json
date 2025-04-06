@@ -1,0 +1,76 @@
+{
+    "name": "Gil Hernández Ramos",
+    "address": {
+        "city": "Castellón de la Plana",
+        "street name": "Plaza del Ayuntamiento",
+        "street number": 47,
+        "postal code": "78709"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1970-08-27",
+    "nationality": "Spanish",
+    "passport_number": "YB4250500",
+    "passport_issue_date": "2019-02-06",
+    "passport_expiry_date": "2029-02-05",
+    "gender": "M",
+    "phone_number": "+34 639 706 042",
+    "email_address": "gil.ramos@hotmail.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "IES Francisco Umbral Ciudad Real",
+        "graduation_year": 1978
+    },
+    "higher_education": [
+        {
+            "university": "Ramón Llull University",
+            "graduation_year": 1993
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1995,
+            "end_year": 2000,
+            "company": "Enagás S.A.",
+            "position": "Junior Trader",
+            "salary": 25000
+        },
+        {
+            "start_year": 2002,
+            "end_year": null,
+            "company": "Enagás S.A.",
+            "position": "Senior Trader",
+            "salary": 148000
+        }
+    ],
+    "aum": {
+        "savings": 260000,
+        "inheritance": 360000,
+        "real_estate_value": 3430000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2015,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2330000,
+            "property location": "Castellón de la Plana"
+        },
+        {
+            "property type": "condo",
+            "property value": 1100000,
+            "property location": "Segovia"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

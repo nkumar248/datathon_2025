@@ -1,0 +1,68 @@
+{
+    "name": "Simon Laurent Guillaume",
+    "address": {
+        "city": "Reims",
+        "street name": "Rue Gay-Lussac",
+        "street number": 5,
+        "postal code": "29468"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1990-06-27",
+    "nationality": "French",
+    "passport_number": "YQ1917228",
+    "passport_issue_date": "2023-02-17",
+    "passport_expiry_date": "2033-02-16",
+    "gender": "M",
+    "phone_number": "+33 00 22 35 61 03",
+    "email_address": "simon.guillaume@icloud.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Voltaire",
+        "graduation_year": 2000
+    },
+    "higher_education": [
+        {
+            "university": "École des Beaux-Arts de Paris",
+            "graduation_year": 2013
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "InterContinental Hotels Group France",
+            "position": "Hotel Manager",
+            "salary": 75000
+        }
+    ],
+    "aum": {
+        "savings": 90000,
+        "inheritance": 1620000,
+        "real_estate_value": 3198000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2020,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1078000,
+            "property location": "Reims"
+        },
+        {
+            "property type": "house",
+            "property value": 2120000,
+            "property location": "Caen"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Andrea Ibáñez",
+    "first_name": "Andrea",
+    "middle_name": "",
+    "last_name": "Ibáñez",
+    "passport_number": "YI2130315",
+    "currency": "EUR",
+    "address": {
+        "city": "Salamanca",
+        "street name": "Calle de los Reyes Católicos",
+        "street number": 71,
+        "postal code": "31520"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "617 214 067",
+    "email_address": "andrea.ibanez@ya.com"
+}

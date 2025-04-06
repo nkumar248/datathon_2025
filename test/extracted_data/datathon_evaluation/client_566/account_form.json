@@ -1,0 +1,17 @@
+{
+    "name": "Seppälä Lehtinen Laaksonen",
+    "first_name": "Seppälä",
+    "middle_name": "Lehtinen",
+    "last_name": "Laaksonen",
+    "passport_number": "ZE3843651",
+    "currency": "EUR",
+    "address": {
+        "city": "Kerava",
+        "street name": "Esplanadi",
+        "street number": 70,
+        "postal code": "10315"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "042 150 35 41",
+    "email_address": "seppala.laaksonen@icloud.com"
+}

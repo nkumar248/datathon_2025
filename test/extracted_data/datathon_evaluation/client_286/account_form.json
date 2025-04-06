@@ -1,0 +1,17 @@
+{
+    "name": "Uusitalo Salminen Niskanen",
+    "first_name": "Uusitalo",
+    "middle_name": "Salminen",
+    "last_name": "Niskanen",
+    "passport_number": "CK7045871",
+    "currency": "EUR",
+    "address": {
+        "city": "Vaasa",
+        "street name": "Lönnrotinkatu",
+        "street number": 28,
+        "postal code": "88754"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 045 801 77 76",
+    "email_address": "uusitalo.niskanen@saunalahti.fi"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Gabriella Emanuela Lotti",
+    "first_name": "Gabriella",
+    "middle_name": "Emanuela",
+    "last_name": "Lotti",
+    "passport_number": "HR1200895",
+    "currency": "EUR",
+    "address": {
+        "city": "Genoa",
+        "street name": "Galleria Vittorio Emanuele II",
+        "street number": 71,
+        "postal code": "69450"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 393 8296912",
+    "email_address": "gabriella.lotti@wind.it"
+}

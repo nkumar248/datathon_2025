@@ -1,0 +1,17 @@
+{
+    "name": "Muñoz Gómez Morales",
+    "first_name": "Muñoz",
+    "middle_name": "Gómez",
+    "last_name": "González",
+    "passport_number": "KJ8921579",
+    "currency": "EUR",
+    "address": {
+        "city": "Gijón",
+        "street name": "Diagonal",
+        "street number": 36,
+        "postal code": "98257"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "++32602 787 103",
+    "email_address": "munoz.morales@vodafone.es"
+}

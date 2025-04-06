@@ -1,0 +1,58 @@
+{
+    "name": "Élise Joris",
+    "address": {
+        "city": "Poperinge",
+        "street name": "Rue des Chartreux",
+        "street number": 59,
+        "postal code": "3960"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1997-10-27",
+    "nationality": "Belgian",
+    "passport_number": "AD9537314",
+    "passport_issue_date": "2018-04-18",
+    "passport_expiry_date": "2025-04-17",
+    "gender": "F",
+    "phone_number": "+32 0449 165 279",
+    "email_address": "elise.joris@skynet.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "College Patroklia",
+        "graduation_year": 2017
+    },
+    "higher_education": [
+        {
+            "university": "Brussels School of International Studies",
+            "graduation_year": 2020
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2022,
+            "end_year": null,
+            "company": "RTL Belgium SA",
+            "position": "Journalist",
+            "salary": 38000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 2950000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

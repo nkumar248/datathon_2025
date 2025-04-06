@@ -1,0 +1,83 @@
+{
+    "name": "Lombardi Livi Rossi",
+    "address": {
+        "city": "Milan",
+        "street name": "Via Nazionale",
+        "street number": 77,
+        "postal code": "13010"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1983-04-07",
+    "nationality": "Italian",
+    "passport_number": "VM5400129",
+    "passport_issue_date": "2024-04-13",
+    "passport_expiry_date": "2034-04-12",
+    "gender": "M",
+    "phone_number": "319 6552022",
+    "email_address": "lombardi.rossi@alice.it",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Liceo Scientifico Enrico Fermi Bologna",
+        "graduation_year": 2001
+    },
+    "higher_education": [
+        {
+            "university": "University of Naples Federico II",
+            "graduation_year": 2008
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1979,
+            "end_year": 2013,
+            "company": "Intesa Sanpaolo Private Banking",
+            "position": "Financial Advisor",
+            "salary": 28000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2016,
+            "company": "Allianz Bank Financial Advisors S.p.A.",
+            "position": "Portfolio Manager",
+            "salary": 38000
+        },
+        {
+            "start_year": 2017,
+            "end_year": null,
+            "company": "Intesa Sanpaolo Private Banking",
+            "position": "Wealth Manager",
+            "salary": 124000
+        }
+    ],
+    "aum": {
+        "savings": 140000,
+        "inheritance": 490000,
+        "real_estate_value": 3670000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2005,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2060000,
+            "property location": "Milan"
+        },
+        {
+            "property type": "house",
+            "property value": 1610000,
+            "property location": "Milan"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

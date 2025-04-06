@@ -1,0 +1,70 @@
+{
+    "name": "Lecomte Thiry Moens",
+    "address": {
+        "city": "Menen",
+        "street name": "Rue du Marché aux Fromages",
+        "street number": 21,
+        "postal code": "3741"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1991-11-20",
+    "nationality": "Belgian",
+    "passport_number": "UC9647407",
+    "passport_issue_date": "2024-06-03",
+    "passport_expiry_date": "2031-06-02",
+    "gender": "M",
+    "phone_number": "+32 0499 101 824",
+    "email_address": "lecomte.moensyahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Koninklijk Atheneum Berchem",
+        "graduation_year": 2011
+    },
+    "higher_education": [
+        {
+            "university": "Université libre de Bruxelles",
+            "graduation_year": 2014
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2016,
+            "end_year": 2018,
+            "company": "Verlinvest SA",
+            "position": "Analyst",
+            "salary": 36000
+        },
+        {
+            "start_year": 2020,
+            "end_year": null,
+            "company": "PMV NV",
+            "position": "Associate",
+            "salary": 70000
+        }
+    ],
+    "aum": {
+        "savings": 60000,
+        "inheritance": 1360000,
+        "real_estate_value": 2550000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2550000,
+            "property location": "Menen"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

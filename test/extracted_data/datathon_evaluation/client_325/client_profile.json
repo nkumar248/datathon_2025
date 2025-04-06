@@ -1,0 +1,87 @@
+{
+    "name": "Vázquez Rodríguez",
+    "address": {
+        "city": "Toledo",
+        "street name": "Calle de las Huertas",
+        "street number": 1,
+        "postal code": "89878"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1976-12-06",
+    "nationality": "Spanish",
+    "passport_number": "BL8329913",
+    "passport_issue_date": "2022-12-17",
+    "passport_expiry_date": "2032-12-16",
+    "gender": "M",
+    "phone_number": "633 774 135",
+    "email_address": "vazquez.rodriguez@gmail.es",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "IES Alfonso X el Sabio Murcia",
+        "graduation_year": 1995
+    },
+    "higher_education": [
+        {
+            "university": "Universidad Comercial de Deusto",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2001,
+            "end_year": 2006,
+            "company": "BBVA S.A.",
+            "position": "Family Office Manager",
+            "salary": 24000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2011,
+            "company": "Banco Santander S.A.",
+            "position": "Investment Director",
+            "salary": 39000
+        },
+        {
+            "start_year": 2013,
+            "end_year": null,
+            "company": "CaixaBank S.A.",
+            "position": "CFO",
+            "salary": 206000
+        }
+    ],
+    "aum": {
+        "savings": 330000,
+        "inheritance": 1630000,
+        "real_estate_value": 3701000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2007,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 910000,
+            "property location": "Toledo"
+        },
+        {
+            "property type": "house",
+            "property value": 1621000,
+            "property location": "Almería"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1170000,
+            "property location": "Castellón de la Plana"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

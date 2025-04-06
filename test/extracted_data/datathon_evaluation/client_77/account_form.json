@@ -1,0 +1,17 @@
+{
+    "name": "Uhlig Schneider Meier",
+    "first_name": "Uhlig",
+    "middle_name": "Schneider",
+    "last_name": "Meier",
+    "passport_number": "ES7252548",
+    "currency": "EUR",
+    "address": {
+        "city": "Munich",
+        "street name": "Kudamm-Karree",
+        "street number": 91,
+        "postal code": "70619"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 7498 117373",
+    "email_address": "uhlig.meier@freenet.de"
+}

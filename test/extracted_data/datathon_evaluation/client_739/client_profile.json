@@ -1,0 +1,65 @@
+{
+    "name": "Richter Klein Schulze",
+    "address": {
+        "city": "Monchengladbach",
+        "street name": "Kronprinzstraße",
+        "street number": 90,
+        "postal code": "93614"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1996-12-23",
+    "nationality": "German",
+    "passport_number": "RN1314143",
+    "passport_issue_date": "2017-12-04",
+    "passport_expiry_date": "2027-12-03",
+    "gender": "M",
+    "phone_number": "4591 441185",
+    "email_address": "richter.schulze@gmail.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Friedrich-Wilhelms-Gymnasium Potsdam",
+        "graduation_year": 2014
+    },
+    "higher_education": [
+        {
+            "university": "Hamburg University of Music and Theatre",
+            "graduation_year": 2020
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2020,
+            "end_year": 2023,
+            "company": "Hamburger Kunsthalle",
+            "position": "Art Dealer",
+            "salary": 37000
+        },
+        {
+            "start_year": 2024,
+            "end_year": null,
+            "company": "Nationalgalerie Berlin",
+            "position": "Gallery Owner",
+            "salary": 63000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 1720000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,76 @@
+{
+    "name": "Hermans Simons",
+    "address": {
+        "city": "Liège",
+        "street name": "Rue des Bouchers",
+        "street number": 58,
+        "postal code": "6406"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1961-02-09",
+    "nationality": "Belgian",
+    "passport_number": "TH1392351",
+    "passport_issue_date": "2018-06-01",
+    "passport_expiry_date": "2025-05-31",
+    "gender": "M",
+    "phone_number": "0492 479 807",
+    "email_address": "hermans.simons@base.be",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Institut Saint-Joseph",
+        "graduation_year": 1980
+    },
+    "higher_education": [
+        {
+            "university": "Ghent University",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1984,
+            "end_year": 1986,
+            "company": "Thales Alenia Space Belgium",
+            "position": "Aerospace Engineer",
+            "salary": 34000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 2021,
+            "company": "Sonaca SA",
+            "position": "Program Manager",
+            "salary": 331000
+        }
+    ],
+    "aum": {
+        "savings": 650000,
+        "inheritance": 0,
+        "real_estate_value": 3647000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 957000,
+            "property location": "Liège"
+        },
+        {
+            "property type": "house",
+            "property value": 1730000,
+            "property location": "Leuven"
+        },
+        {
+            "property type": "condo",
+            "property value": 960000,
+            "property location": "Genk"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "first_name": "Chloé",
+    "middle_name": "",
+    "last_name": "Bernard",
+    "gender": "F",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1984-10-31",
+    "passport_number": "RA1392587",
+    "passport_mrz": [
+        "P<FRABERNARD<<CHLOÉ<<<<<<<<<<<<<<<<<<<<<<<<<<",
+        "RA1392587FRA841031<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2021-08-28",
+    "passport_expiry_date": "2031-08-27"
+}

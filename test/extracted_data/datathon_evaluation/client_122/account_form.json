@@ -1,0 +1,17 @@
+{
+    "name": "Saar Carlijn Bakker",
+    "first_name": "Saar",
+    "middle_name": "Carlijn",
+    "last_name": "Bakker",
+    "passport_number": "AY1514645",
+    "currency": "EUR",
+    "address": {
+        "city": "Rouen",
+        "street name": "Rue Royale",
+        "street number": 92,
+        "postal code": "62020"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 05 75 77 61 96",
+    "email_address": "saar.bakker@free.fr"
+}

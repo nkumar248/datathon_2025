@@ -1,0 +1,17 @@
+{
+    "name": "Sanders Wouters Mertens",
+    "first_name": "Sanders",
+    "middle_name": "Wouters",
+    "last_name": "Mertens",
+    "passport_number": "RO5746557",
+    "currency": "EUR",
+    "address": {
+        "city": "Maaseik",
+        "street name": "Boulevard Anspach",
+        "street number": 31,
+        "postal code": "7504"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0413 599 667",
+    "email_address": "sanders.mertens@skype.be"
+}

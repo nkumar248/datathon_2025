@@ -1,0 +1,17 @@
+{
+    "first_name": "Schneider",
+    "middle_name": "Kammermann",
+    "last_name": "Kuhn",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1970-01-08",
+    "passport_number": "WA8259428",
+    "passport_mrz": [
+        "P<KUHN<<SCHNEIDER<KAMMERMANN<<<<<<<<<<<<<<<<<",
+        "WA8259428700108<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "1964-11-26",
+    "passport_expiry_date": "1974-11-25"
+}

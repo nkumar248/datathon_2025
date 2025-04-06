@@ -1,0 +1,17 @@
+{
+    "name": "Gabriela Gisèle Jost",
+    "first_name": "Gabriela",
+    "middle_name": "Gisèle",
+    "last_name": "Jost",
+    "passport_number": "LQ5025647",
+    "currency": "CHF",
+    "address": {
+        "city": "Basel",
+        "street name": "Place des Halles",
+        "street number": 85,
+        "postal code": "9666"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "070 534 79 43",
+    "email_address": "gabriela.jost@lycos.ch"
+}

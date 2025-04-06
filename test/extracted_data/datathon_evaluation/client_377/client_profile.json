@@ -1,0 +1,65 @@
+{
+    "name": "Huber Weber Rieder",
+    "address": {
+        "city": "Linz",
+        "street name": "Blutgasse",
+        "street number": 32,
+        "postal code": "6316"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1998-05-27",
+    "nationality": "Austrian",
+    "passport_number": "MR4513076",
+    "passport_issue_date": "2019-12-22",
+    "passport_expiry_date": "2029-12-21",
+    "gender": "M",
+    "phone_number": "",
+    "email_address": "huber.rieder@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Gymnasium Sacré Coeur Pressbaum",
+        "graduation_year": 2016
+    },
+    "higher_education": [
+        {
+            "university": "Mozarteum University Salzburg",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2023,
+            "end_year": 2024,
+            "company": "Kunsthistorisches Museum",
+            "position": "Art Dealer",
+            "salary": 30000
+        },
+        {
+            "start_year": 2024,
+            "end_year": null,
+            "company": "Kunsthistorisches Museum",
+            "position": "Gallery Owner",
+            "salary": 49000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 1210000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Gutiérrez Castro",
+    "first_name": "Gutiérrez",
+    "middle_name": "",
+    "last_name": "Castro",
+    "passport_number": "QH8138254",
+    "currency": "EUR",
+    "address": {
+        "city": "Madrid",
+        "street name": "Calle de la Reina Cristina",
+        "street number": 81,
+        "postal code": "33060"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "663 791 687",
+    "email_address": "gutierrez.castro@terra.es"
+}

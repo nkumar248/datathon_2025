@@ -1,0 +1,58 @@
+{
+    "name": "Castro Rodríguez",
+    "address": {
+        "city": "Bilbao",
+        "street name": "Plaza de la Libertad",
+        "street number": 85,
+        "postal code": "46177"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1999-05-05",
+    "nationality": "Spanish",
+    "passport_number": "CY1317963",
+    "passport_issue_date": "2022-10-11",
+    "passport_expiry_date": "2027-10-10",
+    "gender": "M",
+    "phone_number": "696 294 085",
+    "email_address": "castro.rodriguez@gmail.es",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Instituto de Bachillerato Científico-Técnico IES Juan Sebastián Elcano Bilbao",
+        "graduation_year": 2018
+    },
+    "higher_education": [
+        {
+            "university": "Reina Sofia Museum School",
+            "graduation_year": 2023
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2023,
+            "end_year": null,
+            "company": "Zeltia S.A.",
+            "position": "Research Scientist",
+            "salary": 25000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 2240000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2020,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Italy"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Lemaire Lecomte",
+    "first_name": "Lemaire",
+    "middle_name": "",
+    "last_name": "Lecomte",
+    "passport_number": "JQ0301262",
+    "currency": "EUR",
+    "address": {
+        "city": "Liège",
+        "street name": "Rue de la Madeleine",
+        "street number": 1,
+        "postal code": "2275"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0465 269 171",
+    "email_address": "lemaire.lecomte@voo.be"
+}

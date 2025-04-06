@@ -1,0 +1,17 @@
+{
+    "first_name": "Andrea",
+    "middle_name": "",
+    "last_name": "Huber",
+    "gender": "F",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1995-02-23",
+    "passport_number": "KS5818114",
+    "passport_mrz": [
+        "P<CHEHUBER<<ANDREA<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+        "KS5818114CHE950223<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2019-01-22",
+    "passport_expiry_date": "2029-01-21"
+}

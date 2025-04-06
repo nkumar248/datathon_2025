@@ -1,0 +1,17 @@
+{
+    "name": "Gasser Egli Brunner",
+    "first_name": "Gasser",
+    "middle_name": "Egli",
+    "last_name": "Brunner",
+    "passport_number": "GV2170860",
+    "currency": "CHF",
+    "address": {
+        "city": "Fribourg",
+        "street name": "Metzgergasse",
+        "street number": 86,
+        "postal code": "2531"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "062 590 19 57",
+    "email_address": "gasser.brunner@hotmail.com"
+}

@@ -1,0 +1,68 @@
+{
+    "name": "Wagemakers Verhoeven Schipper",
+    "address": {
+        "city": "Enschede",
+        "street name": "Kalverstraat",
+        "street number": 22,
+        "postal code": "9786 37"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1992-01-23",
+    "nationality": "Dutch",
+    "passport_number": "YA8562927",
+    "passport_issue_date": "2016-04-27",
+    "passport_expiry_date": "2026-04-26",
+    "gender": "M",
+    "phone_number": "+31 06 82623048",
+    "email_address": "wagemakers.schipper@icloud.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Wesselink College Amersfoort",
+        "graduation_year": 2011
+    },
+    "higher_education": [
+        {
+            "university": "Erasmus University Rotterdam",
+            "graduation_year": 2014
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "Shell Nederland B.V.",
+            "position": "Junior Trader",
+            "salary": 63000
+        }
+    ],
+    "aum": {
+        "savings": 70000,
+        "inheritance": 2900000,
+        "real_estate_value": 2497000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 967000,
+            "property location": "Enschede"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1530000,
+            "property location": "Groningen"
+        }
+    ],
+    "investment_risk_profile": "Conservative",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

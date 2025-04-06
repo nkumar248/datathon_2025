@@ -1,0 +1,17 @@
+{
+    "name": "Antonia Giorgia Bianchi",
+    "first_name": "Antonia",
+    "middle_name": "Giorgia",
+    "last_name": "Bianchi",
+    "passport_number": "EN7601403",
+    "currency": "EUR",
+    "address": {
+        "city": "Parma",
+        "street name": "Via Nazionale",
+        "street number": 94,
+        "postal code": "41522"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 332 6725320",
+    "email_address": "antonia.bianchi@infinito.it"
+}

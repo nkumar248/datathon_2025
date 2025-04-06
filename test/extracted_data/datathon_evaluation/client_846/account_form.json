@@ -1,0 +1,17 @@
+{
+    "name": "Moens Maes Dumont",
+    "first_name": "Moens",
+    "middle_name": "Maes",
+    "last_name": "Dumont",
+    "passport_number": "AG1800784",
+    "currency": "EUR",
+    "address": {
+        "city": "La Louvière",
+        "street name": "Boulevard Anspach",
+        "street number": 14,
+        "postal code": "1102"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0443 212 819",
+    "email_address": "moens.dumont@hotmail.com"
+}

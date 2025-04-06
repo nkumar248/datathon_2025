@@ -1,0 +1,17 @@
+{
+    "name": "Julia Josefine Lang",
+    "first_name": "Julia",
+    "middle_name": "Josefine",
+    "last_name": "Lang",
+    "passport_number": "GZ5788709",
+    "currency": "EUR",
+    "address": {
+        "city": "Linz",
+        "street name": "Westbahnstraße",
+        "street number": 71,
+        "postal code": "4444"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 895 199 7847",
+    "email_address": "julia.lang@vol.at"
+}

@@ -1,0 +1,78 @@
+{
+    "name": "Rissanen Hiltunen Heikkinen",
+    "address": {
+        "city": "Turku",
+        "street name": "Merituulentie",
+        "street number": 19,
+        "postal code": "06086"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1982-07-06",
+    "nationality": "Finnish",
+    "passport_number": "HD4253751",
+    "passport_issue_date": "2017-02-24",
+    "passport_expiry_date": "2027-02-23",
+    "gender": "M",
+    "phone_number": "+358 040 371 31 39",
+    "email_address": "rissanen.heikkinen@elisa.fi",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lahti Christian Institute",
+        "graduation_year": 2001
+    },
+    "higher_education": [
+        {
+            "university": "Aalto University",
+            "graduation_year": 2007
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2006,
+            "end_year": 2008,
+            "company": "Scandic Hotels Oy",
+            "position": "Hotel Manager",
+            "salary": 37000
+        },
+        {
+            "start_year": 2009,
+            "end_year": 2013,
+            "company": "Sokos Hotels",
+            "position": "General Manager",
+            "salary": 64000
+        },
+        {
+            "start_year": 2015,
+            "end_year": null,
+            "company": "Radisson Blu Hotels",
+            "position": "Regional Vice President",
+            "salary": 130000
+        }
+    ],
+    "aum": {
+        "savings": 180000,
+        "inheritance": 4950000,
+        "real_estate_value": 1160000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2012,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1160000,
+            "property location": "Turku"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

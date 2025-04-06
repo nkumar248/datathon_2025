@@ -1,0 +1,17 @@
+{
+    "first_name": "Schäfer",
+    "middle_name": "Wagner",
+    "last_name": "Fischer",
+    "gender": "M",
+    "country": "Germany",
+    "country_code": "DEU",
+    "nationality": "German",
+    "birth_date": "1983-06-15",
+    "passport_number": "ZP2945924",
+    "passport_mrz": [
+        "P<DEUFISCHER<<SCHÄFER<WAGNER<<<<<<<<<<<<<<<<<",
+        "ZP2945924DEU830615<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-12-13",
+    "passport_expiry_date": "2032-12-12"
+}

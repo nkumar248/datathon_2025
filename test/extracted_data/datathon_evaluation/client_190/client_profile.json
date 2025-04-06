@@ -1,0 +1,81 @@
+{
+    "name": "Christine Anna Mikkelsen",
+    "address": {
+        "city": "Skanderborg",
+        "street name": "Vesterbrogade",
+        "street number": 65,
+        "postal code": "4216"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1985-04-12",
+    "nationality": "Danish",
+    "passport_number": "TQ8330027",
+    "passport_issue_date": "2017-04-01",
+    "passport_expiry_date": "2027-03-31",
+    "gender": "F",
+    "phone_number": "+45 52 28 01 64",
+    "email_address": "christine.mikkelsen@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Københavns Åbent Gymnasium",
+        "graduation_year": 2005
+    },
+    "higher_education": [
+        {
+            "university": "Roskilde University",
+            "graduation_year": 2009
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2009,
+            "end_year": 2010,
+            "company": "SAP Danmark A/S",
+            "position": "Software Developer",
+            "salary": 265000
+        },
+        {
+            "start_year": 2010,
+            "end_year": null,
+            "company": "Microsoft Danmark A/S",
+            "position": "Startup Founder",
+            "salary": 895000
+        }
+    ],
+    "aum": {
+        "savings": 1320000,
+        "inheritance": 52910000,
+        "real_estate_value": 4230000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 990000,
+            "property location": "Skanderborg"
+        },
+        {
+            "property type": "flat",
+            "property value": 1040000,
+            "property location": "Horsens"
+        },
+        {
+            "property type": "house",
+            "property value": 2200000,
+            "property location": "Copenhagen"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Germany"
+    ],
+    "currency": "DKK"
+}

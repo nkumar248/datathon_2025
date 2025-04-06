@@ -1,0 +1,85 @@
+{
+    "name": "Friis Nørregaard Haugaard",
+    "address": {
+        "city": "Horsens",
+        "street name": "Krystalgade",
+        "street number": 97,
+        "postal code": "8714"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1975-04-04",
+    "nationality": "Danish",
+    "passport_number": "KD8473770",
+    "passport_issue_date": "2024-04-29",
+    "passport_expiry_date": "2034-04-28",
+    "gender": "M",
+    "phone_number": "+45 94 67 11 53",
+    "email_address": "friis.haugaard@wanadoo.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Birkerød Gymnasium",
+        "graduation_year": 1995
+    },
+    "higher_education": [
+        {
+            "university": "Technical University of Denmark (DTU)",
+            "graduation_year": 2000
+        },
+        {
+            "university": "Copenhagen Business School",
+            "graduation_year": 2004
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2000,
+            "end_year": 2003,
+            "company": "SAP Danmark A/S",
+            "position": "Software Developer",
+            "salary": 267000
+        },
+        {
+            "start_year": 2005,
+            "end_year": null,
+            "company": "SAP Danmark A/S",
+            "position": "Startup Founder",
+            "salary": 1435000
+        }
+    ],
+    "aum": {
+        "savings": 2570000,
+        "inheritance": 7800000,
+        "real_estate_value": 5590000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2010,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 900000,
+            "property location": "Horsens"
+        },
+        {
+            "property type": "house",
+            "property value": 1960000,
+            "property location": "Hillerød"
+        },
+        {
+            "property type": "villa",
+            "property value": 2730000,
+            "property location": "Sønderborg"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Italy"
+    ],
+    "currency": "DKK"
+}

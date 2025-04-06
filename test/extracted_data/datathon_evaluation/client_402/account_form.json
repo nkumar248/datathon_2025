@@ -1,0 +1,17 @@
+{
+    "name": "Anniina Liisa Uusitalo",
+    "first_name": "Anniina",
+    "middle_name": "Liisa",
+    "last_name": "Uusitalo",
+    "passport_number": "PD7049735",
+    "currency": "EUR",
+    "address": {
+        "city": "Pori",
+        "street name": "Helsinginkatu",
+        "street number": 17,
+        "postal code": "45044"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 046 788 95 67",
+    "email_address": "anniina.uusitalo@saunalahti.fi"
+}

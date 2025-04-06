@@ -1,0 +1,80 @@
+{
+    "name": "Koskinen Tiainen Miettinen",
+    "address": {
+        "city": "Jyväskylä",
+        "street name": "Kauppakartanonkatu",
+        "street number": 100,
+        "postal code": "84214"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1980-12-21",
+    "nationality": "Finnish",
+    "passport_number": "VH1961785",
+    "passport_issue_date": "2020-11-02",
+    "passport_expiry_date": "2030-11-01",
+    "gender": "M",
+    "phone_number": "+358 046 891 79 48",
+    "email_address": "koskinen.miettinen@elisa.fi",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Joensuu Christian College",
+        "graduation_year": 1998
+    },
+    "higher_education": [
+        {
+            "university": "University of Oulu",
+            "graduation_year": 2005
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2004,
+            "end_year": 2008,
+            "company": "Neste Shipping Oy",
+            "position": "Ship Broker",
+            "salary": 38000
+        },
+        {
+            "start_year": 2009,
+            "end_year": null,
+            "company": "Godby Shipping Ab",
+            "position": "Shipping Company Owner",
+            "salary": 152000
+        }
+    ],
+    "aum": {
+        "savings": 240000,
+        "inheritance": 2220000,
+        "real_estate_value": 3740000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 920000,
+            "property location": "Jyväskylä"
+        },
+        {
+            "property type": "flat",
+            "property value": 700000,
+            "property location": "Jyväskylä"
+        },
+        {
+            "property type": "villa",
+            "property value": 2120000,
+            "property location": "Salon"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

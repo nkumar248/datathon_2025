@@ -1,0 +1,17 @@
+{
+    "name": "Guillaume Marchand Robert",
+    "first_name": "Guillaume",
+    "middle_name": "Marchand",
+    "last_name": "Robert",
+    "passport_number": "CR4216449",
+    "currency": "EUR",
+    "address": {
+        "city": "Bordeaux",
+        "street name": "Rue du Faubourg Saint-Honoré",
+        "street number": 56,
+        "postal code": "14549"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 02 54 81 79 26",
+    "email_address": "guillaume.robert@laposte.net"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Schäfer Schwarz Schmitt",
+    "first_name": "Schäfer",
+    "middle_name": "Schwarz",
+    "last_name": "Schmitt",
+    "passport_number": "QR7893737",
+    "currency": "EUR",
+    "address": {
+        "city": "Essen",
+        "street name": "Marienplatz",
+        "street number": 92,
+        "postal code": "92721"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 5486 759683",
+    "email_address": "schafer.schmitt@hotmail.com"
+}

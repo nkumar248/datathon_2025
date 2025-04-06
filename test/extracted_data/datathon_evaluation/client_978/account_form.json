@@ -1,0 +1,17 @@
+{
+    "name": "Antonia Estefanía Jiménez",
+    "first_name": "Antonia",
+    "middle_name": "Estefanía",
+    "last_name": "Jiménez",
+    "passport_number": "HN8144023",
+    "currency": "EUR",
+    "address": {
+        "city": "Santa Cruz de Tenerife",
+        "street name": "Plaza de la Trinidad",
+        "street number": 72,
+        "postal code": "84656"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 622 768 488",
+    "email_address": "antonia.jimenez@telefonica.es"
+}

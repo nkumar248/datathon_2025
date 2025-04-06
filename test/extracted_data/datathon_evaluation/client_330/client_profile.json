@@ -1,0 +1,63 @@
+{
+    "name": "Clara Lucía Castro",
+    "address": {
+        "city": "Logroño",
+        "street name": "Calle de San Juan Bautista",
+        "street number": 80,
+        "postal code": "47508"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1990-05-11",
+    "nationality": "Spanish",
+    "passport_number": "SD4310572",
+    "passport_issue_date": "2017-10-25",
+    "passport_expiry_date": "2027-10-24",
+    "gender": "F",
+    "phone_number": "604 298 751",
+    "email_address": "clara.castro@yahoo.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "IES Jorge Guillén Salamanca",
+        "graduation_year": 2010
+    },
+    "higher_education": [
+        {
+            "university": "Universidad Comercial de Deusto",
+            "graduation_year": 2015
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2015,
+            "end_year": null,
+            "company": "CaixaBank S.A.",
+            "position": "Financial Advisor",
+            "salary": 31000
+        }
+    ],
+    "aum": {
+        "savings": 30000,
+        "inheritance": 6890000,
+        "real_estate_value": 710000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 710000,
+            "property location": "Logroño"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

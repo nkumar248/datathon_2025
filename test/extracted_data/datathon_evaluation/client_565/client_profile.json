@@ -1,0 +1,77 @@
+{
+    "name": "Møller Hansen Mikkelsen",
+    "address": {
+        "city": "Greve",
+        "street name": "Studiestræde",
+        "street number": 48,
+        "postal code": "4830"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1959-07-17",
+    "nationality": "Danish",
+    "passport_number": "RM8453531",
+    "passport_issue_date": "2020-10-25",
+    "passport_expiry_date": "2030-10-24",
+    "gender": "M",
+    "phone_number": "44 10 80 38",
+    "email_address": "mller.mikkelsen@yousee.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Herning Gymnasium",
+        "graduation_year": 1979
+    },
+    "higher_education": [
+        {
+            "university": "International Business Academy (IBA)",
+            "graduation_year": 1983
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1983,
+            "end_year": 1985,
+            "company": "Nykredit A/S",
+            "position": "Investment Banker",
+            "salary": 286000
+        },
+        {
+            "start_year": 1985,
+            "end_year": 2020,
+            "company": "Jyske Bank A/S",
+            "position": "Private Equity Investor",
+            "salary": 3127000
+        }
+    ],
+    "aum": {
+        "savings": 5670000,
+        "inheritance": 0,
+        "real_estate_value": 5880000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1400000,
+            "property location": "Greve"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1700000,
+            "property location": "Gladsaxe"
+        },
+        {
+            "property type": "villa",
+            "property value": 2780000,
+            "property location": "Næstved"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Austria"
+    ],
+    "currency": "DKK"
+}

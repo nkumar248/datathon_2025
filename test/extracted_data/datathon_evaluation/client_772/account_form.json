@@ -1,0 +1,17 @@
+{
+    "name": "Evelien Julia Peeters",
+    "first_name": "Evelien",
+    "middle_name": "Julia",
+    "last_name": "Peeters",
+    "passport_number": "GL4763213",
+    "currency": "EUR",
+    "address": {
+        "city": "Leiden",
+        "street name": "Oudegracht",
+        "street number": 94,
+        "postal code": "7433 14"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 41572677",
+    "email_address": "evelien.peeters@hotmail.com"
+}

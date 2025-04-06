@@ -1,0 +1,17 @@
+{
+    "first_name": "Díaz",
+    "middle_name": "Ruiz",
+    "last_name": "Romero",
+    "gender": "M",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "1956-06-17",
+    "passport_number": "VA9800121",
+    "passport_mrz": [
+        "P<ESPROMERO<<DÍAZ<RUIZ<<<<<<<<<<<<<<<<<<<<<<<",
+        "VA9800121ESP560617<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-08-28",
+    "passport_expiry_date": "2032-08-27"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "Roose Michiels Janssens",
+    "address": {
+        "city": "La Louvière",
+        "street name": "Avenue de la Toison d'Or",
+        "street number": 53,
+        "postal code": "2897"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1997-05-25",
+    "nationality": "Belgian",
+    "passport_number": "SQ1233068",
+    "passport_issue_date": "2018-05-01",
+    "passport_expiry_date": "2025-04-30",
+    "gender": "M",
+    "phone_number": "+32 0486 406 960",
+    "email_address": "roose.janssens@voo.be",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Sint-Bavohumaniora",
+        "graduation_year": 2017
+    },
+    "higher_education": [
+        {
+            "university": "Erasmus University College Brussels",
+            "graduation_year": 2022
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2021,
+            "end_year": null,
+            "company": "Vlaamse Radio- en Televisieomroeporganisatie (VRT)",
+            "position": "Journalist",
+            "salary": 41000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 1170000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

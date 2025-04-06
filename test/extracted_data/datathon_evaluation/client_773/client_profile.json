@@ -1,0 +1,90 @@
+{
+    "name": "Silvestri Santoro Galli",
+    "address": {
+        "city": "Bologna",
+        "street name": "Piazza Farnese",
+        "street number": 72,
+        "postal code": "64190"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1957-12-03",
+    "nationality": "Italian",
+    "passport_number": "PX3276839",
+    "passport_issue_date": "2024-09-27",
+    "passport_expiry_date": "2034-09-26",
+    "gender": "M",
+    "phone_number": "+39 322 2565610",
+    "email_address": "silvestri.galli@infinito.it",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Istituto Tecnico Industriale Statale Enrico Mattei Roma",
+        "graduation_year": 1975
+    },
+    "higher_education": [
+        {
+            "university": "IMT Institute for Advanced Studies Lucca",
+            "graduation_year": 1982
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1982,
+            "end_year": 1983,
+            "company": "Edison S.p.A.",
+            "position": "Junior Trader",
+            "salary": 24000
+        },
+        {
+            "start_year": 1984,
+            "end_year": 1985,
+            "company": "Edison S.p.A.",
+            "position": "Senior Trader",
+            "salary": 39000
+        },
+        {
+            "start_year": 1987,
+            "end_year": 1988,
+            "company": "ERG S.p.A.",
+            "position": "Trading Desk Manager",
+            "salary": 56000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 2018,
+            "company": "ERG S.p.A.",
+            "position": "Head of Commodities",
+            "salary": 729000
+        }
+    ],
+    "aum": {
+        "savings": 1410000,
+        "inheritance": 0,
+        "real_estate_value": 4227000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1337000,
+            "property location": "Bologna"
+        },
+        {
+            "property type": "villa",
+            "property value": 2030000,
+            "property location": "Naples"
+        },
+        {
+            "property type": "condo",
+            "property value": 860000,
+            "property location": "Venice"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

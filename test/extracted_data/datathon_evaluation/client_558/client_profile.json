@@ -1,0 +1,91 @@
+{
+    "name": "Emma Louna Bertrand",
+    "address": {
+        "city": "Paris",
+        "street name": "Place Vendôme",
+        "street number": 90,
+        "postal code": "93904"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1976-11-15",
+    "nationality": "French",
+    "passport_number": "CG6803206",
+    "passport_issue_date": "2022-01-06",
+    "passport_expiry_date": "2032-01-05",
+    "gender": "F",
+    "phone_number": "03 20 64 89 96",
+    "email_address": "emma.bertrand@icloud.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Lycée Polyvalent François Mauriac",
+        "graduation_year": 1995
+    },
+    "higher_education": [
+        {
+            "university": "American Graduate School of Business in Paris",
+            "graduation_year": 1999
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2001,
+            "end_year": 2004,
+            "company": "Alstom S.A.",
+            "position": "Plant Manager",
+            "salary": 31000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2011,
+            "company": "Saint-Gobain S.A.",
+            "position": "Operations Director",
+            "salary": 48000
+        },
+        {
+            "start_year": 2012,
+            "end_year": 2016,
+            "company": "Alstom S.A.",
+            "position": "CEO",
+            "salary": 65000
+        },
+        {
+            "start_year": 2017,
+            "end_year": 2018,
+            "company": "Saint-Gobain S.A.",
+            "position": "Chairman",
+            "salary": 128000
+        },
+        {
+            "start_year": 2020,
+            "end_year": 2023,
+            "company": "Saint-Gobain S.A.",
+            "position": "Conglomerate Owner",
+            "salary": 171000
+        }
+    ],
+    "aum": {
+        "savings": 190000,
+        "inheritance": 760000,
+        "real_estate_value": 1590000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2005,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1590000,
+            "property location": "Paris"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

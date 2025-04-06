@@ -1,0 +1,17 @@
+{
+    "name": "Evelyne Corinne Ackermann",
+    "first_name": "Evelyne",
+    "middle_name": "Corinne",
+    "last_name": "Ackermann",
+    "passport_number": "GR1148620",
+    "currency": "CHF",
+    "address": {
+        "city": "Geneva",
+        "street name": "Steinstrasse",
+        "street number": 66,
+        "postal code": "2075"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 004 168 44 71",
+    "email_address": "evelyne.ackermann@swisscom.ch"
+}

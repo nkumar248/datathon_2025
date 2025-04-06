@@ -1,0 +1,17 @@
+{
+    "name": "Wagner Kaiser Brandstetter",
+    "first_name": "Wagner",
+    "middle_name": "Kaiser",
+    "last_name": "Brandstetter",
+    "passport_number": "BY3063509",
+    "currency": "EUR",
+    "address": {
+        "city": "Eisenstadt",
+        "street name": "Schönlaterngasse",
+        "street number": 1,
+        "postal code": "6608"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "628 901 1347",
+    "email_address": "wagner.brandstetter@icloud.com"
+}

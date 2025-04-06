@@ -1,0 +1,17 @@
+{
+    "name": "Torres Jiménez Suárez",
+    "first_name": "Torres",
+    "middle_name": "Jiménez",
+    "last_name": "Suárez",
+    "passport_number": "ZC1971781",
+    "currency": "EUR",
+    "address": {
+        "city": "Zaragoza",
+        "street name": "Calle de Alcalá",
+        "street number": 64,
+        "postal code": "56389"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 644 211 178",
+    "email_address": "torres.suarez@yahoo.es"
+}

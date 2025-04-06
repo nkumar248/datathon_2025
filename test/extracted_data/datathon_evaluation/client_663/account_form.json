@@ -1,0 +1,17 @@
+{
+    "name": "Møller Jespersen Højgaard",
+    "first_name": "Møller",
+    "middle_name": "Jespersen",
+    "last_name": "Højgaard",
+    "passport_number": "XO8869564",
+    "currency": "DKK",
+    "address": {
+        "city": "Taastrup",
+        "street name": "Krystalgade",
+        "street number": 25,
+        "postal code": "7752"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 57 30 54 44",
+    "email_address": "mller.hjgaard@dk-hostmaster.dk"
+}

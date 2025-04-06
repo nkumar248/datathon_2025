@@ -1,0 +1,17 @@
+{
+    "name": "Laine Seppälä Turunen",
+    "first_name": "Laine",
+    "middle_name": "Seppälä",
+    "last_name": "Turunen",
+    "passport_number": "XA7556157",
+    "currency": "EUR",
+    "address": {
+        "city": "Tuusula",
+        "street name": "Ruoholahteenkatu",
+        "street number": 25,
+        "postal code": "29864"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 043 456 35 25",
+    "email_address": "laine.turunen@dnainternet.fi"
+}

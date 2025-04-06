@@ -1,0 +1,17 @@
+{
+    "name": "Peters Peeters Lemaire",
+    "first_name": "Peters",
+    "middle_name": "Peeters",
+    "last_name": "Lemaire",
+    "passport_number": "EY2896486",
+    "currency": "EUR",
+    "address": {
+        "city": "Antwerp",
+        "street name": "Rue du Trône",
+        "street number": 67,
+        "postal code": "1627"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0444 303 668",
+    "email_address": "peters.lemaire@belgacom.be"
+}

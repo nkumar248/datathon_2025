@@ -1,0 +1,17 @@
+{
+    "first_name": "Esposito",
+    "middle_name": "Rizzo",
+    "last_name": "Lombardi",
+    "gender": "M",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1998-06-10",
+    "passport_number": "KJ6749684",
+    "passport_mrz": [
+        "P<ITALOMBARDI<<ESPOSITO<RIZZO<<<<<<<<<<<<<<<<",
+        "KJ6749684ITA980610<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-08-24",
+    "passport_expiry_date": "2032-08-23"
+}

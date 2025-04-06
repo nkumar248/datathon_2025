@@ -1,0 +1,64 @@
+{
+    "name": "Benita Alina Schmidt",
+    "address": {
+        "city": "Cologne",
+        "street name": "Breitscheidplatz",
+        "street number": 60,
+        "postal code": "29897"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1996-06-15",
+    "nationality": "German",
+    "passport_number": "WK5187117",
+    "passport_issue_date": "2023-10-04",
+    "passport_expiry_date": "2033-10-03",
+    "gender": "F",
+    "phone_number": "+49 9556 252576",
+    "email_address": "benita.schmidt@gmail.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Erasmus-Grasser-Gymnasium München",
+        "graduation_year": 2014
+    },
+    "higher_education": [
+        {
+            "university": "Jacobs University Bremen",
+            "graduation_year": 2019
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2020,
+            "end_year": 2022,
+            "company": "KKR Deutschland GmbH",
+            "position": "Analyst",
+            "salary": 39000
+        },
+        {
+            "start_year": 2022,
+            "end_year": null,
+            "company": "KKR Deutschland GmbH",
+            "position": "Associate",
+            "salary": 65000
+        }
+    ],
+    "aum": {
+        "savings": 40000,
+        "inheritance": 1740000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2020,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Germany"
+    ],
+    "currency": "EUR"
+}

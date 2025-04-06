@@ -1,0 +1,57 @@
+{
+    "name": "Daantje Joke Krol",
+    "address": {
+        "city": "Delft",
+        "street name": "Eindhovenseweg",
+        "street number": 26,
+        "postal code": "1299 36"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1998-01-15",
+    "nationality": "Dutch",
+    "passport_number": "LZ6333975",
+    "passport_issue_date": "2018-05-09",
+    "passport_expiry_date": "2028-05-08",
+    "gender": "F",
+    "phone_number": "06 05321381",
+    "email_address": "daantje.krol@hotmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "RSG Magister Almelo",
+        "graduation_year": 2015
+    },
+    "higher_education": [
+        {
+            "university": "Tio University of Applied Sciences",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2022,
+            "end_year": null,
+            "company": "PGGM Investments",
+            "position": "Stockbroker",
+            "salary": 43000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 1360000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2020,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

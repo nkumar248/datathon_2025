@@ -1,0 +1,17 @@
+{
+    "name": "Muñoz López Díaz",
+    "first_name": "Muñoz",
+    "middle_name": "López",
+    "last_name": "Gómez",
+    "passport_number": "NT4484294",
+    "currency": "EUR",
+    "address": {
+        "city": "Murcia",
+        "street name": "Calle de San Juan Bautista",
+        "street number": 62,
+        "postal code": "92990"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "603 484 347",
+    "email_address": "munoz.diaz@ono.es"
+}

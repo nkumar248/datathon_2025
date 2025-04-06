@@ -1,0 +1,17 @@
+{
+    "name": "Mulders Voorn Willems",
+    "first_name": "Mulders",
+    "middle_name": "Voorn",
+    "last_name": "Willems",
+    "passport_number": "ZE6122633",
+    "currency": "EUR",
+    "address": {
+        "city": "Delft",
+        "street name": "Willemsparkweg",
+        "street number": 36,
+        "postal code": "7524 75"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "06 92118338",
+    "email_address": "mulders.willems@upcmail.nl"
+}

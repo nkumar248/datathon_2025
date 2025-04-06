@@ -1,0 +1,17 @@
+{
+    "name": "Santoro Donati Silvestri",
+    "first_name": "Santoro",
+    "middle_name": "Donati",
+    "last_name": "Silvestri",
+    "passport_number": "OD6282041",
+    "currency": "EUR",
+    "address": {
+        "city": "Milan",
+        "street name": "Via Dora Riparia",
+        "street number": 33,
+        "postal code": "96214"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "323 4443234",
+    "email_address": "santoro.silvestri@libero.it"
+}

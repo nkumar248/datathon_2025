@@ -1,0 +1,17 @@
+{
+    "name": "Angela Concha Ramos",
+    "first_name": "Angela",
+    "middle_name": "Concha",
+    "last_name": "Ramos",
+    "passport_number": "SQ6290944",
+    "currency": "EUR",
+    "address": {
+        "city": "Málaga",
+        "street name": "Paseo de Gracia",
+        "street number": 5,
+        "postal code": "02232"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 613 503 694",
+    "email_address": "angela.ramos@vodafone.es"
+}

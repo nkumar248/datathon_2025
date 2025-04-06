@@ -1,0 +1,74 @@
+{
+    "name": "Martina Giovanna Belli",
+    "address": {
+        "city": "Venice",
+        "street name": "Corso Como",
+        "street number": 3,
+        "postal code": "90117"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1990-05-06",
+    "nationality": "Italian",
+    "passport_number": "QC6543463",
+    "passport_issue_date": "2021-01-28",
+    "passport_expiry_date": "2031-01-27",
+    "gender": "F",
+    "phone_number": "+39 357 7854820",
+    "email_address": "martina.belli@tiscali.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Istituto Tecnico Agrario Statale Giuseppe Garibaldi Parma",
+        "graduation_year": 2010
+    },
+    "higher_education": [
+        {
+            "university": "American University of Rome",
+            "graduation_year": 2014
+        },
+        {
+            "university": "European University of Rome",
+            "graduation_year": 2018
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2014,
+            "end_year": 2015,
+            "company": "ERG S.p.A.",
+            "position": "Junior Trader",
+            "salary": 25000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "ENI S.p.A.",
+            "position": "Senior Trader",
+            "salary": 52000
+        }
+    ],
+    "aum": {
+        "savings": 60000,
+        "inheritance": 290000,
+        "real_estate_value": 860000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 860000,
+            "property location": "Venice"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

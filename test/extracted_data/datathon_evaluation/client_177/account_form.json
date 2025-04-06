@@ -1,0 +1,17 @@
+{
+    "name": "Louise Laurène Thomas",
+    "first_name": "Louise",
+    "middle_name": "Laurène",
+    "last_name": "Thomas",
+    "passport_number": "QQ7377978",
+    "currency": "EUR",
+    "address": {
+        "city": "Paris",
+        "street name": "Boulevard Richard Lenoir",
+        "street number": 50,
+        "postal code": "37596"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 02 89 77 88 34",
+    "email_address": "louise.thomas@live.fr"
+}

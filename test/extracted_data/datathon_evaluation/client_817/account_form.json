@@ -1,0 +1,17 @@
+{
+    "name": "Laurène Léa Bonnet",
+    "first_name": "Laurène",
+    "middle_name": "Léa",
+    "last_name": "Bonnet",
+    "passport_number": "PB5593342",
+    "currency": "EUR",
+    "address": {
+        "city": "Orléans",
+        "street name": "Avenue de la Grande Armée",
+        "street number": 31,
+        "postal code": "90004"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 02 15 05 73 72",
+    "email_address": "laurene.bonnet@wanadoo.fr"
+}

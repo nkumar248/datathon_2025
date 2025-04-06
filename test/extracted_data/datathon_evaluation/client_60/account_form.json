@@ -1,0 +1,17 @@
+{
+    "name": "Lykke Nielsen Thomsen",
+    "first_name": "Lykke",
+    "middle_name": "Nielsen",
+    "last_name": "Thomsen",
+    "passport_number": "RV3095848",
+    "currency": "DKK",
+    "address": {
+        "city": "Taastrup",
+        "street name": "Ørsteds Park",
+        "street number": 80,
+        "postal code": "2576"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 78 38 25 83",
+    "email_address": "lykke.thomsen@yousee.dk"
+}

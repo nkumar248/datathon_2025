@@ -1,0 +1,17 @@
+{
+    "first_name": "Dupont",
+    "middle_name": "Boucher",
+    "last_name": "Dubois",
+    "gender": "M",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1982-05-18",
+    "passport_number": "HB4868898",
+    "passport_mrz": [
+        "P<FRADUBOIS<<DUPONT<BOUCHER<<<<<<<<<<<<<<<<<<",
+        "HB4868898FRA820518<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2019-12-27",
+    "passport_expiry_date": "2029-12-26"
+}

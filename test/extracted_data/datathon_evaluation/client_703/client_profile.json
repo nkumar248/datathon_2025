@@ -1,0 +1,76 @@
+{
+    "name": "Miettinen Ahonen Peltola",
+    "address": {
+        "city": "Hyvinkää",
+        "street name": "Neljäs linja",
+        "street number": 38,
+        "postal code": "15195"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1964-11-27",
+    "nationality": "Finnish",
+    "passport_number": "GO2798711",
+    "passport_issue_date": "2019-07-11",
+    "passport_expiry_date": "2029-07-10",
+    "gender": "M",
+    "phone_number": "+358 047 308 24 86",
+    "email_address": "miettinen.peltola@saunalahti.fi",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Nummela lukio",
+        "graduation_year": 1982
+    },
+    "higher_education": [
+        {
+            "university": "University of Helsinki",
+            "graduation_year": 1988
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1988,
+            "end_year": 1992,
+            "company": "OP Private Bank",
+            "position": "Financial Advisor",
+            "salary": 37000
+        },
+        {
+            "start_year": 1992,
+            "end_year": 2025,
+            "company": "OP Private Bank",
+            "position": "Portfolio Manager",
+            "salary": 334000
+        }
+    ],
+    "aum": {
+        "savings": 720000,
+        "inheritance": 4150000,
+        "real_estate_value": 1966000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2014,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 786000,
+            "property location": "Hyvinkää"
+        },
+        {
+            "property type": "house",
+            "property value": 1180000,
+            "property location": "Kauniainen"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "France"
+    ],
+    "currency": "EUR"
+}

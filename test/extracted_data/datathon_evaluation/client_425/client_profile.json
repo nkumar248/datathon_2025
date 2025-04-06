@@ -1,0 +1,75 @@
+{
+    "name": "Adèle Camille Lambrechts",
+    "address": {
+        "city": "Namur",
+        "street name": "Rue des Chartreux",
+        "street number": 40,
+        "postal code": "9603"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1969-02-25",
+    "nationality": "Belgian",
+    "passport_number": "YJ8521397",
+    "passport_issue_date": "2020-08-13",
+    "passport_expiry_date": "2027-08-12",
+    "gender": "F",
+    "phone_number": "+32 0459 973 572",
+    "email_address": "adele.lambrechts@icloud.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Koninklijk Atheneum Anderlecht",
+        "graduation_year": 1987
+    },
+    "higher_education": [
+        {
+            "university": "University of Liège",
+            "graduation_year": 1993
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1992,
+            "end_year": 1993,
+            "company": "PMV NV",
+            "position": "Stockbroker",
+            "salary": 41000
+        },
+        {
+            "start_year": 1994,
+            "end_year": null,
+            "company": "GIMV NV",
+            "position": "Portfolio Manager",
+            "salary": 396000
+        }
+    ],
+    "aum": {
+        "savings": 810000,
+        "inheritance": 1790000,
+        "real_estate_value": 2800000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2013,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1109000,
+            "property location": "Namur"
+        },
+        {
+            "property type": "villa",
+            "property value": 1691000,
+            "property location": "Wavre"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

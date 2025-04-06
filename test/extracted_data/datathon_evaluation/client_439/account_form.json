@@ -1,0 +1,17 @@
+{
+    "name": "Katharina Lisa Gruber",
+    "first_name": "Katharina",
+    "middle_name": "Lisa",
+    "last_name": "Gruber",
+    "passport_number": "QK8682817",
+    "currency": "EUR",
+    "address": {
+        "city": "Graz",
+        "street name": "Schlossallee",
+        "street number": 50,
+        "postal code": "1523"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "912 495 7666",
+    "email_address": "katharina.gruber@aon.at"
+}

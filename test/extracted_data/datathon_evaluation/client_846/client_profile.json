@@ -1,0 +1,65 @@
+{
+    "name": "Moens Maes Dumont",
+    "address": {
+        "city": "La Louvière",
+        "street name": "Boulevard Anspach",
+        "street number": 14,
+        "postal code": "1102"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1996-06-22",
+    "nationality": "Belgian",
+    "passport_number": "AG1800784",
+    "passport_issue_date": "2020-09-02",
+    "passport_expiry_date": "2027-09-01",
+    "gender": "M",
+    "phone_number": "+32 0443 212 819",
+    "email_address": "moens.dumont@hotmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Koninklijk Atheneum Gent",
+        "graduation_year": 2014
+    },
+    "higher_education": [
+        {
+            "university": "Vesalius College",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2021,
+            "end_year": 2022,
+            "company": "ING Belgium SA/NV",
+            "position": "Investment Banker",
+            "salary": 36000
+        },
+        {
+            "start_year": 2024,
+            "end_year": null,
+            "company": "ING Belgium SA/NV",
+            "position": "Private Equity Investor",
+            "salary": 50000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 1960000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2016,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

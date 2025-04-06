@@ -1,0 +1,85 @@
+{
+    "name": "Julia Sophia Zbinden",
+    "address": {
+        "city": "Chur",
+        "street name": "Bärenplatz",
+        "street number": 29,
+        "postal code": "6047"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1967-04-20",
+    "nationality": "Swiss",
+    "passport_number": "AS8908394",
+    "passport_issue_date": "2024-10-30",
+    "passport_expiry_date": "2034-10-29",
+    "gender": "F",
+    "phone_number": "+41 055 840 99 29",
+    "email_address": "julia.zbinden@teli.ch",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Gymnasium und Wirtschaftsmittelschule Sarnen Obwalden",
+        "graduation_year": 1986
+    },
+    "higher_education": [
+        {
+            "university": "Hotel Institute Montreux",
+            "graduation_year": 1991
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1992,
+            "end_year": 1997,
+            "company": "UBS AG",
+            "position": "Family Office Manager",
+            "salary": 74000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2002,
+            "company": "Julius Baer Gruppe AG",
+            "position": "Investment Director",
+            "salary": 99000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2009,
+            "company": "Credit Suisse AG",
+            "position": "CFO",
+            "salary": 215000
+        },
+        {
+            "start_year": 2011,
+            "end_year": null,
+            "company": "Julius Baer Gruppe AG",
+            "position": "COO",
+            "salary": 787000
+        }
+    ],
+    "aum": {
+        "savings": 1360000,
+        "inheritance": 280000,
+        "real_estate_value": 2910000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2014,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 2910000,
+            "property location": "Chur"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Netherlands"
+    ],
+    "currency": "CHF"
+}

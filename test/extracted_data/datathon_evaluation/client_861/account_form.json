@@ -1,0 +1,17 @@
+{
+    "name": "Lynn Lena Keller",
+    "first_name": "Lynn",
+    "middle_name": "Lena",
+    "last_name": "Keller",
+    "passport_number": "TQ6140116",
+    "currency": "CHF",
+    "address": {
+        "city": "Kreuzlingen",
+        "street name": "Mühlegasse",
+        "street number": 12,
+        "postal code": "0624"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 074 305 16 71",
+    "email_address": "lynn.keller@gmx.ch"
+}

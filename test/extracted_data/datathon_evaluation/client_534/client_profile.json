@@ -1,0 +1,78 @@
+{
+    "name": "Chiara Evelyne Huber",
+    "address": {
+        "city": "Bellinzona",
+        "street name": "Quai du Général-Guisan",
+        "street number": 39,
+        "postal code": "8898"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1976-11-09",
+    "nationality": "Swiss",
+    "passport_number": "WF0609852",
+    "passport_issue_date": "2023-02-19",
+    "passport_expiry_date": "2033-02-18",
+    "gender": "F",
+    "phone_number": "081 305 48 96",
+    "email_address": "chiara.huber@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Liceo di Lugano Lugano",
+        "graduation_year": 1994
+    },
+    "higher_education": [
+        {
+            "university": "ETH Zurich",
+            "graduation_year": 2001
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2001,
+            "end_year": 2005,
+            "company": "Actelion Pharmaceuticals Ltd.",
+            "position": "Research Scientist",
+            "salary": 69000
+        },
+        {
+            "start_year": 2007,
+            "end_year": 2009,
+            "company": "Novartis AG",
+            "position": "Biotech Startup Founder",
+            "salary": 86000
+        },
+        {
+            "start_year": 2011,
+            "end_year": null,
+            "company": "Johnson & Johnson Switzerland",
+            "position": "CEO",
+            "salary": 404000
+        }
+    ],
+    "aum": {
+        "savings": 640000,
+        "inheritance": 1620000,
+        "real_estate_value": 3290000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2009,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 3290000,
+            "property location": "Bellinzona"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Austria"
+    ],
+    "currency": "CHF"
+}

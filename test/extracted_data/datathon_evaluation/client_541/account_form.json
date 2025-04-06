@@ -1,0 +1,17 @@
+{
+    "name": "Céline Lea Wyss",
+    "first_name": "Céline",
+    "middle_name": "Lea",
+    "last_name": "Wyss",
+    "passport_number": "XZ2226706",
+    "currency": "CHF",
+    "address": {
+        "city": "Neuchatel",
+        "street name": "Petersplatz",
+        "street number": 94,
+        "postal code": "7547"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 041 730 69 51",
+    "email_address": "celine.wyss@upc.ch"
+}

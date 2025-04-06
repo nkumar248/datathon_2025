@@ -1,0 +1,17 @@
+{
+    "first_name": "Gasser",
+    "middle_name": "",
+    "last_name": "Ackermann",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1967-07-31",
+    "passport_number": "UM3106268",
+    "passport_mrz": [
+        "P<CHEACKERMANN<<GASSER<<<<<<<<<<<<<<<<<<<<<<<",
+        "UM3106268CHE670731<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2016-07-19",
+    "passport_expiry_date": "2026-07-18"
+}

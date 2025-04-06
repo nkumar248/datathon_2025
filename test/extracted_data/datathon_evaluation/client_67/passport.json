@@ -1,0 +1,17 @@
+{
+    "first_name": "Nicolas",
+    "middle_name": "Martin",
+    "last_name": "Legrand",
+    "gender": "M",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1973-08-05",
+    "passport_number": "IF3644962",
+    "passport_mrz": [
+        "P<FRALEGRAND<<NICOLAS<MARTIN<<<<<<<<<<<<<<<<<",
+        "IF3644962FRA730805<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2020-03-04",
+    "passport_expiry_date": "2030-03-03"
+}

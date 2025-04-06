@@ -1,0 +1,97 @@
+{
+    "name": "Sofia Katrine Larsen",
+    "address": {
+        "city": "Holbæk",
+        "street name": "Sortedams Dossering",
+        "street number": 1,
+        "postal code": "2138"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1972-01-13",
+    "nationality": "Danish",
+    "passport_number": "IE3686356",
+    "passport_issue_date": "2019-01-24",
+    "passport_expiry_date": "2029-01-23",
+    "gender": "F",
+    "phone_number": "+45 27 05 38 62",
+    "email_address": "sofia.larsen@outlook.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Odense Katedralskole",
+        "graduation_year": 1989
+    },
+    "higher_education": [
+        {
+            "university": "The National Film School of Denmark",
+            "graduation_year": 1996
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1995,
+            "end_year": 1996,
+            "company": "IC Group A/S",
+            "position": "Assistant Designer",
+            "salary": 273000
+        },
+        {
+            "start_year": 1998,
+            "end_year": 1999,
+            "company": "Won Hundred A/S",
+            "position": "Senior Designer",
+            "salary": 417000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2004,
+            "company": "Ganni A/S",
+            "position": "Creative Director",
+            "salary": 509000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2011,
+            "company": "Bestseller A/S",
+            "position": "Founder/Designer",
+            "salary": 1610000
+        },
+        {
+            "start_year": 2011,
+            "end_year": null,
+            "company": "Won Hundred A/S",
+            "position": "Luxury Brand Owner",
+            "salary": 4678000
+        }
+    ],
+    "aum": {
+        "savings": 8360000,
+        "inheritance": 17290000,
+        "real_estate_value": 2074000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2008,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 894000,
+            "property location": "Holbæk"
+        },
+        {
+            "property type": "condo",
+            "property value": 1180000,
+            "property location": "Roskilde"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Belgium"
+    ],
+    "currency": "DKK"
+}

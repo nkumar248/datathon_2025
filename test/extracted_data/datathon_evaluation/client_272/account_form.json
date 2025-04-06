@@ -1,0 +1,17 @@
+{
+    "name": "Wyss Huber Keller",
+    "first_name": "Wyss",
+    "middle_name": "Huber",
+    "last_name": "Keller",
+    "passport_number": "BH1659506",
+    "currency": "CHF",
+    "address": {
+        "city": "Lausanne",
+        "street name": "Place des Halles",
+        "street number": 83,
+        "postal code": "2428"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "++43 088 805 29 72",
+    "email_address": "wyss.keller@gmx.ch"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Isabella Silvestri",
+    "first_name": "Isabella",
+    "middle_name": "",
+    "last_name": "Silvestri",
+    "passport_number": "GB4449279",
+    "currency": "EUR",
+    "address": {
+        "city": "Perugia",
+        "street name": "Via dei Fori Imperiali",
+        "street number": 60,
+        "postal code": "91378"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 355 7944662",
+    "email_address": "isabella.silvestri@outlook.com"
+}

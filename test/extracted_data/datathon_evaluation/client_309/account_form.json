@@ -1,0 +1,17 @@
+{
+    "name": "Lehmann Jost Weber",
+    "first_name": "Lehmann",
+    "middle_name": "Jost",
+    "last_name": "Weber",
+    "passport_number": "UO2130531",
+    "currency": "CHF",
+    "address": {
+        "city": "Appenzell",
+        "street name": "Stadthausplatz",
+        "street number": 29,
+        "postal code": "1260"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 006 271 81 23",
+    "email_address": "lehmann.weber@lycos.ch"
+}

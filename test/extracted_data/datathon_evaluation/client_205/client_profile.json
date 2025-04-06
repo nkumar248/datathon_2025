@@ -1,0 +1,72 @@
+{
+    "name": "Larsen Thomsen Jespersen",
+    "address": {
+        "city": "Gladsaxe",
+        "street name": "Krystalgade",
+        "street number": 26,
+        "postal code": "6809"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1990-11-04",
+    "nationality": "Belgian",
+    "passport_number": "DY2445580",
+    "passport_issue_date": "2021-12-31",
+    "passport_expiry_date": "2031-12-30",
+    "gender": "M",
+    "phone_number": "+45 28 58 14 92",
+    "email_address": "larsen.jespersen@yousee.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Frederikshavn Gymnasium",
+        "graduation_year": 2008
+    },
+    "higher_education": [
+        {
+            "university": "Zealand Institute of Business and Technology",
+            "graduation_year": 2014
+        },
+        {
+            "university": "Roskilde University",
+            "graduation_year": 2018
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2014,
+            "end_year": null,
+            "company": "Norden A/S",
+            "position": "Ship Broker",
+            "salary": 544000
+        }
+    ],
+    "aum": {
+        "savings": 580000,
+        "inheritance": 53740000,
+        "real_estate_value": 2377000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 807000,
+            "property location": "Gladsaxe"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1570000,
+            "property location": "Vejle"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

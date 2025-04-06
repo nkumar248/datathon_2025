@@ -1,0 +1,17 @@
+{
+    "name": "Bernard Richard",
+    "first_name": "Bernard",
+    "middle_name": "",
+    "last_name": "Richard",
+    "passport_number": "BF6256422",
+    "currency": "EUR",
+    "address": {
+        "city": "Rouen",
+        "street name": "Avenue George V",
+        "street number": 18,
+        "postal code": "60829"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "06 47 18 98 51",
+    "email_address": "bernard.richard@outlook.com"
+}

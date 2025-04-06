@@ -1,0 +1,83 @@
+{
+    "name": "Díaz Gómez Pérez",
+    "address": {
+        "city": "Castellón de la Plana",
+        "street name": "Calle de las Huertas",
+        "street number": 66,
+        "postal code": "88208"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1974-01-30",
+    "nationality": "Spanish",
+    "passport_number": "KE1728741",
+    "passport_issue_date": "2018-07-10",
+    "passport_expiry_date": "2028-07-09",
+    "gender": "M",
+    "phone_number": "+34 602 678 782",
+    "email_address": "diaz.perez@orange.es",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "IES Jorge Guillén Salamanca",
+        "graduation_year": 1991
+    },
+    "higher_education": [
+        {
+            "university": "ESADE Business & Law School",
+            "graduation_year": 1986
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1998,
+            "end_year": 2001,
+            "company": "CaixaBank S.A.",
+            "position": "Investment Banker",
+            "salary": 23000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2002,
+            "company": "Bankia S.A.",
+            "position": "Private Equity Investor",
+            "salary": 43000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2024,
+            "company": "BBVA S.A.",
+            "position": "Hedge Fund Manager",
+            "salary": 337000
+        }
+    ],
+    "aum": {
+        "savings": 590000,
+        "inheritance": 2290000,
+        "real_estate_value": 1848000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2011,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 808000,
+            "property location": "Castellón de la Plana"
+        },
+        {
+            "property type": "condo",
+            "property value": 1040000,
+            "property location": "Teruel"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "Italy"
+    ],
+    "currency": "EUR"
+}

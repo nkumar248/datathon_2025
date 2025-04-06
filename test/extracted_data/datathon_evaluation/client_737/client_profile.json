@@ -1,0 +1,78 @@
+{
+    "name": "Aline Müller",
+    "address": {
+        "city": "Herisau",
+        "street name": "Limmatquai",
+        "street number": 69,
+        "postal code": "9618"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1970-08-13",
+    "nationality": "Swiss",
+    "passport_number": "JM9124713",
+    "passport_issue_date": "2022-03-01",
+    "passport_expiry_date": "2032-02-29",
+    "gender": "F",
+    "phone_number": "+41 023 822 18 94",
+    "email_address": "aline.muller@freedom.ch",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Kantonsschule Baden Baden",
+        "graduation_year": 1990
+    },
+    "higher_education": [
+        {
+            "university": "University of Fribourg",
+            "graduation_year": 1995
+        },
+        {
+            "university": "University of Basel",
+            "graduation_year": 1999
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1994,
+            "end_year": 1995,
+            "company": "SRF Schweizer Radio und Fernsehen",
+            "position": "Journalist",
+            "salary": 67000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 1996,
+            "company": "Ringier AG",
+            "position": "Editor",
+            "salary": 93000
+        },
+        {
+            "start_year": 1998,
+            "end_year": null,
+            "company": "SRF Schweizer Radio und Fernsehen",
+            "position": "Publisher",
+            "salary": 865000
+        }
+    ],
+    "aum": {
+        "savings": 1470000,
+        "inheritance": 0,
+        "real_estate_value": 3370000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 3370000,
+            "property location": "Herisau"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "France"
+    ],
+    "currency": "CHF"
+}

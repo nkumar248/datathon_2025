@@ -1,0 +1,17 @@
+{
+    "name": "Schwarz Huber Fuchs",
+    "first_name": "Schwarz",
+    "middle_name": "Huber",
+    "last_name": "Fuchs",
+    "passport_number": "GO5401340",
+    "currency": "CHF",
+    "address": {
+        "city": "Bellinzona",
+        "street name": "Rue de l'Athénée",
+        "street number": 73,
+        "postal code": "6720"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "008 553 27 76",
+    "email_address": "schwarz.fuchs@swissonline.ch"
+}

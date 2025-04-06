@@ -1,0 +1,73 @@
+{
+    "name": "Agnes Andrea Rasmussen",
+    "address": {
+        "city": "Varde",
+        "street name": "Store Kongensgade",
+        "street number": 85,
+        "postal code": "4452"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1992-03-25",
+    "nationality": "Danish",
+    "passport_number": "YJ6564948",
+    "passport_issue_date": "2019-02-01",
+    "passport_expiry_date": "2029-01-31",
+    "gender": "F",
+    "phone_number": "+45 63 25 65 69",
+    "email_address": "agnes.rasmussen@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Odense Katedralskole",
+        "graduation_year": 2011
+    },
+    "higher_education": [
+        {
+            "university": "Roskilde University",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2015,
+            "end_year": null,
+            "company": "Ganni A/S",
+            "position": "Assistant Designer",
+            "salary": 365000
+        }
+    ],
+    "aum": {
+        "savings": 390000,
+        "inheritance": 23340000,
+        "real_estate_value": 3510000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 910000,
+            "property location": "Varde"
+        },
+        {
+            "property type": "flat",
+            "property value": 810000,
+            "property location": "Silkeborg"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1790000,
+            "property location": "Slagelse"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "AUT"
+}

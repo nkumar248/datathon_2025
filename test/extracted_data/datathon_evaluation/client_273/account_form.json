@@ -1,0 +1,17 @@
+{
+    "name": "Yara Zoë Van Dijk",
+    "first_name": "Yara",
+    "middle_name": "Zoë",
+    "last_name": "Van Dijk",
+    "passport_number": "EW8309842",
+    "currency": "EUR",
+    "address": {
+        "city": "Maastricht",
+        "street name": "Lijnbaan",
+        "street number": 38,
+        "postal code": "2188 97"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 72625770",
+    "email_address": "yara.vandijk@gmail.com"
+}

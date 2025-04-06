@@ -1,0 +1,17 @@
+{
+    "name": "Rieder Reiter Steiner",
+    "first_name": "Rieder",
+    "middle_name": "Reiter",
+    "last_name": "Steiner",
+    "passport_number": "FH1078082",
+    "currency": "EUR",
+    "address": {
+        "city": "Rosenheim",
+        "street name": "Ringstraße",
+        "street number": 97,
+        "postal code": "8703"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "970 154 4861",
+    "email_address": "rieder.steiner@gmx.at"
+}

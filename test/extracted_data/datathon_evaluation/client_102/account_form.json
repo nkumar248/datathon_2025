@@ -1,0 +1,17 @@
+{
+    "name": "Fuchs Koller Hofer",
+    "first_name": "Fuchs",
+    "middle_name": "Koller",
+    "last_name": "Hofer",
+    "passport_number": "ES5296816",
+    "currency": "EUR",
+    "address": {
+        "city": "Gmunden",
+        "street name": "Enzersdorfer Straße",
+        "street number": 98,
+        "postal code": "1756"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 621 632 2204",
+    "email_address": "fuchs.hofer@magenta.at"
+}

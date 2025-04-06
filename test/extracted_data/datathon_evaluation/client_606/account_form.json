@@ -1,0 +1,17 @@
+{
+    "name": "Richard Garcia Gauthier",
+    "first_name": "Richard",
+    "middle_name": "Garcia",
+    "last_name": "Gafuthier",
+    "passport_number": "BU2343995",
+    "currency": "EUR",
+    "address": {
+        "city": "Clermont-Ferrand",
+        "street name": "Rue Royale",
+        "street number": 91,
+        "postal code": "57832"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 06 33 25 50 55",
+    "email_address": "richard.gauthier@hotmail.com"
+}

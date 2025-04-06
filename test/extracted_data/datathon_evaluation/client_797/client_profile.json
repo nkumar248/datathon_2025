@@ -1,0 +1,79 @@
+{
+    "name": "Camille Emma Dubois",
+    "address": {
+        "city": "Toulon",
+        "street name": "Rue de Strasbourg",
+        "street number": 1,
+        "postal code": "76694"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1979-07-09",
+    "nationality": "French",
+    "passport_number": "WP9765093",
+    "passport_issue_date": "2016-12-16",
+    "passport_expiry_date": "2026-12-15",
+    "gender": "F",
+    "phone_number": "+33 00 46 56 89 31",
+    "email_address": "camille.dubois@sfr.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Saint-Louis",
+        "graduation_year": 1998
+    },
+    "higher_education": [
+        {
+            "university": "EMIC de Marseille",
+            "graduation_year": 2002
+        },
+        {
+            "university": "University of Bordeaux",
+            "graduation_year": 2006
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2004,
+            "end_year": 2006,
+            "company": "Legrand S.A.",
+            "position": "Plant Manager",
+            "salary": 29000
+        },
+        {
+            "start_year": 2007,
+            "end_year": null,
+            "company": "Saint-Gobain S.A.",
+            "position": "Operations Director",
+            "salary": 189000
+        }
+    ],
+    "aum": {
+        "savings": 260000,
+        "inheritance": 6610000,
+        "real_estate_value": 3950000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2006,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1960000,
+            "property location": "Toulon"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1990000,
+            "property location": "Nantes"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

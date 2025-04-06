@@ -1,0 +1,17 @@
+{
+    "name": "Brunner Gmür Kammermann",
+    "first_name": "Brunner",
+    "middle_name": "Gmür",
+    "last_name": "Kammermann",
+    "passport_number": "IY5160064",
+    "currency": "CHF",
+    "address": {
+        "city": "Aarau",
+        "street name": "Niederdorf",
+        "street number": 78,
+        "postal code": "2350"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 089 739 68 20",
+    "email_address": "brunner.kammermann@swissonline.ch"
+}

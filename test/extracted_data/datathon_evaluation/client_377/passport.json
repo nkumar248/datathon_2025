@@ -1,0 +1,17 @@
+{
+    "first_name": "Huber",
+    "middle_name": "Weber",
+    "last_name": "Rieder",
+    "gender": "M",
+    "country": "Austria",
+    "country_code": "AUT",
+    "nationality": "Austrian",
+    "birth_date": "1998-05-27",
+    "passport_number": "MR4513076",
+    "passport_mrz": [
+        "P<AUTRIEDER<<HUBER<WEBER<<<<<<<<<<<<<<<<<<<<<",
+        "MR4513076AUT980527<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2019-12-22",
+    "passport_expiry_date": "2029-12-21"
+}

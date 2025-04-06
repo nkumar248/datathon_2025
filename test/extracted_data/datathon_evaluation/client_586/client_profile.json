@@ -1,0 +1,49 @@
+{
+    "name": "Anna Franziska Fuchs",
+    "address": {
+        "city": "Vienna",
+        "street name": "Porzellangasse",
+        "street number": 76,
+        "postal code": "9208"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "2001-12-14",
+    "nationality": "Austrian",
+    "passport_number": "UV2232698",
+    "passport_issue_date": "2017-09-01",
+    "passport_expiry_date": "2027-08-31",
+    "gender": "F",
+    "phone_number": "+43 191 944 2750",
+    "email_address": "anna.fuchs@kabsi.at",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Privatgymnasium der Dominikanerinnen",
+        "graduation_year": 2021
+    },
+    "higher_education": [
+        {
+            "university": "Vienna University of Economics and Business",
+            "graduation_year": 2024
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1540000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

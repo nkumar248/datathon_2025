@@ -1,0 +1,17 @@
+{
+    "name": "Élodie Daphné Maes",
+    "first_name": "Élodie",
+    "middle_name": "Daphné",
+    "last_name": "Maes",
+    "passport_number": "SU6240598",
+    "currency": "EUR",
+    "address": {
+        "city": "Aalst",
+        "street name": "Rue des Quatre Bras",
+        "street number": 20,
+        "postal code": "8924"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0424 945 427",
+    "email_address": "elodie.maes@hotmail.com"
+}

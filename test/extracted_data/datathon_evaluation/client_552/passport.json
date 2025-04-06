@@ -1,0 +1,17 @@
+{
+    "first_name": "Chloé",
+    "middle_name": "",
+    "last_name": "arcia",
+    "gender": "F",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1968-03-26",
+    "passport_number": "QT8671592",
+    "passport_mrz": [
+        "P<FRAGARCIA<<CHLOÉ<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+        "QT8671592FRA680326<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2020-12-25",
+    "passport_expiry_date": "2030-12-24"
+}

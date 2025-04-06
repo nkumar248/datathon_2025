@@ -1,0 +1,44 @@
+{
+    "name": "Schmid Kägi Jost",
+    "address": {
+        "city": "St. Gallen",
+        "street name": "Gertrudstrasse",
+        "street number": 95,
+        "postal code": "6870"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "2001-12-02",
+    "nationality": "Swiss",
+    "passport_number": "BA8526855",
+    "passport_issue_date": "2022-09-21",
+    "passport_expiry_date": "2032-09-20",
+    "gender": "M",
+    "phone_number": "+41 016 084 45 25",
+    "email_address": "schmid.jost@gmail.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Wirtschaftsgymnasium Basel Basel",
+        "graduation_year": 2021
+    },
+    "higher_education": [],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1790000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

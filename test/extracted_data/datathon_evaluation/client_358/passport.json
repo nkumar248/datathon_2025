@@ -1,0 +1,17 @@
+{
+    "first_name": "Cristina",
+    "middle_name": "Andrea",
+    "last_name": "Martínez",
+    "gender": "F",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "1978-01-20",
+    "passport_number": "YH9395987",
+    "passport_mrz": [
+        "P<ESPMARTÍNEZ<<CRISTINA<ANDREA<<<<<<<<<<<<<<<",
+        "YH9395987ESP780120<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-03-30",
+    "passport_expiry_date": "2033-03-29"
+}

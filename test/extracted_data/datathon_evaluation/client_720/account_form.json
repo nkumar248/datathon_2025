@@ -1,0 +1,17 @@
+{
+    "name": "Voorn Van der Meer Stam",
+    "first_name": "Voorn",
+    "middle_name": "Van der Meer",
+    "last_name": "Stam",
+    "passport_number": "ZI2121204",
+    "currency": "EUR",
+    "address": {
+        "city": "Arnhem",
+        "street name": "PC Hoofdstraat",
+        "street number": 70,
+        "postal code": "2227 22"
+    },
+    "country_of_domicile": "Netherlands,Denmark",
+    "phone_number": "06 81083243",
+    "email_address": "voorn.stam@tele2.nl"
+}

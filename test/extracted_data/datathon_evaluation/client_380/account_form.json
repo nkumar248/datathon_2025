@@ -1,0 +1,17 @@
+{
+    "name": "Fiona Emma Lang",
+    "first_name": "Fiona",
+    "middle_name": "Emma",
+    "last_name": "Lang",
+    "passport_number": "SK9680642",
+    "currency": "EUR",
+    "address": {
+        "city": "Tulln an der Donau",
+        "street name": "Simmeringer Hauptstraße",
+        "street number": 23,
+        "postal code": "3546"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 075 985 5830",
+    "email_address": "fiona.lang@yahoo.com"
+}

@@ -1,0 +1,17 @@
+{
+    "first_name": "Egli",
+    "middle_name": "Bühler",
+    "last_name": "Roth",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1965-10-08",
+    "passport_number": "TK7591655",
+    "passport_mrz": [
+        "P<CHEROTH<<EGLI<BÜHLER<<<<<<<<<<<<<<<<<<<<<<<",
+        "TK7591655CHE651008<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2021-05-15",
+    "passport_expiry_date": "2031-05-14"
+}

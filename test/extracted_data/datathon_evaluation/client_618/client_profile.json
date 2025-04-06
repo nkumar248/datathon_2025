@@ -1,0 +1,57 @@
+{
+    "name": "Hansen Petersen Friis",
+    "address": {
+        "city": "Næstved",
+        "street name": "Skindergade",
+        "street number": 35,
+        "postal code": "3636"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1997-08-11",
+    "nationality": "Danish",
+    "passport_number": "FZ2636524",
+    "passport_issue_date": "2021-07-05",
+    "passport_expiry_date": "2031-07-04",
+    "gender": "M",
+    "phone_number": "+45 87 74 04 35",
+    "email_address": "hansen.friis@siminn.dk",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Aabenraa Gymnasium",
+        "graduation_year": 2016
+    },
+    "higher_education": [
+        {
+            "university": "Technical University of Denmark (DTU)",
+            "graduation_year": 2009
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2021,
+            "end_year": 2025,
+            "company": "Weibel Scientific A/S",
+            "position": "Aerospace Engineer",
+            "salary": 270000
+        }
+    ],
+    "aum": {
+        "savings": 150000,
+        "inheritance": 7840000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

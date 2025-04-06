@@ -1,0 +1,17 @@
+{
+    "name": "Santoro Fabbri Belli",
+    "first_name": "Santoro",
+    "middle_name": "Fabbri",
+    "last_name": "Belli",
+    "passport_number": "IR3647124",
+    "currency": "EUR",
+    "address": {
+        "city": "Palermo",
+        "street name": "Via Condotti",
+        "street number": 7,
+        "postal code": "74253"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "381 4558104",
+    "email_address": "santoro.belli@unidata.it"
+}

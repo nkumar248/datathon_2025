@@ -1,0 +1,17 @@
+{
+    "name": "Beatrice Emma Bruno",
+    "first_name": "Beatrice",
+    "middle_name": "Emma",
+    "last_name": "Bruno",
+    "passport_number": "IY9802425",
+    "currency": "EUR",
+    "address": {
+        "city": "Teruel",
+        "street name": "Calle de Serranos",
+        "street number": 36,
+        "postal code": "15452"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 654 889 389",
+    "email_address": "beatrice.bruno@orange.es"
+}

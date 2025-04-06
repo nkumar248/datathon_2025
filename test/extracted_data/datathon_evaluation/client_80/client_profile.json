@@ -1,0 +1,76 @@
+{
+    "name": "Andrea Encarna Jiménez",
+    "address": {
+        "city": "Joensuu",
+        "street name": "Mannerheimintie",
+        "street number": 38,
+        "postal code": "72309"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1961-05-21",
+    "nationality": "Spanish",
+    "passport_number": "WC5861352",
+    "passport_issue_date": "2023-10-07",
+    "passport_expiry_date": "2033-10-06",
+    "gender": "F",
+    "phone_number": "+358 044 475 32 85",
+    "email_address": "andrea.jimenez@surffi.net",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "IES Luis Vives Zaragoza",
+        "graduation_year": 1979
+    },
+    "higher_education": [
+        {
+            "university": "ESADE Business & Law School",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1986,
+            "end_year": 1987,
+            "company": "Scandic Hotels Oy",
+            "position": "Hotel Manager",
+            "salary": 23000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 2022,
+            "company": "Scandic Hotels Oy",
+            "position": "General Manager",
+            "salary": 199000
+        }
+    ],
+    "aum": {
+        "savings": 420000,
+        "inheritance": 0,
+        "real_estate_value": 2690000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 830000,
+            "property location": "Joensuu"
+        },
+        {
+            "property type": "condo",
+            "property value": 1090000,
+            "property location": "Zaragoza"
+        },
+        {
+            "property type": "flat",
+            "property value": 770000,
+            "property location": "Valencia"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

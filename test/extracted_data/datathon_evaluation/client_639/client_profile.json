@@ -1,0 +1,82 @@
+{
+    "name": "Laurent Garcia Thomas",
+    "address": {
+        "city": "Reims",
+        "street name": "Rue de Vaugirard",
+        "street number": 66,
+        "postal code": "25387"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1977-10-15",
+    "nationality": "French",
+    "passport_number": "OM8795378",
+    "passport_issue_date": "2024-08-04",
+    "passport_expiry_date": "2034-08-03",
+    "gender": "M",
+    "phone_number": "03 19 26 43 14",
+    "email_address": "laurent.thomas@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Voltaire",
+        "graduation_year": 1995
+    },
+    "higher_education": [
+        {
+            "university": "École Normale Supérieure (ENS) Paris",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2001,
+            "end_year": 2002,
+            "company": "PAI Partners",
+            "position": "Analyst",
+            "salary": 33000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2009,
+            "company": "Apax Partners SAS",
+            "position": "Associate",
+            "salary": 67000
+        },
+        {
+            "start_year": 2010,
+            "end_year": null,
+            "company": "PAI Partners",
+            "position": "Investment Director",
+            "salary": 215000
+        }
+    ],
+    "aum": {
+        "savings": 340000,
+        "inheritance": 6760000,
+        "real_estate_value": 2630000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2013,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1570000,
+            "property location": "Reims"
+        },
+        {
+            "property type": "condo",
+            "property value": 1060000,
+            "property location": "Strasbourg"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

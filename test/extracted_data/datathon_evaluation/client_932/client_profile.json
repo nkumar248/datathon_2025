@@ -1,0 +1,98 @@
+{
+    "name": "Beatrice Gabriella Marini",
+    "address": {
+        "city": "Genoa",
+        "street name": "Piazza del Duomo",
+        "street number": 14,
+        "postal code": "05707"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1973-09-10",
+    "nationality": "Italian",
+    "passport_number": "OJ6728161",
+    "passport_issue_date": "2019-07-13",
+    "passport_expiry_date": "2029-07-12",
+    "gender": "F",
+    "phone_number": "337 8673551",
+    "email_address": "beatrice.marini@unidata.it",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Liceo Scientifico Enrico Fermi Bologna",
+        "graduation_year": 1991
+    },
+    "higher_education": [
+        {
+            "university": "University of Milan",
+            "graduation_year": 1998
+        },
+        {
+            "university": "University of Naples Federico II",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1997,
+            "end_year": 2000,
+            "company": "Banca Mediolanum S.p.A.",
+            "position": "Financial Advisor",
+            "salary": 29000
+        },
+        {
+            "start_year": 2002,
+            "end_year": 2004,
+            "company": "Intesa Sanpaolo Private Banking",
+            "position": "Portfolio Manager",
+            "salary": 41000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2006,
+            "company": "Banca Mediolanum S.p.A.",
+            "position": "Wealth Manager",
+            "salary": 56000
+        },
+        {
+            "start_year": 2008,
+            "end_year": null,
+            "company": "Allianz Bank Financial Advisors S.p.A.",
+            "position": "Family Office Executive",
+            "salary": 700000
+        }
+    ],
+    "aum": {
+        "savings": 980000,
+        "inheritance": 720000,
+        "real_estate_value": 4440000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2012,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 1990000,
+            "property location": "Genoa"
+        },
+        {
+            "property type": "house",
+            "property value": 1400000,
+            "property location": "Reggio Calabria"
+        },
+        {
+            "property type": "house",
+            "property value": 1050000,
+            "property location": "Bari"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

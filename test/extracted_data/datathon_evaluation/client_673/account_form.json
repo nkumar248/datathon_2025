@@ -1,0 +1,17 @@
+{
+    "name": "Celli Giordano Santoro",
+    "first_name": "Celli",
+    "middle_name": "Giordano",
+    "last_name": "Santoro",
+    "passport_number": "GD9334881",
+    "currency": "EUR",
+    "address": {
+        "city": "Modena",
+        "street name": "Piazza della Repubblica",
+        "street number": 22,
+        "postal code": "11629"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 325 9645044",
+    "email_address": "celli.santoro@libero.it"
+}

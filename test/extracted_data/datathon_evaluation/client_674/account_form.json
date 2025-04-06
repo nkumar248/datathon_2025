@@ -1,0 +1,17 @@
+{
+    "name": "Monika Hannah Bauer",
+    "first_name": "Monika",
+    "middle_name": "Hannah",
+    "last_name": "Bauer",
+    "passport_number": "QB0244404",
+    "currency": "EUR",
+    "address": {
+        "city": "Kitzbühel",
+        "street name": "Franz-Josef-Kai",
+        "street number": 79,
+        "postal code": "4934"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 516 933 7027",
+    "email_address": "monika.bauer@hotmail.com"
+}

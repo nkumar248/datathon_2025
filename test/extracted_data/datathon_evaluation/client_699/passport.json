@@ -1,0 +1,17 @@
+{
+    "first_name": "Nørregaard",
+    "middle_name": "Pedersen",
+    "last_name": "Friis",
+    "gender": "M",
+    "country": "Denmark",
+    "country_code": "DNK",
+    "nationality": "Danish",
+    "birth_date": "1989-04-26",
+    "passport_number": "CW9098698",
+    "passport_mrz": [
+        "P<DNKFRIIS<<NØRREGAARD<PEDERSEN<<<<<<<<<<<<<<",
+        "CW9098698DNK890426<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-11-25",
+    "passport_expiry_date": "2033-11-24"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Peltola Tolvanen Heikkinen",
+    "first_name": "Peltola",
+    "middle_name": "Tolvanen",
+    "last_name": "Heikkinen",
+    "passport_number": "UK0560164",
+    "currency": "EUR",
+    "address": {
+        "city": "Salon",
+        "street name": "Mikonkatu",
+        "street number": 29,
+        "postal code": "17632"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 043 611 09 53",
+    "email_address": "peltola.heikkinen@yahoo.com"
+}

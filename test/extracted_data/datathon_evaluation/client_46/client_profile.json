@@ -1,0 +1,72 @@
+{
+    "name": "Peters Vandenberghe Sanders",
+    "address": {
+        "city": "Ieper",
+        "street name": "Rue Royale",
+        "street number": 42,
+        "postal code": "4260"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1991-04-04",
+    "nationality": "Belgian",
+    "passport_number": "FO0840322",
+    "passport_issue_date": "2016-10-10",
+    "passport_expiry_date": "2023-10-09",
+    "gender": "M",
+    "phone_number": "0412 487 955",
+    "email_address": "peters.sanders@gmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Sint-Bavohumaniora",
+        "graduation_year": 2011
+    },
+    "higher_education": [
+        {
+            "university": "Hasselt University",
+            "graduation_year": 2014
+        },
+        {
+            "university": "Artevelde University of Applied Sciences",
+            "graduation_year": 2018
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "UCB Pharma SA",
+            "position": "Research Scientist",
+            "salary": 49000
+        }
+    ],
+    "aum": {
+        "savings": 50000,
+        "inheritance": 3990000,
+        "real_estate_value": 2050000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1310000,
+            "property location": "Ieper"
+        },
+        {
+            "property type": "flat",
+            "property value": 740000,
+            "property location": "Ieper"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

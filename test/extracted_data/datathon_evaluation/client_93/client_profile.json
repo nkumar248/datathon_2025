@@ -1,0 +1,97 @@
+{
+    "name": "Schneider Krämer Lechner",
+    "address": {
+        "city": "Gmunden",
+        "street name": "Rotenturmstraße",
+        "street number": 67,
+        "postal code": "6568"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1957-03-17",
+    "nationality": "Austrian",
+    "passport_number": "CV5033669",
+    "passport_issue_date": "2018-07-30",
+    "passport_expiry_date": "2028-07-29",
+    "gender": "M",
+    "phone_number": "+43 814 612 0938",
+    "email_address": "schneider.lechner@gmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Bundesgymnasium und Bundesrealgymnasium Wien I",
+        "graduation_year": 1975
+    },
+    "higher_education": [
+        {
+            "university": "New Design University St. Pölten",
+            "graduation_year": 1981
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1981,
+            "end_year": 1984,
+            "company": "Cisco Systems Austria GmbH",
+            "position": "Software Developer",
+            "salary": 30000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 1989,
+            "company": "Microsoft Austria GmbH",
+            "position": "Startup Founder",
+            "salary": 50000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 1993,
+            "company": "Cisco Systems Austria GmbH",
+            "position": "CEO",
+            "salary": 64000
+        },
+        {
+            "start_year": 1994,
+            "end_year": 1995,
+            "company": "Ubitricity GesmbH",
+            "position": "Venture Capitalist",
+            "salary": 103000
+        },
+        {
+            "start_year": 1996,
+            "end_year": 2017,
+            "company": "SAP Austria GmbH",
+            "position": "Tech Industry Leader",
+            "salary": 778000
+        }
+    ],
+    "aum": {
+        "savings": 1370000,
+        "inheritance": 0,
+        "real_estate_value": 3200000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1200000,
+            "property location": "Gmunden"
+        },
+        {
+            "property type": "condo",
+            "property value": 1140000,
+            "property location": "Salzburg"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 860000,
+            "property location": "Bregenz"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

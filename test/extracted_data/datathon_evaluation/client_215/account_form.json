@@ -1,0 +1,17 @@
+{
+    "name": "Neumann Schultz",
+    "first_name": "Neumann",
+    "middle_name": "",
+    "last_name": "Schultz",
+    "passport_number": "XG4643645",
+    "currency": "EUR",
+    "address": {
+        "city": "Menen",
+        "street name": "Chaussée de Waterloo",
+        "street number": 4,
+        "postal code": "0510"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0457 382 294",
+    "email_address": "neumann.schultz@edpnet.be"
+}

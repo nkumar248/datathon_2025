@@ -1,0 +1,77 @@
+{
+    "name": "Joyce Julia Kuipers",
+    "address": {
+        "city": "Almere",
+        "street name": "Kalverstraat",
+        "street number": 78,
+        "postal code": "0293 76"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1988-06-18",
+    "nationality": "Dutch",
+    "passport_number": "KU6652771",
+    "passport_issue_date": "2018-07-29",
+    "passport_expiry_date": "2028-07-28",
+    "gender": "F",
+    "phone_number": "+31 06 87709230",
+    "email_address": "joyce.kuipers@planet.nl",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Maurick College Vught",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "Wittenborg University of Applied Sciences",
+            "graduation_year": 2012
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2012,
+            "end_year": 2013,
+            "company": "Heineken N.V.",
+            "position": "Plant Manager",
+            "salary": 45000
+        },
+        {
+            "start_year": 2013,
+            "end_year": 2017,
+            "company": "Heineken N.V.",
+            "position": "Operations Director",
+            "salary": 67000
+        },
+        {
+            "start_year": 2017,
+            "end_year": 2023,
+            "company": "Royal Dutch Shell plc",
+            "position": "CEO",
+            "salary": 178000
+        }
+    ],
+    "aum": {
+        "savings": 210000,
+        "inheritance": 5030000,
+        "real_estate_value": 2740000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2740000,
+            "property location": "Almere"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

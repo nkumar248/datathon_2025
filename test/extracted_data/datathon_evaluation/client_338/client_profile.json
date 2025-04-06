@@ -1,0 +1,58 @@
+{
+    "name": "Fatima Margot Joris",
+    "address": {
+        "city": "Maaseik",
+        "street name": "Rue du Houblon",
+        "street number": 99,
+        "postal code": "6583"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1997-05-17",
+    "nationality": "Belgian",
+    "passport_number": "OL4579709",
+    "passport_issue_date": "2019-04-13",
+    "passport_expiry_date": "2026-04-12",
+    "gender": "F",
+    "phone_number": "+32 0437 339 067",
+    "email_address": "fatima.joris@voo.be",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Institut de la Sainte-Famille d'Helmet",
+        "graduation_year": 2015
+    },
+    "higher_education": [
+        {
+            "university": "Group T – International University College Leuven",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2022,
+            "end_year": null,
+            "company": "ArcelorMittal Belgium NV",
+            "position": "Plant Manager",
+            "salary": 42000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 1600000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2020,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

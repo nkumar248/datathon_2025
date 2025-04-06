@@ -1,0 +1,17 @@
+{
+    "name": "Hannelore Francisca Verhoeven",
+    "first_name": "Hannelore",
+    "middle_name": "Francisca",
+    "last_name": "Verhoeven",
+    "passport_number": "TQ1329459",
+    "currency": "EUR",
+    "address": {
+        "city": "Rotterdam",
+        "street name": "Langegracht",
+        "street number": 89,
+        "postal code": "2109 00"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 31635105",
+    "email_address": "hannelore.verhoeven@upcmail."
+}

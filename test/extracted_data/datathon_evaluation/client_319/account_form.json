@@ -1,0 +1,17 @@
+{
+    "name": "Sofia Erika Martini",
+    "first_name": "Sofia",
+    "middle_name": "Erika",
+    "last_name": "Martini",
+    "passport_number": "ZP5115242",
+    "currency": "EUR",
+    "address": {
+        "city": "Parma",
+        "street name": "Via del Governo Vecchio",
+        "street number": 74,
+        "postal code": "99566"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "398 1121987",
+    "email_address": "sofia.martini@outlook.com"
+}

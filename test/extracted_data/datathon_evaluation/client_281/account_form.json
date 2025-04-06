@@ -1,0 +1,17 @@
+{
+    "name": "Ellen Camilla Kristensen",
+    "first_name": "Ellen",
+    "middle_name": "Camilla",
+    "last_name": "Kristensen",
+    "passport_number": "IA3186785",
+    "currency": "DKK",
+    "address": {
+        "city": "Helsingør",
+        "street name": "Gyldenløvesgade",
+        "street number": 1,
+        "postal code": "8357"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 78 16 45 03",
+    "email_address": "ellen.kristensen@cybercity.dk"
+}

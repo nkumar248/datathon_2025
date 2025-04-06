@@ -1,0 +1,17 @@
+{
+    "name": "Franziska Emma Weber",
+    "first_name": "Franziska",
+    "middle_name": "Emma",
+    "last_name": "Weber",
+    "passport_number": "RI8853811",
+    "currency": "EUR",
+    "address": {
+        "city": "Frankfurt am Main",
+        "street name": "Neuer Markt",
+        "street number": 26,
+        "postal code": "59813"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "6803 131797",
+    "email_address": "franziska.weber@gmx.de"
+}

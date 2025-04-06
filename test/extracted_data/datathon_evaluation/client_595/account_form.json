@@ -1,0 +1,17 @@
+{
+    "name": "Louise Gundersen",
+    "first_name": "Louise",
+    "middle_name": "",
+    "last_name": "Gundersen",
+    "passport_number": "AX5667093",
+    "currency": "EUR",
+    "address": {
+        "city": "Wavre",
+        "street name": "Rue des Dominicains",
+        "street number": 33,
+        "postal code": "9465"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0425 173 643",
+    "email_address": "louise.gundersen@hotmail.com"
+}

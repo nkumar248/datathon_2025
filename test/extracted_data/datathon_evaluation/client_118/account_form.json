@@ -1,0 +1,17 @@
+{
+    "name": "Floor Francisca Snijders",
+    "first_name": "Floor",
+    "middle_name": "Francisca",
+    "last_name": "Snijders",
+    "passport_number": "SC4789917",
+    "currency": "EUR",
+    "address": {
+        "city": "Boxtel",
+        "street name": "Nieuwmarkt",
+        "street number": 44,
+        "postal code": "3733 63"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 81234948",
+    "email_address": "floor.snijders@chello.nl"
+}

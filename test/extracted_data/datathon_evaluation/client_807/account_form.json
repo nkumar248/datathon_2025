@@ -1,0 +1,17 @@
+{
+    "name": "Viitanen Koskinen Salminen",
+    "first_name": "Viitanen",
+    "middle_name": "Koskinen",
+    "last_name": "Salminen",
+    "passport_number": "BG5602888",
+    "currency": "EUR",
+    "address": {
+        "city": "Vantaa",
+        "street name": "Puistolanaukio",
+        "street number": 4,
+        "postal code": "23476"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 043 243 18 54",
+    "email_address": "viitanen.salminen@outlook.com"
+}

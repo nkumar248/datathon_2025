@@ -1,0 +1,17 @@
+{
+    "first_name": "Louis",
+    "middle_name": "Dubois",
+    "last_name": "Thomas",
+    "gender": "M",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1980-10-20",
+    "passport_number": "EU2291624",
+    "passport_mrz": [
+        "P<FRATHOMAS<<LOUIS<DUBOIS<<<<<<<<<<<<<<<<<<<<",
+        "EU2291624FRA801020<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-10-09",
+    "passport_expiry_date": "2033-10-08"
+}

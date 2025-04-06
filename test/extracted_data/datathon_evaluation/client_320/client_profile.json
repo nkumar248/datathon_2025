@@ -1,0 +1,102 @@
+{
+    "name": "Dumont Joris Smets",
+    "address": {
+        "city": "Kortrijk",
+        "street name": "Rue des Champs-Élysées",
+        "street number": 91,
+        "postal code": "4926"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1978-01-31",
+    "nationality": "Belgian",
+    "passport_number": "ZY6846011",
+    "passport_issue_date": "2016-04-15",
+    "passport_expiry_date": "2023-04-14",
+    "gender": "M",
+    "phone_number": "+32 0456 146 834",
+    "email_address": "dumont.smets@base.be",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Institut Saint-Louis",
+        "graduation_year": 1995
+    },
+    "higher_education": [
+        {
+            "university": "Odisee University College",
+            "graduation_year": 2002
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1973,
+            "end_year": 2004,
+            "company": "GSK Vaccines SA",
+            "position": "Research Scientist",
+            "salary": 36000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2007,
+            "company": "UCB Pharma SA",
+            "position": "Clinical Trials Manager",
+            "salary": 51000
+        },
+        {
+            "start_year": 2009,
+            "end_year": 2011,
+            "company": "GSK Vaccines SA",
+            "position": "Regulatory Affairs Director",
+            "salary": 83000
+        },
+        {
+            "start_year": 2011,
+            "end_year": 2014,
+            "company": "UCB Pharma SA",
+            "position": "CEO",
+            "salary": 145000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "GSK Vaccines SA",
+            "position": "Industry Leader",
+            "salary": 310000
+        }
+    ],
+    "aum": {
+        "savings": 480000,
+        "inheritance": 1100000,
+        "real_estate_value": 3135000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2011,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1425000,
+            "property location": "Kortrijk"
+        },
+        {
+            "property type": "condo",
+            "property value": 880000,
+            "property location": "Lokeren"
+        },
+        {
+            "property type": "condo",
+            "property value": 830000,
+            "property location": "Geel"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

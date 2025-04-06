@@ -1,0 +1,17 @@
+{
+    "name": "Lambrechts Sanders Michiels",
+    "first_name": "Lambrechts",
+    "middle_name": "Sanders",
+    "last_name": "Michiels",
+    "passport_number": "HW0045474",
+    "currency": "EUR",
+    "address": {
+        "city": "Ieper",
+        "street name": "",
+        "street number": 10,
+        "postal code": "2676"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0476 966 046",
+    "email_address": "lambrechts.michiels@belgacom.be"
+}

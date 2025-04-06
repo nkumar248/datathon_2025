@@ -1,0 +1,91 @@
+{
+    "name": "Burkart Schmid Lehmann",
+    "address": {
+        "city": "Locarno",
+        "street name": "General-Guisan-Quai",
+        "street number": 49,
+        "postal code": "9017"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1956-10-11",
+    "nationality": "Swiss",
+    "passport_number": "XJ5050459",
+    "passport_issue_date": "2019-04-28",
+    "passport_expiry_date": "2029-04-27",
+    "gender": "M",
+    "phone_number": "042 723 08 92",
+    "email_address": "burkart.lehmann@outlook.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Gymnase Augustinien Fribourg",
+        "graduation_year": 1976
+    },
+    "higher_education": [
+        {
+            "university": "University of Fribourg",
+            "graduation_year": 1979
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1980,
+            "end_year": 1982,
+            "company": "Microsoft Schweiz GmbH",
+            "position": "Software Developer",
+            "salary": 59000
+        },
+        {
+            "start_year": 1982,
+            "end_year": 1987,
+            "company": "Swisscom AG",
+            "position": "Startup Founder",
+            "salary": 106000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 1993,
+            "company": "Swisscom AG",
+            "position": "CEO",
+            "salary": 125000
+        },
+        {
+            "start_year": 1994,
+            "end_year": 2017,
+            "company": "Google Switzerland GmbH",
+            "position": "Venture Capitalist",
+            "salary": 1183000
+        }
+    ],
+    "aum": {
+        "savings": 2000000,
+        "inheritance": 0,
+        "real_estate_value": 7200000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 2020000,
+            "property location": "Locarno"
+        },
+        {
+            "property type": "house",
+            "property value": 2960000,
+            "property location": "Locarno"
+        },
+        {
+            "property type": "flat",
+            "property value": 2220000,
+            "property location": "St. Gallen"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Finland"
+    ],
+    "currency": "CHF"
+}

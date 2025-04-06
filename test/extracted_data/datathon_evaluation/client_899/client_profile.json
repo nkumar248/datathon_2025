@@ -1,0 +1,63 @@
+{
+    "name": "Francisca Zoë Maassen",
+    "address": {
+        "city": "Strasbourg",
+        "street name": "Rue de la Huchette",
+        "street number": 97,
+        "postal code": "59732"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1992-01-23",
+    "nationality": "Dutch",
+    "passport_number": "GI3927789",
+    "passport_issue_date": "2022-08-19",
+    "passport_expiry_date": "2032-08-18",
+    "gender": "F",
+    "phone_number": "+33 01 06 87 99 00",
+    "email_address": "francisca.maassen@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Gerardus Majellalynceum Amsterdam",
+        "graduation_year": 2009
+    },
+    "higher_education": [
+        {
+            "university": "Tilburg School of Economics and Management",
+            "graduation_year": 2016
+        },
+        {
+            "university": "Webster University Leiden",
+            "graduation_year": 2020
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2015,
+            "end_year": 2023,
+            "company": "PAI Partners",
+            "position": "Analyst",
+            "salary": 54000
+        }
+    ],
+    "aum": {
+        "savings": 50000,
+        "inheritance": 5580000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2020,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands",
+        "France",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

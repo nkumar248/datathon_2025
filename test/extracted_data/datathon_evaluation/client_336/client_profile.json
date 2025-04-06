@@ -1,0 +1,77 @@
+{
+    "name": "Jost Müller Kägi",
+    "address": {
+        "city": "Baden",
+        "street name": "Rue des Délices",
+        "street number": 34,
+        "postal code": "1350"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1965-04-28",
+    "nationality": "Swiss",
+    "passport_number": "RK3421779",
+    "passport_issue_date": "2023-05-21",
+    "passport_expiry_date": "2033-05-20",
+    "gender": "M",
+    "phone_number": "+41 044 259 51 35",
+    "email_address": "jost.kagi@swisscom.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Kantonsschule Liestal Basel-Landschaft",
+        "graduation_year": 1983
+    },
+    "higher_education": [
+        {
+            "university": "Webster University Geneva",
+            "graduation_year": 1989
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1989,
+            "end_year": 1990,
+            "company": "Hapag-Lloyd (Switzerland) AG",
+            "position": "Ship Broker",
+            "salary": 65000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 1995,
+            "company": "Maersk Line (Switzerland) A/S",
+            "position": "Shipping Company Owner",
+            "salary": 83000
+        },
+        {
+            "start_year": 1995,
+            "end_year": null,
+            "company": "Mediterranean Shipping Company (MSC) SA",
+            "position": "Fleet Manager",
+            "salary": 1045000
+        }
+    ],
+    "aum": {
+        "savings": 1940000,
+        "inheritance": 4770000,
+        "real_estate_value": 2040000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2009,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 2040000,
+            "property location": "Baden"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

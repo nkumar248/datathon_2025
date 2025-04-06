@@ -1,0 +1,84 @@
+{
+    "name": "Louise Sørensen",
+    "address": {
+        "city": "Gladsaxe",
+        "street name": "Vesterbrogade",
+        "street number": 29,
+        "postal code": "0224"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1990-10-20",
+    "nationality": "Danish",
+    "passport_number": "HR9277012",
+    "passport_issue_date": "2024-06-19",
+    "passport_expiry_date": "2034-06-18",
+    "gender": "F",
+    "phone_number": "+45 22 41 29 00",
+    "email_address": "louise.srensen@telia.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Skive Gymnasium",
+        "graduation_year": 2009
+    },
+    "higher_education": [
+        {
+            "university": "University of Copenhagen",
+            "graduation_year": 2015
+        },
+        {
+            "university": "Aarhus University",
+            "graduation_year": 2019
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2015,
+            "end_year": 2017,
+            "company": "Scandic Hotels Danmark A/S",
+            "position": "Hotel Manager",
+            "salary": 262000
+        },
+        {
+            "start_year": 2018,
+            "end_year": null,
+            "company": "Radisson Hotel Group Danmark A/S",
+            "position": "General Manager",
+            "salary": 449000
+        }
+    ],
+    "aum": {
+        "savings": 450000,
+        "inheritance": 3960000,
+        "real_estate_value": 4116000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1150000,
+            "property location": "Gladsaxe"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1586000,
+            "property location": "Ikast"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1380000,
+            "property location": "Vejle"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

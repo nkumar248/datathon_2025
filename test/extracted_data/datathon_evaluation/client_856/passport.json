@@ -1,0 +1,17 @@
+{
+    "first_name": "Laurène",
+    "middle_name": "Ève",
+    "last_name": "Dubois",
+    "gender": "F",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1998-01-11",
+    "passport_number": "XK0654293",
+    "passport_mrz": [
+        "P<FRADUBOIS<<LAURÈNE<ÈVE<<<<<<<<<<<<<<<<<<<<<",
+        "XK0654293FRA980111<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2021-05-23",
+    "passport_expiry_date": "2031-05-22"
+}

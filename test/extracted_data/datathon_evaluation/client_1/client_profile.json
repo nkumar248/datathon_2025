@@ -1,0 +1,88 @@
+{
+    "name": "Chloé Colombe Garcia",
+    "address": {
+        "city": "Saint-Étienne",
+        "street name": "Avenue Montaigne",
+        "street number": 3,
+        "postal code": "38864"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1985-04-26",
+    "nationality": "French",
+    "passport_number": "RE5935689",
+    "passport_issue_date": "2022-09-08",
+    "passport_expiry_date": "2032-09-07",
+    "gender": "F",
+    "phone_number": "09 89 79 01 33",
+    "email_address": "chloe.garcia@neuf.fr",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Lycée Claude Debussy",
+        "graduation_year": 2004
+    },
+    "higher_education": [
+        {
+            "university": "Skema Business School",
+            "graduation_year": 1994
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2012,
+            "company": "CMA CGM S.A.",
+            "position": "Ship Broker",
+            "salary": 31000
+        },
+        {
+            "start_year": 2012,
+            "end_year": 2016,
+            "company": "Louis Dreyfus Armateurs",
+            "position": "Shipping Company Owner",
+            "salary": 47000
+        },
+        {
+            "start_year": 2017,
+            "end_year": null,
+            "company": "Neptune Lines France",
+            "position": "Fleet Manager",
+            "salary": 123000
+        }
+    ],
+    "aum": {
+        "savings": 140000,
+        "inheritance": 5410000,
+        "real_estate_value": 5910000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1880000,
+            "property location": "Saint-Étienne"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1900000,
+            "property location": "Aix-en-Provence"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 2130000,
+            "property location": "Le Mans"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

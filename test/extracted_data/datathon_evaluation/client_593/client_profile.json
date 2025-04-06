@@ -1,0 +1,76 @@
+{
+    "name": "Astrid Daniëlle Mulders",
+    "address": {
+        "city": "Utrecht",
+        "street name": "Kerkplein",
+        "street number": 69,
+        "postal code": "0966 83"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1981-09-30",
+    "nationality": "Dutch",
+    "passport_number": "WY5691357",
+    "passport_issue_date": "2019-03-26",
+    "passport_expiry_date": "2029-03-25",
+    "gender": "F",
+    "phone_number": "06 78262423",
+    "email_address": "astrid.mulders@live.nl",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "VWO Dalton Den Haag",
+        "graduation_year": 1989
+    },
+    "higher_education": [
+        {
+            "university": "Tio University of Applied Sciences",
+            "graduation_year": 2005
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2006,
+            "end_year": 2009,
+            "company": "TAQA Energy B.V.",
+            "position": "Drilling Engineer",
+            "salary": 42000
+        },
+        {
+            "start_year": 2011,
+            "end_year": 2023,
+            "company": "NAM (Nederlandse Aardolie Maatschappij) B.V.",
+            "position": "Reservoir Engineer",
+            "salary": 128000
+        }
+    ],
+    "aum": {
+        "savings": 170000,
+        "inheritance": 5820000,
+        "real_estate_value": 2620000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2006,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1320000,
+            "property location": "Utrecht"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1300000,
+            "property location": "Delft"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

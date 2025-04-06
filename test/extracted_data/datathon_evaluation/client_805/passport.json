@@ -1,0 +1,17 @@
+{
+    "first_name": "Floriane",
+    "middle_name": "Émilie",
+    "last_name": "Boucher",
+    "gender": "F",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1992-07-25",
+    "passport_number": "FL9281009",
+    "passport_mrz": [
+        "P<FRABOUCHER<<FLORIANE<ÉMILIE<<<<<<<<<<<<<<<<",
+        "FL9281009FRA920725<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2021-10-19",
+    "passport_expiry_date": "2031-10-18"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Vázquez Torres Sánchez",
+    "first_name": "Vázquez",
+    "middle_name": "Torres",
+    "last_name": "Sánchez",
+    "passport_number": "GD7221315",
+    "currency": "EUR",
+    "address": {
+        "city": "Santa Cruz de Tenerife",
+        "street name": "Plaza de la Independencia",
+        "street number": 56,
+        "postal code": "32269"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "683 962 861",
+    "email_address": "vazquez.sanchez@yahoo.com"
+}

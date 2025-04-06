@@ -1,0 +1,17 @@
+{
+    "name": "Costanza Giovanna Ferrari",
+    "first_name": "Costanza",
+    "middle_name": "Giovanna",
+    "last_name": "Ferrari",
+    "passport_number": "IO3325882",
+    "currency": "EUR",
+    "address": {
+        "city": "Vicenza",
+        "street name": "Piazza San Marco",
+        "street number": 40,
+        "postal code": "30220"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "363 8549851",
+    "email_address": "costanza.ferrari@virgilio.it"
+}

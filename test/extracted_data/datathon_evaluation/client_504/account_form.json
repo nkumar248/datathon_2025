@@ -1,0 +1,17 @@
+{
+    "name": "Heidi Sarah Wagner",
+    "first_name": "Heidi",
+    "middle_name": "Sarah",
+    "last_name": "Wagner",
+    "passport_number": "XN8403498",
+    "currency": "EUR",
+    "address": {
+        "city": "Amstetten",
+        "street name": "Währinger Straße",
+        "street number": 59,
+        "postal code": "7430"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 328 684 5679",
+    "email_address": "heidi.wagner@yahoo.com"
+}

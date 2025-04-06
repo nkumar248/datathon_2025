@@ -1,0 +1,17 @@
+{
+    "name": "Camilla Agnes Jørgensen",
+    "first_name": "Camilla",
+    "middle_name": "Agnes",
+    "last_name": "Jørgensen",
+    "passport_number": "HY8391731",
+    "currency": "CHF",
+    "address": {
+        "city": "Schaffhausen",
+        "street name": "Rue de la Paix",
+        "street number": 37,
+        "postal code": "9146"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "045 452 52 29",
+    "email_address": "camilla.jrgensen@swisscom.ch"
+}

@@ -1,0 +1,73 @@
+{
+    "name": "Isa Hannelore Verhoeven",
+    "address": {
+        "city": "Apeldoorn",
+        "street name": "Koninginnegracht",
+        "street number": 90,
+        "postal code": "3310 61"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1974-02-08",
+    "nationality": "Dutch",
+    "passport_number": "EN5182424",
+    "passport_issue_date": "2019-06-30",
+    "passport_expiry_date": "2029-06-29",
+    "gender": "F",
+    "phone_number": "+31 06 69858449",
+    "email_address": "isa.verhoeven@gmail.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Stedelijk Lyceum Enschede",
+        "graduation_year": 1993
+    },
+    "higher_education": [
+        {
+            "university": "Nyenrode Business Universiteit",
+            "graduation_year": 1996
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1997,
+            "end_year": 2000,
+            "company": "ABN AMRO MeesPierson",
+            "position": "Financial Advisor",
+            "salary": 40000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2002,
+            "company": "Rabobank Private Banking",
+            "position": "Portfolio Manager",
+            "salary": 63000
+        },
+        {
+            "start_year": 2004,
+            "end_year": null,
+            "company": "ABN AMRO MeesPierson",
+            "position": "Wealth Manager",
+            "salary": 366000
+        }
+    ],
+    "aum": {
+        "savings": 610000,
+        "inheritance": 0,
+        "real_estate_value": 1110000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1110000,
+            "property location": "Apeldoorn"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

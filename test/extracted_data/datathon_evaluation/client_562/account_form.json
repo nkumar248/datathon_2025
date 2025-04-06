@@ -1,0 +1,17 @@
+{
+    "name": "Lea Ackermann",
+    "first_name": "Lea",
+    "middle_name": "",
+    "last_name": "Ackermann",
+    "passport_number": "PC5034127",
+    "currency": "CHF",
+    "address": {
+        "city": "Schaffhausen",
+        "street name": "Rue de l'Athénée",
+        "street number": 43,
+        "postal code": "7347"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 072 563 35 76",
+    "email_address": "lea.ackermann@outlook.com"
+}

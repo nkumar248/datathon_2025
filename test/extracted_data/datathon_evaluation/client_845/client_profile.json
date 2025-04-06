@@ -1,0 +1,79 @@
+{
+    "name": "Valeria Daniela Herrera",
+    "address": {
+        "city": "Almería",
+        "street name": "Calle de la Princesa",
+        "street number": 11,
+        "postal code": "83448"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1990-07-16",
+    "nationality": "Spanish",
+    "passport_number": "CU8767740",
+    "passport_issue_date": "2022-07-19",
+    "passport_expiry_date": "2032-07-18",
+    "gender": "F",
+    "phone_number": "+34 624 530 020",
+    "email_address": "valeria.herrera@hotmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Instituto de Educación Secundaria IES Ramiro de Maeztu Madrid",
+        "graduation_year": 2008
+    },
+    "higher_education": [
+        {
+            "university": "Ramón Llull University",
+            "graduation_year": 2015
+        },
+        {
+            "university": "University of Granada",
+            "graduation_year": 2017
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2014,
+            "end_year": 2017,
+            "company": "Indra Sistemas S.A.",
+            "position": "Aerospace Engineer",
+            "salary": 24000
+        },
+        {
+            "start_year": 2018,
+            "end_year": null,
+            "company": "Indra Sistemas S.A.",
+            "position": "Program Manager",
+            "salary": 39000
+        }
+    ],
+    "aum": {
+        "savings": 40000,
+        "inheritance": 3090000,
+        "real_estate_value": 1885000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1075000,
+            "property location": "Almería"
+        },
+        {
+            "property type": "flat",
+            "property value": 810000,
+            "property location": "Santa Cruz de Tenerife"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Schipper Meijer Maassen",
+    "first_name": "Schipper",
+    "middle_name": "Meijer",
+    "last_name": "Maassen",
+    "passport_number": "SG1492797",
+    "currency": "EUR",
+    "address": {
+        "city": "Utrecht",
+        "street name": "Leidseplein",
+        "street number": 79,
+        "postal code": "6759 93"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 74769173",
+    "email_address": "schipper.maassen@tele2.nl"
+}

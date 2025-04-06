@@ -1,0 +1,17 @@
+{
+    "first_name": "Castro",
+    "middle_name": "",
+    "last_name": "Rodríguez",
+    "gender": "M",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "1999-05-05",
+    "passport_number": "CY1317963",
+    "passport_mrz": [
+        "P<ESPRODRÍGUEZ<<CASTRO<<<<<<<<<<<<<<<<<<<<<<<",
+        "CY1317963ESP990505<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-10-11",
+    "passport_expiry_date": "2027-10-10"
+}

@@ -1,0 +1,102 @@
+{
+    "name": "Anna Giulia Bruno",
+    "address": {
+        "city": "Verona",
+        "street name": "Via Dante",
+        "street number": 14,
+        "postal code": "48911"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1969-03-04",
+    "nationality": "Italian",
+    "passport_number": "UY8705652",
+    "passport_issue_date": "2017-12-22",
+    "passport_expiry_date": "2027-12-21",
+    "gender": "F",
+    "phone_number": "+39 307 2442441",
+    "email_address": "anna.bruno@gmail.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Liceo Scientifico Niccolò Copernico Padova",
+        "graduation_year": 1986
+    },
+    "higher_education": [
+        {
+            "university": "John Cabot University",
+            "graduation_year": 1992
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1993,
+            "end_year": 1998,
+            "company": "Reply S.p.A.",
+            "position": "Software Developer",
+            "salary": 35000
+        },
+        {
+            "start_year": 1998,
+            "end_year": 2002,
+            "company": "Selex ES S.p.A.",
+            "position": "Startup Founder",
+            "salary": 38000
+        },
+        {
+            "start_year": 2002,
+            "end_year": 2003,
+            "company": "Selex ES S.p.A.",
+            "position": "CEO",
+            "salary": 57000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2008,
+            "company": "Selex ES S.p.A.",
+            "position": "Venture Capitalist",
+            "salary": 122000
+        },
+        {
+            "start_year": 2009,
+            "end_year": null,
+            "company": "Selex ES S.p.A.",
+            "position": "Tech Industry Leader",
+            "salary": 536000
+        }
+    ],
+    "aum": {
+        "savings": 920000,
+        "inheritance": 4360000,
+        "real_estate_value": 2957000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2006,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1427000,
+            "property location": "Verona"
+        },
+        {
+            "property type": "flat",
+            "property value": 640000,
+            "property location": "Taranto"
+        },
+        {
+            "property type": "condo",
+            "property value": 890000,
+            "property location": "Padua"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Italy"
+    ],
+    "currency": "EUR"
+}

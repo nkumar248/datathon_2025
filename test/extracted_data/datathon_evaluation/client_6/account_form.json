@@ -1,0 +1,17 @@
+{
+    "name": "Daantje Luna Smeets",
+    "first_name": "Daantje",
+    "middle_name": "Luna",
+    "last_name": "Smeets",
+    "passport_number": "JM4544944",
+    "currency": "EUR",
+    "address": {
+        "city": "Helmond",
+        "street name": "Langegracht",
+        "street number": 73,
+        "postal code": "6038 41"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 51692673",
+    "email_address": "daantje.smeets@gmail.com"
+}

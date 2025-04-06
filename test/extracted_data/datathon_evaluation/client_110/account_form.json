@@ -1,0 +1,17 @@
+{
+    "name": "Steiner Brandstetter Koller",
+    "first_name": "Steiner",
+    "middle_name": "Brandstetter",
+    "last_name": "Koller",
+    "passport_number": "AS0569349",
+    "currency": "EUR",
+    "address": {
+        "city": "Hallein",
+        "street name": "Kohlmarkt",
+        "street number": 8,
+        "postal code": "0784"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "879 040 6532",
+    "email_address": "steiner.koller@icloud.com"
+}

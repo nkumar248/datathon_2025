@@ -1,0 +1,81 @@
+{
+    "name": "Olivia Romane Peiren",
+    "address": {
+        "city": "Ostend",
+        "street name": "Rue des Deux Portes",
+        "street number": 51,
+        "postal code": "8953"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1988-12-17",
+    "nationality": "Belgian",
+    "passport_number": "KW7402943",
+    "passport_issue_date": "2022-10-28",
+    "passport_expiry_date": "2029-10-27",
+    "gender": "F",
+    "phone_number": "+32 0474 009 161",
+    "email_address": "olivia.peiren@proximus.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Heilige Familiecollege",
+        "graduation_year": 2006
+    },
+    "higher_education": [
+        {
+            "university": "University of Namur",
+            "graduation_year": 1999
+        },
+        {
+            "university": "Ghent University",
+            "graduation_year": 2016
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2012,
+            "end_year": 2015,
+            "company": "AG Real Estate SA",
+            "position": "Property Manager",
+            "salary": 41000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2016,
+            "company": "Warehouses De Pauw SA",
+            "position": "Developer",
+            "salary": 57000
+        },
+        {
+            "start_year": 2017,
+            "end_year": 2023,
+            "company": "Befimmo SA",
+            "position": "Construction Company Owner",
+            "salary": 130000
+        }
+    ],
+    "aum": {
+        "savings": 130000,
+        "inheritance": 7350000,
+        "real_estate_value": 910000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 910000,
+            "property location": "Ostend"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

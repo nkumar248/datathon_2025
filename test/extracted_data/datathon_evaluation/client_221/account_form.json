@@ -1,0 +1,17 @@
+{
+    "name": "Laursen Pedersen Bjerregaard",
+    "first_name": "Laursen",
+    "middle_name": "Pedersen",
+    "last_name": "Bjerregaard",
+    "passport_number": "ZP0141809",
+    "currency": "EUR",
+    "address": {
+        "city": "Berlin",
+        "street name": "Berliner Straße",
+        "street number": 54,
+        "postal code": "25882"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 4258 277964",
+    "email_address": "laursen.bjerregaard@t-online.de"
+}

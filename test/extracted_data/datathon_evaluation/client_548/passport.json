@@ -1,0 +1,17 @@
+{
+    "first_name": "De Luca",
+    "middle_name": " Leonardi",
+    "last_name": "Russo",
+    "gender": "M",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1980-04-09",
+    "passport_number": "PA0346245",
+    "passport_mrz": [
+        "P<ITARUSSO<<DE LUCA< LEONARDI<<<<<<<<<<<<<<<<",
+        "PA0346245ITA800409<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2020-08-06",
+    "passport_expiry_date": "2030-08-05"
+}

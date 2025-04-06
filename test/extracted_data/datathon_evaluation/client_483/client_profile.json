@@ -1,0 +1,57 @@
+{
+    "name": "Santoro Landi Fabbri",
+    "address": {
+        "city": "Modena",
+        "street name": "Via dei Tribunali",
+        "street number": 11,
+        "postal code": "13229"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1995-07-20",
+    "nationality": "Italian",
+    "passport_number": "VV9536537",
+    "passport_issue_date": "2018-12-02",
+    "passport_expiry_date": "2028-12-01",
+    "gender": "M",
+    "phone_number": "328 2383285",
+    "email_address": "santoro.fabbri@tiscali.it",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Liceo Musicale Arrigo Boito Parma",
+        "graduation_year": 2013
+    },
+    "higher_education": [
+        {
+            "university": "University of Bologna",
+            "graduation_year": 2019
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "",
+            "position": "CRO",
+            "salary": 30000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 2050000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

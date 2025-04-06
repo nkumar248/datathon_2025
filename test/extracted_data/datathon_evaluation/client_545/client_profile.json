@@ -1,0 +1,82 @@
+{
+    "name": "Floor Francisca Wagemakers",
+    "address": {
+        "city": "Kauniainen",
+        "street name": "Vuorimiehenkatu",
+        "street number": 97,
+        "postal code": "58349"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1994-11-07",
+    "nationality": "Dutch",
+    "passport_number": "LX5638381",
+    "passport_issue_date": "2018-06-04",
+    "passport_expiry_date": "2028-06-03",
+    "gender": "F",
+    "phone_number": "+358 044 705 87 38",
+    "email_address": "floor.wagemakers@outlook.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Pieter Nieuwland College Utrecht",
+        "graduation_year": 2013
+    },
+    "higher_education": [
+        {
+            "university": "KNAW - Royal Netherlands Academy of Arts and Sciences",
+            "graduation_year": 2018
+        },
+        {
+            "university": "Amsterdam Business School",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2018,
+            "end_year": 2019,
+            "company": "Konecranes Oyj",
+            "position": "Plant Manager",
+            "salary": 44000
+        },
+        {
+            "start_year": 2021,
+            "end_year": null,
+            "company": "Valmet Oyj",
+            "position": "Operations Director",
+            "salary": 67000
+        }
+    ],
+    "aum": {
+        "savings": 50000,
+        "inheritance": 0,
+        "real_estate_value": 3723000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 973000,
+            "property location": "Kauniainen"
+        },
+        {
+            "property type": "house",
+            "property value": 1540000,
+            "property location": "Boxtel"
+        },
+        {
+            "property type": "condo",
+            "property value": 1210000,
+            "property location": "Utrecht"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "1-7 months",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Netherlands",
+        "France"
+    ],
+    "currency": "EUR"
+}

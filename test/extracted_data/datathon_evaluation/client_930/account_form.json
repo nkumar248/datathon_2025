@@ -1,0 +1,17 @@
+{
+    "name": "Manon Alice Raes",
+    "first_name": "Manon",
+    "middle_name": "Alice",
+    "last_name": "Raes",
+    "passport_number": "FW8294865",
+    "currency": "EUR",
+    "address": {
+        "city": "Leuven",
+        "street name": "Rue Belliard",
+        "street number": 60,
+        "postal code": "2714"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0419 387 590",
+    "email_address": "manon.raes@belgacom.be"
+}

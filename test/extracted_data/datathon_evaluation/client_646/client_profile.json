@@ -1,0 +1,64 @@
+{
+    "name": "Gabriella Rizzo",
+    "address": {
+        "city": "Vicenza",
+        "street name": "Via Giulia",
+        "street number": 14,
+        "postal code": "60252"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1993-09-07",
+    "nationality": "Italian",
+    "passport_number": "YW9991271",
+    "passport_issue_date": "2018-11-11",
+    "passport_expiry_date": "2028-11-10",
+    "gender": "F",
+    "phone_number": "+39 394 7032540",
+    "email_address": "gabriella.rizzo@wind.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Scuola Media Statale Antonio Meucci Firenze",
+        "graduation_year": 2011
+    },
+    "higher_education": [
+        {
+            "university": "Polytechnic University of Marche",
+            "graduation_year": 2003
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2018,
+            "end_year": null,
+            "company": "Engineering Ingegneria Informatica S.p.A.",
+            "position": "Software Developer",
+            "salary": 25000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 2620000,
+        "real_estate_value": 2190000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": "",
+        "profession": ""
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2190000,
+            "property location": "Vicenza"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

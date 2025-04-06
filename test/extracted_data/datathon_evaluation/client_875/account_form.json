@@ -1,0 +1,17 @@
+{
+    "name": "Keller Werner Zbinden",
+    "first_name": "Keller",
+    "middle_name": "Werner",
+    "last_name": "Zbinden",
+    "passport_number": "JN6285612",
+    "currency": "EUR",
+    "address": {
+        "city": "Rotterdam",
+        "street name": "Markt",
+        "street number": 6,
+        "postal code": "3823 20"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "06 63114395",
+    "email_address": "keller.zbinden@planet.nl"
+}

@@ -1,0 +1,17 @@
+{
+    "first_name": "Sofia",
+    "middle_name": "Eleonora",
+    "last_name": "Fabbri",
+    "gender": "F",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1995-07-09",
+    "passport_number": "EO2009260",
+    "passport_mrz": [
+        "P<ITAFABBRI<<SOFIA<ELEONORA<<<<<<<<<<<<<<<<<<",
+        "EO2009260ITA950709<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-04-03",
+    "passport_expiry_date": "2033-04-02"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Herrera Soto Navarro",
+    "first_name": "Herrera",
+    "middle_name": "Soto",
+    "last_name": "Navarro",
+    "passport_number": "UY3042833",
+    "currency": "EUR",
+    "address": {
+        "city": "Oviedo",
+        "street name": "Puerta del Sol",
+        "street number": 50,
+        "postal code": "78797"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "636 315 755",
+    "email_address": "herrera.navarro@ya.com"
+}

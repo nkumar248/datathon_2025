@@ -1,0 +1,17 @@
+{
+    "name": "Gabriella Sofia Bianchi",
+    "first_name": "Gabriella",
+    "middle_name": "Sofia",
+    "last_name": "Bianchi",
+    "passport_number": "RB2474722",
+    "currency": "EUR",
+    "address": {
+        "city": "Florence",
+        "street name": "Corso Garibaldi",
+        "street number": 49,
+        "postal code": "00209"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 351 6448039",
+    "email_address": "gabriella.bianchi@gmail.com"
+}

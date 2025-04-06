@@ -1,0 +1,64 @@
+{
+    "name": "Sánchez Muñoz González",
+    "address": {
+        "city": "Barcelona",
+        "street name": "Calle de San Vicente Mártir",
+        "street number": 64,
+        "postal code": "93771"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1992-08-13",
+    "nationality": "Spanish",
+    "passport_number": "UD3333636",
+    "passport_issue_date": "2020-08-25",
+    "passport_expiry_date": "2030-08-24",
+    "gender": "M",
+    "phone_number": "+34 675 060 117",
+    "email_address": "sanchez.gonzalez@hotmail.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "IES Andrés Laguna Segovia",
+        "graduation_year": 2010
+    },
+    "higher_education": [
+        {
+            "university": "Complutense University of Madrid",
+            "graduation_year": 2017
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "Realia Business S.A.",
+            "position": "Property Manager",
+            "salary": 30000
+        }
+    ],
+    "aum": {
+        "savings": 30000,
+        "inheritance": 960000,
+        "real_estate_value": 1080000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1080000,
+            "property location": "Barcelona"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "France"
+    ],
+    "currency": "EUR"
+}

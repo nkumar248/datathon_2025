@@ -1,0 +1,17 @@
+{
+    "name": "Bauer Kaiser Hofer",
+    "first_name": "Bauer",
+    "middle_name": "Kaiser",
+    "last_name": "Hofer",
+    "passport_number": "IH3888111",
+    "currency": "EUR",
+    "address": {
+        "city": "Salzburg",
+        "street name": "Schönlaterngasse",
+        "street number": 86,
+        "postal code": "8125"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "789 305 9372",
+    "email_address": "bauer.hofer@gmx.at"
+}

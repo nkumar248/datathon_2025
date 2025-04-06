@@ -1,0 +1,64 @@
+{
+    "name": "Lehmann Weber Zbinden",
+    "address": {
+        "city": "Vevey",
+        "street name": "Rue des Délices",
+        "street number": 91,
+        "postal code": "9902"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1993-11-24",
+    "nationality": "Swiss",
+    "passport_number": "SI5626860",
+    "passport_issue_date": "2023-06-04",
+    "passport_expiry_date": "2033-06-03",
+    "gender": "M",
+    "phone_number": "+41 099 102 82 37",
+    "email_address": "lehmann.zbinden@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Collège Calvin Genève",
+        "graduation_year": 2011
+    },
+    "higher_education": [
+        {
+            "university": "University of Neuchâtel",
+            "graduation_year": 2017
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2017,
+            "end_year": null,
+            "company": "Lombard Odier Darier Hentsch & Cie",
+            "position": "Financial Advisor",
+            "salary": 65000
+        }
+    ],
+    "aum": {
+        "savings": 60000,
+        "inheritance": 860000,
+        "real_estate_value": 1920000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1920000,
+            "property location": "Vevey"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Austria"
+    ],
+    "currency": "CHF"
+}

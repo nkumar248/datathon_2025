@@ -1,0 +1,80 @@
+{
+    "name": "Sørensen Jespersen Krog",
+    "address": {
+        "city": "Esbjerg Ø",
+        "street name": "Vesterbrogade",
+        "street number": 75,
+        "postal code": "4259"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1990-09-15",
+    "nationality": "Danish",
+    "passport_number": "DB5289774",
+    "passport_issue_date": "2033-08-14",
+    "passport_expiry_date": "2023-08-15",
+    "gender": "M",
+    "phone_number": "02 60 20 22",
+    "email_address": "srensen.krog@yahoo.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Rysensteen Gymnasium",
+        "graduation_year": 2009
+    },
+    "higher_education": [
+        {
+            "university": "CBS International Business School",
+            "graduation_year": 2013
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2015,
+            "end_year": 2017,
+            "company": "Danica Pension Försäkringsaktiebolag",
+            "position": "Stockbroker",
+            "salary": 275000
+        },
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "",
+            "position": "CFO",
+            "salary": 410000
+        }
+    ],
+    "aum": {
+        "savings": 420000,
+        "inheritance": 3670000,
+        "real_estate_value": 6360000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2690000,
+            "property location": "Esbjerg Ø"
+        },
+        {
+            "property type": "house",
+            "property value": 2240000,
+            "property location": "Vejle"
+        },
+        {
+            "property type": "condo",
+            "property value": 1430000,
+            "property location": "Hillerød"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Alma Katrine Mikkelsen",
+    "first_name": "Alma",
+    "middle_name": "Katrine",
+    "last_name": "Mikkelsen",
+    "passport_number": "VL2520575",
+    "currency": "DKK",
+    "address": {
+        "city": "Roskilde",
+        "street name": "Studiestræde",
+        "street number": 26,
+        "postal code": "8518"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 07 55 63 69",
+    "email_address": "alma.mikkelsen@yahoo.com"
+}

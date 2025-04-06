@@ -1,0 +1,17 @@
+{
+    "name": "Torres Ramos González",
+    "first_name": "Torres",
+    "middle_name": "Ramos",
+    "last_name": "González",
+    "passport_number": "HS3205879",
+    "currency": "EUR",
+    "address": {
+        "city": "Segovia",
+        "street name": "Plaza de la Magdalena",
+        "street number": 81,
+        "postal code": "76070"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 684 388 413",
+    "email_address": "torres.gonzalez@gmail.es"
+}

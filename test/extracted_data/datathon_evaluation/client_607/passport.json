@@ -1,0 +1,17 @@
+{
+    "first_name": "Robert",
+    "middle_name": "Pierre",
+    "last_name": "Robin",
+    "gender": "M",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1977-06-28",
+    "passport_number": "NA4159614",
+    "passport_mrz": [
+        "P<FRAROBIN<<ROBERT<PIERRE<<<<<<<<<<<<<<<<<<<<",
+        "NA4159614FRA770628<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-08-11",
+    "passport_expiry_date": "2033-08-10"
+}

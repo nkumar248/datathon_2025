@@ -1,0 +1,17 @@
+{
+    "name": "Ramos Hernández Sánchez",
+    "first_name": "Ramos",
+    "middle_name": "Hernández",
+    "last_name": "Sánchez",
+    "passport_number": "YS2519793",
+    "currency": "EUR",
+    "address": {
+        "city": "Bilbao",
+        "street name": "Calle de San Juan Bautista",
+        "street number": 78,
+        "postal code": "94826"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "606 763 507",
+    "email_address": "ramos.sanchez@telefonica.es"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Louna Mertens",
+    "first_name": "Louna",
+    "middle_name": "",
+    "last_name": "Mertens",
+    "passport_number": "FF7529906",
+    "currency": "EUR",
+    "address": {
+        "city": "Herstal",
+        "street name": "Rue de la République",
+        "street number": 13,
+        "postal code": "8943"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0402 359 525",
+    "email_address": "louna.mertens@hotmail.com"
+}

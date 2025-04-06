@@ -1,0 +1,77 @@
+{
+    "name": "Louis Dubois Thomas",
+    "address": {
+        "city": "Lille",
+        "street name": "Boulevard Raspail",
+        "street number": 77,
+        "postal code": "35102"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1980-12-10",
+    "nationality": "French",
+    "passport_number": "EU2291624",
+    "passport_issue_date": "2023-10-09",
+    "passport_expiry_date": "2033-10-08",
+    "gender": "M",
+    "phone_number": "00 19 32 22 65",
+    "email_address": "louis.thomas@live.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée du Parc",
+        "graduation_year": 2000
+    },
+    "higher_education": [
+        {
+            "university": "EMIC de Paris",
+            "graduation_year": 2003
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2004,
+            "end_year": 2009,
+            "company": "Groupe Casino",
+            "position": "Property Manager",
+            "salary": 39000
+        },
+        {
+            "start_year": 2011,
+            "end_year": 2016,
+            "company": "Groupe Bouygues",
+            "position": "Developer",
+            "salary": 54000
+        },
+        {
+            "start_year": 2018,
+            "end_year": null,
+            "company": "Groupe Casino",
+            "position": "Construction Company Owner",
+            "salary": 99000
+        }
+    ],
+    "aum": {
+        "savings": 170000,
+        "inheritance": 4660000,
+        "real_estate_value": 1320000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2012,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1320000,
+            "property location": "Lille"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "5 weeks",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

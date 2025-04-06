@@ -1,0 +1,98 @@
+{
+    "name": "Fournier Garcia Nicolas",
+    "address": {
+        "city": "Lille",
+        "street name": "Place des Vosges",
+        "street number": 74,
+        "postal code": "69247"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1957-02-01",
+    "nationality": "French",
+    "passport_number": "HN2885447",
+    "passport_issue_date": "2019-07-28",
+    "passport_expiry_date": "2029-07-27",
+    "gender": "M",
+    "phone_number": "01 79 60 96 09",
+    "email_address": "fournier.nicolas@yahoo.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Lycée Montaigne",
+        "graduation_year": 1976
+    },
+    "higher_education": [
+        {
+            "university": "École Nationale d'Administration (ENA)",
+            "graduation_year": 1981
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1980,
+            "end_year": 1983,
+            "company": "Société Générale Private Banking",
+            "position": "Financial Advisor",
+            "salary": 30000
+        },
+        {
+            "start_year": 1985,
+            "end_year": 1986,
+            "company": "Société Générale Private Banking",
+            "position": "Portfolio Manager",
+            "salary": 43000
+        },
+        {
+            "start_year": 1988,
+            "end_year": 1990,
+            "company": "Crédit Agricole Private Banking",
+            "position": "Wealth Manager",
+            "salary": 67000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 1995,
+            "company": "La Banque Postale Private Banking",
+            "position": "Family Office Executive",
+            "salary": 168000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 2017,
+            "company": "Crédit Agricole Private Banking",
+            "position": "Private Banker",
+            "salary": 707000
+        }
+    ],
+    "aum": {
+        "savings": 1310000,
+        "inheritance": 0,
+        "real_estate_value": 5570000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2620000,
+            "property location": "Lille"
+        },
+        {
+            "property type": "flat",
+            "property value": 1220000,
+            "property location": "Besançon"
+        },
+        {
+            "property type": "condo",
+            "property value": 1730000,
+            "property location": "Brest"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria",
+        "France"
+    ],
+    "currency": "EUR"
+}

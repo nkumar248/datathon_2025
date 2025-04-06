@@ -1,0 +1,67 @@
+{
+    "name": "Salo Paananen Koskinen",
+    "address": {
+        "city": "Kokkola",
+        "street name": "Lapinlahdenkatu",
+        "street number": 87,
+        "postal code": "04399"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1991-09-20",
+    "nationality": "Finnish",
+    "passport_number": "DH0961857",
+    "passport_issue_date": "2018-04-08",
+    "passport_expiry_date": "2024-04-07",
+    "gender": "M",
+    "phone_number": "+358 043 695 35 68",
+    "email_address": "salo.koskinen@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Pieksämäki lukio",
+        "graduation_year": 2011
+    },
+    "higher_education": [
+        {
+            "university": "Lahti University of Applied Sciences",
+            "graduation_year": 2014
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2015,
+            "end_year": 2016,
+            "company": "Valmet Oyj",
+            "position": "Plant Manager",
+            "salary": 38000
+        },
+        {
+            "start_year": 2017,
+            "end_year": null,
+            "company": "Konecranes Oyj",
+            "position": "Operations Director",
+            "salary": 64000
+        }
+    ],
+    "aum": {
+        "savings": 60000,
+        "inheritance": 0,
+        "real_estate_value": 1100000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1100000,
+            "property location": "Kokkola"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

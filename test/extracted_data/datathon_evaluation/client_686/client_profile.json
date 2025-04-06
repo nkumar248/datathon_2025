@@ -1,0 +1,83 @@
+{
+    "name": "Karoline Sophia Lechner",
+    "address": {
+        "city": "Traun",
+        "street name": "Reichsbrücke",
+        "street number": 100,
+        "postal code": "2931"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1987-07-03",
+    "nationality": "Austrian",
+    "passport_number": "ON9591685",
+    "passport_issue_date": "2023-02-09",
+    "passport_expiry_date": "2033-02-08",
+    "gender": "F",
+    "phone_number": "+43 983 239 7303",
+    "email_address": "karoline.lechner@web.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Bundesgymnasium und Bundesrealgymnasium Leoben",
+        "graduation_year": 2006
+    },
+    "higher_education": [
+        {
+            "university": "Graz University of Technology",
+            "graduation_year": 2010
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2012,
+            "end_year": 2013,
+            "company": "Flux Swire Pacific Offshore",
+            "position": "Ship Broker",
+            "salary": 33000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2020,
+            "company": "Jumbo Shipping Austria",
+            "position": "Shipping Company Owner",
+            "salary": 44000
+        },
+        {
+            "start_year": 2021,
+            "end_year": null,
+            "company": "Flux Swire Pacific Offshore",
+            "position": "Fleet Manager",
+            "salary": 74000
+        }
+    ],
+    "aum": {
+        "savings": 90000,
+        "inheritance": 2870000,
+        "real_estate_value": 3680000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 1600000,
+            "property location": "Traun"
+        },
+        {
+            "property type": "villa",
+            "property value": 2080000,
+            "property location": "Baden bei Wien"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

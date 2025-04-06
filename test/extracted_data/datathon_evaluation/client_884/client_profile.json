@@ -1,0 +1,77 @@
+{
+    "name": "Nielsen Petersen Bjerregaard",
+    "address": {
+        "city": "Helsingør",
+        "street name": "Strøget",
+        "street number": 54,
+        "postal code": "2253"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1963-04-15",
+    "nationality": "Danish",
+    "passport_number": "BZ5238236",
+    "passport_issue_date": "2022-02-28",
+    "passport_expiry_date": "2032-02-27",
+    "gender": "M",
+    "phone_number": "67 91 40 69",
+    "email_address": "nielsen.bjerregaard@wanadoo.dk",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Kolding Gymnasium",
+        "graduation_year": 1982
+    },
+    "higher_education": [
+        {
+            "university": "University College Absalon",
+            "graduation_year": 1986
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1987,
+            "end_year": 1990,
+            "company": "Plesner",
+            "position": "Associate Attorney",
+            "salary": 281000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 2024,
+            "company": "Kromann Reumert",
+            "position": "Senior Associate",
+            "salary": 2069000
+        }
+    ],
+    "aum": {
+        "savings": 4350000,
+        "inheritance": 0,
+        "real_estate_value": 4260000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1130000,
+            "property location": "Helsingør"
+        },
+        {
+            "property type": "villa",
+            "property value": 2250000,
+            "property location": "Silkeborg"
+        },
+        {
+            "property type": "flat",
+            "property value": 880000,
+            "property location": "Ikast"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

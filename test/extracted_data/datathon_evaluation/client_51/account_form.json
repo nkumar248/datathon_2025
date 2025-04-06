@@ -1,0 +1,17 @@
+{
+    "name": "Krog Sørensen Lykke",
+    "first_name": "Krog",
+    "middle_name": "Sørensen",
+    "last_name": "Lykke",
+    "passport_number": "TQ3563384",
+    "currency": "DKK",
+    "address": {
+        "city": "Ikast",
+        "street name": "Strøget",
+        "street number": 14,
+        "postal code": "0030"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 08 32 85 68",
+    "email_address": "krog.lykke@wanadoo.dk"
+}

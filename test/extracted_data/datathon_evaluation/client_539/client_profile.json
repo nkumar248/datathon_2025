@@ -1,0 +1,49 @@
+{
+    "name": "Terpstra Van der Meer Dekkers",
+    "address": {
+        "city": "Utrecht",
+        "street name": "Beethovenstraat",
+        "street number": 3,
+        "postal code": "0933 65"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "2001-10-25",
+    "nationality": "Dutch",
+    "passport_number": "QW2032208",
+    "passport_issue_date": "2020-05-26",
+    "passport_expiry_date": "2030-05-25",
+    "gender": "M",
+    "phone_number": "+31 06 98634030",
+    "email_address": "terpstra.dekkers@outlook.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Westfriesgymnasium Hoorn",
+        "graduation_year": 2020
+    },
+    "higher_education": [
+        {
+            "university": "Hogeschool van Amsterdam",
+            "graduation_year": 2025
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 2750000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2020,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

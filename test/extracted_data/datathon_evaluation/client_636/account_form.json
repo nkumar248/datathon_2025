@@ -1,0 +1,17 @@
+{
+    "name": "Herrmann Schmitt Klein",
+    "first_name": "Herrmann",
+    "middle_name": "Schmitt",
+    "last_name": "Klein",
+    "passport_number": "AU5787013",
+    "currency": "EUR",
+    "address": {
+        "city": "Bielefeld",
+        "street name": "Potsdamer Platz",
+        "street number": 87,
+        "postal code": "45093"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "2339 597402",
+    "email_address": "herrmann.klein@1und1.de"
+}

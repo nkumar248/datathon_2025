@@ -1,0 +1,17 @@
+{
+    "first_name": "Moretti",
+    "middle_name": "",
+    "last_name": "Rusos",
+    "gender": "M",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1974-06-03",
+    "passport_number": "QC4171891",
+    "passport_mrz": [
+        "P<ITARUSOS<<MORETTI<<<<<<<<<<<<<<<<<<<<<<<<<<",
+        "Q4C171891ITA740603<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2019-04-15",
+    "passport_expiry_date": "2029-04-14"
+}

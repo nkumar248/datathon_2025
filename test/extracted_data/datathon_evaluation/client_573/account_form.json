@@ -1,0 +1,17 @@
+{
+    "name": "Lotti Landi Marini",
+    "first_name": "Lotti",
+    "middle_name": "Landi",
+    "last_name": "Marini",
+    "passport_number": "CJ7097826",
+    "currency": "EUR",
+    "address": {
+        "city": "Palermo",
+        "street name": "Via XX Settembre",
+        "street number": 87,
+        "postal code": "25376"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 309 3463196",
+    "email_address": "lotti.marini@unidata.it"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Burkart Schmid Lehmann",
+    "first_name": "Burkart",
+    "middle_name": "Schmid",
+    "last_name": "Lehmann",
+    "passport_number": "XJ5050459",
+    "currency": "CHF",
+    "address": {
+        "city": "Locarno",
+        "street name": "",
+        "street number": 49,
+        "postal code": "9017"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "++33042 723 08 92",
+    "email_address": "burkart.lehmann@outlook.com"
+}

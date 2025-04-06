@@ -1,0 +1,17 @@
+{
+    "name": "Laura Eevi Salo",
+    "first_name": "Laura",
+    "middle_name": "Eevi",
+    "last_name": "Salo",
+    "passport_number": "TC9209939",
+    "currency": "EUR",
+    "address": {
+        "city": "Mikkeli",
+        "street name": "Karjalankatu",
+        "street number": 89,
+        "postal code": "60060"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 047 734 50 99",
+    "email_address": "laura.salo@elisa.fi"
+}

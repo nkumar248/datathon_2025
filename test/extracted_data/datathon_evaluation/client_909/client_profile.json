@@ -1,0 +1,80 @@
+{
+    "name": "Katharina Franziska Meier",
+    "address": {
+        "city": "Chemnitz",
+        "street name": "Max-Joseph-Straße",
+        "street number": 21,
+        "postal code": "54791"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1965-09-25",
+    "nationality": "German",
+    "passport_number": "YA5314462",
+    "passport_issue_date": "2022-11-25",
+    "passport_expiry_date": "2032-11-24",
+    "gender": "F",
+    "phone_number": "3462 004179",
+    "email_address": "katharina.meier@web.de",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Maria-Theresia-Gymnasium München",
+        "graduation_year": 1983
+    },
+    "higher_education": [
+        {
+            "university": "SRH University Heidelberg",
+            "graduation_year": 1988
+        },
+        {
+            "university": "Technical University of Munich",
+            "graduation_year": 1993
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1989,
+            "end_year": 1991,
+            "company": "Siemens AG",
+            "position": "Software Developer",
+            "salary": 44000
+        },
+        {
+            "start_year": 1992,
+            "end_year": null,
+            "company": "SAP SE",
+            "position": "Startup Founder",
+            "salary": 370000
+        }
+    ],
+    "aum": {
+        "savings": 720000,
+        "inheritance": 3260000,
+        "real_estate_value": 3680000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2015,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1610000,
+            "property location": "Chemnitz"
+        },
+        {
+            "property type": "house",
+            "property value": 2070000,
+            "property location": "Wuppertal"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

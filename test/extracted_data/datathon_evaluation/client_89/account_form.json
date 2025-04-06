@@ -1,0 +1,17 @@
+{
+    "name": "Léa Ophélie Marchand",
+    "first_name": "Léa",
+    "middle_name": "Ophélie",
+    "last_name": "Marchand",
+    "passport_number": "QI6196753",
+    "currency": "EUR",
+    "address": {
+        "city": "Rouen",
+        "street name": "Rue de Belleville",
+        "street number": 80,
+        "postal code": "80405"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 09 93 69 81 37",
+    "email_address": "lea.marchand@hotmail.com"
+}

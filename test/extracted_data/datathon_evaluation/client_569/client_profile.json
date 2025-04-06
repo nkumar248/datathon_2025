@@ -1,0 +1,71 @@
+{
+    "name": "Alejandra Almudena Soto",
+    "address": {
+        "city": "Barcelona",
+        "street name": "Calle de las Huertas",
+        "street number": 36,
+        "postal code": "57906"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1960-04-16",
+    "nationality": "Spanish",
+    "passport_number": "QQ8932187",
+    "passport_issue_date": "2018-01-13",
+    "passport_expiry_date": "2028-01-12",
+    "gender": "F",
+    "phone_number": "674 745 109",
+    "email_address": "alejandra.soto@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "IES Jorge Guillén Salamanca",
+        "graduation_year": 1980
+    },
+    "higher_education": [
+        {
+            "university": "Complutense University of Madrid",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1984,
+            "end_year": 1986,
+            "company": "Merlin Properties SOCIMI S.A.",
+            "position": "Property Manager",
+            "salary": 26000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 2021,
+            "company": "Inmobiliaria Colonial S.A.",
+            "position": "Developer",
+            "salary": 242000
+        }
+    ],
+    "aum": {
+        "savings": 490000,
+        "inheritance": 0,
+        "real_estate_value": 1788000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 728000,
+            "property location": "Barcelona"
+        },
+        {
+            "property type": "condo",
+            "property value": 1060000,
+            "property location": "Cadiz"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Nørregaard Jespersen",
+    "first_name": "Nørregaard",
+    "middle_name": "",
+    "last_name": "Jespersen",
+    "passport_number": "TV4814987",
+    "currency": "DKK",
+    "address": {
+        "city": "Holbæk",
+        "street name": "Vendersgade",
+        "street number": 25,
+        "postal code": "9572"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "++3359 13 76 62",
+    "email_address": "nrregaard.jespersen@telia.dk"
+}

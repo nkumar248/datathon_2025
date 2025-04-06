@@ -1,0 +1,17 @@
+{
+    "name": "Fuchs Rieder Reiter",
+    "first_name": "Fuchs",
+    "middle_name": "Rieder",
+    "last_name": "Reiter",
+    "passport_number": "BW6971467",
+    "currency": "EUR",
+    "address": {
+        "city": "Stockerau",
+        "street name": "Donaustraße",
+        "street number": 82,
+        "postal code": "1665"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 727 105 4199",
+    "email_address": "fuchs.reiter@liwest.at"
+}

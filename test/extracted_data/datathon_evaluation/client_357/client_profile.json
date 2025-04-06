@@ -1,0 +1,71 @@
+{
+    "name": "Lambrechts Peters Goossens",
+    "address": {
+        "city": "Gelsenkirchen",
+        "street name": "Bahnhofstraße",
+        "street number": 88,
+        "postal code": "58478"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1969-06-13",
+    "nationality": "Belgian",
+    "passport_number": "KH2676949",
+    "passport_issue_date": "2023-12-15",
+    "passport_expiry_date": "2030-12-14",
+    "gender": "M",
+    "phone_number": "+49 3874 598210",
+    "email_address": "lambrechts.goossens@vodafone.de",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Institut Saint-Joseph",
+        "graduation_year": 1989
+    },
+    "higher_education": [
+        {
+            "university": "Odisee University College",
+            "graduation_year": 1992
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1993,
+            "end_year": 1998,
+            "company": "Qiagen N.V.",
+            "position": "Research Scientist",
+            "salary": 42000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2025,
+            "company": "Merck KGaA",
+            "position": "Biotech Startup Founder",
+            "salary": 270000
+        }
+    ],
+    "aum": {
+        "savings": 510000,
+        "inheritance": 2320000,
+        "real_estate_value": 920000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2013,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 920000,
+            "property location": "Gelsenkirchen"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

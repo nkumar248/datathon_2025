@@ -1,0 +1,75 @@
+{
+    "name": "Bakker Janssen Maassen",
+    "address": {
+        "city": "Enschede",
+        "street name": " Stationsplein",
+        "street number": 30,
+        "postal code": "6613 43"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1992-05-17",
+    "nationality": "Dutch",
+    "passport_number": "OI3208538",
+    "passport_issue_date": "2018-11-17",
+    "passport_expiry_date": "2028-11-16",
+    "gender": "M",
+    "phone_number": "+31 06 00023227",
+    "email_address": "bakker.maassen@icloud.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Gerardus Majellalynceum Amsterdam",
+        "graduation_year": 2010
+    },
+    "higher_education": [
+        {
+            "university": "Nyenrode Business Universiteit",
+            "graduation_year": 2017
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2016,
+            "end_year": 2019,
+            "company": "De Brauw Blackstone Westbroek N.V.",
+            "position": "Associate Attorney",
+            "salary": 46000
+        },
+        {
+            "start_year": 2020,
+            "end_year": null,
+            "company": "Allen & Overy LLP",
+            "position": "Senior Associate",
+            "salary": 97000
+        }
+    ],
+    "aum": {
+        "savings": 90000,
+        "inheritance": 2810000,
+        "real_estate_value": 3170000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2020,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1570000,
+            "property location": "Enschede"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1600000,
+            "property location": "Eindhoven"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

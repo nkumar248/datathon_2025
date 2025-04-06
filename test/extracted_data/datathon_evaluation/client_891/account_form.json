@@ -1,0 +1,17 @@
+{
+    "name": "Fabienne Lena Weber",
+    "first_name": "Fabienne",
+    "middle_name": "Lena",
+    "last_name": "Weber",
+    "passport_number": "EV9187982",
+    "currency": "CHF",
+    "address": {
+        "city": "Sion",
+        "street name": "Limmatquai",
+        "street number": 90,
+        "postal code": "0424"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 046 247 21 83",
+    "email_address": "fabienne.weber@gmx.ch"
+}

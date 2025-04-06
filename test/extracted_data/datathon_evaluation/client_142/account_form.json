@@ -1,0 +1,17 @@
+{
+    "name": "Joris Lemaire Maes",
+    "first_name": "Joris",
+    "middle_name": "Lemaire",
+    "last_name": "Maes",
+    "passport_number": "EF9494278",
+    "currency": "EUR",
+    "address": {
+        "city": "Menen",
+        "street name": "Rue de la Régence",
+        "street number": 82,
+        "postal code": "5262"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0416 446 2279",
+    "email_address": "joris.maes@scarlet.be"
+}

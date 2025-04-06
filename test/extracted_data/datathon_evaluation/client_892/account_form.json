@@ -1,0 +1,17 @@
+{
+    "name": "Ginevra Chiara Livi",
+    "first_name": "Ginevra",
+    "middle_name": "Chiara",
+    "last_name": "Livi",
+    "passport_number": "TV6626721",
+    "currency": "EUR",
+    "address": {
+        "city": "Padua",
+        "street name": "Piazza Navona",
+        "street number": 95,
+        "postal code": "34893"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 341 6993875",
+    "email_address": "ginevra.livi@gmail.com"
+}

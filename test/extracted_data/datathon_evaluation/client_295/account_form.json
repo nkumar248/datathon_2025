@@ -1,0 +1,17 @@
+{
+    "name": "Jost Schmid",
+    "first_name": "Jost",
+    "middle_name": "",
+    "last_name": "Schmid",
+    "passport_number": "AP8719369",
+    "currency": "CHF",
+    "address": {
+        "city": "Bellinzona",
+        "street name": "Place des Halles",
+        "street number": 58,
+        "postal code": "4733"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 043 093 91 31",
+    "email_address": "jost.schmid@swissonline.ch"
+}

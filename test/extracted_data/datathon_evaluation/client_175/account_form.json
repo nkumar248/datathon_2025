@@ -1,0 +1,17 @@
+{
+    "name": "Mathilde Ida Christensen",
+    "first_name": "Mathilde",
+    "middle_name": "Ida",
+    "last_name": "Christensen",
+    "passport_number": "MC1772520",
+    "currency": "DKK",
+    "address": {
+        "city": "Varde",
+        "street name": "H.C. Andersens Boulevard",
+        "street number": 2,
+        "postal code": "8098"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 80 70 65 94",
+    "email_address": "mathilde.christensen@dk-hostmaster.dk"
+}

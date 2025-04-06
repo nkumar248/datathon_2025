@@ -1,0 +1,77 @@
+{
+    "name": "Livi Lotti Silvestri",
+    "address": {
+        "city": "Verona",
+        "street name": "Piazza Maggiore",
+        "street number": 28,
+        "postal code": "98798"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1954-12-16",
+    "nationality": "Italian",
+    "passport_number": "BQ3924907",
+    "passport_issue_date": "2021-02-03",
+    "passport_expiry_date": "2031-02-02",
+    "gender": "M",
+    "phone_number": "+39 365 2952556",
+    "email_address": "livi.silvestri@virgilio.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Liceo Artistico Statale Mario Sironi Sassari",
+        "graduation_year": 1974
+    },
+    "higher_education": [
+        {
+            "university": "University of Milan",
+            "graduation_year": 1977
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1979,
+            "end_year": 1981,
+            "company": "Fondo Italiano d'Investimento SGR S.p.A.",
+            "position": "Analyst",
+            "salary": 24000
+        },
+        {
+            "start_year": 1982,
+            "end_year": 2015,
+            "company": "Syntegra SGR S.p.A.",
+            "position": "Associate",
+            "salary": 253000
+        }
+    ],
+    "aum": {
+        "savings": 470000,
+        "inheritance": 0,
+        "real_estate_value": 3800000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 580000,
+            "property location": "Verona"
+        },
+        {
+            "property type": "villa",
+            "property value": 2410000,
+            "property location": "Vicenza"
+        },
+        {
+            "property type": "flat",
+            "property value": 810000,
+            "property location": "Milan"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Mayr Schnell Reiter",
+    "first_name": "Mayr",
+    "middle_name": "Schnell",
+    "last_name": "Reiter",
+    "passport_number": "YR6815215",
+    "currency": "EUR",
+    "address": {
+        "city": "Klagenfurt",
+        "street name": "Gasometerstraße",
+        "street number": 35,
+        "postal code": "5506"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 517 875 3944",
+    "email_address": "mayr.reiter@chello.at"
+}

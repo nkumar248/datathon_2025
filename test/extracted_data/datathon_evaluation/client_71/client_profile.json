@@ -1,0 +1,81 @@
+{
+    "name": "Alina Diana Bauer",
+    "address": {
+        "city": "Nuremberg",
+        "street name": "Kronprinzstraße",
+        "street number": 17,
+        "postal code": "52237"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1988-08-10",
+    "nationality": "German",
+    "passport_number": "HV4466683",
+    "passport_issue_date": "2024-05-17",
+    "passport_expiry_date": "2034-05-16",
+    "gender": "F",
+    "phone_number": "+49 8417 347995",
+    "email_address": "alina.bauer@web.de",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Heinrich-Hertz-Gymnasium",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "Ludwig Maximilian University of Munich",
+            "graduation_year": 2013
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2013,
+            "end_year": 2016,
+            "company": "Bayer AG",
+            "position": "Research Scientist",
+            "salary": 43000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "Bayer AG",
+            "position": "Clinical Trials Manager",
+            "salary": 79000
+        }
+    ],
+    "aum": {
+        "savings": 100000,
+        "inheritance": 2920000,
+        "real_estate_value": 5388000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1288000,
+            "property location": "Nuremberg"
+        },
+        {
+            "property type": "flat",
+            "property value": 1200000,
+            "property location": "Heidelberg"
+        },
+        {
+            "property type": "villa",
+            "property value": 2900000,
+            "property location": "Hanover"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

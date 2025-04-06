@@ -1,0 +1,17 @@
+{
+    "name": "López Sánchez Martínez",
+    "first_name": "López",
+    "middle_name": "Sánchez",
+    "last_name": "Martíxez",
+    "passport_number": "MX5334226",
+    "currency": "EUR",
+    "address": {
+        "city": "Almería",
+        "street name": "Calle de Alcalá",
+        "street number": 15,
+        "postal code": "07138"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "",
+    "email_address": "lopez.martinez@ya.com"
+}

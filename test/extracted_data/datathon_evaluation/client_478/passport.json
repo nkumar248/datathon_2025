@@ -1,0 +1,17 @@
+{
+    "first_name": "Faure",
+    "middle_name": "Fournier",
+    "last_name": "Bernard",
+    "gender": "M",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1962-04-29",
+    "passport_number": "KR5683541",
+    "passport_mrz": [
+        "P<FRABERNARD<<FAURE<FOURNIER<<<<<<<<<<<<<<<<<",
+        "KR5683541FRA620429<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2021-08-13",
+    "passport_expiry_date": "2031-08-12"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "Pierre Robert",
+    "address": {
+        "city": "Reims",
+        "street name": "Boulevard Richard Lenoir",
+        "street number": 11,
+        "postal code": "79599"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "2000-03-06",
+    "nationality": "French",
+    "passport_number": "BF0971069",
+    "passport_issue_date": "2016-08-17",
+    "passport_expiry_date": "2026-08-16",
+    "gender": "M",
+    "phone_number": "+33 07 96 43 93 56",
+    "email_address": "pierre.robert@free.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Victor Hugo",
+        "graduation_year": 2019
+    },
+    "higher_education": [
+        {
+            "university": "ESSEC Business School",
+            "graduation_year": 2023
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2023,
+            "end_year": null,
+            "company": "Louis Dreyfus Armateurs",
+            "position": "Ship Broker",
+            "salary": 29000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 1000000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "France"
+    ],
+    "currency": "EUR"
+}

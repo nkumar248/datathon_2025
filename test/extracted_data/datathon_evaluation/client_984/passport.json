@@ -1,0 +1,17 @@
+{
+    "first_name": "Rizzo",
+    "middle_name": "",
+    "last_name": "Bruno",
+    "gender": "M",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1976-06-28",
+    "passport_number": "JV9657789",
+    "passport_mrz": [
+        "P<ITABRUNO<<RIZZO<<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+        "JV9657789ITA760628<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2015-07-16",
+    "passport_expiry_date": "2025-07-15"
+}

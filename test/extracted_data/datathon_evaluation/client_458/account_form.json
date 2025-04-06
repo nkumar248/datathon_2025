@@ -1,0 +1,17 @@
+{
+    "name": "Adèle Hermans",
+    "first_name": "Adèle",
+    "middle_name": "",
+    "last_name": "Hermans",
+    "passport_number": "DT5411044",
+    "currency": "EUR",
+    "address": {
+        "city": "Antwerp",
+        "street name": "Rue Royale",
+        "street number": 23,
+        "postal code": "4971"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0483 893 008",
+    "email_address": "adele.hermans@belgacom.be"
+}

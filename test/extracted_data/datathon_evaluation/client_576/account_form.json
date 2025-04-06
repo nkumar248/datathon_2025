@@ -1,0 +1,17 @@
+{
+    "name": "Beatrice Ginevra Moretti",
+    "first_name": "Beatrice",
+    "middle_name": "Ginevra",
+    "last_name": "Moretti",
+    "passport_number": "TV0795474",
+    "currency": "EUR",
+    "address": {
+        "city": "Perugia",
+        "street name": "Via Dante Alighieri",
+        "street number": 88,
+        "postal code": "25523"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "342 4809452",
+    "email_address": "beatrice.moretti@outlook.com"
+}

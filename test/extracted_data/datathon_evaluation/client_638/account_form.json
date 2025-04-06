@@ -1,0 +1,17 @@
+{
+    "name": "Pérez Álvarez Torres",
+    "first_name": "Pérez",
+    "middle_name": "Álvarez",
+    "last_name": "Torres",
+    "passport_number": "NT9564355",
+    "currency": "EUR",
+    "address": {
+        "city": "Toledo",
+        "street name": "Rambla",
+        "street number": 52,
+        "postal code": "27218"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "644 393 924",
+    "email_address": "perez.torres@outlook.com"
+}

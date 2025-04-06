@@ -1,0 +1,75 @@
+{
+    "name": "Muñoz Gutiérrez Martín",
+    "address": {
+        "city": "Córdoba",
+        "street name": "Calle de San Vicente Mártir",
+        "street number": 66,
+        "postal code": "60559"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1991-01-24",
+    "nationality": "Spanish",
+    "passport_number": "VN6314821",
+    "passport_issue_date": "2020-09-14",
+    "passport_expiry_date": "2030-09-13",
+    "gender": "M",
+    "phone_number": "+34 673 022 014",
+    "email_address": "munoz.martin@hotmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "IES Federico García Lorca Granada",
+        "graduation_year": 2008
+    },
+    "higher_education": [
+        {
+            "university": "Pompeu Fabra University",
+            "graduation_year": 2015
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2014,
+            "end_year": 2018,
+            "company": "CaixaBank S.A.",
+            "position": "Family Office Manager",
+            "salary": 27000
+        },
+        {
+            "start_year": 2020,
+            "end_year": null,
+            "company": "Banco Santander S.A.",
+            "position": "Investment Director",
+            "salary": 43000
+        }
+    ],
+    "aum": {
+        "savings": 50000,
+        "inheritance": 1790000,
+        "real_estate_value": 3052000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2020,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 792000,
+            "property location": "Córdoba"
+        },
+        {
+            "property type": "villa",
+            "property value": 2260000,
+            "property location": "Guadalajara"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

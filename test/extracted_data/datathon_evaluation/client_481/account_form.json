@@ -1,0 +1,17 @@
+{
+    "name": "Lotti Martini Fantini",
+    "first_name": "Lotti",
+    "middle_name": "Martini",
+    "last_name": "Fantini",
+    "passport_number": "BI0229085",
+    "currency": "EUR",
+    "address": {
+        "city": "Barcelona",
+        "street name": "Calle de San Bernardo",
+        "street number": 33,
+        "postal code": "70600"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "657 485 819",
+    "email_address": "lotti.fantini@outlook.com"
+}

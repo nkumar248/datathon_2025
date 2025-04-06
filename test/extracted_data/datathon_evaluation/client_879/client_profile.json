@@ -1,0 +1,75 @@
+{
+    "name": "Daniela Cayetana Navarro",
+    "address": {
+        "city": "Salamanca",
+        "street name": "Plaza de la Trinidad",
+        "street number": 18,
+        "postal code": "09910"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1975-10-29",
+    "nationality": "Spanish",
+    "passport_number": "SA9009877",
+    "passport_issue_date": "2018-12-13",
+    "passport_expiry_date": "2028-12-12",
+    "gender": "F",
+    "phone_number": "+34 639 005 119",
+    "email_address": "daniela.navarro@telefonica.es",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Colegio San Ignacio de Loyola Valencia",
+        "graduation_year": 1993
+    },
+    "higher_education": [
+        {
+            "university": "IE University",
+            "graduation_year": 1999
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1999,
+            "end_year": 2004,
+            "company": "Apax Partners España S.A.",
+            "position": "Analyst",
+            "salary": 35000
+        },
+        {
+            "start_year": 2005,
+            "end_year": null,
+            "company": "Apax Partners España S.A.",
+            "position": "Associate",
+            "salary": 135000
+        }
+    ],
+    "aum": {
+        "savings": 220000,
+        "inheritance": 690000,
+        "real_estate_value": 1640000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2015,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 910000,
+            "property location": "Salamanca"
+        },
+        {
+            "property type": "flat",
+            "property value": 730000,
+            "property location": "Teruel"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

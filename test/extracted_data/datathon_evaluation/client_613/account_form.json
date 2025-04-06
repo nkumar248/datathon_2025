@@ -1,0 +1,17 @@
+{
+    "name": "Schneider Hagenbuch Gasser",
+    "first_name": "Schneider",
+    "middle_name": "Hagenbuch",
+    "last_name": "Gasser",
+    "passport_number": "IJ6004700",
+    "currency": "CHF",
+    "address": {
+        "city": "Geneva",
+        "street name": "Altstadt",
+        "street number": 25,
+        "postal code": "9745"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "039 607 02 38",
+    "email_address": "schneider.gasser@gmx.ch"
+}

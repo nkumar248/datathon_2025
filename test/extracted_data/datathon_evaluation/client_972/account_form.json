@@ -1,0 +1,17 @@
+{
+    "name": "Astrid Daantje Peeters",
+    "first_name": "Astrid",
+    "middle_name": "Daantje",
+    "last_name": "Peeters",
+    "passport_number": "QA0918276",
+    "currency": "EUR",
+    "address": {
+        "city": "Enschede",
+        "street name": "Mauritskade",
+        "street number": 92,
+        "postal code": "6333 25"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 32543684",
+    "email_address": "astrid.peeters@upcmail.nl"
+}

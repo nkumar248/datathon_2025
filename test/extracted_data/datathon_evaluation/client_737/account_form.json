@@ -1,0 +1,17 @@
+{
+    "name": "Aline Müller",
+    "first_name": "Aline",
+    "middle_name": "",
+    "last_name": "Müller",
+    "passport_number": "JM9124713",
+    "currency": "CHF",
+    "address": {
+        "city": "Herisau",
+        "street name": "Limmatquai",
+        "street number": 69,
+        "postal code": "9618"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 023 822 18 94",
+    "email_address": "aline.muller@freedom.ch"
+}

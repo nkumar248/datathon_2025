@@ -1,0 +1,17 @@
+{
+    "name": "Carlijn Hannelore Spaans",
+    "first_name": "Carlijn",
+    "middle_name": "Hannelore",
+    "last_name": "Spaans",
+    "passport_number": "IS9874764",
+    "currency": "EUR",
+    "address": {
+        "city": "Leiden",
+        "street name": "Damrak",
+        "street number": 28,
+        "postal code": "3820 54"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 82648945",
+    "email_address": "carlijn.spaans@kpnmail.nl"
+}

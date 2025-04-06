@@ -1,0 +1,91 @@
+{
+    "name": "Dekkers Terpstra",
+    "address": {
+        "city": "Tilburg",
+        "street name": "Leidseplein",
+        "street number": 97,
+        "postal code": "9480 01"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1966-09-04",
+    "nationality": "Dutch",
+    "passport_number": "OO3562302",
+    "passport_issue_date": "2022-04-22",
+    "passport_expiry_date": "2032-04-21",
+    "gender": "M",
+    "phone_number": "+31 06 85244605",
+    "email_address": "dekkers.terpstra@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Het Rijnlands Lyceum Oegstgeest",
+        "graduation_year": 1986
+    },
+    "higher_education": [
+        {
+            "university": "Koninklijk Nederlands Meteorologisch Instituut (KNMI)",
+            "graduation_year": 1990
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1991,
+            "end_year": 1995,
+            "company": "TomTom N.V.",
+            "position": "Software Developer",
+            "salary": 46000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 1999,
+            "company": "ASML Holding N.V.",
+            "position": "Startup Founder",
+            "salary": 62000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2005,
+            "company": "Takeaway.com N.V.",
+            "position": "CEO",
+            "salary": 130000
+        },
+        {
+            "start_year": 2007,
+            "end_year": 2009,
+            "company": "TomTom N.V.",
+            "position": "Venture Capitalist",
+            "salary": 193000
+        },
+        {
+            "start_year": 2011,
+            "end_year": null,
+            "company": "Takeaway.com N.V.",
+            "position": "Tech Industry Leader",
+            "salary": 706000
+        }
+    ],
+    "aum": {
+        "savings": 1260000,
+        "inheritance": 7630000,
+        "real_estate_value": 2010000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2013,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2010000,
+            "property location": "Tilburg"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

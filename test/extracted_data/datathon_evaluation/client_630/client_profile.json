@@ -1,0 +1,57 @@
+{
+    "name": "Christensen Østergaard Larsen",
+    "address": {
+        "city": "Esbjerg",
+        "street name": "Kattesundet",
+        "street number": 11,
+        "postal code": "9050"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1997-10-18",
+    "nationality": "Danish",
+    "passport_number": "BD7872158",
+    "passport_issue_date": "2021-09-23",
+    "passport_expiry_date": "2031-09-22",
+    "gender": "M",
+    "phone_number": "+45 87 45 55 82",
+    "email_address": "christensen.larsen@dk-hostmaster.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Frederikshavn Gymnasium",
+        "graduation_year": 2015
+    },
+    "higher_education": [
+        {
+            "university": "University of Southern Denmark",
+            "graduation_year": 2022
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2021,
+            "end_year": 2024,
+            "company": "Torm A/S",
+            "position": "Ship Broker",
+            "salary": 294000
+        }
+    ],
+    "aum": {
+        "savings": 130000,
+        "inheritance": 19750000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

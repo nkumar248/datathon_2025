@@ -1,0 +1,85 @@
+{
+    "name": "Josefiina Katriina Virtanen",
+    "address": {
+        "city": "Helsinki",
+        "street name": "Pyynikintie",
+        "street number": 26,
+        "postal code": "10418"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1968-01-26",
+    "nationality": "Finnish",
+    "passport_number": "EY4562566",
+    "passport_issue_date": "2018-05-01",
+    "passport_expiry_date": "2028-04-30",
+    "gender": "F",
+    "phone_number": "+358 048 859 63 96",
+    "email_address": "josefiina.virtanen@pp.inet.fi",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Heinolan lukio",
+        "graduation_year": 1985
+    },
+    "higher_education": [
+        {
+            "university": "Aalto University",
+            "graduation_year": 1992
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1992,
+            "end_year": 1993,
+            "company": "Ateneum Art Museum",
+            "position": "Art Dealer",
+            "salary": 38000
+        },
+        {
+            "start_year": 1994,
+            "end_year": 1996,
+            "company": "Museum of Contemporary Art Kiasma",
+            "position": "Gallery Owner",
+            "salary": 59000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 2002,
+            "company": "Museum of Contemporary Art Kiasma",
+            "position": "Art Advisor",
+            "salary": 120000
+        },
+        {
+            "start_year": 2003,
+            "end_year": 2006,
+            "company": "Ateneum Art Museum",
+            "position": "Curator",
+            "salary": 137000
+        },
+        {
+            "start_year": 2006,
+            "end_year": null,
+            "company": "Ateneum Art Museum",
+            "position": "Museum Director",
+            "salary": 763000
+        }
+    ],
+    "aum": {
+        "savings": 1240000,
+        "inheritance": 1360000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2009,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

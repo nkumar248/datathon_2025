@@ -1,0 +1,93 @@
+{
+    "name": "Karen Agnes Gundersen",
+    "address": {
+        "city": "Esbjerg",
+        "street name": "Sølvgade",
+        "street number": 50,
+        "postal code": "7772"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1955-08-12",
+    "nationality": "Danish",
+    "passport_number": "PK1708606",
+    "passport_issue_date": "2017-08-17",
+    "passport_expiry_date": "2027-08-16",
+    "gender": "F",
+    "phone_number": "91 52 57 20",
+    "email_address": "karen.gundersen@cybercity.dk",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Frederikshavn Gymnasium",
+        "graduation_year": 1973
+    },
+    "higher_education": [
+        {
+            "university": "Roskilde University",
+            "graduation_year": 1980
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1979,
+            "end_year": 1983,
+            "company": "Kromann Reumert",
+            "position": "Associate Attorney",
+            "salary": 294000
+        },
+        {
+            "start_year": 1983,
+            "end_year": 1985,
+            "company": "Kromann Reumert",
+            "position": "Senior Associate",
+            "salary": 394000
+        },
+        {
+            "start_year": 1985,
+            "end_year": 1988,
+            "company": "Kromann Reumert",
+            "position": "Partner",
+            "salary": 498000
+        },
+        {
+            "start_year": 1988,
+            "end_year": 1991,
+            "company": "Kromann Reumert",
+            "position": "Managing Partner",
+            "salary": 982000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 2016,
+            "company": "Bech-Bruun",
+            "position": "Law Firm Chairman",
+            "salary": 8287000
+        }
+    ],
+    "aum": {
+        "savings": 14550000,
+        "inheritance": 0,
+        "real_estate_value": 4060000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1710000,
+            "property location": "Esbjerg"
+        },
+        {
+            "property type": "house",
+            "property value": 2350000,
+            "property location": "Slagelse"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Austria"
+    ],
+    "currency": "DKK"
+}

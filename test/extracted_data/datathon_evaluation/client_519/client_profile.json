@@ -1,0 +1,74 @@
+{
+    "name": "Benita Hanna Fischer",
+    "address": {
+        "city": "Essen",
+        "street name": "Tauentzienstraße",
+        "street number": 26,
+        "postal code": "17244"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1959-06-06",
+    "nationality": "German",
+    "passport_number": "PN8907016",
+    "passport_issue_date": "2021-04-03",
+    "passport_expiry_date": "2031-04-02",
+    "gender": "F",
+    "phone_number": "+49 6545 609160",
+    "email_address": "benita.fischer@o2online.de",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Schubert-Gymnasium München",
+        "graduation_year": 1978
+    },
+    "higher_education": [
+        {
+            "university": "Weingarten University of Education",
+            "graduation_year": 1983
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1984,
+            "end_year": 1986,
+            "company": "Dresdner Bank AG",
+            "position": "Family Office Manager",
+            "salary": 37000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 1987,
+            "company": "Dresdner Bank AG",
+            "position": "Investment Director",
+            "salary": 64000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 1991,
+            "company": "Dresdner Bank AG",
+            "position": "CFO",
+            "salary": 76000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 2020,
+            "company": "Berliner Sparkasse",
+            "position": "COO",
+            "salary": 1344000
+        }
+    ],
+    "aum": {
+        "savings": 2650000,
+        "inheritance": 0,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {},
+    "real_estate_details": [],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Germany"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Lang Schnell Reiter",
+    "first_name": "Lang",
+    "middle_name": "Schnell",
+    "last_name": "Reiter",
+    "passport_number": "BH3834274",
+    "currency": "EUR",
+    "address": {
+        "city": "Tulln an der Donau",
+        "street name": "Ringstraße",
+        "street number": 62,
+        "postal code": "0326"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "",
+    "email_address": "lang.reiter@hotmail.com"
+}

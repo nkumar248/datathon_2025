@@ -1,0 +1,100 @@
+{
+    "name": "Cristina Andrea Martínez",
+    "address": {
+        "city": "San Sebastián",
+        "street name": "Plaza de la Constitución",
+        "street number": 30,
+        "postal code": "73992"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1978-01-20",
+    "nationality": "Spanish",
+    "passport_number": "YH9395987",
+    "passport_issue_date": "2023-03-30",
+    "passport_expiry_date": "2033-03-29",
+    "gender": "F",
+    "phone_number": "+34 605 702 576",
+    "email_address": "cristina.martinez@terra.es",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Instituto de Bachillerato Artístico IES Reina Sofia Tenerife",
+        "graduation_year": 1997
+    },
+    "higher_education": [
+        {
+            "university": "IE University",
+            "graduation_year": 2001
+        },
+        {
+            "university": "University of Barcelona",
+            "graduation_year": 2006
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2002,
+            "end_year": 2004,
+            "company": "BlackRock Hispanic Markets S.A.",
+            "position": "Stockbroker",
+            "salary": 27000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2007,
+            "company": "The Vanguard Group Inc.",
+            "position": "Portfolio Manager",
+            "salary": 42000
+        },
+        {
+            "start_year": 2008,
+            "end_year": 2012,
+            "company": "BlackRock Hispanic Markets S.A.",
+            "position": "Hedge Fund Manager",
+            "salary": 63000
+        },
+        {
+            "start_year": 2013,
+            "end_year": 2017,
+            "company": "BlackRock Hispanic Markets S.A.",
+            "position": "Private Equity Investor",
+            "salary": 118000
+        },
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "The Vanguard Group Inc.",
+            "position": "Angel Investor",
+            "salary": 237000
+        }
+    ],
+    "aum": {
+        "savings": 330000,
+        "inheritance": 480000,
+        "real_estate_value": 4610000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2005,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2530000,
+            "property location": "San Sebastián"
+        },
+        {
+            "property type": "villa",
+            "property value": 2080000,
+            "property location": "Murcia"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

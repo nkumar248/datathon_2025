@@ -1,0 +1,17 @@
+{
+    "name": "Chiara Costanza Esposito",
+    "first_name": "Chiara",
+    "middle_name": "Costanza",
+    "last_name": "Esposito",
+    "passport_number": "KA3379595",
+    "currency": "EUR",
+    "address": {
+        "city": "Rome",
+        "street name": "Piazza Farnese",
+        "street number": 76,
+        "postal code": "70149"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "345 6102185",
+    "email_address": "chiara.esposito@tiscali.it"
+}

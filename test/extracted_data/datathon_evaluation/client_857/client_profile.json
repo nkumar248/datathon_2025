@@ -1,0 +1,91 @@
+{
+    "name": "Schneider Hoffmann Schmidt",
+    "address": {
+        "city": "Hanover",
+        "street name": "Speicherstadt",
+        "street number": 44,
+        "postal code": "82388"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1960-05-09",
+    "nationality": "German",
+    "passport_number": "PZ1604315",
+    "passport_issue_date": "2017-11-12",
+    "passport_expiry_date": "2027-11-11",
+    "gender": "M",
+    "phone_number": "+49 8613 914771",
+    "email_address": "schneider.schmidt@freenet.de",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Caspar-Olevian-Gymnasium Trier",
+        "graduation_year": 1978
+    },
+    "higher_education": [
+        {
+            "university": "ESMT Berlin",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1985,
+            "end_year": 1986,
+            "company": "Hilton Worldwide Deutschland GmbH",
+            "position": "Hotel Manager",
+            "salary": 44000
+        },
+        {
+            "start_year": 1987,
+            "end_year": 1992,
+            "company": "Marriott International GmbH",
+            "position": "General Manager",
+            "salary": 76000
+        },
+        {
+            "start_year": 1992,
+            "end_year": 1996,
+            "company": "Marriott International GmbH",
+            "position": "Regional Vice President",
+            "salary": 79000
+        },
+        {
+            "start_year": 1998,
+            "end_year": 2021,
+            "company": "NH Hotel Group Deutschland GmbH",
+            "position": "CEO",
+            "salary": 958000
+        }
+    ],
+    "aum": {
+        "savings": 1730000,
+        "inheritance": 0,
+        "real_estate_value": 4632000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1520000,
+            "property location": "Hanover"
+        },
+        {
+            "property type": "flat",
+            "property value": 1152000,
+            "property location": "Münster"
+        },
+        {
+            "property type": "house",
+            "property value": 1960000,
+            "property location": "Hamburg"
+        }
+    ],
+    "investment_risk_profile": "Aggressive",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Kuhn Wyss Burkart",
+    "first_name": "Kuhn",
+    "middle_name": "Wyss",
+    "last_name": "Burkart",
+    "passport_number": "VD6133821",
+    "currency": "CHF",
+    "address": {
+        "city": "Lugano",
+        "street name": "Heimplatz",
+        "street number": 8,
+        "postal code": "6049"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 064 038 96 04",
+    "email_address": "kuhn.burkart@lycos.ch"
+}

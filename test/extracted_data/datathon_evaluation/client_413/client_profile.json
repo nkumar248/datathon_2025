@@ -1,0 +1,87 @@
+{
+    "name": "Soto Ruiz",
+    "address": {
+        "city": "Castellón de la Plana",
+        "street name": "Plaza de la Encarnación",
+        "street number": 97,
+        "postal code": "25614"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1954-11-17",
+    "nationality": "Spanish",
+    "passport_number": "ST9857697",
+    "passport_issue_date": "2015-03-23",
+    "passport_expiry_date": "2025-03-22",
+    "gender": "M",
+    "phone_number": "+34 699 566 284",
+    "email_address": "soto.ruiz@wanadoo.es",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "IES Alfonso X el Sabio Murcia",
+        "graduation_year": 1972
+    },
+    "higher_education": [
+        {
+            "university": "Ramón Llull University",
+            "graduation_year": 1978
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1978,
+            "end_year": 1982,
+            "company": "NH Hotel Group S.A.",
+            "position": "Hotel Manager",
+            "salary": 25000
+        },
+        {
+            "start_year": 1982,
+            "end_year": 1984,
+            "company": "Barceló Hotels & Resorts S.A.",
+            "position": "General Manager",
+            "salary": 37000
+        },
+        {
+            "start_year": 1984,
+            "end_year": 1985,
+            "company": "Iberostar Hotels & Resorts S.A.",
+            "position": "Regional Vice President",
+            "salary": 63000
+        },
+        {
+            "start_year": 1985,
+            "end_year": 1987,
+            "company": "NH Hotel Group S.A.",
+            "position": "CEO",
+            "salary": 112000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 2015,
+            "company": "Iberostar Hotels & Resorts S.A.",
+            "position": "Hospitality Industry Leader",
+            "salary": 945000
+        }
+    ],
+    "aum": {
+        "savings": 1850000,
+        "inheritance": 0,
+        "real_estate_value": 1000000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1000000,
+            "property location": "Castellón de la Plana"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

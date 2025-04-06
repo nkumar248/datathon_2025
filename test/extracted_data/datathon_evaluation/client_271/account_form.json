@@ -1,0 +1,17 @@
+{
+    "name": "Isabella Idun Jørgensen",
+    "first_name": "Isabella",
+    "middle_name": "Idun",
+    "last_name": "Jørgensen",
+    "passport_number": "WY2940777",
+    "currency": "DKK",
+    "address": {
+        "city": "Århus N",
+        "street name": "Kongens Nytorv",
+        "street number": 50,
+        "postal code": "8901"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 79 10 32 30",
+    "email_address": "isabella.jrgensen@gmail.com"
+}

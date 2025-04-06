@@ -1,0 +1,82 @@
+{
+    "name": "Belli Lombardi Ricci",
+    "address": {
+        "city": "Catania",
+        "street name": "Corso Vittorio Emanuele II",
+        "street number": 62,
+        "postal code": "99259"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1982-05-24",
+    "nationality": "Italian",
+    "passport_number": "WX8192756",
+    "passport_issue_date": "2016-08-18",
+    "passport_expiry_date": "2026-08-17",
+    "gender": "M",
+    "phone_number": "+39 384 4042878",
+    "email_address": "belli.ricci@virgilio.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Scuola Media Statale Giancarlo Siani Napoli",
+        "graduation_year": 2000
+    },
+    "higher_education": [
+        {
+            "university": "Italian Institute of Industrial Automation (IAS)",
+            "graduation_year": 2006
+        },
+        {
+            "university": "Italian Aerospace Research Centre (CIRA)",
+            "graduation_year": 2010
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2006,
+            "end_year": 2009,
+            "company": "Menarini Industrie Farmaceutiche Riunite S.r.l.",
+            "position": "Research Scientist",
+            "salary": 24000
+        },
+        {
+            "start_year": 2011,
+            "end_year": 2012,
+            "company": "Menarini Industrie Farmaceutiche Riunite S.r.l.",
+            "position": "Biotech Startup Founder",
+            "salary": 37000
+        },
+        {
+            "start_year": 2012,
+            "end_year": 2025,
+            "company": "Roche S.p.A.",
+            "position": "CEO",
+            "salary": 238000
+        }
+    ],
+    "aum": {
+        "savings": 290000,
+        "inheritance": 2100000,
+        "real_estate_value": 1430000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1430000,
+            "property location": "Catania"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

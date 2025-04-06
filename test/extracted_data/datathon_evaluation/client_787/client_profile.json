@@ -1,0 +1,84 @@
+{
+    "name": "Schwarz Steiner Gruber",
+    "address": {
+        "city": "Sankt Pölten",
+        "street name": "Naschmarkt",
+        "street number": 2,
+        "postal code": "4454"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1979-12-14",
+    "nationality": "Austrian",
+    "passport_number": "RW9001177",
+    "passport_issue_date": "2024-12-10",
+    "passport_expiry_date": "2034-12-09",
+    "gender": "M",
+    "phone_number": "+43 587 334 4239",
+    "email_address": "schwarz.gruber@kabsi.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Akademisches Gymnasium Graz",
+        "graduation_year": 1998
+    },
+    "higher_education": [
+        {
+            "university": "Sigmund Freud University Vienna",
+            "graduation_year": 2003
+        },
+        {
+            "university": "Kunstuniversität Linz",
+            "graduation_year": 2006
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2004,
+            "end_year": 2009,
+            "company": "ORF (Austrian Broadcasting Corporation)",
+            "position": "Journalist",
+            "salary": 42000
+        },
+        {
+            "start_year": 2009,
+            "end_year": null,
+            "company": "ORF (Austrian Broadcasting Corporation)",
+            "position": "Editor",
+            "salary": 117000
+        }
+    ],
+    "aum": {
+        "savings": 180000,
+        "inheritance": 2100000,
+        "real_estate_value": 2930000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2007,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 950000,
+            "property location": "Sankt Pölten"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 990000,
+            "property location": "Salzburg"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 990000,
+            "property location": "Ried im Innkreis"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

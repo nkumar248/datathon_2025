@@ -1,0 +1,17 @@
+{
+    "name": "Franziska Gruber",
+    "first_name": "Franziska",
+    "middle_name": "",
+    "last_name": "Gruber",
+    "passport_number": "BO4937999",
+    "currency": "EUR",
+    "address": {
+        "city": "Perugia",
+        "street name": "Via IV Novembre",
+        "street number": 68,
+        "postal code": "52375"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 336 0604603",
+    "email_address": "franziska.gruber@outlook.com"
+}

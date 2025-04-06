@@ -1,0 +1,80 @@
+{
+    "name": "Marini Giordano",
+    "address": {
+        "city": "Siena",
+        "street name": "Piazza di Spagna",
+        "street number": 23,
+        "postal code": "89226"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1993-09-08",
+    "nationality": "Italian",
+    "passport_number": "SC5437038",
+    "passport_issue_date": "2019-03-17",
+    "passport_expiry_date": "2029-03-16",
+    "gender": "M",
+    "phone_number": "+39 376 3224253",
+    "email_address": "marini.giordano@outlook.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Scuola Superiore di Studi Musicali e Coreografici Lucca",
+        "graduation_year": 2012
+    },
+    "higher_education": [
+        {
+            "university": "University of Rome La Sapienza",
+            "graduation_year": 2017
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2018,
+            "end_year": 2021,
+            "company": "Menarini Industrie Farmaceutiche Riunite S.r.l.",
+            "position": "Research Scientist",
+            "salary": 26000
+        },
+        {
+            "start_year": 2021,
+            "end_year": null,
+            "company": "Pfizer Italia S.r.l.",
+            "position": "Clinical Trials Manager",
+            "salary": 38000
+        }
+    ],
+    "aum": {
+        "savings": 40000,
+        "inheritance": 620000,
+        "real_estate_value": 4130000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1630000,
+            "property location": "Siena"
+        },
+        {
+            "property type": "flat",
+            "property value": 700000,
+            "property location": "Perugia"
+        },
+        {
+            "property type": "villa",
+            "property value": 1800000,
+            "property location": "Bologna"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

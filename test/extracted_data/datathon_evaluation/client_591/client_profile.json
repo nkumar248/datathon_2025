@@ -1,0 +1,50 @@
+{
+    "name": "Carlijn Hannelore Spaans",
+    "address": {
+        "city": "Leiden",
+        "street name": "Damrak",
+        "street number": 28,
+        "postal code": "3820 54"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "2002-02-11",
+    "nationality": "Dutch",
+    "passport_number": "IS9874764",
+    "passport_issue_date": "2023-03-28",
+    "passport_expiry_date": "2033-03-27",
+    "gender": "F",
+    "phone_number": "+31 06 82648945",
+    "email_address": "carlijn.spaans@kpnmail.nl",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Hoeksch Lyceum Rotterdam",
+        "graduation_year": 2019
+    },
+    "higher_education": [
+        {
+            "university": "Leiden University",
+            "graduation_year": 2024
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1130000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2016,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

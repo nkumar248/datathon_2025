@@ -1,0 +1,17 @@
+{
+    "name": "Floriane Lina Louis",
+    "first_name": "Floriane",
+    "middle_name": "Lina",
+    "last_name": "Louis",
+    "passport_number": "FS0304396",
+    "currency": "EUR",
+    "address": {
+        "city": "Rome",
+        "street name": "Via dei Tribunali",
+        "street number": 43,
+        "postal code": "76937"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 342 1723621",
+    "email_address": "floriane.louis@yahoo.com"
+}

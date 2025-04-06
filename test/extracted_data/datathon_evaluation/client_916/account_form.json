@@ -1,0 +1,17 @@
+{
+    "name": "Müller Schmidt Fischer",
+    "first_name": "Müller",
+    "middle_name": "Schmidt",
+    "last_name": "Fischer",
+    "passport_number": "UH2310872",
+    "currency": "EUR",
+    "address": {
+        "city": "Essen",
+        "street name": "Leipziger Straße",
+        "street number": 76,
+        "postal code": "91274"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "6799 080132",
+    "email_address": "muller.fischer@o2online.de"
+}

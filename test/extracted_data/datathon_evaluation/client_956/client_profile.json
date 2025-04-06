@@ -1,0 +1,82 @@
+{
+    "name": "Díaz Morales Vázquez",
+    "address": {
+        "city": "Randers",
+        "street name": "Pile Alle",
+        "street number": 81,
+        "postal code": "6666"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1987-03-29",
+    "nationality": "Spanish",
+    "passport_number": "YQ4034091",
+    "passport_issue_date": "2021-07-19",
+    "passport_expiry_date": "2031-07-18",
+    "gender": "M",
+    "phone_number": "+45 62 90 49 07",
+    "email_address": "diaz.vazquez@all.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "IES Ginés Martínez de Aranda Albacete",
+        "graduation_year": 2004
+    },
+    "higher_education": [
+        {
+            "university": "University of Valencia",
+            "graduation_year": 2010
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2011,
+            "company": " Zealand Pharma A/S",
+            "position": "Research Scientist",
+            "salary": 23000
+        },
+        {
+            "start_year": 2013,
+            "end_year": null,
+            "company": "Genmab A/S",
+            "position": "Biotech Startup Founder",
+            "salary": 74000
+        }
+    ],
+    "aum": {
+        "savings": 100000,
+        "inheritance": 6140000,
+        "real_estate_value": 3441000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 861000,
+            "property location": "Randers"
+        },
+        {
+            "property type": "flat",
+            "property value": 670000,
+            "property location": "Santa Cruz de Tenerife"
+        },
+        {
+            "property type": "villa",
+            "property value": 1910000,
+            "property location": "Teruel"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "1-3 months",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Denmark",
+        "Austria"
+    ],
+    "currency": "DKK"
+}

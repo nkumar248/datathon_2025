@@ -1,0 +1,17 @@
+{
+    "name": "Janssen Visser Van den Berg",
+    "first_name": "Janssen",
+    "middle_name": "Visser",
+    "last_name": "Van den Berg",
+    "passport_number": "MR7658574",
+    "currency": "EUR",
+    "address": {
+        "city": "Amsterdam",
+        "street name": "Kerkplein",
+        "street number": 87,
+        "postal code": "8891 24"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 34453092",
+    "email_address": "janssen.vandenberg@outlook.com"
+}

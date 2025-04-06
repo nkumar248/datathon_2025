@@ -1,0 +1,17 @@
+{
+    "name": "Lehmann Roth Kägi",
+    "first_name": "Lehmann",
+    "middle_name": "Roth",
+    "last_name": "Kägi",
+    "passport_number": "CE1411186",
+    "currency": "CHF",
+    "address": {
+        "city": "Frauenfeld",
+        "street name": "Limmatquai",
+        "street number": 75,
+        "postal code": "4904"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 062 647 78 40",
+    "email_address": "lehmann.kagi@outlook.com"
+}

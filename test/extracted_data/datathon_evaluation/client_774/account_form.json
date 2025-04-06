@@ -1,0 +1,17 @@
+{
+    "name": "Ingrid Chloé Legrand",
+    "first_name": "Ingrid",
+    "middle_name": "Chloé",
+    "last_name": "Legrand",
+    "passport_number": "DZ7700791",
+    "currency": "EUR",
+    "address": {
+        "city": "Strasbourg",
+        "street name": "Boulevard Auguste Blanqui",
+        "street number": 30,
+        "postal code": "47104"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "04 17 26 59 98",
+    "email_address": "ingrid.legrand@orange.fr"
+}

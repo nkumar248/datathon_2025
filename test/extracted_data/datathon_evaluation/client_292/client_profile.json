@@ -1,0 +1,92 @@
+{
+    "name": "Jost Egli Kägi",
+    "address": {
+        "city": "Locarno",
+        "street name": "Rue de l'Athénée",
+        "street number": 31,
+        "postal code": "9371"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1971-07-16",
+    "nationality": "Swiss",
+    "passport_number": "MR8887646",
+    "passport_issue_date": "2019-03-13",
+    "passport_expiry_date": "2029-03-12",
+    "gender": "M",
+    "phone_number": "",
+    "email_address": "jost.kagi@upc.ch",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Gymnasium Hofwil Bern",
+        "graduation_year": 1989
+    },
+    "higher_education": [
+        {
+            "university": "University of Fribourg",
+            "graduation_year": 1994
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1996,
+            "end_year": 1999,
+            "company": "Invision Private Equity AG",
+            "position": "Analyst",
+            "salary": 65000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2003,
+            "company": "Equity4u AG",
+            "position": "Associate",
+            "salary": 98000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2008,
+            "company": "Invision Private Equity AG",
+            "position": "Investment Director",
+            "salary": 131000
+        },
+        {
+            "start_year": 2010,
+            "end_year": 2013,
+            "company": "Partners Group Holding AG",
+            "position": "Partner",
+            "salary": 243000
+        },
+        {
+            "start_year": 2013,
+            "end_year": null,
+            "company": "Invision Private Equity AG",
+            "position": "Fund Manager",
+            "salary": 1060000
+        }
+    ],
+    "aum": {
+        "savings": 1400000,
+        "inheritance": 6520000,
+        "real_estate_value": 2480000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2008,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 2480000,
+            "property location": "Locarno"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Austria"
+    ],
+    "currency": "CHF"
+}

@@ -1,0 +1,92 @@
+{
+    "name": "Eleonora Gaia Lotti",
+    "address": {
+        "city": "Taranto",
+        "street name": "Via del Corso",
+        "street number": 21,
+        "postal code": "93462"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1972-07-26",
+    "nationality": "Italian",
+    "passport_number": "RO4105612",
+    "passport_issue_date": "2017-10-10",
+    "passport_expiry_date": "2027-10-09",
+    "gender": "F",
+    "phone_number": "301 7424768",
+    "email_address": "eleonora.lotti@yahoo.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Liceo Musicale Arrigo Boito Parma",
+        "graduation_year": 1990
+    },
+    "higher_education": [
+        {
+            "university": "IMT Institute for Advanced Studies Lucca",
+            "graduation_year": 1997
+        },
+        {
+            "university": "University of Turin",
+            "graduation_year": 1999
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1996,
+            "end_year": 1999,
+            "company": "ERGA S.p.A.",
+            "position": "Drilling Engineer",
+            "salary": 28000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2006,
+            "company": "Edison S.p.A.",
+            "position": "Reservoir Engineer",
+            "salary": 45000
+        },
+        {
+            "start_year": 2006,
+            "end_year": null,
+            "company": "Edison S.p.A.",
+            "position": "Operations Manager",
+            "salary": 291000
+        }
+    ],
+    "aum": {
+        "savings": 510000,
+        "inheritance": 690000,
+        "real_estate_value": 3441000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2012,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1009000,
+            "property location": "Taranto"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1022000,
+            "property location": "Venice"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1410000,
+            "property location": "Modena"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy",
+        "France"
+    ],
+    "currency": "EUR"
+}

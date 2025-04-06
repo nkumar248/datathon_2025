@@ -1,0 +1,90 @@
+{
+    "name": "Kuhn Wyss Burkart",
+    "address": {
+        "city": "Lugano",
+        "street name": "Heimplatz",
+        "street number": 8,
+        "postal code": "6049"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1979-03-09",
+    "nationality": "Swiss",
+    "passport_number": "VD6133821",
+    "passport_issue_date": "2017-10-31",
+    "passport_expiry_date": "2027-10-30",
+    "gender": "M",
+    "phone_number": "+41 064 038 96 04",
+    "email_address": "kuhn.burkart@lycos.ch",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Kantonsschule Wettingen Wettingen",
+        "graduation_year": 1997
+    },
+    "higher_education": [
+        {
+            "university": "University of Geneva",
+            "graduation_year": 2001
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2002,
+            "end_year": 2007,
+            "company": "Kunstmuseum Basel",
+            "position": "Art Dealer",
+            "salary": 80000
+        },
+        {
+            "start_year": 2007,
+            "end_year": 2008,
+            "company": "Fondation Beyeler",
+            "position": "Gallery Owner",
+            "salary": 101000
+        },
+        {
+            "start_year": 2009,
+            "end_year": 2012,
+            "company": "Kunsthaus Zürich",
+            "position": "Art Advisor",
+            "salary": 120000
+        },
+        {
+            "start_year": 2012,
+            "end_year": null,
+            "company": "Kunsthaus Zürich",
+            "position": "Curator",
+            "salary": 961000
+        }
+    ],
+    "aum": {
+        "savings": 1260000,
+        "inheritance": 510000,
+        "real_estate_value": 5950000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2013,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 2840000,
+            "property location": "Lugano"
+        },
+        {
+            "property type": "house",
+            "property value": 3110000,
+            "property location": "Bellinzona"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Germany"
+    ],
+    "currency": "CHF"
+}

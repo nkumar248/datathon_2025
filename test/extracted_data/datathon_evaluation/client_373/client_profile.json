@@ -1,0 +1,75 @@
+{
+    "name": "Margaux Ophélie Boucher",
+    "address": {
+        "city": "Rouen",
+        "street name": "Avenue de Choisy",
+        "street number": 20,
+        "postal code": "32421"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1984-04-14",
+    "nationality": "French",
+    "passport_number": "EV0283649",
+    "passport_issue_date": "2018-10-11",
+    "passport_expiry_date": "2028-10-10",
+    "gender": "F",
+    "phone_number": "+33 05 64 05 16 67",
+    "email_address": "margaux.boucher@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Montaigne",
+        "graduation_year": 2002
+    },
+    "higher_education": [
+        {
+            "university": "IUT de Lyon",
+            "graduation_year": 2007
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2009,
+            "end_year": 2013,
+            "company": "Pierre Fabre S.A.",
+            "position": "Research Scientist",
+            "salary": 31000
+        },
+        {
+            "start_year": 2015,
+            "end_year": null,
+            "company": "Ipsen S.A.",
+            "position": "Clinical Trials Manager",
+            "salary": 56000
+        }
+    ],
+    "aum": {
+        "savings": 90000,
+        "inheritance": 980000,
+        "real_estate_value": 2390000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1146000,
+            "property location": "Rouen"
+        },
+        {
+            "property type": "condo",
+            "property value": 1244000,
+            "property location": "Dijon"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

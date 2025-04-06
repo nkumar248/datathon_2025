@@ -1,0 +1,59 @@
+{
+    "name": "Caroline Alma Krog",
+    "address": {
+        "city": "Brest",
+        "street name": "Avenue de la Grande Armée",
+        "street number": 44,
+        "postal code": "15267"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1998-03-24",
+    "nationality": "Danish",
+    "passport_number": "LG9639621",
+    "passport_issue_date": "2019-05-25",
+    "passport_expiry_date": "2029-05-24",
+    "gender": "F",
+    "phone_number": "07 10 49 39 51",
+    "email_address": "caroline.krog@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Herning Gymnasium",
+        "graduation_year": 2017
+    },
+    "higher_education": [
+        {
+            "university": "International Business Academy (IBA)",
+            "graduation_year": 2020
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2021,
+            "end_year": null,
+            "company": "BNP Paribas Wealth Management",
+            "position": "Financial Advisor",
+            "salary": 294000
+        }
+    ],
+    "aum": {
+        "savings": 170000,
+        "inheritance": 1440000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "France",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

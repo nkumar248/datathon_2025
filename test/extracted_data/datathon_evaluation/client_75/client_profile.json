@@ -1,0 +1,89 @@
+{
+    "name": "Daniela Ellen Sørensen",
+    "address": {
+        "city": "Braunschweig",
+        "street name": "Brandenburgische Straße",
+        "street number": 54,
+        "postal code": "00664"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1985-01-13",
+    "nationality": "Danish",
+    "passport_number": "BJ1855147",
+    "passport_issue_date": "2018-07-05",
+    "passport_expiry_date": "2028-07-04",
+    "gender": "F",
+    "phone_number": "5047 926443",
+    "email_address": "daniela.srensen@vodafone.de",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Herning Gymnasium",
+        "graduation_year": 2004
+    },
+    "higher_education": [
+        {
+            "university": "Roskilde University",
+            "graduation_year": 2009
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2008,
+            "end_year": 2012,
+            "company": "DB Schenker",
+            "position": "Ship Broker",
+            "salary": 286000
+        },
+        {
+            "start_year": 2012,
+            "end_year": 2014,
+            "company": "DSV Air & Sea GmbH",
+            "position": "Shipping Company Owner",
+            "salary": 390000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "Kühne + Nagel (Deutschland) GmbH",
+            "position": "Fleet Manager",
+            "salary": 1050000
+        }
+    ],
+    "aum": {
+        "savings": 1410000,
+        "inheritance": 1520000,
+        "real_estate_value": 4560000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2470000,
+            "property location": "Braunschweig"
+        },
+        {
+            "property type": "flat",
+            "property value": 904000,
+            "property location": "Kolding"
+        },
+        {
+            "property type": "flat",
+            "property value": 1186000,
+            "property location": "Vejle"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "France",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

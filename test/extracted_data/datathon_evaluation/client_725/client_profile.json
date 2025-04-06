@@ -1,0 +1,90 @@
+{
+    "name": "Evelyne Corinne Keller",
+    "address": {
+        "city": "Chur",
+        "street name": "Rue de la Cite",
+        "street number": 50,
+        "postal code": "1248"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1959-07-09",
+    "nationality": "Swiss",
+    "passport_number": "BM9932083",
+    "passport_issue_date": "2022-05-28",
+    "passport_expiry_date": "2032-05-27",
+    "gender": "F",
+    "phone_number": "+41 081 903 39 79",
+    "email_address": "evelyne.keller@swissonline.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Gymnasium am Burghölzli Basel",
+        "graduation_year": 1978
+    },
+    "higher_education": [
+        {
+            "university": "Suffolk University in Geneva",
+            "graduation_year": 1982
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1984,
+            "end_year": 1987,
+            "company": "Glencore International AG",
+            "position": "Junior Trader",
+            "salary": 67000
+        },
+        {
+            "start_year": 1987,
+            "end_year": 1990,
+            "company": "Gunvor Group Ltd. (Swiss branch)",
+            "position": "Senior Trader",
+            "salary": 91000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 1993,
+            "company": "Mercuria Energy Trading SA",
+            "position": "Trading Desk Manager",
+            "salary": 129000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 2020,
+            "company": "Trafigura Beheer B.V. (Swiss branch)",
+            "position": "Head of Commodities",
+            "salary": 1507000
+        }
+    ],
+    "aum": {
+        "savings": 2650000,
+        "inheritance": 0,
+        "real_estate_value": 8090000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 2410000,
+            "property location": "Chur"
+        },
+        {
+            "property type": "condo",
+            "property value": 2790000,
+            "property location": "Appenzell"
+        },
+        {
+            "property type": "condo",
+            "property value": 2890000,
+            "property location": "Chur"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

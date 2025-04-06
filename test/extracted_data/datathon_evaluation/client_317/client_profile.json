@@ -1,0 +1,76 @@
+{
+    "name": "Schnell Hinterleitner",
+    "address": {
+        "city": "Gmunden",
+        "street name": "Kaiserebersdorf",
+        "street number": 71,
+        "postal code": "4219"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1961-01-26",
+    "nationality": "Austrian",
+    "passport_number": "SI1918576",
+    "passport_issue_date": "2017-03-05",
+    "passport_expiry_date": "2027-03-04",
+    "gender": "M",
+    "phone_number": "328 739 7829",
+    "email_address": "schnell.hinterleitner@vol.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Akademisches Gymnasium Graz",
+        "graduation_year": 1978
+    },
+    "higher_education": [
+        {
+            "university": "IMC University of Applied Sciences Krems",
+            "graduation_year": 1983
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1984,
+            "end_year": 1989,
+            "company": "Conwert Immobilien Invest AG",
+            "position": "Stockbroker",
+            "salary": 43000
+        },
+        {
+            "start_year": 1989,
+            "end_year": 2021,
+            "company": "Immofinanz AG",
+            "position": "Portfolio Manager",
+            "salary": 316000
+        }
+    ],
+    "aum": {
+        "savings": 630000,
+        "inheritance": 0,
+        "real_estate_value": 3928000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1368000,
+            "property location": "Gmunden"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1170000,
+            "property location": "Krems an der Donau"
+        },
+        {
+            "property type": "house",
+            "property value": 1390000,
+            "property location": "Sankt Pölten"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

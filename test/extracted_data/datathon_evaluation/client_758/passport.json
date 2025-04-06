@@ -1,0 +1,17 @@
+{
+    "first_name": "Weber",
+    "middle_name": "Kägi",
+    "last_name": "Gmür",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1973-12-18",
+    "passport_number": "XI6622324",
+    "passport_mrz": [
+        "P<CHEGMÜR<<WEBER<KÄGI<<<<<<<<<<<<<<<<<<<<<<<<",
+        "XI6622324CHE731218<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2016-05-11",
+    "passport_expiry_date": "2026-05-10"
+}

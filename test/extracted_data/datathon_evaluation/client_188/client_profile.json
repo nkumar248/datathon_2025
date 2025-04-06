@@ -1,0 +1,82 @@
+{
+    "name": "Hannah Gertrud Müller",
+    "address": {
+        "city": "Bruck an der Mur",
+        "street name": "Kohlmarkt",
+        "street number": 52,
+        "postal code": "9420"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1978-10-07",
+    "nationality": "Austrian",
+    "passport_number": "QR9183549",
+    "passport_issue_date": "2016-10-09",
+    "passport_expiry_date": "2026-10-08",
+    "gender": "F",
+    "phone_number": "461 230 9158",
+    "email_address": "hannah.muller@vol.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "HAK/HAS Grödig",
+        "graduation_year": 1997
+    },
+    "higher_education": [
+        {
+            "university": "Graz University of Technology",
+            "graduation_year": 2002
+        },
+        {
+            "university": "Montanuniversität Leoben",
+            "graduation_year": 2007
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2002,
+            "end_year": 2005,
+            "company": "Baxter BioScience",
+            "position": "Research Scientist",
+            "salary": 35000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2011,
+            "company": "Baxter BioScience",
+            "position": "Biotech Startup Founder",
+            "salary": 61000
+        },
+        {
+            "start_year": 2011,
+            "end_year": null,
+            "company": "Marinomed Biotechnologie GmbH",
+            "position": "CEO",
+            "salary": 206000
+        }
+    ],
+    "aum": {
+        "savings": 300000,
+        "inheritance": 2060000,
+        "real_estate_value": 1170000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2014,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1170000,
+            "property location": "Bruck an der Mur"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

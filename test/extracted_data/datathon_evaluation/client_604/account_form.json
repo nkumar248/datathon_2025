@@ -1,0 +1,17 @@
+{
+    "name": "Andersen Mikkelsen Nielsen",
+    "first_name": "Andersen",
+    "middle_name": "Mikkelsen",
+    "last_name": "Nielsen",
+    "passport_number": "WU5999167",
+    "currency": "DKK",
+    "address": {
+        "city": "Odense",
+        "street name": "Store Kongensgade",
+        "street number": 25,
+        "postal code": "5874"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 65 94 36 82",
+    "email_address": "andersen.nielsen@telenor.dk"
+}

@@ -1,0 +1,67 @@
+{
+    "name": "Juliane Schmitz",
+    "address": {
+        "city": "Oviedo",
+        "street name": "Plaza de la Magdalena",
+        "street number": 74,
+        "postal code": "13246"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1957-06-15",
+    "nationality": "German",
+    "passport_number": "PZ3189286",
+    "passport_issue_date": "2017-03-03",
+    "passport_expiry_date": "2027-03-02",
+    "gender": "F",
+    "phone_number": "625 584 388",
+    "email_address": "juliane.schmitz@vodafone.es",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Wilhelm-von-Humboldt-Gymnasium Berlin",
+        "graduation_year": 1967
+    },
+    "higher_education": [
+        {
+            "university": "Hamburg University of Music and Drama",
+            "graduation_year": 1981
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1981,
+            "end_year": 1985,
+            "company": "Cepsa Trading S.A.U.",
+            "position": "Junior Trader",
+            "salary": 39000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 2018,
+            "company": "Repsol S.A.",
+            "position": "Trading Desk Manager",
+            "salary": 507000
+        }
+    ],
+    "aum": {
+        "savings": 960000,
+        "inheritance": 0,
+        "real_estate_value": 790000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 790000,
+            "property location": "Oviedo"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

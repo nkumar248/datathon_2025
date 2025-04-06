@@ -1,0 +1,81 @@
+{
+    "name": "Møller Jespersen Højgaard",
+    "address": {
+        "city": "Taastrup",
+        "street name": "Krystalgade",
+        "street number": 25,
+        "postal code": "7752"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1918-01-15",
+    "nationality": "Danish",
+    "passport_number": "XO8869564",
+    "passport_issue_date": "2020-09-27",
+    "passport_expiry_date": "2030-09-26",
+    "gender": "M",
+    "phone_number": "+45 57 30 54 44",
+    "email_address": "mller.hjgaard@dk-hostmaster.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Skive Gymnasium",
+        "graduation_year": 1999
+    },
+    "higher_education": [
+        {
+            "university": "University College Capital",
+            "graduation_year": 2003
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2005,
+            "end_year": 2006,
+            "company": "Skanska Danmark A/S",
+            "position": "Property Manager",
+            "salary": 267000
+        },
+        {
+            "start_year": 2006,
+            "end_year": null,
+            "company": "NCC Danmark A/S",
+            "position": "Developer",
+            "salary": 1473000
+        }
+    ],
+    "aum": {
+        "savings": 2060000,
+        "inheritance": 50650000,
+        "real_estate_value": 5264000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2010,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1634000,
+            "property location": "Taastrup"
+        },
+        {
+            "property type": "flat",
+            "property value": 870000,
+            "property location": "Vejle"
+        },
+        {
+            "property type": "villa",
+            "property value": 2760000,
+            "property location": "Aalborg"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Austria"
+    ],
+    "currency": "DKK"
+}

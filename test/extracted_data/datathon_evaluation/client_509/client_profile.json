@@ -1,0 +1,78 @@
+{
+    "name": "Iida Kaarin Seppälä",
+    "address": {
+        "city": "Espoo",
+        "street name": "Reijolankuja",
+        "street number": 59,
+        "postal code": "39716"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1970-09-26",
+    "nationality": "Finnish",
+    "passport_number": "FM4465787",
+    "passport_issue_date": "2019-08-09",
+    "passport_expiry_date": "2029-08-08",
+    "gender": "F",
+    "phone_number": "+358 044 874 15 58",
+    "email_address": "iida.seppala@finet.fi",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Taipalsaaren lukio",
+        "graduation_year": 1988
+    },
+    "higher_education": [
+        {
+            "university": "Centria University of Applied Sciences",
+            "graduation_year": 1981
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1994,
+            "end_year": 1997,
+            "company": "Fortum Corporation",
+            "position": "Drilling Engineer",
+            "salary": 41000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2000,
+            "company": "Fortum Corporation",
+            "position": "Reservoir Engineer",
+            "salary": 60000
+        },
+        {
+            "start_year": 2001,
+            "end_year": null,
+            "company": "",
+            "position": "CRO",
+            "salary": 593000
+        }
+    ],
+    "aum": {
+        "savings": 1050000,
+        "inheritance": 1370000,
+        "real_estate_value": 670000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2014,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 670000,
+            "property location": "Espoo"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "Finland"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Carlijn Bo Bakker",
+    "first_name": "Carlijn",
+    "middle_name": "Bo",
+    "last_name": "Bakker",
+    "passport_number": "ZF4024604",
+    "currency": "EUR",
+    "address": {
+        "city": "Zaandam",
+        "street name": "Overtoom",
+        "street number": 13,
+        "postal code": "3920 32"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 25733105",
+    "email_address": "carlijn.bakker@tele2.nl"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Chiara Wyss",
+    "first_name": "Chiara",
+    "middle_name": "",
+    "last_name": "Wyss",
+    "passport_number": "XI4440857",
+    "currency": "CHF",
+    "address": {
+        "city": "Appenzell",
+        "street name": "Rue de l'Athénée",
+        "street number": 24,
+        "postal code": "4627"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "086 196 18 89",
+    "email_address": "chiara.wyss@swissonline.ch"
+}

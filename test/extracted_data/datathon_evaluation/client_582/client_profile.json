@@ -1,0 +1,44 @@
+{
+    "name": "Lena Corinne Wyss",
+    "address": {
+        "city": "Locarno",
+        "street name": "Gertrudstrasse",
+        "street number": 25,
+        "postal code": "2562"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "2003-09-19",
+    "nationality": "Swiss",
+    "passport_number": "OS0689069",
+    "passport_issue_date": "2023-03-06",
+    "passport_expiry_date": "2033-03-05",
+    "gender": "F",
+    "phone_number": "+41 067 474 30 32",
+    "email_address": "lena.wyss@upc.ch",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "École secondaire de Morges Vaud",
+        "graduation_year": 2023
+    },
+    "higher_education": [],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 980000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "10 months",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

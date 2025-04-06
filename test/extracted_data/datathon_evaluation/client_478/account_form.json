@@ -1,0 +1,17 @@
+{
+    "name": "Faure Fournier Bernard",
+    "first_name": "Faure",
+    "middle_name": "Fournier",
+    "last_name": "Thomas",
+    "passport_number": "KR5683541",
+    "currency": "EUR",
+    "address": {
+        "city": "Brest",
+        "street name": "Boulevard Arago",
+        "street number": 50,
+        "postal code": "99682"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 06 58 85 14 73",
+    "email_address": "faure.bernard@aliceadsl.fr"
+}

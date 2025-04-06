@@ -1,0 +1,81 @@
+{
+    "name": "Mathilde Isabella Nielsen",
+    "address": {
+        "city": "Aalborg",
+        "street name": "Store Kongensgade",
+        "street number": 16,
+        "postal code": "1326"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1970-10-06",
+    "nationality": "Danish",
+    "passport_number": "HV9521039",
+    "passport_issue_date": "2017-04-01",
+    "passport_expiry_date": "2027-03-31",
+    "gender": "F",
+    "phone_number": "+45 17 66 73 34",
+    "email_address": "mathilde.nielsen@telia.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Nyborg Gymnasium",
+        "graduation_year": 1988
+    },
+    "higher_education": [
+        {
+            "university": "University College Capital",
+            "graduation_year": 1995
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1994,
+            "end_year": 1995,
+            "company": "National Gallery of Denmark",
+            "position": "Art Dealer",
+            "salary": 289000
+        },
+        {
+            "start_year": 1995,
+            "end_year": null,
+            "company": "Arken Museum of Modern Art",
+            "position": "Gallery Owner",
+            "salary": 2862000
+        }
+    ],
+    "aum": {
+        "savings": 5250000,
+        "inheritance": 35550000,
+        "real_estate_value": 5269000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2005,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1959000,
+            "property location": "Aalborg"
+        },
+        {
+            "property type": "house",
+            "property value": 1680000,
+            "property location": "Fredericia"
+        },
+        {
+            "property type": "house",
+            "property value": 1630000,
+            "property location": "Kolding"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark",
+        "Netherlands"
+    ],
+    "currency": "DKK"
+}

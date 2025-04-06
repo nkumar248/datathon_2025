@@ -1,0 +1,17 @@
+{
+    "name": "Egli Kaufmann Lehmann",
+    "first_name": "Egli",
+    "middle_name": "Kaufmann",
+    "last_name": "Lehmann",
+    "passport_number": "EL0537221",
+    "currency": "CHF",
+    "address": {
+        "city": "Schaffhausen",
+        "street name": "Rue de l'Athénée",
+        "street number": 16,
+        "postal code": "5060"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 083 198 70 09",
+    "email_address": "egli.lehmann@swisscom.ch"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Donati Marini Esposito",
+    "first_name": "Donati",
+    "middle_name": "Marini",
+    "last_name": "Esposito",
+    "passport_number": "MW6778541",
+    "currency": "EUR",
+    "address": {
+        "city": "Siena",
+        "street name": "Corso Garibaldi",
+        "street number": 38,
+        "postal code": "76822"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 350 9125794",
+    "email_address": "donati.esposito@icloud.com"
+}

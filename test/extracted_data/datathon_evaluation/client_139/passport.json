@@ -1,0 +1,17 @@
+{
+    "first_name": "Andrea",
+    "middle_name": "María",
+    "last_name": "Gómez",
+    "gender": "F",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "1978-07-21",
+    "passport_number": "AH6027333",
+    "passport_mrz": [
+        "P<ESPGÓMEZ<<ANDREA<MARÍA<<<<<<<<<<<<<<<<<<<<<",
+        "AH6027333ESP780721<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "1973-01-17",
+    "passport_expiry_date": "1983-01-16"
+}

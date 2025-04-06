@@ -1,0 +1,77 @@
+{
+    "name": "Rizzo Landi",
+    "address": {
+        "city": "Palermo",
+        "street name": "Corso Garibaldi",
+        "street number": 88,
+        "postal code": "67724"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1985-04-23",
+    "nationality": "Italian",
+    "passport_number": "JL2474960",
+    "passport_issue_date": "2022-04-14",
+    "passport_expiry_date": "2032-04-13",
+    "gender": "M",
+    "phone_number": "+39 358 8424630",
+    "email_address": "rizzo.landi@fastweb.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Liceo Musicale Arrigo Boito Parma",
+        "graduation_year": 2004
+    },
+    "higher_education": [
+        {
+            "university": "European University of Rome",
+            "graduation_year": 2009
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2009,
+            "end_year": 2014,
+            "company": "Roche S.p.A.",
+            "position": "Research Scientist",
+            "salary": 29000
+        },
+        {
+            "start_year": 2014,
+            "end_year": 2018,
+            "company": "Novartis Farma S.p.A.",
+            "position": "Biotech Startup Founder",
+            "salary": 43000
+        },
+        {
+            "start_year": 2020,
+            "end_year": null,
+            "company": "Novartis Farma S.p.A.",
+            "position": "CEO",
+            "salary": 122000
+        }
+    ],
+    "aum": {
+        "savings": 140000,
+        "inheritance": 1680000,
+        "real_estate_value": 620000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2018,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 620000,
+            "property location": "Palermo"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

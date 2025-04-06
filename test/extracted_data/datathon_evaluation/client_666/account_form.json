@@ -1,0 +1,17 @@
+{
+    "name": "Essi Matilda Salminen",
+    "first_name": "Essi",
+    "middle_name": "Matilda",
+    "last_name": "Salminen",
+    "passport_number": "YU7660464",
+    "currency": "EUR",
+    "address": {
+        "city": "Jyväskylä",
+        "street name": "Salmisaarenranta",
+        "street number": 66,
+        "postal code": "19052"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 049 428 09 99",
+    "email_address": "essi.salminen@luukku.com"
+}

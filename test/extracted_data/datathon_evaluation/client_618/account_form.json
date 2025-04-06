@@ -1,0 +1,17 @@
+{
+    "name": "Hansen Petersen Friis",
+    "first_name": "Hansen",
+    "middle_name": "Petersen",
+    "last_name": "Friis",
+    "passport_number": "FZ2636524",
+    "currency": "DKK",
+    "address": {
+        "city": "Næstved",
+        "street name": "Skindergade",
+        "street number": 35,
+        "postal code": "3636"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 87 74 04 35",
+    "email_address": "hansen.friis@siminn.dk"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Voorn Spaans",
+    "first_name": "Voorn",
+    "middle_name": "",
+    "last_name": "Spaans",
+    "passport_number": "TA4930667",
+    "currency": "EUR",
+    "address": {
+        "city": "Eindhoven",
+        "street name": "Langegracht",
+        "street number": 84,
+        "postal code": "7011 69"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 96063509",
+    "email_address": "voorn.spaans@gmail.com"
+}

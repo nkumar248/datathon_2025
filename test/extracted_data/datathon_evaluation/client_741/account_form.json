@@ -1,0 +1,17 @@
+{
+    "name": "Gabrielle Colombe Guillaume",
+    "first_name": "Gabrielle",
+    "middle_name": "Colombe",
+    "last_name": "Guillaume",
+    "passport_number": "VS6343891",
+    "currency": "EUR",
+    "address": {
+        "city": "Lyon",
+        "street name": "Avenue de Gobelins",
+        "street number": 88,
+        "postal code": "39185"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 09 29 87 36 7",
+    "email_address": "gabrielle.guillaume@icloud.com"
+}

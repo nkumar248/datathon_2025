@@ -1,0 +1,17 @@
+{
+    "name": "Ahonen Salminen Hiltunen",
+    "first_name": "Ahonen",
+    "middle_name": "Salminen",
+    "last_name": "Hiltunen",
+    "passport_number": "BT2876967",
+    "currency": "EUR",
+    "address": {
+        "city": "Hämeenlinna",
+        "street name": "Kaisaniemenkatu",
+        "street number": 90,
+        "postal code": "92183"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 046 702 72 62",
+    "email_address": "ahonen.hiltunen@outlook.com"
+}

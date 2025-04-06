@@ -1,0 +1,17 @@
+{
+    "name": "Goossens Van den Berghe Roelandts",
+    "first_name": "Goossens",
+    "middle_name": "Van den Berghe",
+    "last_name": "Roelandts",
+    "passport_number": "QN3091807",
+    "currency": "DKK",
+    "address": {
+        "city": "Frederiksberg",
+        "street name": "Nytorv",
+        "street number": 73,
+        "postal code": "7443"
+    },
+    "country_of_domicile": "Denmark,Spain",
+    "phone_number": "65 24 77 17",
+    "email_address": "goossens.roelandts@cybercity.dk"
+}

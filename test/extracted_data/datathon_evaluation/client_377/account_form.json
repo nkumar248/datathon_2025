@@ -1,0 +1,17 @@
+{
+    "name": "Huber Weber Rieder",
+    "first_name": "Rieder",
+    "middle_name": "Weber",
+    "last_name": "Huber",
+    "passport_number": "MR4513076",
+    "currency": "EUR",
+    "address": {
+        "city": "Linz",
+        "street name": "Blutgasse",
+        "street number": 32,
+        "postal code": "6316"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "012 588 9748",
+    "email_address": "huber.rieder@yahoo.com"
+}

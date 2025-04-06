@@ -1,0 +1,101 @@
+{
+    "name": "Federica Daniela Belli",
+    "address": {
+        "city": "Reggio Calabria",
+        "street name": "Via dei Fori Imperiali",
+        "street number": 69,
+        "postal code": "02913"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1976-08-31",
+    "nationality": "Italian",
+    "passport_number": "KZ0833007",
+    "passport_issue_date": "2022-03-30",
+    "passport_expiry_date": "2032-03-29",
+    "gender": "F",
+    "phone_number": "399 6553372",
+    "email_address": "federica.belli@unidata.it",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Scuola Media Statale Giancarlo Siani Napoli",
+        "graduation_year": 1995
+    },
+    "higher_education": [
+        {
+            "university": "University of Rome La Sapienza",
+            "graduation_year": 2001
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2001,
+            "end_year": 2006,
+            "company": "Prada S.p.A.",
+            "position": "Assistant Designer",
+            "salary": 31000
+        },
+        {
+            "start_year": 2008,
+            "end_year": 2011,
+            "company": "Giorgio Armani S.p.A.",
+            "position": "Senior Designer",
+            "salary": 38000
+        },
+        {
+            "start_year": 2012,
+            "end_year": 2015,
+            "company": "Gucci S.p.A.",
+            "position": "Creative Director",
+            "salary": 55000
+        },
+        {
+            "start_year": 2016,
+            "end_year": 2021,
+            "company": "Versace S.p.A.",
+            "position": "Founder/Designer",
+            "salary": 192000
+        },
+        {
+            "start_year": 2021,
+            "end_year": null,
+            "company": "Gucci S.p.A.",
+            "position": "Luxury Brand Owner",
+            "salary": 134000
+        }
+    ],
+    "aum": {
+        "savings": 280000,
+        "inheritance": 1150000,
+        "real_estate_value": 3572000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2006,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 572000,
+            "property location": "Reggio Calabria"
+        },
+        {
+            "property type": "villa",
+            "property value": 1950000,
+            "property location": "Florence"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1050000,
+            "property location": "Taranto"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

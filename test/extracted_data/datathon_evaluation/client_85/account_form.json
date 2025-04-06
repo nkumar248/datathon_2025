@@ -1,0 +1,17 @@
+{
+    "name": "Margaux Lina Moreau",
+    "first_name": "Margaux",
+    "middle_name": "Lina",
+    "last_name": "Moreau",
+    "passport_number": "SO9346308",
+    "currency": "EUR",
+    "address": {
+        "city": "Paris",
+        "street name": "Avenue de Gobelins",
+        "street number": 18,
+        "postal code": "81740"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 05 09 60 97 29",
+    "email_address": "margaux.moreau@outlook.com"
+}

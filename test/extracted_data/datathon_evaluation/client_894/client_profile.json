@@ -1,0 +1,78 @@
+{
+    "name": "Egger Mayr Schwarz",
+    "address": {
+        "city": "Graz",
+        "street name": "Alpenstraße",
+        "street number": 49,
+        "postal code": "7127"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1969-11-14",
+    "nationality": "Austrian",
+    "passport_number": "JZ1299439",
+    "passport_issue_date": "2018-03-10",
+    "passport_expiry_date": "2028-03-09",
+    "gender": "M",
+    "phone_number": "+43 655 273 1736",
+    "email_address": "egger.schwarz@aon.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Gymnasium Bregenz",
+        "graduation_year": 1989
+    },
+    "higher_education": [
+        {
+            "university": "LIMAK Austrian Business School",
+            "graduation_year": 1994
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1993,
+            "end_year": 1996,
+            "company": "Alpha Private Equity",
+            "position": "Analyst",
+            "salary": 32000
+        },
+        {
+            "start_year": 1998,
+            "end_year": 2000,
+            "company": "Equity Partners Investment GmbH",
+            "position": "Associate",
+            "salary": 50000
+        },
+        {
+            "start_year": 2003,
+            "end_year": 2023,
+            "company": "Alpha Private Equity",
+            "position": "Partner",
+            "salary": 545000
+        }
+    ],
+    "aum": {
+        "savings": 900000,
+        "inheritance": 120000,
+        "real_estate_value": 1140000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2015,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1140000,
+            "property location": "Graz"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "France",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

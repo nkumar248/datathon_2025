@@ -1,0 +1,77 @@
+{
+    "name": "Florence Louna Segers",
+    "address": {
+        "city": "Mol",
+        "street name": "Rue des Bouchers",
+        "street number": 19,
+        "postal code": "7122"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1957-12-02",
+    "nationality": "Belgian",
+    "passport_number": "IS5049303",
+    "passport_issue_date": "2020-10-10",
+    "passport_expiry_date": "2027-10-09",
+    "gender": "F",
+    "phone_number": "+32 0475 605 428",
+    "email_address": "florence.segers@skynet.be",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée Molière",
+        "graduation_year": 1995
+    },
+    "higher_education": [
+        {
+            "university": "ICHEC Brussels Management School",
+            "graduation_year": 1998
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1999,
+            "end_year": 2004,
+            "company": "ING Private Banking Belgium",
+            "position": "Financial Advisor",
+            "salary": 40000
+        },
+        {
+            "start_year": 2006,
+            "end_year": 2009,
+            "company": "BNP Paribas Wealth Management Belgium",
+            "position": "Portfolio Manager",
+            "salary": 54000
+        },
+        {
+            "start_year": 2011,
+            "end_year": null,
+            "company": "Petercam SA",
+            "position": "Wealth Manager",
+            "salary": 277000
+        }
+    ],
+    "aum": {
+        "savings": 420000,
+        "inheritance": 2630000,
+        "real_estate_value": 1360000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2007,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1360000,
+            "property location": "Mol"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

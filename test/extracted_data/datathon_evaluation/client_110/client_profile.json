@@ -1,0 +1,84 @@
+{
+    "name": "Steiner Brandstetter Koller",
+    "address": {
+        "city": "Hallein",
+        "street name": "Kohlmarkt",
+        "street number": 8,
+        "postal code": "0784"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1957-06-09",
+    "nationality": "Austrian",
+    "passport_number": "AS0569349",
+    "passport_issue_date": "2021-02-08",
+    "passport_expiry_date": "2031-02-07",
+    "gender": "M",
+    "phone_number": "879 040 6532",
+    "email_address": "steiner.koller@icloud.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Français de Vienne",
+        "graduation_year": 1976
+    },
+    "higher_education": [
+        {
+            "university": "Johannes Kepler University Linz",
+            "graduation_year": 1980
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1981,
+            "end_year": 1983,
+            "company": "Octapharma AG",
+            "position": "Research Scientist",
+            "salary": 32000
+        },
+        {
+            "start_year": 1983,
+            "end_year": 1986,
+            "company": "Marinomed Biotechnologie GmbH",
+            "position": "Biotech Startup Founder",
+            "salary": 48000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 2018,
+            "company": "Octapharma AG",
+            "position": "CEO",
+            "salary": 645000
+        }
+    ],
+    "aum": {
+        "savings": 1370000,
+        "inheritance": 0,
+        "real_estate_value": 4057000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1090000,
+            "property location": "Hallein"
+        },
+        {
+            "property type": "villa",
+            "property value": 1937000,
+            "property location": "Stockerau"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1030000,
+            "property location": "Amstetten"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

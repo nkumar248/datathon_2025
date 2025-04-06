@@ -1,0 +1,17 @@
+{
+    "name": "Janssens Roelandts",
+    "first_name": "Janssens",
+    "middle_name": "",
+    "last_name": "Roelandts",
+    "passport_number": "JY4195195",
+    "currency": "EUR",
+    "address": {
+        "city": "Liège",
+        "street name": "Rue de la Convention",
+        "street number": 17,
+        "postal code": "5112"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0485 074 674",
+    "email_address": "janssens.roelandts@scarlet.be"
+}

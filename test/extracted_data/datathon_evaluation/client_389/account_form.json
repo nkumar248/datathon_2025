@@ -1,0 +1,17 @@
+{
+    "name": "África Angela Suárez",
+    "first_name": "África",
+    "middle_name": "Angela",
+    "last_name": "Suárez",
+    "passport_number": "AD1401491",
+    "currency": "EUR",
+    "address": {
+        "city": "Guadalajara",
+        "street name": "Plaza de la Magdalena",
+        "street number": 76,
+        "postal code": "93574"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "689 379 273",
+    "email_address": "africa.suarez@hotmail.es"
+}

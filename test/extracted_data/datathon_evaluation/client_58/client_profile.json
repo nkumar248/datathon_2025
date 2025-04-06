@@ -1,0 +1,57 @@
+{
+    "name": "Josefiina Aino Hiltunen",
+    "address": {
+        "city": "Nurmijärvi",
+        "street name": "Pyynikintie",
+        "street number": 36,
+        "postal code": "36661"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1995-11-29",
+    "nationality": "Finnish",
+    "passport_number": "XF0334776",
+    "passport_issue_date": "2022-06-21",
+    "passport_expiry_date": "2032-06-20",
+    "gender": "F",
+    "phone_number": "+358 049 544 35 41",
+    "email_address": "josefiina.hiltunen@gmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Siuntion lukio",
+        "graduation_year": 2014
+    },
+    "higher_education": [
+        {
+            "university": "University of Jyväskylä",
+            "graduation_year": 2020
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2020,
+            "end_year": 2024,
+            "company": "Danske Bank Wealth Management",
+            "position": "Financial Advisor",
+            "salary": 36000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 2810000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

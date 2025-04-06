@@ -1,0 +1,17 @@
+{
+    "name": "Kaisa Venla Rissanen",
+    "first_name": "Kaisa",
+    "middle_name": "Venla",
+    "last_name": "Rissanen",
+    "passport_number": "WZ9622837",
+    "currency": "EUR",
+    "address": {
+        "city": "Lappeenranta",
+        "street name": "Nordea-puistotie",
+        "street number": 71,
+        "postal code": "85800"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 048 495 45 73",
+    "email_address": "kaisa.rissanen@luukku.com"
+}

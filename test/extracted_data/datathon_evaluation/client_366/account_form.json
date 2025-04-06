@@ -1,0 +1,17 @@
+{
+    "name": "Anne Jasmijn Schipper",
+    "first_name": "Anne",
+    "middle_name": "Jasmijn",
+    "last_name": "Schipper",
+    "passport_number": "KO7796308",
+    "currency": "EUR",
+    "address": {
+        "city": "Hoofddorp",
+        "street name": "Waterlooplein",
+        "street number": 99,
+        "postal code": "8830 73"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 85917727",
+    "email_address": "anne.schipper@kpnmail.nl"
+}

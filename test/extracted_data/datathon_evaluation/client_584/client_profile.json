@@ -1,0 +1,65 @@
+{
+    "name": "Lotti Fabbri Russo",
+    "address": {
+        "city": "Venice",
+        "street name": "Piazza Venezia",
+        "street number": 1,
+        "postal code": "89963"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1996-12-28",
+    "nationality": "Italian",
+    "passport_number": "CS7294082",
+    "passport_issue_date": "2019-12-11",
+    "passport_expiry_date": "2029-12-10",
+    "gender": "M",
+    "phone_number": "+39 345 1604573",
+    "email_address": "lotti.russo@unidata.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Scuola Superiore di Lingue e Letterature Straniere per Interpreti e Traduttori Milano",
+        "graduation_year": 2015
+    },
+    "higher_education": [
+        {
+            "university": "Ca' Foscari University of Venice",
+            "graduation_year": 2019
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2020,
+            "end_year": 2022,
+            "company": "Edison S.p.A.",
+            "position": "Junior Trader",
+            "salary": 28000
+        },
+        {
+            "start_year": 2022,
+            "end_year": null,
+            "company": "ENI S.p.A.",
+            "position": "Senior Trader",
+            "salary": 41000
+        }
+    ],
+    "aum": {
+        "savings": 30000,
+        "inheritance": 2600000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

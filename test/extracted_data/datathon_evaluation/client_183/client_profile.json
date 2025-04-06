@@ -1,0 +1,80 @@
+{
+    "name": "Amélie Romane Lemaire",
+    "address": {
+        "city": "Liège",
+        "street name": "Rue du Houblon",
+        "street number": 80,
+        "postal code": "7434"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1967-09-07",
+    "nationality": "Belgian",
+    "passport_number": "CS2151009",
+    "passport_issue_date": "2020-08-08",
+    "passport_expiry_date": "2027-08-07",
+    "gender": "F",
+    "phone_number": "+32 0413 299 719",
+    "email_address": "amelie.lemaire@voo.be",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Atheneum Antwerpen Linkeroever",
+        "graduation_year": 1977
+    },
+    "higher_education": [
+        {
+            "university": "Académie des Beaux-Arts de Tournai",
+            "graduation_year": 1991
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1992,
+            "end_year": 1995,
+            "company": "Stella McCartney Belgium",
+            "position": "Assistant Designer",
+            "salary": 39000
+        },
+        {
+            "start_year": 1997,
+            "end_year": null,
+            "company": "Dries Van Noten NV",
+            "position": "Senior Designer",
+            "salary": 287000
+        }
+    ],
+    "aum": {
+        "savings": 580000,
+        "inheritance": 4270000,
+        "real_estate_value": 3341000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2014,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 970000,
+            "property location": "Liège"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1371000,
+            "property location": "Bruges"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1000000,
+            "property location": "Ieper"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

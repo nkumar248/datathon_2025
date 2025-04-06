@@ -1,0 +1,17 @@
+{
+    "name": "Mayr Bauer Maier",
+    "first_name": "Mayr",
+    "middle_name": "Bauer",
+    "last_name": "Maier",
+    "passport_number": "NM2072347",
+    "currency": "EUR",
+    "address": {
+        "city": "Tulln an der Donau",
+        "street name": "Opernring",
+        "street number": 57,
+        "postal code": "2923"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 692 198 2508",
+    "email_address": "mayr.maier@upc.at"
+}

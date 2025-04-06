@@ -1,0 +1,17 @@
+{
+    "name": "Dupont Boucher Dubois",
+    "first_name": "Dupont",
+    "middle_name": "Boucher",
+    "last_name": "Dubois",
+    "passport_number": "HB4868898",
+    "currency": "EUR",
+    "address": {
+        "city": "Tours",
+        "street name": "Boulevard Sébastopol",
+        "street number": 93,
+        "postal code": "01830"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 01 47 11 90 99",
+    "email_address": "dupont.dubois@live.fr"
+}

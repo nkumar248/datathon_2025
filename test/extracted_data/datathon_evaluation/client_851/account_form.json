@@ -1,0 +1,17 @@
+{
+    "name": "Victoria Beatrix Reiter",
+    "first_name": "Victoria",
+    "middle_name": "Beatrix",
+    "last_name": "Reiter",
+    "passport_number": "JR6315365",
+    "currency": "EUR",
+    "address": {
+        "city": "Gmunden",
+        "street name": "Groß-Enzersdorf",
+        "street number": 44,
+        "postal code": "9710"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 463 755 5166",
+    "email_address": "victoria.reiter@telekom.at"
+}

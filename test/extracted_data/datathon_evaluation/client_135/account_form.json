@@ -1,0 +1,17 @@
+{
+    "name": "Ophélie Margot Lemaire",
+    "first_name": "Ophélie",
+    "middle_name": "Margot",
+    "last_name": "Lemaire",
+    "passport_number": "JL1723475",
+    "currency": "EUR",
+    "address": {
+        "city": "Herstal",
+        "street name": "Rue des Quatre Bras",
+        "street number": 20,
+        "postal code": "2838"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0487 318 260",
+    "email_address": "ophelie.lemaire@scarlet.be"
+}

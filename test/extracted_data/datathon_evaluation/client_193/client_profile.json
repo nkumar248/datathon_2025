@@ -1,0 +1,77 @@
+{
+    "name": "Emma Capucine Bernard",
+    "address": {
+        "city": "Toulon",
+        "street name": "Rue Royale",
+        "street number": 18,
+        "postal code": "98286"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1989-04-27",
+    "nationality": "French",
+    "passport_number": "XU9409325",
+    "passport_issue_date": "2021-06-21",
+    "passport_expiry_date": "2031-06-20",
+    "gender": "F",
+    "phone_number": "+33 04 66 74 92 79",
+    "email_address": "emma.bernard@yahoo.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée du Parc",
+        "graduation_year": 2008
+    },
+    "higher_education": [
+        {
+            "university": "École des Beaux-Arts de Paris",
+            "graduation_year": 2012
+        },
+        {
+            "university": "École Polytechnique",
+            "graduation_year": 2018
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2013,
+            "end_year": null,
+            "company": "Centre Pompidou",
+            "position": "Art Dealer",
+            "salary": 68000
+        }
+    ],
+    "aum": {
+        "savings": 90000,
+        "inheritance": 1930000,
+        "real_estate_value": 7280000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 2020000,
+            "property location": "Toulon"
+        },
+        {
+            "property type": "villa",
+            "property value": 3170000,
+            "property location": "Lille"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 2090000,
+            "property location": "Clermont-Ferrand"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

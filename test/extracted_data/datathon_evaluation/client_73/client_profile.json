@@ -1,0 +1,75 @@
+{
+    "name": "Dekkers Mulders Verhoeven",
+    "address": {
+        "city": "Arnhem",
+        "street name": "Overtoom",
+        "street number": 96,
+        "postal code": "9412 46"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1988-07-31",
+    "nationality": "Dutch",
+    "passport_number": "BU9263208",
+    "passport_issue_date": "2023-04-15",
+    "passport_expiry_date": "2033-04-14",
+    "gender": "M",
+    "phone_number": "+31 06 60679386",
+    "email_address": "dekkers.verhoeven@casema.nl",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Het Rijnlands Lyceum Oegstgeest",
+        "graduation_year": 2006
+    },
+    "higher_education": [
+        {
+            "university": "Erasmus University Rotterdam",
+            "graduation_year": 2012
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2013,
+            "end_year": 2014,
+            "company": "ABN AMRO Group N.V.",
+            "position": "Investment Banker",
+            "salary": 42000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2025,
+            "company": "SNS Bank N.V.",
+            "position": "Private Equity Investor",
+            "salary": 98000
+        }
+    ],
+    "aum": {
+        "savings": 120000,
+        "inheritance": 6820000,
+        "real_estate_value": 2540000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2019,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1590000,
+            "property location": "Arnhem"
+        },
+        {
+            "property type": "flat",
+            "property value": 950000,
+            "property location": "Utrecht"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

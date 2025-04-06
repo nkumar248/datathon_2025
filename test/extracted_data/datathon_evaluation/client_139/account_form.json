@@ -1,0 +1,17 @@
+{
+    "name": "Andrea María Gómez",
+    "first_name": "Andrea",
+    "middle_name": "María",
+    "last_name": "Gómez",
+    "passport_number": "AH6027333",
+    "currency": "EUR",
+    "address": {
+        "city": "Granada",
+        "street name": "Gran Vía",
+        "street number": 42,
+        "postal code": "35895"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 663 670 471",
+    "email_address": "andrea.gomez@yahoo.es"
+}

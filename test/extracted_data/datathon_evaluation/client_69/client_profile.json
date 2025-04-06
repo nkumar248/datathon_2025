@@ -1,0 +1,97 @@
+{
+    "name": "Camilla Agnes Jørgensen",
+    "address": {
+        "city": "Schaffhausen",
+        "street name": "Rue de la Paix",
+        "street number": 37,
+        "postal code": "9146"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1977-09-24",
+    "nationality": "Danish",
+    "passport_number": "HY8391731",
+    "passport_issue_date": "2023-05-29",
+    "passport_expiry_date": "2033-05-28",
+    "gender": "F",
+    "phone_number": "045 452 52 29",
+    "email_address": "camilla.jrgensen@swisscom.ch",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Nyborg Gymnasium",
+        "graduation_year": 1997
+    },
+    "higher_education": [
+        {
+            "university": "Aalborg University",
+            "graduation_year": 2001
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2001,
+            "end_year": 2003,
+            "company": "Swisspetro AG",
+            "position": "Drilling Engineer",
+            "salary": 273000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2006,
+            "company": "Swisspetro AG",
+            "position": "Reservoir Engineer",
+            "salary": 374000
+        },
+        {
+            "start_year": 2008,
+            "end_year": 2012,
+            "company": "Oiltanking Switzerland AG",
+            "position": "Operations Manager",
+            "salary": 525000
+        },
+        {
+            "start_year": 2012,
+            "end_year": 2013,
+            "company": "Swisspetro AG",
+            "position": "VP of Exploration",
+            "salary": 904000
+        },
+        {
+            "start_year": 2015,
+            "end_year": null,
+            "company": "Swisspetro AG",
+            "position": "CEO",
+            "salary": 2225000
+        }
+    ],
+    "aum": {
+        "savings": 3090000,
+        "inheritance": 2270000,
+        "real_estate_value": 2980000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2009,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1830000,
+            "property location": "Schaffhausen"
+        },
+        {
+            "property type": "flat",
+            "property value": 1150000,
+            "property location": "Esbjerg"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland",
+        "Denmark"
+    ],
+    "currency": "CHF"
+}

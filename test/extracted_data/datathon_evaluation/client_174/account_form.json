@@ -1,0 +1,17 @@
+{
+    "name": "Hanna Elisabeth Zimmermann",
+    "first_name": "Hanna",
+    "middle_name": "Elisabeth",
+    "last_name": "Zimmermann",
+    "passport_number": "DI0059157",
+    "currency": "EUR",
+    "address": {
+        "city": "Frankfurt am Main",
+        "street name": "Schlossplatz",
+        "street number": 50,
+        "postal code": "20382"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "2612 794733",
+    "email_address": "hanna.zimmermann@gmail.com"
+}

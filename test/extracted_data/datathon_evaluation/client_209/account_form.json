@@ -1,0 +1,17 @@
+{
+    "name": "Piirainen Paananen Voutilainen",
+    "first_name": "Piirainen",
+    "middle_name": "Paananen",
+    "last_name": "Voutilainen",
+    "passport_number": "CA0707295",
+    "currency": "EUR",
+    "address": {
+        "city": "Jyväskylä",
+        "street name": "Sörnäisten rantatie",
+        "street number": 10,
+        "postal code": "02109"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "049 450 57 47",
+    "email_address": "piirainen.voutilainen@yahoo.com"
+}

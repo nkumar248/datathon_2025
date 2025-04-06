@@ -1,0 +1,17 @@
+{
+    "name": "Benita Hanna Fischer",
+    "first_name": "Benita",
+    "middle_name": "Hanna",
+    "last_name": "Fischer",
+    "passport_number": "PN8907016",
+    "currency": "EUR",
+    "address": {
+        "city": "Essen",
+        "street name": "Tauentzienstraße",
+        "street number": 26,
+        "postal code": "17244"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 6545 609160",
+    "email_address": "benita.fischer@o2online.de"
+}

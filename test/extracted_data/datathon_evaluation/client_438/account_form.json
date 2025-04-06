@@ -1,0 +1,17 @@
+{
+    "name": "Moretti De Luca Bruno",
+    "first_name": "Moretti",
+    "middle_name": "De Luca",
+    "last_name": "Bruno",
+    "passport_number": "XN3327204",
+    "currency": "EUR",
+    "address": {
+        "city": "Reggio Calabria",
+        "street name": "Piazza Maggiore",
+        "street number": 74,
+        "postal code": "22555"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 392 0525021",
+    "email_address": "moretti.bruno@alice.it"
+}

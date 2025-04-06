@@ -1,0 +1,17 @@
+{
+    "name": "Carmen Antonia Hernández",
+    "first_name": "Carmen",
+    "middle_name": "Antonia",
+    "last_name": "Hernández",
+    "passport_number": "EV8378705",
+    "currency": "EUR",
+    "address": {
+        "city": "Segovia",
+        "street name": "Rambla",
+        "street number": 67,
+        "postal code": "84647"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 630 765 698",
+    "email_address": "carmen.hernandez@ya.com"
+}

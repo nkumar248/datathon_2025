@@ -1,0 +1,17 @@
+{
+    "name": "Van den Berghe Maes Peiren",
+    "first_name": "Van den Berghe",
+    "middle_name": "Maes",
+    "last_name": "Peiren",
+    "passport_number": "RJ8385147",
+    "currency": "EUR",
+    "address": {
+        "city": "Genk",
+        "street name": "Rue des Chartreux",
+        "street number": 53,
+        "postal code": "5940"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0428 834 169",
+    "email_address": "vandenberghe.peiren@telenet.be"
+}

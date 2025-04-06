@@ -1,0 +1,82 @@
+{
+    "name": "Moreau Fournier",
+    "address": {
+        "city": "Angers",
+        "street name": "Boulevard Sébastopol",
+        "street number": 7,
+        "postal code": "40353"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1966-01-30",
+    "nationality": "French",
+    "passport_number": "TW4694567",
+    "passport_issue_date": "2023-06-08",
+    "passport_expiry_date": "2033-06-07",
+    "gender": "M",
+    "phone_number": "+33 05 22 27 72 32",
+    "email_address": "moreau.fournier@sfr.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Camille Claudel",
+        "graduation_year": 1983
+    },
+    "higher_education": [
+        {
+            "university": "EMIC de Nice",
+            "graduation_year": 1990
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1989,
+            "end_year": 1990,
+            "company": "Hilton Worldwide France",
+            "position": "Hotel Manager",
+            "salary": 29000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 1994,
+            "company": "InterContinental Hotels Group France",
+            "position": "General Manager",
+            "salary": 42000
+        },
+        {
+            "start_year": 1999,
+            "end_year": null,
+            "company": "Accor S.A.",
+            "position": "CEO",
+            "salary": 789000
+        }
+    ],
+    "aum": {
+        "savings": 1350000,
+        "inheritance": 3240000,
+        "real_estate_value": 4930000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2007,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2760000,
+            "property location": "Angers"
+        },
+        {
+            "property type": "house",
+            "property value": 2170000,
+            "property location": "Le Havre"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Élodie Charlotte Thiry",
+    "first_name": "Élodie",
+    "middle_name": "Charlotte",
+    "last_name": "Thiry",
+    "passport_number": "LP7049439",
+    "currency": "EUR",
+    "address": {
+        "city": "Kortrijk",
+        "street name": "Rue de la Madeleine",
+        "street number": 67,
+        "postal code": "5267"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "0405 988 960",
+    "email_address": "elodie.thiry@proximus.be"
+}

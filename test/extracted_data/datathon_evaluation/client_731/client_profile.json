@@ -1,0 +1,71 @@
+{
+    "name": "Fernández Ramos",
+    "address": {
+        "city": "Salamanca",
+        "street name": "Plaza de la Magdalena",
+        "street number": 41,
+        "postal code": "84461"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1982-02-15",
+    "nationality": "Spanish",
+    "passport_number": "CO8312284",
+    "passport_issue_date": "2017-05-26",
+    "passport_expiry_date": "2027-05-25",
+    "gender": "M",
+    "phone_number": "+34 651 471 321",
+    "email_address": "fernandez.ramos@icloud.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "IES Salvador Espriu Barcelona",
+        "graduation_year": 2000
+    },
+    "higher_education": [
+        {
+            "university": "Complutense University of Madrid",
+            "graduation_year": 2005
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2006,
+            "end_year": 2010,
+            "company": "Telefónica S.A.",
+            "position": "Software Developer",
+            "salary": 25000
+        },
+        {
+            "start_year": 2010,
+            "end_year": 2013,
+            "company": "Amadeus IT Group S.A.",
+            "position": "Startup Founder",
+            "salary": 39000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2023,
+            "company": "Telefónica S.A.",
+            "position": "CEO",
+            "salary": 117000
+        }
+    ],
+    "aum": {
+        "savings": 140000,
+        "inheritance": 2930000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2008,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

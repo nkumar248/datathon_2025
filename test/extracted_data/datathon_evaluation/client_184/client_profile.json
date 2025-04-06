@@ -1,0 +1,82 @@
+{
+    "name": "Katharina Frieda Müller",
+    "address": {
+        "city": "Leipzig",
+        "street name": "Rathausstraße",
+        "street number": 67,
+        "postal code": "67035"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1986-08-01",
+    "nationality": "German",
+    "passport_number": "EE9024276",
+    "passport_issue_date": "2022-07-02",
+    "passport_expiry_date": "2032-07-01",
+    "gender": "F",
+    "phone_number": "+49 0603 213618",
+    "email_address": "katharina.muller@arcor.de",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Wilhelm-von-Humboldt-Gymnasium Berlin",
+        "graduation_year": 2005
+    },
+    "higher_education": [
+        {
+            "university": "Hamburg University of Music and Theatre",
+            "graduation_year": 2010
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2015,
+            "company": "Puma SE",
+            "position": "Assistant Designer",
+            "salary": 51000
+        },
+        {
+            "start_year": 2015,
+            "end_year": 2017,
+            "company": "Otto Group",
+            "position": "Senior Designer",
+            "salary": 57000
+        },
+        {
+            "start_year": 2017,
+            "end_year": null,
+            "company": "Otto Group",
+            "position": "Creative Director",
+            "salary": 136000
+        }
+    ],
+    "aum": {
+        "savings": 190000,
+        "inheritance": 2100000,
+        "real_estate_value": 2670000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 908000,
+            "property location": "Leipzig"
+        },
+        {
+            "property type": "house",
+            "property value": 1762000,
+            "property location": "Chemnitz"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Germany"
+    ],
+    "currency": "EUR"
+}

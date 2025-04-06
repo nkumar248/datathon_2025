@@ -1,0 +1,77 @@
+{
+    "name": "Julia Franziska Schmid",
+    "address": {
+        "city": "Wels",
+        "street name": "Naschmarkt",
+        "street number": 24,
+        "postal code": "6850"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1965-09-12",
+    "nationality": "Austrian",
+    "passport_number": "BC3597145",
+    "passport_issue_date": "2024-05-16",
+    "passport_expiry_date": "2034-05-15",
+    "gender": "F",
+    "phone_number": "658 581 5391",
+    "email_address": "julia.schmid@upc.at",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Bundesgymnasium und Bundesrealgymnasium Mattersburg",
+        "graduation_year": 1984
+    },
+    "higher_education": [
+        {
+            "university": "University of Salzburg",
+            "graduation_year": 1989
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1989,
+            "end_year": 1990,
+            "company": "Octapharma AG",
+            "position": "Research Scientist",
+            "salary": 35000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 1992,
+            "company": "Intercell AG",
+            "position": "Biotech Startup Founder",
+            "salary": 51000
+        },
+        {
+            "start_year": 1993,
+            "end_year": null,
+            "company": "Baxter BioScience",
+            "position": "CEO",
+            "salary": 643000
+        }
+    ],
+    "aum": {
+        "savings": 1120000,
+        "inheritance": 3130000,
+        "real_estate_value": 1220000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2007,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1220000,
+            "property location": "Wels"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

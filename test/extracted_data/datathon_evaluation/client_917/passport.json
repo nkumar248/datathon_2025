@@ -1,0 +1,17 @@
+{
+    "first_name": "Margaux",
+    "middle_name": "Delphine",
+    "last_name": "Garcia",
+    "gender": "F",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1992-12-07",
+    "passport_number": "QR5824524",
+    "passport_mrz": [
+        "P<FRAGARCIA<<MARGAUX<DELPHINE<<<<<<<<<<<<<<<<",
+        "QR5824524FRA120792<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2021-10-06",
+    "passport_expiry_date": "2031-10-05"
+}

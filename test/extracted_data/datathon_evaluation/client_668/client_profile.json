@@ -1,0 +1,70 @@
+{
+    "name": "Chiara Lena Roth",
+    "address": {
+        "city": "Geneva",
+        "street name": "Metzgergasse",
+        "street number": 9,
+        "postal code": "9104"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1980-12-14",
+    "nationality": "Swiss",
+    "passport_number": "BR0942300",
+    "passport_issue_date": "2017-08-12",
+    "passport_expiry_date": "2027-08-11",
+    "gender": "F",
+    "phone_number": "+41 089 005 23 29",
+    "email_address": "chiara.roth@upc.ch",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Kantonsschule Liestal Basel-Landschaft",
+        "graduation_year": 2000
+    },
+    "higher_education": [
+        {
+            "university": "University of St. Gallen",
+            "graduation_year": 2005
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2004,
+            "end_year": 2005,
+            "company": "Ringier AG",
+            "position": "Journalist",
+            "salary": 64000
+        },
+        {
+            "start_year": 2005,
+            "end_year": null,
+            "company": "Ringier AG",
+            "position": "Editor",
+            "salary": 286000
+        }
+    ],
+    "aum": {
+        "savings": 440000,
+        "inheritance": 6930000,
+        "real_estate_value": 3080000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2006,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 3080000,
+            "property location": "Geneva"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

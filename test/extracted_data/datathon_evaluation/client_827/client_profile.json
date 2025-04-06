@@ -1,0 +1,87 @@
+{
+    "name": "Lambert Richard Marchand",
+    "address": {
+        "city": "Brest",
+        "street name": "Rue de Belleville",
+        "street number": 45,
+        "postal code": "87821"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1985-11-01",
+    "nationality": "French",
+    "passport_number": "RR2975574",
+    "passport_issue_date": "2023-09-04",
+    "passport_expiry_date": "2033-09-03",
+    "gender": "M",
+    "phone_number": "+33 00 35 76 90 99",
+    "email_address": "lambert.marchand@hotmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Marcel Pagnol",
+        "graduation_year": 2005
+    },
+    "higher_education": [
+        {
+            "university": "École Polytechnique",
+            "graduation_year": 2010
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2014,
+            "company": "PAI Partners",
+            "position": "Analyst",
+            "salary": 34000
+        },
+        {
+            "start_year": 2014,
+            "end_year": 2018,
+            "company": "BC Partners",
+            "position": "Associate",
+            "salary": 51000
+        },
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": "Apax Partners SAS",
+            "position": "Investment Director",
+            "salary": 105000
+        }
+    ],
+    "aum": {
+        "savings": 150000,
+        "inheritance": 4340000,
+        "real_estate_value": 7130000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 2050000,
+            "property location": "Brest"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 2110000,
+            "property location": "Clermont-Ferrand"
+        },
+        {
+            "property type": "villa",
+            "property value": 2970000,
+            "property location": "Toulon"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

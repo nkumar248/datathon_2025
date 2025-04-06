@@ -1,0 +1,49 @@
+{
+    "name": "Fournier Gauthier Boucher",
+    "address": {
+        "city": "Mannheim",
+        "street name": "Holstenwall",
+        "street number": 60,
+        "postal code": "05793"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "2001-12-07",
+    "nationality": "French",
+    "passport_number": "VU8419145",
+    "passport_issue_date": "2019-04-12",
+    "passport_expiry_date": "2029-04-11",
+    "gender": "M",
+    "phone_number": "+49 5817 568112",
+    "email_address": "fournier.boucher@vodafone.de",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée Janson-de-Sailly",
+        "graduation_year": 2019
+    },
+    "higher_education": [
+        {
+            "university": "ESSEC Business School",
+            "graduation_year": 2024
+        }
+    ],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1160000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Germany"
+    ],
+    "currency": "EUR"
+}

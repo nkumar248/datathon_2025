@@ -1,0 +1,17 @@
+{
+    "first_name": "Pérez",
+    "middle_name": "García",
+    "last_name": "Jiménez",
+    "gender": "M",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "1998-09-06",
+    "passport_number": "BT0430942",
+    "passport_mrz": [
+        "P<ESPJIMÉNEZ<<PÉREZ<GARCÍA<<<<<<<<<<<<<<<<<<<",
+        "BT0430942ESP980906<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2020-04-25",
+    "passport_expiry_date": "2025-04-24"
+}

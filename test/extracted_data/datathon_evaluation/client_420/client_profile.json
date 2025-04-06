@@ -1,0 +1,88 @@
+{
+    "name": "Evelyne Corinne Ackermann",
+    "address": {
+        "city": "Geneva",
+        "street name": "Steinstrasse",
+        "street number": 66,
+        "postal code": "2075"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1972-06-16",
+    "nationality": "Swiss",
+    "passport_number": "GR1148620",
+    "passport_issue_date": "2023-04-22",
+    "passport_expiry_date": "2033-04-21",
+    "gender": "F",
+    "phone_number": "+41 004 168 44 71",
+    "email_address": "evelyne.ackermann@swisscom.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "École secondaire de La Chaux-de-Fonds Neuchâtel",
+        "graduation_year": 1990
+    },
+    "higher_education": [
+        {
+            "university": "University of Bern",
+            "graduation_year": 1996
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1996,
+            "end_year": 1999,
+            "company": "Richemont International SA",
+            "position": "Assistant Designer",
+            "salary": 66000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2003,
+            "company": "Akris AG",
+            "position": "Senior Designer",
+            "salary": 96000
+        },
+        {
+            "start_year": 2004,
+            "end_year": null,
+            "company": "Bally Schuhfabriken AG",
+            "position": "Creative Director",
+            "salary": 652000
+        }
+    ],
+    "aum": {
+        "savings": 1000000,
+        "inheritance": 1550000,
+        "real_estate_value": 8630000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2010,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 3080000,
+            "property location": "Geneva"
+        },
+        {
+            "property type": "house",
+            "property value": 2750000,
+            "property location": "Lucerne"
+        },
+        {
+            "property type": "house",
+            "property value": 2800000,
+            "property location": "Schaffhausen"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Germany"
+    ],
+    "currency": "CHF"
+}

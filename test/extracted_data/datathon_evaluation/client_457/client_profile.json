@@ -1,0 +1,76 @@
+{
+    "name": "Aurora Hanna Tolvanen",
+    "address": {
+        "city": "Espoo",
+        "street name": "Lapinlahdenkatu",
+        "street number": 1,
+        "postal code": "81139"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1979-12-29",
+    "nationality": "Finnish",
+    "passport_number": "GP0752966",
+    "passport_issue_date": "2024-07-05",
+    "passport_expiry_date": "2034-07-04",
+    "gender": "F",
+    "phone_number": "+358 047 125 16 90",
+    "email_address": "aurora.tolvanen@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Pieksämäki lukio",
+        "graduation_year": 1997
+    },
+    "higher_education": [
+        {
+            "university": "University of Helsinki",
+            "graduation_year": 2004
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2006,
+            "end_year": 2010,
+            "company": "Radisson Blu Hotels",
+            "position": "General Manager",
+            "salary": 62000
+        },
+        {
+            "start_year": 2012,
+            "end_year": null,
+            "company": "Scandic Hotels Oy",
+            "position": "Regional Vice President",
+            "salary": 243000
+        }
+    ],
+    "aum": {
+        "savings": 360000,
+        "inheritance": 2070000,
+        "real_estate_value": 3230000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2014,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1295000,
+            "property location": "Espoo"
+        },
+        {
+            "property type": "villa",
+            "property value": 1935000,
+            "property location": "Tuusula"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Finland"
+    ],
+    "currency": "EUR"
+}

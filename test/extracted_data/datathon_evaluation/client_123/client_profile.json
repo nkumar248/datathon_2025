@@ -1,0 +1,57 @@
+{
+    "name": "Tolvanen Viitanen Niskanen",
+    "address": {
+        "city": "Hyvinkää",
+        "street name": "Neitsytpolku",
+        "street number": 66,
+        "postal code": "31141"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1998-06-22",
+    "nationality": "Finnish",
+    "passport_number": "XJ2455900",
+    "passport_issue_date": "2021-03-28",
+    "passport_expiry_date": "2031-03-27",
+    "gender": "M",
+    "phone_number": "+358 043 369 05 29",
+    "email_address": "tolvanen.niskanen@finet.fi",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Nummela lukio",
+        "graduation_year": 2018
+    },
+    "higher_education": [
+        {
+            "university": "University of Helsinki",
+            "graduation_year": 2023
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2022,
+            "end_year": 2025,
+            "company": "Museum of Contemporary Art Kiasma",
+            "position": "Art Dealer",
+            "salary": 39000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 2380000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2019,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

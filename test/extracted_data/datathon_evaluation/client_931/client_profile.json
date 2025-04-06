@@ -1,0 +1,83 @@
+{
+    "name": "Lombardi Giordano Donati",
+    "address": {
+        "city": "Taranto",
+        "street name": "Via Condotti",
+        "street number": 65,
+        "postal code": "55363"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1988-11-27",
+    "nationality": "Italian",
+    "passport_number": "PK1505791",
+    "passport_issue_date": "2017-10-19",
+    "passport_expiry_date": "2027-10-18",
+    "gender": "M",
+    "phone_number": "+39 338 7888697",
+    "email_address": "lombardi.donati@aruba.it",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Istituto Tecnico Commerciale Statale Luigi Einaudi Torino",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "Bocconi University",
+            "graduation_year": 2013
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2013,
+            "end_year": 2018,
+            "company": "NH Hotel Group Italia S.r.l.",
+            "position": "Hotel Manager",
+            "salary": 28000
+        },
+        {
+            "start_year": 2018,
+            "end_year": 2019,
+            "company": "NH Hotel Group Italia S.r.l.",
+            "position": "General Manager",
+            "salary": 43000
+        },
+        {
+            "start_year": 2019,
+            "end_year": null,
+            "company": " Marriott International Italia S.r.l.",
+            "position": "Regional Vice President",
+            "salary": 106000
+        }
+    ],
+    "aum": {
+        "savings": 120000,
+        "inheritance": 6400000,
+        "real_estate_value": 2620000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2016,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 740000,
+            "property location": "Taranto"
+        },
+        {
+            "property type": "villa",
+            "property value": 1880000,
+            "property location": "Taranto"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland",
+        "Italy"
+    ],
+    "currency": "EUR"
+}

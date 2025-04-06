@@ -1,0 +1,75 @@
+{
+    "name": "Esposito Fantini",
+    "address": {
+        "city": "Trieste",
+        "street name": "Via Ugo Bassi",
+        "street number": 44,
+        "postal code": "74257"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1978-11-16",
+    "nationality": "Italian",
+    "passport_number": "FI6744560",
+    "passport_issue_date": "2016-10-26",
+    "passport_expiry_date": "2026-10-25",
+    "gender": "M",
+    "phone_number": "+39 316 5953996",
+    "email_address": "esposito.fantini@tin.it",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Liceo Musicale Ottorino Respighi Bologna",
+        "graduation_year": 1997
+    },
+    "higher_education": [
+        {
+            "university": "University of Rome La Sapienza",
+            "graduation_year": 2001
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2002,
+            "end_year": 2004,
+            "company": "Chiomenti Studio Legale",
+            "position": "Associate Attorney",
+            "salary": 27000
+        },
+        {
+            "start_year": 2006,
+            "end_year": null,
+            "company": "Studio Legale Associato",
+            "position": "Senior Associate",
+            "salary": 113000
+        }
+    ],
+    "aum": {
+        "savings": 190000,
+        "inheritance": 1010000,
+        "real_estate_value": 1259000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2006,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 659000,
+            "property location": "Trieste"
+        },
+        {
+            "property type": "flat",
+            "property value": 600000,
+            "property location": "Perugia"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Italy"
+    ],
+    "currency": "EUR"
+}

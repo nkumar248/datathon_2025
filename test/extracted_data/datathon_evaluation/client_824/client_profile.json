@@ -1,0 +1,57 @@
+{
+    "name": "Hernández Vázquez Morales",
+    "address": {
+        "city": "Valladolid",
+        "street name": "Plaza de la Independencia",
+        "street number": 75,
+        "postal code": "02216"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1998-12-22",
+    "nationality": "Spanish",
+    "passport_number": "QB5997759",
+    "passport_issue_date": "2021-01-22",
+    "passport_expiry_date": "2026-01-21",
+    "gender": "M",
+    "phone_number": "+34 646 362 240",
+    "email_address": "hernandez.morales@vodafone.es",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "IES Rafael Alberti Cádiz",
+        "graduation_year": 2016
+    },
+    "higher_education": [
+        {
+            "university": "Navarra University",
+            "graduation_year": 2022
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2022,
+            "end_year": null,
+            "company": "Esteve Teijin Healthcare S.L.",
+            "position": "Research Scientist",
+            "salary": 25000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 2680000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2017,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

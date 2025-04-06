@@ -1,0 +1,17 @@
+{
+    "name": "Brinkman Van Dijk Willems",
+    "first_name": "Brinkman",
+    "middle_name": "Van Dijk",
+    "last_name": "Willems",
+    "passport_number": "NL9728349",
+    "currency": "EUR",
+    "address": {
+        "city": "Eindhoven",
+        "street name": "Overtoom",
+        "street number": 22,
+        "postal code": "5107 90"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "06 81263250",
+    "email_address": "brinkman.willems@planet.nl"
+}

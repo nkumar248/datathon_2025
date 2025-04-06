@@ -1,0 +1,17 @@
+{
+    "name": "Janssen Spaans Schipper",
+    "first_name": "Janssen",
+    "middle_name": "Spaans",
+    "last_name": "Schipper",
+    "passport_number": "XM5186057",
+    "currency": "EUR",
+    "address": {
+        "city": "Eindhoven",
+        "street name": "Blijde-In",
+        "street number": 13,
+        "postal code": "4664 54"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 32291941",
+    "email_address": "janssen.schipper@tele2.nl"
+}

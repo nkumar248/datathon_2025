@@ -1,0 +1,17 @@
+{
+    "name": "Consuelo Almudena González",
+    "first_name": "Consuelo",
+    "middle_name": "Almudena",
+    "last_name": "González",
+    "passport_number": "VZ3585606",
+    "currency": "EUR",
+    "address": {
+        "city": "Córdoba",
+        "street name": "Diagonal",
+        "street number": 3,
+        "postal code": "91257"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "637 488 324",
+    "email_address": "consuelo.gonzalez@yahoo.es"
+}

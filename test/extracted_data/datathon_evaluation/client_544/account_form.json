@@ -1,0 +1,17 @@
+{
+    "name": "Antonia Araceli Ibáñez",
+    "first_name": "Antonia",
+    "middle_name": "Araceli",
+    "last_name": "Ibáñez",
+    "passport_number": "GQ3362735",
+    "currency": "EUR",
+    "address": {
+        "city": "Barcelona",
+        "street name": "Calle de la Reina Cristina",
+        "street number": 77,
+        "postal code": "73034"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 689 417 709",
+    "email_address": "antonia.ibanez@orange.es"
+}

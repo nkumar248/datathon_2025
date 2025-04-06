@@ -1,0 +1,88 @@
+{
+    "name": "Jade Ambre Marchand",
+    "address": {
+        "city": "Brest",
+        "street name": "Avenue George V",
+        "street number": 14,
+        "postal code": "86888"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1970-09-21",
+    "nationality": "French",
+    "passport_number": "RC9253450",
+    "passport_issue_date": "2019-02-08",
+    "passport_expiry_date": "2029-02-07",
+    "gender": "F",
+    "phone_number": "+33 09 68 18 68 91",
+    "email_address": "jade.marchand@sfr.fr",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Lycée Janson-de-Sailly",
+        "graduation_year": 1989
+    },
+    "higher_education": [
+        {
+            "university": "ESSEC Business School",
+            "graduation_year": 1994
+        },
+        {
+            "university": "HEC Paris",
+            "graduation_year": 1999
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1995,
+            "end_year": 1998,
+            "company": "Engie S.A.",
+            "position": "Drilling Engineer",
+            "salary": 33000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2000,
+            "company": "Perenco S.A.",
+            "position": "Reservoir Engineer",
+            "salary": 44000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2005,
+            "company": "Perenco S.A.",
+            "position": "Operations Manager",
+            "salary": 122000
+        },
+        {
+            "start_year": 2005,
+            "end_year": null,
+            "company": "EDF S.A.",
+            "position": "VP of Exploration",
+            "salary": 615000
+        }
+    ],
+    "aum": {
+        "savings": 980000,
+        "inheritance": 810000,
+        "real_estate_value": 2500000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2013,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2500000,
+            "property location": "Brest"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

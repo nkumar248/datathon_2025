@@ -1,0 +1,17 @@
+{
+    "name": "Louis Dubois Thomas",
+    "first_name": "Louis",
+    "middle_name": "Dubois",
+    "last_name": "Thomas",
+    "passport_number": "EU2291624",
+    "currency": "EUR",
+    "address": {
+        "city": "Lille",
+        "street name": "Boulevard Raspail",
+        "street number": 77,
+        "postal code": "35102"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "00 19 32 22 65",
+    "email_address": "louis.thomas@live.fr"
+}

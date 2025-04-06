@@ -1,0 +1,17 @@
+{
+    "name": "Romane Maes",
+    "first_name": "Romane",
+    "middle_name": "",
+    "last_name": "Maes",
+    "passport_number": "NO9627553",
+    "currency": "EUR",
+    "address": {
+        "city": "Hasselt",
+        "street name": "Rue du Marché aux Fromages",
+        "street number": 40,
+        "postal code": "0797"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "++39 0402 921 904",
+    "email_address": "romane.maes@proximus.be"
+}

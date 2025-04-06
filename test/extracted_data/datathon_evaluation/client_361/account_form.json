@@ -1,0 +1,17 @@
+{
+    "name": "Imke Gwendolyn Koch",
+    "first_name": "Imke",
+    "middle_name": "Gwendolyn",
+    "last_name": "Koch",
+    "passport_number": "ZH7030418",
+    "currency": "EUR",
+    "address": {
+        "city": "Wiesbaden",
+        "street name": "Speicherstadt",
+        "street number": 71,
+        "postal code": "49917"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 1957 276032",
+    "email_address": "imke.koch@vodafone.de"
+}

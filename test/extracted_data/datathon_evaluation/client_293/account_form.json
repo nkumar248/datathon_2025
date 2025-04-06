@@ -1,0 +1,17 @@
+{
+    "name": " Jacobs Michiels Maes",
+    "first_name": " Jacobs",
+    "middle_name": "Michiels",
+    "last_name": "Maes",
+    "passport_number": "CB6991627",
+    "currency": "EUR",
+    "address": {
+        "city": "Herstal",
+        "street name": "Avenue de la Joyeuse Entrée",
+        "street number": 19,
+        "postal code": "9672"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0438 627 868",
+    "email_address": "jacobs.maes@edpnet.be"
+}

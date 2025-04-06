@@ -1,0 +1,17 @@
+{
+    "name": "Estefanía Alba Muñoz",
+    "first_name": "Estefanía",
+    "middle_name": "Alba",
+    "last_name": "Muñoz",
+    "passport_number": "BW2165885",
+    "currency": "EUR",
+    "address": {
+        "city": "Castellón de la Plana",
+        "street name": "Plaza de la Constitución",
+        "street number": 91,
+        "postal code": "48498"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 609 925 225",
+    "email_address": "estefania.munoz@outlook.com"
+}

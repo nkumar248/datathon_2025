@@ -1,0 +1,17 @@
+{
+    "name": "Dupont Robert",
+    "first_name": "Dupont",
+    "middle_name": "",
+    "last_name": "Robert",
+    "passport_number": "CR9937269",
+    "currency": "EUR",
+    "address": {
+        "city": "Paris",
+        "street name": "Avenue George V",
+        "street number": 72,
+        "postal code": "19745"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 01 39 50 39 51",
+    "email_address": "dupont.robert@icloud.com"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Järvinen Niemi Mustonen",
+    "first_name": "Järvinen",
+    "middle_name": "Niemi",
+    "last_name": "Mustonen",
+    "passport_number": "FQ4204739",
+    "currency": "EUR",
+    "address": {
+        "city": "Kerava",
+        "street name": "Telakkakatu",
+        "street number": 64,
+        "postal code": "62774"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 048 881 40 40",
+    "email_address": "jarvinen.mustonen@hotmail.com"
+}

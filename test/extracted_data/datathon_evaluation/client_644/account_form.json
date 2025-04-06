@@ -1,0 +1,17 @@
+{
+    "name": "Alma Laura Mikkelsen",
+    "first_name": "Alma",
+    "middle_name": "Laura",
+    "last_name": "Mikkelsen",
+    "passport_number": "IM2464363",
+    "currency": "DKK",
+    "address": {
+        "city": "Varde",
+        "street name": "Krimsvej",
+        "street number": 82,
+        "postal code": "2565"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "07 66 65 36",
+    "email_address": "alma.mikkelsen@dk-hostmaster.dk"
+}

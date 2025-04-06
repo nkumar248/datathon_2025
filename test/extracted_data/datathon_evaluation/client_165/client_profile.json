@@ -1,0 +1,85 @@
+{
+    "name": "Martínez Fernández Ruiz",
+    "address": {
+        "city": "Almería",
+        "street name": "Turia Gardens",
+        "street number": 90,
+        "postal code": "11941"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1971-01-07",
+    "nationality": "Spanish",
+    "passport_number": "IX0242942",
+    "passport_issue_date": "2024-05-27",
+    "passport_expiry_date": "2034-05-26",
+    "gender": "M",
+    "phone_number": "+34 605 940 606",
+    "email_address": "martinez.ruiz@icloud.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "IES Virgen del Carmen Málaga",
+        "graduation_year": 1988
+    },
+    "higher_education": [
+        {
+            "university": "University of Granada",
+            "graduation_year": 1995
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1995,
+            "end_year": 1998,
+            "company": "Fidelity International (Spain)",
+            "position": "Stockbroker",
+            "salary": 25000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2002,
+            "company": "BlackRock Hispanic Markets S.A.",
+            "position": "Portfolio Manager",
+            "salary": 41000
+        },
+        {
+            "start_year": 2003,
+            "end_year": 2007,
+            "company": "Fidelity International (Spain)",
+            "position": "Hedge Fund Manager",
+            "salary": 64000
+        },
+        {
+            "start_year": 2009,
+            "end_year": null,
+            "company": "BlackRock Hispanic Markets S.A.",
+            "position": "Private Equity Investor",
+            "salary": 366000
+        }
+    ],
+    "aum": {
+        "savings": 640000,
+        "inheritance": 1220000,
+        "real_estate_value": 1180000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2005,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1180000,
+            "property location": "Almería"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "France"
+    ],
+    "currency": "EUR"
+}

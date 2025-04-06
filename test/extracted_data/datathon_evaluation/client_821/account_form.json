@@ -1,0 +1,17 @@
+{
+    "name": "Sofia Eva Bjerregaard",
+    "first_name": "Sofia",
+    "middle_name": "Eva",
+    "last_name": "Bjerregaard",
+    "passport_number": "CZ1986044",
+    "currency": "EUR",
+    "address": {
+        "city": "Ancona",
+        "street name": "Via dei Tribunali",
+        "street number": 48,
+        "postal code": "57516"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 301 9747908",
+    "email_address": "sofia.bjerregaard@tiscali.it"
+}

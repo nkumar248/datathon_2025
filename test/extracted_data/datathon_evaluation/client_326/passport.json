@@ -1,0 +1,17 @@
+{
+    "first_name": "Franziska",
+    "middle_name": "Sabrina",
+    "last_name": "Krämer",
+    "gender": "F",
+    "country": "Austria",
+    "country_code": "AUT",
+    "nationality": "Austrian",
+    "birth_date": "2001-08-01",
+    "passport_number": "TZ2214986",
+    "passport_mrz": [
+        "P<AUTKRÄMER<<FRANZISKA<SABRINA<<<<<<<<<<<<<<<",
+        "TZ2214986AUT010801<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-02-28",
+    "passport_expiry_date": "2033-02-27"
+}

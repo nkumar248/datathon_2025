@@ -1,0 +1,89 @@
+{
+    "name": "Anaïs Inès Bernard",
+    "address": {
+        "city": "Saint-Denis",
+        "street name": "Avenue de la Grande Armée",
+        "street number": 70,
+        "postal code": "55824"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1966-08-14",
+    "nationality": "French",
+    "passport_number": "TJ0920615",
+    "passport_issue_date": "2022-02-04",
+    "passport_expiry_date": "2032-02-03",
+    "gender": "F",
+    "phone_number": "+33 07 02 38 85 42",
+    "email_address": "anais.bernard@wanadoo.fr",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Lycée Victor Hugo",
+        "graduation_year": 1986
+    },
+    "higher_education": [
+        {
+            "university": "University of Toulouse",
+            "graduation_year": 1990
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1991,
+            "end_year": 1992,
+            "company": "Thales S.A.",
+            "position": "Software Developer",
+            "salary": 28000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 1994,
+            "company": "Dassault Systèmes SE",
+            "position": "Startup Founder",
+            "salary": 47000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 1998,
+            "company": "Dassault Systèmes SE",
+            "position": "CEO",
+            "salary": 70000
+        },
+        {
+            "start_year": 1998,
+            "end_year": null,
+            "company": "Thales S.A.",
+            "position": "Venture Capitalist",
+            "salary": 751000
+        }
+    ],
+    "aum": {
+        "savings": 1410000,
+        "inheritance": 3540000,
+        "real_estate_value": 2730000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2011,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1070000,
+            "property location": "Saint-Denis"
+        },
+        {
+            "property type": "condo",
+            "property value": 1660000,
+            "property location": "Paris"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "France"
+    ],
+    "currency": "EUR"
+}

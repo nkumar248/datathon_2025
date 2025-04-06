@@ -1,0 +1,17 @@
+{
+    "name": "Jost Kägi",
+    "first_name": "Jost",
+    "middle_name": "",
+    "last_name": "Kägi",
+    "passport_number": "YA2071478",
+    "currency": "CHF",
+    "address": {
+        "city": "Lucerne",
+        "street name": "General-Guisan-Quai",
+        "street number": 20,
+        "postal code": "4228"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 095 556 65 08",
+    "email_address": "jost.kagi@icloud.com"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Scholz Müller Schulz",
+    "address": {
+        "city": "Leipzig",
+        "street name": "Breitscheidplatz",
+        "street number": 20,
+        "postal code": "66079"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1997-02-13",
+    "nationality": "German",
+    "passport_number": "OE2565540",
+    "passport_issue_date": "2017-12-08",
+    "passport_expiry_date": "2027-12-07",
+    "gender": "M",
+    "phone_number": "+49 2557 896791",
+    "email_address": "scholz.schulz@outlook.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Pestalozzi-Gymnasium Nürnberg",
+        "graduation_year": 2016
+    },
+    "higher_education": [
+        {
+            "university": "Ludwig Maximilian University of Munich",
+            "graduation_year": 2007
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2020,
+            "end_year": 2022,
+            "company": "Boehringer Ingelheim GmbH",
+            "position": "Research Scientist",
+            "salary": 43000
+        },
+        {
+            "start_year": 2023,
+            "end_year": null,
+            "company": "Fresenius SE & Co. KGaA",
+            "position": "Clinical Trials Manager",
+            "salary": 64000
+        }
+    ],
+    "aum": {
+        "savings": 30000,
+        "inheritance": 1910000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2020,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Germany"
+    ],
+    "currency": "EUR"
+}

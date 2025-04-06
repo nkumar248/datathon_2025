@@ -1,0 +1,17 @@
+{
+    "name": "Simons  Jacobs",
+    "first_name": "Simons",
+    "middle_name": "",
+    "last_name": " Jacobs",
+    "passport_number": "ZU5952859",
+    "currency": "EUR",
+    "address": {
+        "city": "Namur",
+        "street name": "Rue du Marché aux Fromages",
+        "street number": 75,
+        "postal code": "3102"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0496 145 129",
+    "email_address": "simons.jacobs@proximus.be"
+}

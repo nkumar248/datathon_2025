@@ -1,0 +1,17 @@
+{
+    "name": "Herrera Navarro Vázquez",
+    "first_name": "Herrera",
+    "middle_name": "Navarro",
+    "last_name": "Vázquez",
+    "passport_number": "UB9170628",
+    "currency": "EUR",
+    "address": {
+        "city": "Granada",
+        "street name": "Calle de la Estrella",
+        "street number": 88,
+        "postal code": "39458"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 631 091 478",
+    "email_address": "herrera.vazquez@hotmail.es"
+}

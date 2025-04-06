@@ -1,0 +1,17 @@
+{
+    "name": "Veenhoven De Jong Mulders",
+    "first_name": "Veenhoven",
+    "middle_name": "De Jong",
+    "last_name": "Mulders",
+    "passport_number": "IX4262837",
+    "currency": "EUR",
+    "address": {
+        "city": "Castellón de la Plana",
+        "street name": "Diagonal",
+        "street number": 84,
+        "postal code": "51604"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 667 377 994",
+    "email_address": "veenhoven.mulders@gmail.com"
+}

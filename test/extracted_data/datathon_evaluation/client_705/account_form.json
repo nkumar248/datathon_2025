@@ -1,0 +1,17 @@
+{
+    "name": "Katriina Liisa Ahonen",
+    "first_name": "Kartiina",
+    "middle_name": "Liisa",
+    "last_name": "Ahonen",
+    "passport_number": "FV7984667",
+    "currency": "EUR",
+    "address": {
+        "city": "Vaasa",
+        "street name": "Helsinginkatu",
+        "street number": 39,
+        "postal code": "06601"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "+358 041 517 17 50",
+    "email_address": "katriina.ahonen@phoenix.fi"
+}

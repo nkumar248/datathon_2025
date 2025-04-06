@@ -1,0 +1,17 @@
+{
+    "name": "Louise Louna Janssens",
+    "first_name": "Louise",
+    "middle_name": "Louna",
+    "last_name": "Janssens",
+    "passport_number": "TR4854376",
+    "currency": "EUR",
+    "address": {
+        "city": "Antwerp",
+        "street name": "Rue des Capucins",
+        "street number": 28,
+        "postal code": "9816"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0431 507 813",
+    "email_address": "louise.janssens@belgacom.be"
+}

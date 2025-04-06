@@ -1,0 +1,17 @@
+{
+    "first_name": "Josefine",
+    "middle_name": "Katharina",
+    "last_name": "Rieder",
+    "gender": "F",
+    "country": "Austria",
+    "country_code": "AUT",
+    "nationality": "Austrian",
+    "birth_date": "1964-05-10",
+    "passport_number": "RU8286200",
+    "passport_mrz": [
+        "P<AUTRIEDER<<JOSEFINE<KATHARINA<<<<<<<<<<<<<<",
+        "RU8286200AUT640510<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-10-29",
+    "passport_expiry_date": "2033-10-28"
+}

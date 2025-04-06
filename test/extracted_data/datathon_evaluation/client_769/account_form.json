@@ -1,0 +1,17 @@
+{
+    "name": "Maassen Veenhoven Van Dijk",
+    "first_name": "Maassen",
+    "middle_name": "Veenhoven",
+    "last_name": "Van Dijk",
+    "passport_number": "JG7842444",
+    "currency": "EUR",
+    "address": {
+        "city": "Rotterdam",
+        "street name": "Waldeck Pyrmontkade",
+        "street number": 23,
+        "postal code": "2518 19"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 75331817",
+    "email_address": "maassen.vandijk@hotmail.com"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Binder Schmidt Maier",
+    "first_name": "Binder",
+    "middle_name": "Schmidt",
+    "last_name": "Maier",
+    "passport_number": "GM7511086",
+    "currency": "EUR",
+    "address": {
+        "city": "Innsbruck",
+        "street name": "Obere Donaustraße",
+        "street number": 29,
+        "postal code": "6234"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "724 493 2035",
+    "email_address": "binder.maier@vol.at"
+}

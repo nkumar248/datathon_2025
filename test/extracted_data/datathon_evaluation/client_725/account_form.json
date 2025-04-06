@@ -1,0 +1,17 @@
+{
+    "name": "Evelyne Corinne Keller",
+    "first_name": "Evelyne",
+    "middle_name": "Corinne",
+    "last_name": "Keller",
+    "passport_number": "BM9932083",
+    "currency": "CHF",
+    "address": {
+        "city": "Chur",
+        "street name": "Rue de la Cite",
+        "street number": 50,
+        "postal code": "1248"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 081 903 39 79",
+    "email_address": "evelyne.keller@swissonline.ch"
+}

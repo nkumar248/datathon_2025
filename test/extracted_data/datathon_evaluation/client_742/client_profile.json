@@ -1,0 +1,58 @@
+{
+    "name": "Helga Isabel Mayer",
+    "address": {
+        "city": "Mannheim",
+        "street name": "Bahnhofsplatz",
+        "street number": 57,
+        "postal code": "36330"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1998-06-19",
+    "nationality": "German",
+    "passport_number": "MR0296822",
+    "passport_issue_date": "2021-04-23",
+    "passport_expiry_date": "2031-04-22",
+    "gender": "F",
+    "phone_number": "4597 053824",
+    "email_address": "helga.mayer@arcor.de",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Heisenberg-Gymnasium Lüneburg",
+        "graduation_year": 2016
+    },
+    "higher_education": [
+        {
+            "university": "ISM Dortmund",
+            "graduation_year": 2023
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2023,
+            "end_year": null,
+            "company": "Puma SE",
+            "position": "Assistant Designer",
+            "salary": 45000
+        }
+    ],
+    "aum": {
+        "savings": 10000,
+        "inheritance": 1990000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Margaux Flore Renault",
+    "first_name": "Margaux",
+    "middle_name": "Flore",
+    "last_name": "Renault",
+    "passport_number": "ZD5028692",
+    "currency": "EUR",
+    "address": {
+        "city": "Nantes",
+        "street name": "Avenue d'Italie",
+        "street number": 47,
+        "postal code": "12270"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "02 29 54 77 10",
+    "email_address": "margaux.renault@aliceadsl.fr"
+}

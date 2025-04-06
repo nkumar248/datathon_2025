@@ -1,0 +1,17 @@
+{
+    "name": "Lucía Encarna Pérez",
+    "first_name": "Lucía",
+    "middle_name": "Encarna",
+    "last_name": "Pérez",
+    "passport_number": "CR2806702",
+    "currency": "EUR",
+    "address": {
+        "city": "Logroño",
+        "street name": "Calle de la Reina Cristina",
+        "street number": 85,
+        "postal code": "62416"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "655 517 873",
+    "email_address": "lucia.perez@ya.com"
+}

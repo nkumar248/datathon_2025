@@ -1,0 +1,64 @@
+{
+    "name": "Margaux Delphine Garcia",
+    "address": {
+        "city": "Grenoble",
+        "street name": "Rue Elzévir",
+        "street number": 91,
+        "postal code": "51672"
+    },
+    "country_of_domicile": "France",
+    "birth_date": "1992-12-07",
+    "nationality": "French",
+    "passport_number": "QR5824524",
+    "passport_issue_date": "2021-10-06",
+    "passport_expiry_date": "2031-10-05",
+    "gender": "F",
+    "phone_number": "09 44 96 32 22",
+    "email_address": "margaux.garcia@neuf.fr",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Lycée Janson-de-Sailly",
+        "graduation_year": 2010
+    },
+    "higher_education": [
+        {
+            "university": "University of Bordeaux",
+            "graduation_year": 2017
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "Groupe Casino",
+            "position": "Property Manager",
+            "salary": 37000
+        }
+    ],
+    "aum": {
+        "savings": 30000,
+        "inheritance": 4700000,
+        "real_estate_value": 1400000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1400000,
+            "property location": "Grenoble"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands",
+        "France"
+    ],
+    "currency": "EUR"
+}

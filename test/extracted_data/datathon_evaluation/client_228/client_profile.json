@@ -1,0 +1,58 @@
+{
+    "name": "Stevens Schipper Peeters",
+    "address": {
+        "city": "Doetinchem",
+        "street name": "Kerkplein",
+        "street number": 13,
+        "postal code": "8647 80"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1996-06-10",
+    "nationality": "Dutch",
+    "passport_number": "GO2898973",
+    "passport_issue_date": "2021-03-15",
+    "passport_expiry_date": "2031-03-14",
+    "gender": "M",
+    "phone_number": "06 73036156",
+    "email_address": "stevens.peeters@hetnet.nl",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Maurick College Vught",
+        "graduation_year": 2016
+    },
+    "higher_education": [
+        {
+            "university": "Amsterdam University College",
+            "graduation_year": 2005
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2020,
+            "end_year": null,
+            "company": "NYK Line (Netherlands) B.V.",
+            "position": "Ship Broker",
+            "salary": 49000
+        }
+    ],
+    "aum": {
+        "savings": 40000,
+        "inheritance": 1530000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2019,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

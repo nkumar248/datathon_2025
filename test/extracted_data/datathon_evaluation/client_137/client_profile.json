@@ -1,0 +1,79 @@
+{
+    "name": "Klein Krüger Schwarz",
+    "address": {
+        "city": "Bielefeld",
+        "street name": "Augustusplatz",
+        "street number": 99,
+        "postal code": "40073"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1972-05-01",
+    "nationality": "German",
+    "passport_number": "ZU1669621",
+    "passport_issue_date": "2023-01-05",
+    "passport_expiry_date": "2033-01-04",
+    "gender": "M",
+    "phone_number": "+49 3028 268642",
+    "email_address": "klein.schwarz@unitybox.de",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Goethe-Gymnasium Berlin",
+        "graduation_year": 1990
+    },
+    "higher_education": [
+        {
+            "university": "Weingarten University of Education",
+            "graduation_year": 1996
+        },
+        {
+            "university": "University of Heidelberg",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1996,
+            "end_year": 1997,
+            "company": "Union Asset Management Holding AG",
+            "position": "Stockbroker",
+            "salary": 37000
+        },
+        {
+            "start_year": 1997,
+            "end_year": null,
+            "company": "DWS Investments",
+            "position": "Portfolio Manager",
+            "salary": 260000
+        }
+    ],
+    "aum": {
+        "savings": 460000,
+        "inheritance": 1910000,
+        "real_estate_value": 2430000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2010,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1080000,
+            "property location": "Bielefeld"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1350000,
+            "property location": "Monchengladbach"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Germany"
+    ],
+    "currency": "EUR"
+}

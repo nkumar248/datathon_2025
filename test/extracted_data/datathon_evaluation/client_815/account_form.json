@@ -1,0 +1,17 @@
+{
+    "name": "Karen Agnes Gundersen",
+    "first_name": "Karen",
+    "middle_name": "Agnes",
+    "last_name": "Gundersen",
+    "passport_number": "PK1708606",
+    "currency": "DKK",
+    "address": {
+        "city": "Esbjerg",
+        "street name": "Sølvgade",
+        "street number": 50,
+        "postal code": "7772"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "91 52 57 20",
+    "email_address": "karen.gundersen@cybercity.dk"
+}

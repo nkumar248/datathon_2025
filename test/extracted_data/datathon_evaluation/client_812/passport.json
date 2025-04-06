@@ -1,0 +1,17 @@
+{
+    "first_name": "Lechner",
+    "middle_name": "Fischer",
+    "last_name": "Bauer",
+    "gender": "M",
+    "country": "Austria",
+    "country_code": "AUT",
+    "nationality": "Austrian",
+    "birth_date": "1976-12-02",
+    "passport_number": "BZ9107794",
+    "passport_mrz": [
+        "P<AUTBAUER<<LECHNER<FISCHER<<<<<<<<<<<<<<<<<<",
+        "BZ9107794AUT761202<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-07-07",
+    "passport_expiry_date": "2034-07-06"
+}

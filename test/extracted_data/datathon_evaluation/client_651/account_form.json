@@ -1,0 +1,17 @@
+{
+    "name": "Kuhn Roth Werner",
+    "first_name": "Kuhn",
+    "middle_name": "Roth",
+    "last_name": "Werner",
+    "passport_number": "CB2640613",
+    "currency": "CHF",
+    "address": {
+        "city": "Lucerne",
+        "street name": "Gerberngasse",
+        "street number": 94,
+        "postal code": "9048"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 026 073 14 93",
+    "email_address": "kuhn.werner@yahoo.com"
+}

@@ -1,0 +1,70 @@
+{
+    "name": "Keller Riedo Werner",
+    "address": {
+        "city": "Winterthur",
+        "street name": "Bärenplatz",
+        "street number": 94,
+        "postal code": "7679"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1995-01-20",
+    "nationality": "Swiss",
+    "passport_number": "YS7802475",
+    "passport_issue_date": "2021-08-31",
+    "passport_expiry_date": "2031-08-30",
+    "gender": "M",
+    "phone_number": "+41 021 615 17 77",
+    "email_address": "keller.werner@upc.ch",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Collège Calvin Genève",
+        "graduation_year": 2013
+    },
+    "higher_education": [
+        {
+            "university": "EPFL",
+            "graduation_year": 2019
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2018,
+            "end_year": 2021,
+            "company": "Ringier AG",
+            "position": "Journalist",
+            "salary": 64000
+        },
+        {
+            "start_year": 2022,
+            "end_year": null,
+            "company": "Ringier AG",
+            "position": "Editor",
+            "salary": 96000
+        }
+    ],
+    "aum": {
+        "savings": 70000,
+        "inheritance": 790000,
+        "real_estate_value": 2790000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 2790000,
+            "property location": "Winterthur"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Lechner Gruber Fuchs",
+    "first_name": "Lechner",
+    "middle_name": "Gruber",
+    "last_name": "Fuchs",
+    "passport_number": "XL1234339",
+    "currency": "EUR",
+    "address": {
+        "city": "Kitzbühel",
+        "street name": "Ringstraße",
+        "street number": 96,
+        "postal code": "6649"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "888 385 5230",
+    "email_address": "lechner.fuchs@telekom.at"
+}

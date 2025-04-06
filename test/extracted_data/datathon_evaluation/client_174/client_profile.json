@@ -1,0 +1,92 @@
+{
+    "name": "Hanna Elisabeth Zimmermann",
+    "address": {
+        "city": "Frankfurt am Main",
+        "street name": "Schlossplatz",
+        "street number": 50,
+        "postal code": "20382"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1976-07-10",
+    "nationality": "German",
+    "passport_number": "DI0059157",
+    "passport_issue_date": "2016-05-06",
+    "passport_expiry_date": "2026-05-05",
+    "gender": "F",
+    "phone_number": "2612 794733",
+    "email_address": "hanna.zimmermann@gmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Albert-Einstein-Gymnasium Ulm",
+        "graduation_year": 1994
+    },
+    "higher_education": [
+        {
+            "university": "WHU – Otto Beisheim School of Management",
+            "graduation_year": 2001
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2000,
+            "end_year": 2004,
+            "company": "ThyssenKrupp AG",
+            "position": "Plant Manager",
+            "salary": 45000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2007,
+            "company": "BASF SE",
+            "position": "Operations Director",
+            "salary": 68000
+        },
+        {
+            "start_year": 2007,
+            "end_year": 2012,
+            "company": "BASF SE",
+            "position": "CEO",
+            "salary": 144000
+        },
+        {
+            "start_year": 2014,
+            "end_year": 2015,
+            "company": "ThyssenKrupp AG",
+            "position": "Chairman",
+            "salary": 146000
+        },
+        {
+            "start_year": 2015,
+            "end_year": null,
+            "company": "Bayer AG",
+            "position": "Conglomerate Owner",
+            "salary": 322000
+        }
+    ],
+    "aum": {
+        "savings": 530000,
+        "inheritance": 6820000,
+        "real_estate_value": 3090000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2014,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 3090000,
+            "property location": "Frankfurt am Main"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Austria",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

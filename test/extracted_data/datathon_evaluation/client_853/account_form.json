@@ -1,0 +1,17 @@
+{
+    "name": "Valeria Sofía Pérez",
+    "first_name": "Valeria",
+    "middle_name": "Sofía",
+    "last_name": "Pérez",
+    "passport_number": "WY0858251",
+    "currency": "EUR",
+    "address": {
+        "city": "Padua",
+        "street name": "Via Giulia",
+        "street number": 50,
+        "postal code": "32573"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 322 0285784",
+    "email_address": "valeria.perez@unidata.it"
+}

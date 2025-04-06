@@ -1,0 +1,17 @@
+{
+    "name": "Peiren Sterckx Goossens",
+    "first_name": "Peiren",
+    "middle_name": "Sterckx",
+    "last_name": "Goossens",
+    "passport_number": "YQ1455249",
+    "currency": "EUR",
+    "address": {
+        "city": "Turnhout",
+        "street name": "Rue de la Révolution Belge",
+        "street number": 74,
+        "postal code": "1746"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0493 858 496",
+    "email_address": "peiren.goossens@tvcablenet.be"
+}

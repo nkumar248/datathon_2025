@@ -1,0 +1,17 @@
+{
+    "name": "Benedetta Martina Silvestri",
+    "first_name": "Benedetta",
+    "middle_name": "Martina",
+    "last_name": "Silvestri",
+    "passport_number": "UK6059319",
+    "currency": "EUR",
+    "address": {
+        "city": "Venice",
+        "street name": "Piazza del Popolo",
+        "street number": 42,
+        "postal code": "12755"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 396 3860629",
+    "email_address": "benedetta.silvestri@hotmail.com"
+}

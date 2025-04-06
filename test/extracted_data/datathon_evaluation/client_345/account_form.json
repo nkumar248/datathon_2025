@@ -1,0 +1,17 @@
+{
+    "name": "David Fournier Nicolas",
+    "first_name": "David",
+    "middle_name": "Fournier",
+    "last_name": "Nicolas",
+    "passport_number": "FZ4441836",
+    "currency": "EUR",
+    "address": {
+        "city": "Orléans",
+        "street name": "Rue de la Butte-aux-Cailles",
+        "street number": 53,
+        "postal code": "79411"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 03 55 25 10 95",
+    "email_address": "david.nicolas@aliceadsl.fr"
+}

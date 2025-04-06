@@ -1,0 +1,44 @@
+{
+    "name": "Idun Karen Petersen",
+    "address": {
+        "city": "Slagelse",
+        "street name": "Sølvgade",
+        "street number": 89,
+        "postal code": "9364"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "2002-09-09",
+    "nationality": "Danish",
+    "passport_number": "BI6245175",
+    "passport_issue_date": "2017-03-27",
+    "passport_expiry_date": "2027-03-26",
+    "gender": "F",
+    "phone_number": "+45 35 13 46 53",
+    "email_address": "idun.petersen@webspace.dk",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Københavns Åbent Gymnasium",
+        "graduation_year": 2021
+    },
+    "higher_education": [],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 19210000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2017,
+        "profession": "Corporate Lawyer"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

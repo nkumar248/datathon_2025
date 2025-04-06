@@ -1,0 +1,17 @@
+{
+    "name": "Chloé Garcia",
+    "first_name": "Chloé",
+    "middle_name": "",
+    "last_name": "Garcia",
+    "passport_number": "QT8671592",
+    "currency": "EUR",
+    "address": {
+        "city": "Saint-Étienne",
+        "street name": "Quai d'Orsay",
+        "street number": 39,
+        "postal code": "66251"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 09 32 84 22 14",
+    "email_address": "chloe.garcia@wanadoo.fr"
+}

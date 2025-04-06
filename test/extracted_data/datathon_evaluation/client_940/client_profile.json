@@ -1,0 +1,82 @@
+{
+    "name": "Carlotta Emanuela Giordano",
+    "address": {
+        "city": "Udine",
+        "street name": "Via Solferino",
+        "street number": 28,
+        "postal code": "86325"
+    },
+    "country_of_domicile": "Italy",
+    "birth_date": "1956-11-27",
+    "nationality": "Italian",
+    "passport_number": "IX3597873",
+    "passport_issue_date": "2023-12-14",
+    "passport_expiry_date": "2033-12-13",
+    "gender": "F",
+    "phone_number": "++33 385 7609733",
+    "email_address": "carlotta.giordano@outlook.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Liceo Classico Annibale Mariotti Siena",
+        "graduation_year": 1974
+    },
+    "higher_education": [
+        {
+            "university": "University of Turin",
+            "graduation_year": 1981
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1980,
+            "end_year": 1985,
+            "company": "ERGA S.p.A.",
+            "position": "Drilling Engineer",
+            "salary": 32000
+        },
+        {
+            "start_year": 1985,
+            "end_year": 1986,
+            "company": "Edison S.p.A.",
+            "position": "Reservoir Engineer",
+            "salary": 41000
+        },
+        {
+            "start_year": 1987,
+            "end_year": 1991,
+            "company": "SNAM S.p.A.",
+            "position": "Operations Manager",
+            "salary": 60000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 1993,
+            "company": "Edison S.p.A.",
+            "position": "VP of Exploration",
+            "salary": 85000
+        },
+        {
+            "start_year": 1994,
+            "end_year": 2017,
+            "company": "Edison S.p.A.",
+            "position": "CEO",
+            "salary": 1065000
+        }
+    ],
+    "aum": {
+        "savings": 2000000,
+        "inheritance": 0,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {},
+    "real_estate_details": [],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Italy",
+        "Germany"
+    ],
+    "currency": "EUR"
+}

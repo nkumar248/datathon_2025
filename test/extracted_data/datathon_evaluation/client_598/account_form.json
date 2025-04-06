@@ -1,0 +1,17 @@
+{
+    "name": "Bertrand Bernard Laurent",
+    "first_name": "Bertrand",
+    "middle_name": "Bernard",
+    "last_name": "Laurent",
+    "passport_number": "RY9904827",
+    "currency": "EUR",
+    "address": {
+        "city": "Le Havre",
+        "street name": "Avenue Montaigne",
+        "street number": 62,
+        "postal code": "81702"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 09 50 54 28 55",
+    "email_address": "bertrand.laurent@aliceadsl.fr"
+}

@@ -1,0 +1,17 @@
+{
+    "first_name": "Valeria",
+    "middle_name": "Blanca",
+    "last_name": "González",
+    "gender": "F",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "1959-10-11",
+    "passport_number": "PI8464456",
+    "passport_mrz": [
+        "P<ESPGONZÁLEZ<<VALERIA<BLANCA<<<<<<<<<<<<<<<<",
+        "PI8464456ESP591011<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "1950-11-11",
+    "passport_expiry_date": "1960-11-10"
+}

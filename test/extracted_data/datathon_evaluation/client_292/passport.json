@@ -1,0 +1,17 @@
+{
+    "first_name": "Jost",
+    "middle_name": "Egli",
+    "last_name": "Kägi",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1971-07-16",
+    "passport_number": "MR8887646",
+    "passport_mrz": [
+        "P<CHEKÄGI<<JOST<EGLI<<<<<<<<<<<<<<<<<<<<<<<<<",
+        "MR8887646CHE710716<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "1965-03-13",
+    "passport_expiry_date": "1975-03-12"
+}

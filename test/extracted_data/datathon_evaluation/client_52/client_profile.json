@@ -1,0 +1,80 @@
+{
+    "name": "Peeters Vogel Wagemakers",
+    "address": {
+        "city": "Zaandam",
+        "street name": "Waterlooplein",
+        "street number": 24,
+        "postal code": "8165 48"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1979-06-24",
+    "nationality": "Dutch",
+    "passport_number": "LI2419650",
+    "passport_issue_date": "2023-12-14",
+    "passport_expiry_date": "2033-12-13",
+    "gender": "M",
+    "phone_number": "06 54070666",
+    "email_address": "peeters.wagemakers@live.nl",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "VWO Dalton Den Haag",
+        "graduation_year": 1999
+    },
+    "higher_education": [
+        {
+            "university": "Webster University Leiden",
+            "graduation_year": 2003
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2003,
+            "end_year": 2008,
+            "company": "NLR - Netherlands Aerospace Centre",
+            "position": "Aerospace Engineer",
+            "salary": 49000
+        },
+        {
+            "start_year": 2010,
+            "end_year": null,
+            "company": "Airbus Netherlands B.V.",
+            "position": "Program Manager",
+            "salary": 178000
+        }
+    ],
+    "aum": {
+        "savings": 310000,
+        "inheritance": 230000,
+        "real_estate_value": 6060000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2010,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2660000,
+            "property location": "Zaandam"
+        },
+        {
+            "property type": "villa",
+            "property value": 2460000,
+            "property location": "Almere"
+        },
+        {
+            "property type": "flat",
+            "property value": 940000,
+            "property location": "Roosendaal"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

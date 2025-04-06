@@ -1,0 +1,17 @@
+{
+    "first_name": "Beatriz",
+    "middle_name": "Araceli",
+    "last_name": "Sánchez",
+    "gender": "F",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "1966-09-18",
+    "passport_number": "LM1530566",
+    "passport_mrz": [
+        "P<ESPSÁNCHEZ<<BEATRIZ<ARACELI<<<<<<<<<<<<<<<<",
+        "LM1530566ESP660918<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-10-08",
+    "passport_expiry_date": "2033-10-07"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Fernández Sánchez Hernández",
+    "first_name": "Fernández",
+    "middle_name": "Sánchez",
+    "last_name": "Hernández",
+    "passport_number": "VN5531045",
+    "currency": "EUR",
+    "address": {
+        "city": "Palma de Mallorca",
+        "street name": "Calle de la Paz",
+        "street number": 14,
+        "postal code": "73868"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 696 505 955",
+    "email_address": "fernandez.hernandez@gmail.es"
+}

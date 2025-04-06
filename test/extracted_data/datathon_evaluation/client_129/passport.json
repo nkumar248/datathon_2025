@@ -1,0 +1,17 @@
+{
+    "first_name": "Amanda",
+    "middle_name": "Alberte",
+    "last_name": "Friis",
+    "gender": "F",
+    "country": "Denmark",
+    "country_code": "DNK",
+    "nationality": "Danish",
+    "birth_date": "1973-07-27",
+    "passport_number": "YY0562437",
+    "passport_mrz": [
+        "P<DNKFRIIS<<AMANDA<ALBERTE<<<<<<<<<<<<<<<<<<<",
+        "YY0562437DNK730727<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2023-09-09",
+    "passport_expiry_date": "2033-09-08"
+}

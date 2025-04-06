@@ -1,0 +1,81 @@
+{
+    "name": "Chloé Adèle Dupont",
+    "address": {
+        "city": "Turnhout",
+        "street name": "Rue Belliard",
+        "street number": 4,
+        "postal code": "2226"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1986-09-18",
+    "nationality": "Belgian",
+    "passport_number": "NL9696107",
+    "passport_issue_date": "2017-07-07",
+    "passport_expiry_date": "2024-07-06",
+    "gender": "F",
+    "phone_number": "+32 0470 942 378",
+    "email_address": "chloe.dupont@skype.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Heilige Familiecollege",
+        "graduation_year": 2005
+    },
+    "higher_education": [
+        {
+            "university": "Université catholique de Louvain",
+            "graduation_year": 2009
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2011,
+            "company": "Belfius Bank SA",
+            "position": "Family Office Manager",
+            "salary": 36000
+        },
+        {
+            "start_year": 2011,
+            "end_year": null,
+            "company": "BNP Paribas Fortis SA/NV",
+            "position": "Investment Director",
+            "salary": 137000
+        }
+    ],
+    "aum": {
+        "savings": 200000,
+        "inheritance": 2270000,
+        "real_estate_value": 3002000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 890000,
+            "property location": "Turnhout"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1402000,
+            "property location": "Genk"
+        },
+        {
+            "property type": "flat",
+            "property value": 710000,
+            "property location": "Herstal"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

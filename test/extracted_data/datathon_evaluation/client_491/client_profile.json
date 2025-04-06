@@ -1,0 +1,102 @@
+{
+    "name": "Hanne Anna Kristensen",
+    "address": {
+        "city": "Ikast",
+        "street name": "Krimsvej",
+        "street number": 84,
+        "postal code": "2228"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1977-11-22",
+    "nationality": "Danish",
+    "passport_number": "TS7583528",
+    "passport_issue_date": "2022-04-24",
+    "passport_expiry_date": "2032-04-23",
+    "gender": "F",
+    "phone_number": "+45 93 54 90 73",
+    "email_address": "hanne.kristensen@wanadoo.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Viborg Katedralskole",
+        "graduation_year": 1995
+    },
+    "higher_education": [
+        {
+            "university": "University College Lillebælt",
+            "graduation_year": 2001
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2002,
+            "end_year": 2004,
+            "company": "Nordea Bank Danmark A/S",
+            "position": "Family Office Manager",
+            "salary": 286000
+        },
+        {
+            "start_year": 2005,
+            "end_year": 2009,
+            "company": "Jyske Bank A/S",
+            "position": "Investment Director",
+            "salary": 390000
+        },
+        {
+            "start_year": 2009,
+            "end_year": 2010,
+            "company": "Nordea Bank Danmark A/S",
+            "position": "CFO",
+            "salary": 514000
+        },
+        {
+            "start_year": 2010,
+            "end_year": 2012,
+            "company": "Jyske Bank A/S",
+            "position": "COO",
+            "salary": 917000
+        },
+        {
+            "start_year": 2013,
+            "end_year": 2023,
+            "company": "Nordea Bank Danmark A/S",
+            "position": "CEO",
+            "salary": 2168000
+        }
+    ],
+    "aum": {
+        "savings": 3050000,
+        "inheritance": 6000000,
+        "real_estate_value": 5267000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2007,
+        "profession": "Oil and Gas Executive"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1667000,
+            "property location": "Ikast"
+        },
+        {
+            "property type": "villa",
+            "property value": 2620000,
+            "property location": "Frederiksberg"
+        },
+        {
+            "property type": "flat",
+            "property value": 980000,
+            "property location": "Sønderborg"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark",
+        "Belgium"
+    ],
+    "currency": "DKK"
+}

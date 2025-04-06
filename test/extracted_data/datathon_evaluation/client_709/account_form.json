@@ -1,0 +1,17 @@
+{
+    "name": "Gaia Sofia De Luca",
+    "first_name": "Gaia",
+    "middle_name": "Sofia",
+    "last_name": "De Luca",
+    "passport_number": "NT7125129",
+    "currency": "EUR",
+    "address": {
+        "city": "Modena",
+        "street name": "Piazza Farnese",
+        "street number": 32,
+        "postal code": "20518"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 334 2972750",
+    "email_address": "gaia.deluca@virgilio.it"
+}

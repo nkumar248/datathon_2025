@@ -1,0 +1,17 @@
+{
+    "name": "Pérez García Jiménez",
+    "first_name": "Pérez",
+    "middle_name": "García",
+    "last_name": "Jiménez",
+    "passport_number": "BT0430942",
+    "currency": "EUR",
+    "address": {
+        "city": "Málaga",
+        "street name": "Plaza de la Sal",
+        "street number": 45,
+        "postal code": "82366"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 607 846 954",
+    "email_address": "perez.jimenez@terra.es"
+}

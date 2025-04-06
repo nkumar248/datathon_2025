@@ -1,0 +1,17 @@
+{
+    "name": "Astrid Daniëlle Mulders",
+    "first_name": "Astrid",
+    "middle_name": "Daniëlle",
+    "last_name": "Mulders",
+    "passport_number": "WY5691357",
+    "currency": "EUR",
+    "address": {
+        "city": "Utrecht",
+        "street name": "Kerkplein",
+        "street number": 69,
+        "postal code": "0966 83"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "06 78262423",
+    "email_address": "astrid.mulders@live.nl"
+}

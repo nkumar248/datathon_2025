@@ -1,0 +1,17 @@
+{
+    "first_name": "Barbara",
+    "middle_name": "Amanda",
+    "last_name": "Frey",
+    "gender": "F",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1986-05-31",
+    "passport_number": "MW0744329",
+    "passport_mrz": [
+        "P<CHEFREY<<BARBARA<AMANDA<<<<<<<<<<<<<<<<<<<<",
+        "MW0744329CHE860531<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2021-07-07",
+    "passport_expiry_date": "2031-07-06"
+}

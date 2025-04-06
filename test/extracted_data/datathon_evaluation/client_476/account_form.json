@@ -1,0 +1,17 @@
+{
+    "name": "Laursen Olsen Petersen",
+    "first_name": "Laursen",
+    "middle_name": "Olsen",
+    "last_name": "Petersen",
+    "passport_number": "EB8427999",
+    "currency": "DKK",
+    "address": {
+        "city": "Skanderborg",
+        "street name": "Skindergade",
+        "street number": 94,
+        "postal code": "3737"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "03 39 61 85",
+    "email_address": "laursen.petersen@outlook.com"
+}

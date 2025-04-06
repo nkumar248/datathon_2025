@@ -1,0 +1,83 @@
+{
+    "name": "Hortense Anaïs Simons",
+    "address": {
+        "city": "Leuven",
+        "street name": "Avenue de la Joyeuse Entrée",
+        "street number": 74,
+        "postal code": "7200"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1965-12-14",
+    "nationality": "Belgian",
+    "passport_number": "DM3032654",
+    "passport_issue_date": "2016-10-22",
+    "passport_expiry_date": "2023-10-21",
+    "gender": "F",
+    "phone_number": "+32 0419 922 323",
+    "email_address": "hortense.simons@telenet.be",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Collège Notre-Dame de la Consolation",
+        "graduation_year": 1983
+    },
+    "higher_education": [
+        {
+            "university": "Vrije Universiteit Brussel",
+            "graduation_year": 1989
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1989,
+            "end_year": 1993,
+            "company": "Ann Demeulemeester BVBA",
+            "position": "Assistant Designer",
+            "salary": 34000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 1996,
+            "company": "Stella McCartney Belgium",
+            "position": "Senior Designer",
+            "salary": 60000
+        },
+        {
+            "start_year": 1996,
+            "end_year": null,
+            "company": "Walter Van Beirendonck BVBA",
+            "position": "Creative Director",
+            "salary": 738000
+        }
+    ],
+    "aum": {
+        "savings": 1340000,
+        "inheritance": 750000,
+        "real_estate_value": 3840000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2007,
+        "profession": "Stock Trader"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1750000,
+            "property location": "Leuven"
+        },
+        {
+            "property type": "villa",
+            "property value": 2090000,
+            "property location": "Aalst"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

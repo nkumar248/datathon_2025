@@ -1,0 +1,17 @@
+{
+    "name": "Floriane Émilie Boucher",
+    "first_name": "Floriane",
+    "middle_name": "Émilie",
+    "last_name": "Boucher",
+    "passport_number": "FL9281009",
+    "currency": "EUR",
+    "address": {
+        "city": "Angers",
+        "street name": "Boulevard Raspail",
+        "street number": 2,
+        "postal code": "70265"
+    },
+    "country_of_domicile": "France",
+    "phone_number": "+33 03 74 47 82 68",
+    "email_address": "floriane.boucher@yahoo.com"
+}

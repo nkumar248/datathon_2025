@@ -1,0 +1,75 @@
+{
+    "name": "Dekkers Willems",
+    "address": {
+        "city": "Tilburg",
+        "street name": "Markt",
+        "street number": 76,
+        "postal code": "8483 25"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1978-04-16",
+    "nationality": "Dutch",
+    "passport_number": "OT0459204",
+    "passport_issue_date": "2023-11-08",
+    "passport_expiry_date": "2033-11-07",
+    "gender": "M",
+    "phone_number": "+31 06 10650417",
+    "email_address": "dekkers.willems@casema.nl",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "CSG Willem van Oranje Apeldoorn",
+        "graduation_year": 1997
+    },
+    "higher_education": [
+        {
+            "university": "Nyenrode Business Universiteit",
+            "graduation_year": 2003
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2002,
+            "end_year": 2004,
+            "company": "APG Asset Management N.V.",
+            "position": "Stockbroker",
+            "salary": 47000
+        },
+        {
+            "start_year": 2005,
+            "end_year": null,
+            "company": "Robeco Institutional Asset Management B.V.",
+            "position": "Portfolio Manager",
+            "salary": 216000
+        }
+    ],
+    "aum": {
+        "savings": 360000,
+        "inheritance": 1130000,
+        "real_estate_value": 2300000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2006,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1090000,
+            "property location": "Tilburg"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1210000,
+            "property location": "Leeuwarden"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

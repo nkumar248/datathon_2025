@@ -1,0 +1,75 @@
+{
+    "name": "Janssen Spaans Schipper",
+    "address": {
+        "city": "Eindhoven",
+        "street name": "Blijde-In",
+        "street number": 13,
+        "postal code": "4664 54"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1976-11-02",
+    "nationality": "Dutch",
+    "passport_number": "XM5186057",
+    "passport_issue_date": "2018-02-27",
+    "passport_expiry_date": "2028-02-26",
+    "gender": "M",
+    "phone_number": "+31 06 32291941",
+    "email_address": "janssen.schipper@tele2.nl",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Westfriesgymnasium Hoorn",
+        "graduation_year": 1995
+    },
+    "higher_education": [
+        {
+            "university": "Tio University of Applied Sciences",
+            "graduation_year": 2000
+        },
+        {
+            "university": "Nyenrode Business Universiteit",
+            "graduation_year": 2003
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2001,
+            "end_year": 2006,
+            "company": "Marriott International Nederland B.V.",
+            "position": "Hotel Manager",
+            "salary": 44000
+        },
+        {
+            "start_year": 2007,
+            "end_year": null,
+            "company": "Marriott International Nederland B.V.",
+            "position": "General Manager",
+            "salary": 219000
+        }
+    ],
+    "aum": {
+        "savings": 360000,
+        "inheritance": 2260000,
+        "real_estate_value": 2100000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2010,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "villa",
+            "property value": 2100000,
+            "property location": "Eindhoven"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

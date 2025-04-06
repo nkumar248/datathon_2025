@@ -1,0 +1,17 @@
+{
+    "name": "Díaz Torres Vázquez",
+    "first_name": "Díaz",
+    "middle_name": "Torres",
+    "last_name": "Vázquez",
+    "passport_number": "RN0094938",
+    "currency": "DKK",
+    "address": {
+        "city": "Aarhus",
+        "street name": "Store Kongensgade",
+        "street number": 5,
+        "postal code": "1182"
+    },
+    "country_of_domicile": "Denmark",
+    "phone_number": "+45 66 94 15 46",
+    "email_address": "diaz.vazquez@icloud.com"
+}

@@ -1,0 +1,75 @@
+{
+    "name": "Astrid Daantje Stam",
+    "address": {
+        "city": "The Hague",
+        "street name": "Spoorweghaven",
+        "street number": 14,
+        "postal code": "3835 69"
+    },
+    "country_of_domicile": "Netherlands",
+    "birth_date": "1964-12-07",
+    "nationality": "Dutch",
+    "passport_number": "OW3896164",
+    "passport_issue_date": "2021-09-26",
+    "passport_expiry_date": "2031-09-25",
+    "gender": "F",
+    "phone_number": "06 08457592",
+    "email_address": "astrid.stam@icloud.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Oosterlicht College Groningen",
+        "graduation_year": 1982
+    },
+    "higher_education": [
+        {
+            "university": "TNO - Netherlands Organisation for Applied Scientific Research",
+            "graduation_year": 1989
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1988,
+            "end_year": 1992,
+            "company": "Crucell N.V.",
+            "position": "Research Scientist",
+            "salary": 46000
+        },
+        {
+            "start_year": 1992,
+            "end_year": 2025,
+            "company": "Galapagos N.V.",
+            "position": "Biotech Startup Founder",
+            "salary": 315000
+        }
+    ],
+    "aum": {
+        "savings": 640000,
+        "inheritance": 2820000,
+        "real_estate_value": 2400000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2009,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 903000,
+            "property location": "The Hague"
+        },
+        {
+            "property type": "house",
+            "property value": 1497000,
+            "property location": "Hoofddorp"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands"
+    ],
+    "currency": "EUR"
+}

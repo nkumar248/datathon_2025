@@ -1,0 +1,87 @@
+{
+    "name": "Hanne Camilla Olsen",
+    "address": {
+        "city": "Næstved",
+        "street name": "Vandkunsten",
+        "street number": 21,
+        "postal code": "9479"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1977-09-19",
+    "nationality": "Danish",
+    "passport_number": "SD5546853",
+    "passport_issue_date": "2024-07-02",
+    "passport_expiry_date": "2034-07-01",
+    "gender": "F",
+    "phone_number": "+45 15 95 53 47",
+    "email_address": "hanne.olsen@gmail.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Tønder Gymnasium",
+        "graduation_year": 1995
+    },
+    "higher_education": [
+        {
+            "university": "International Business Academy (IBA)",
+            "graduation_year": 2000
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2002,
+            "end_year": 2007,
+            "company": "Danske Bank Wealth Management",
+            "position": "Financial Advisor",
+            "salary": 384000
+        },
+        {
+            "start_year": 2009,
+            "end_year": 2010,
+            "company": "Nordea Private Banking Danmark",
+            "position": "Portfolio Manager",
+            "salary": 363000
+        },
+        {
+            "start_year": 2010,
+            "end_year": null,
+            "company": "Jyske Bank Private Banking",
+            "position": "Wealth Manager",
+            "salary": 2227000
+        }
+    ],
+    "aum": {
+        "savings": 3570000,
+        "inheritance": 3050000,
+        "real_estate_value": 4035000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1660000,
+            "property location": "Næstved"
+        },
+        {
+            "property type": "flat",
+            "property value": 1265000,
+            "property location": "Skanderborg"
+        },
+        {
+            "property type": "condo",
+            "property value": 1110000,
+            "property location": "Skanderborg"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

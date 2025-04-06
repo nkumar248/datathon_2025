@@ -1,0 +1,76 @@
+{
+    "name": "Joséphine Thiry",
+    "address": {
+        "city": "Kortrijk",
+        "street name": "",
+        "street number": 38,
+        "postal code": "7760"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1988-08-25",
+    "nationality": "Belgian",
+    "passport_number": "FF3531249",
+    "passport_issue_date": "2024-07-20",
+    "passport_expiry_date": "2031-07-19",
+    "gender": "F",
+    "phone_number": "++45 0498 731 346",
+    "email_address": "josephine.thiry@outlook.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Atheneum Antwerpen",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "Vesalius College",
+            "graduation_year": 2012
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2013,
+            "end_year": 2015,
+            "company": "Warehouses De Pauw SA",
+            "position": "Property Manager",
+            "salary": 39000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "AG Real Estate SA",
+            "position": "Developer",
+            "salary": 57000
+        }
+    ],
+    "aum": {
+        "savings": 80000,
+        "inheritance": 410000,
+        "real_estate_value": 2250000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Investment Banker"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1240000,
+            "property location": "Kortrijk"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 1010000,
+            "property location": "Ghent"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

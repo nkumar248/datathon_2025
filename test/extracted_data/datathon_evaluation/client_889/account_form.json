@@ -1,0 +1,17 @@
+{
+    "name": "Smeets Janssen Terpstra",
+    "first_name": "Smeets",
+    "middle_name": "Janssen",
+    "last_name": "Terpstra",
+    "passport_number": "OA6935253",
+    "currency": "EUR",
+    "address": {
+        "city": "Enschede",
+        "street name": "Zuidas",
+        "street number": 59,
+        "postal code": "5709 29"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 31371434",
+    "email_address": "smeets.terpstra@planet.nl"
+}

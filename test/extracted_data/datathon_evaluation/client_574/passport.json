@@ -1,0 +1,17 @@
+{
+    "first_name": "Lombardi",
+    "middle_name": "Livi",
+    "last_name": "Rossi",
+    "gender": "M",
+    "country": "Italy",
+    "country_code": "IT",
+    "nationality": "Italian",
+    "birth_date": "1983-04-07",
+    "passport_number": "VM5400129",
+    "passport_mrz": [
+        "P<ITAROSSI<<LOMBARDI<LIVI<<<<<<<<<<<<<<<<<<<<",
+        "VM5400129ITA830407<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-04-13",
+    "passport_expiry_date": "2034-04-12"
+}

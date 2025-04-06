@@ -1,0 +1,17 @@
+{
+    "name": "Corinne Gisèle Roth",
+    "first_name": "Coridnne",
+    "middle_name": "Gisèle",
+    "last_name": "Roth",
+    "passport_number": "ZH1890301",
+    "currency": "CHF",
+    "address": {
+        "city": "Herisau",
+        "street name": "Quai du Général-Guisan",
+        "street number": 6,
+        "postal code": "1798"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "025 280 49 22",
+    "email_address": "corinne.roth@swissinfo.ch"
+}

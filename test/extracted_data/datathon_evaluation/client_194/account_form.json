@@ -1,0 +1,17 @@
+{
+    "name": "Adèle Vandenberghe",
+    "first_name": "Adèle",
+    "middle_name": "",
+    "last_name": "Vandenberghe",
+    "passport_number": "AN2564348",
+    "currency": "EUR",
+    "address": {
+        "city": "Hasselt",
+        "street name": "Rue des Champs-Élysées",
+        "street number": 88,
+        "postal code": "2226"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0412 705 183",
+    "email_address": "adele.vandenberghe@outlook.com"
+}

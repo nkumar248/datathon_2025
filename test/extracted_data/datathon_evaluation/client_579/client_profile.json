@@ -1,0 +1,84 @@
+{
+    "name": "Schneider Wagner Lang",
+    "address": {
+        "city": "Bregenz",
+        "street name": "Kärntner Straße",
+        "street number": 91,
+        "postal code": "6824"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1961-09-11",
+    "nationality": "Austrian",
+    "passport_number": "DQ2466295",
+    "passport_issue_date": "2018-01-03",
+    "passport_expiry_date": "2028-01-02",
+    "gender": "M",
+    "phone_number": "+43 613 069 5393",
+    "email_address": "schneider.lang@liwest.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Bundesgymnasium und Bundesrealgymnasium Leoben",
+        "graduation_year": 1981
+    },
+    "higher_education": [
+        {
+            "university": "Modul University Vienna",
+            "graduation_year": 1984
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1985,
+            "end_year": 1987,
+            "company": "OMV AG",
+            "position": "Junior Trader",
+            "salary": 32000
+        },
+        {
+            "start_year": 1988,
+            "end_year": 1993,
+            "company": "Voestalpine AG",
+            "position": "Senior Trader",
+            "salary": 63000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 2022,
+            "company": "Gunvor Group",
+            "position": "Trading Desk Manager",
+            "salary": 491000
+        }
+    ],
+    "aum": {
+        "savings": 870000,
+        "inheritance": 0,
+        "real_estate_value": 4761000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 871000,
+            "property location": "Bregenz"
+        },
+        {
+            "property type": "villa",
+            "property value": 1490000,
+            "property location": "Saalfelden"
+        },
+        {
+            "property type": "villa",
+            "property value": 2400000,
+            "property location": "Tulln an der Donau"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

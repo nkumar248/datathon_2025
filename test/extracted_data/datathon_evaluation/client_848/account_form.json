@@ -1,0 +1,17 @@
+{
+    "name": "Johanna Iiris Miettinen",
+    "first_name": "Johanna",
+    "middle_name": "Iiris",
+    "last_name": "Miettinen",
+    "passport_number": "IP7240527",
+    "currency": "EUR",
+    "address": {
+        "city": "Kerava",
+        "street name": "Vuorimiehenkatu",
+        "street number": 80,
+        "postal code": "17121"
+    },
+    "country_of_domicile": "Finland",
+    "phone_number": "045 927 74 88",
+    "email_address": "johanna.miettinen@luukku.com"
+}

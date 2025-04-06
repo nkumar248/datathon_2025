@@ -1,0 +1,17 @@
+{
+    "name": "Weber Kägi Gmür",
+    "first_name": "Weber",
+    "middle_name": "Kägi",
+    "last_name": "Gmür",
+    "passport_number": "XI6622324",
+    "currency": "CHF",
+    "address": {
+        "city": "Kreuzlingen",
+        "street name": "Rue de la Paix",
+        "street number": 99,
+        "postal code": "6135"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 021 387 36 19",
+    "email_address": "weber.gmur@swissonline.ch"
+}

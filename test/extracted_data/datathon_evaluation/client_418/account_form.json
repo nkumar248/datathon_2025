@@ -1,0 +1,17 @@
+{
+    "name": "Ricci Fabbri Martini",
+    "first_name": "Ricci",
+    "middle_name": "Fabbri",
+    "last_name": "Martini",
+    "passport_number": "FG5615530",
+    "currency": "EUR",
+    "address": {
+        "city": "Naples",
+        "street name": "Via dei Tribunali",
+        "street number": 14,
+        "postal code": "68296"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "310 4865320",
+    "email_address": "ricci.martini@tin.it"
+}

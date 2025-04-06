@@ -1,0 +1,79 @@
+{
+    "name": "Lorenz Richter",
+    "address": {
+        "city": "Erlangen",
+        "street name": "Kantstraße",
+        "street number": 66,
+        "postal code": "47420"
+    },
+    "country_of_domicile": "Germany",
+    "birth_date": "1988-01-08",
+    "nationality": "German",
+    "passport_number": "TH3486112",
+    "passport_issue_date": "2021-10-07",
+    "passport_expiry_date": "2031-10-06",
+    "gender": "M",
+    "phone_number": "+49 8168 624350",
+    "email_address": "lorenz.richter@icloud.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Wittelsbacher-Gymnasium München",
+        "graduation_year": 2007
+    },
+    "higher_education": [
+        {
+            "university": "Ludwig Maximilian University of Munich",
+            "graduation_year": 2010
+        },
+        {
+            "university": "Frankfurt School of Finance & Management",
+            "graduation_year": 2015
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2012,
+            "end_year": 2016,
+            "company": "Credit Suisse (Deutschland) AG",
+            "position": "Financial Advisor",
+            "salary": 39000
+        },
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "UBS Deutschland AG",
+            "position": "Portfolio Manager",
+            "salary": 66000
+        }
+    ],
+    "aum": {
+        "savings": 90000,
+        "inheritance": 1490000,
+        "real_estate_value": 3320000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Venture Capitalist"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1230000,
+            "property location": "Erlangen"
+        },
+        {
+            "property type": "house",
+            "property value": 2090000,
+            "property location": "Hamburg"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Germany"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Schmitz Schmitt Scholz",
+    "first_name": "Schmitz",
+    "middle_name": "Schmitt",
+    "last_name": "Scholz",
+    "passport_number": "XB7972243",
+    "currency": "EUR",
+    "address": {
+        "city": "Dresden",
+        "street name": "Marienplatz",
+        "street number": 81,
+        "postal code": "24468"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "+49 0606 632543",
+    "email_address": "schmitz.scholz@yahoo.com"
+}

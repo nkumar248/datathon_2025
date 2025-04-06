@@ -1,0 +1,17 @@
+{
+    "name": "Silvestri Santoro Galli",
+    "first_name": "Silvestri",
+    "middle_name": "Santoro",
+    "last_name": "Galli",
+    "passport_number": "PX3276839",
+    "currency": "EUR",
+    "address": {
+        "city": "Bologna",
+        "street name": "Piazza Farnese",
+        "street number": 72,
+        "postal code": "64190"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 322 2565610",
+    "email_address": "silvestri.galli@infinito.it"
+}

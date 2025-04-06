@@ -1,0 +1,75 @@
+{
+    "name": "Gutiérrez Castro",
+    "address": {
+        "city": "Madrid",
+        "street name": "Calle de la Reina Cristina",
+        "street number": 81,
+        "postal code": "33060"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1986-11-30",
+    "nationality": "Spanish",
+    "passport_number": "QH8138254",
+    "passport_issue_date": "2024-08-16",
+    "passport_expiry_date": "2034-08-15",
+    "gender": "M",
+    "phone_number": "663 791 687",
+    "email_address": "gutierrez.castro@terra.es",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "IES Luis Vives Zaragoza",
+        "graduation_year": 2004
+    },
+    "higher_education": [
+        {
+            "university": "University of Valencia",
+            "graduation_year": 2011
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2010,
+            "end_year": 2012,
+            "company": "Airbus España S.L.",
+            "position": "Aerospace Engineer",
+            "salary": 23000
+        },
+        {
+            "start_year": 2012,
+            "end_year": null,
+            "company": "Airbus España S.L.",
+            "position": "Program Manager",
+            "salary": 85000
+        }
+    ],
+    "aum": {
+        "savings": 100000,
+        "inheritance": 1910000,
+        "real_estate_value": 2975000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1315000,
+            "property location": "Madrid"
+        },
+        {
+            "property type": "house",
+            "property value": 1660000,
+            "property location": "Teruel"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain"
+    ],
+    "currency": "EUR"
+}

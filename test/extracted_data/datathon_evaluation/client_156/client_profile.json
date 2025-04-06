@@ -1,0 +1,57 @@
+{
+    "name": "Fischer Maier Steiner",
+    "address": {
+        "city": "Hyvinkää",
+        "street name": "Katariinankatu",
+        "street number": 41,
+        "postal code": "64684"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1996-04-18",
+    "nationality": "Austrian",
+    "passport_number": "ZE7118380",
+    "passport_issue_date": "2017-09-04",
+    "passport_expiry_date": "2027-09-03",
+    "gender": "M",
+    "phone_number": "+358 045 696 52 78",
+    "email_address": "fischer.steiner@suomi24.fi",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Gymnasium Sacré Coeur Pressbaum",
+        "graduation_year": 2014
+    },
+    "higher_education": [
+        {
+            "university": "New Design University St. Pölten",
+            "graduation_year": 2021
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2020,
+            "end_year": null,
+            "company": "UPM-Kymmene Oyj",
+            "position": "Junior Trader",
+            "salary": 34000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 1510000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2018,
+        "profession": "Tech Entrepreneur"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

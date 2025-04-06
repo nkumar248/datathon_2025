@@ -1,0 +1,17 @@
+{
+    "first_name": "Rizzo",
+    "middle_name": " Marino",
+    "last_name": "Romano",
+    "gender": "M",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1963-04-23",
+    "passport_number": "WS3476799",
+    "passport_mrz": [
+        "P<ITAROMANO<<RIZZO< MARINO<<<<<<<<<<<<<<<<<<<",
+        "WS3476799ITA630423<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-10-22",
+    "passport_expiry_date": "2032-10-21"
+}

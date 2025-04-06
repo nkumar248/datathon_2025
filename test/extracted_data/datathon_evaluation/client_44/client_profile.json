@@ -1,0 +1,82 @@
+{
+    "name": "Hanna Peltola",
+    "address": {
+        "city": "Oulu",
+        "street name": "Siltasaarenkatu",
+        "street number": 66,
+        "postal code": "84387"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1979-03-10",
+    "nationality": "Finnish",
+    "passport_number": "GR3491794",
+    "passport_issue_date": "2018-06-03",
+    "passport_expiry_date": "2028-06-02",
+    "gender": "F",
+    "phone_number": "+358 047 389 02 90",
+    "email_address": "hanna.peltola@finet.fi",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Meilahden Yläaste ja Lukio",
+        "graduation_year": 1996
+    },
+    "higher_education": [
+        {
+            "university": "Metropolia University of Applied Sciences",
+            "graduation_year": 2002
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2002,
+            "end_year": 2007,
+            "company": "Receptal Oy",
+            "position": "Research Scientist",
+            "salary": 45000
+        },
+        {
+            "start_year": 2007,
+            "end_year": 2010,
+            "company": "Finnish Red Cross Blood Service",
+            "position": "Biotech Startup Founder",
+            "salary": 53000
+        },
+        {
+            "start_year": 2011,
+            "end_year": 2024,
+            "company": "Finnish Red Cross Blood Service",
+            "position": "CEO",
+            "salary": 286000
+        }
+    ],
+    "aum": {
+        "savings": 410000,
+        "inheritance": 4680000,
+        "real_estate_value": 1475000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2009,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 635000,
+            "property location": "Oulu"
+        },
+        {
+            "property type": "flat",
+            "property value": 840000,
+            "property location": "Hämeenlinna"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

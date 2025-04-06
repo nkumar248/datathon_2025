@@ -1,0 +1,17 @@
+{
+    "name": "Andrea Lisa Lechner",
+    "first_name": "Andrea",
+    "middle_name": "Lisa",
+    "last_name": "Lechner",
+    "passport_number": "VR0503969",
+    "currency": "EUR",
+    "address": {
+        "city": "Bregenz",
+        "street name": "Erzherzog-Johann-Allee",
+        "street number": 89,
+        "postal code": "5974"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 778 589 9649",
+    "email_address": "andrea.lechner@hotmail.com"
+}

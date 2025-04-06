@@ -1,0 +1,17 @@
+{
+    "first_name": "Chiara",
+    "middle_name": "",
+    "last_name": "Wyss",
+    "gender": "F",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1992-01-20",
+    "passport_number": "XI4440857",
+    "passport_mrz": [
+        "P<CHEWYSS<<CHIARA<<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+        "XI4440857CHE920120<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2024-07-23",
+    "passport_expiry_date": "2034-07-22"
+}

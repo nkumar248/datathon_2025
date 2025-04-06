@@ -1,0 +1,77 @@
+{
+    "name": "Zbinden Riedo Kägi",
+    "address": {
+        "city": "Geneva",
+        "street name": "Gerberngasse",
+        "street number": 49,
+        "postal code": "9658"
+    },
+    "country_of_domicile": "Switzerland",
+    "birth_date": "1981-11-28",
+    "nationality": "Swiss",
+    "passport_number": "JD3983084",
+    "passport_issue_date": "2024-03-17",
+    "passport_expiry_date": "2034-03-16",
+    "gender": "M",
+    "phone_number": "031 431 79 36",
+    "email_address": "zbinden.kagi@swisscom.ch",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Gymnasium Hofwil Bern",
+        "graduation_year": 2001
+    },
+    "higher_education": [
+        {
+            "university": "University of Bern",
+            "graduation_year": 2006
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2005,
+            "end_year": 2009,
+            "company": "Credit Suisse Asset Management",
+            "position": "Stockbroker",
+            "salary": 66000
+        },
+        {
+            "start_year": 2010,
+            "end_year": 2011,
+            "company": "Julius Baer Asset Management",
+            "position": "Portfolio Manager",
+            "salary": 90000
+        },
+        {
+            "start_year": 2012,
+            "end_year": null,
+            "company": "Pictet Asset Management SA",
+            "position": "Hedge Fund Manager",
+            "salary": 407000
+        }
+    ],
+    "aum": {
+        "savings": 550000,
+        "inheritance": 7460000,
+        "real_estate_value": 2330000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2010,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 2330000,
+            "property location": "Geneva"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Switzerland"
+    ],
+    "currency": "CHF"
+}

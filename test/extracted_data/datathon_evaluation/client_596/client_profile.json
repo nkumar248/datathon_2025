@@ -1,0 +1,85 @@
+{
+    "name": "Joris Simons Jacobs",
+    "address": {
+        "city": "Genk",
+        "street name": "Avenue Franklin Roosevelt",
+        "street number": 22,
+        "postal code": "3125"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1991-10-12",
+    "nationality": "Belgian",
+    "passport_number": "SY0403109",
+    "passport_issue_date": "2024-09-14",
+    "passport_expiry_date": "2031-09-13",
+    "gender": "M",
+    "phone_number": "+32 0447 520 703",
+    "email_address": "joris.jacobs@icloud.com",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Onze-Lieve-Vrouwe-Wavercollege",
+        "graduation_year": 2009
+    },
+    "higher_education": [
+        {
+            "university": "University of Mons",
+            "graduation_year": 2015
+        },
+        {
+            "university": "Vesalius College",
+            "graduation_year": 2019
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2016,
+            "end_year": 2021,
+            "company": "Gimv NV",
+            "position": "Analyst",
+            "salary": 53000
+        },
+        {
+            "start_year": 2021,
+            "end_year": null,
+            "company": "Sofina SA",
+            "position": "Associate",
+            "salary": 59000
+        }
+    ],
+    "aum": {
+        "savings": 70000,
+        "inheritance": 1160000,
+        "real_estate_value": 3758000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Neurosurgeon"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1040000,
+            "property location": "Genk"
+        },
+        {
+            "property type": "villa",
+            "property value": 1938000,
+            "property location": "Liège"
+        },
+        {
+            "property type": "flat",
+            "property value": 780000,
+            "property location": "Ostend"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Netherlands",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

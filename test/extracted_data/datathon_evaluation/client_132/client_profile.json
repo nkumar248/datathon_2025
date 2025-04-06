@@ -1,0 +1,46 @@
+{
+    "name": "Suárez Muñoz Romero",
+    "address": {
+        "city": "Steinbach am Attersee",
+        "street name": "Graben",
+        "street number": 21,
+        "postal code": "8758"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "2003-06-20",
+    "nationality": "Spanish",
+    "passport_number": "KU1034339",
+    "passport_issue_date": "2023-01-19",
+    "passport_expiry_date": "2028-01-18",
+    "gender": "M",
+    "phone_number": "321 383 3957",
+    "email_address": "suarez.romero@magenta.at",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "Colegio La Inmaculada Córdoba",
+        "graduation_year": 2021
+    },
+    "higher_education": [],
+    "employment_history": [],
+    "aum": {
+        "savings": 0,
+        "inheritance": 1080000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2016,
+        "profession": "Private Equity Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Spain",
+        "Italy",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Elisabeth Lea Gmür",
+    "first_name": "Elisabeth",
+    "middle_name": "Lea",
+    "last_name": "Gmür",
+    "passport_number": "EE4289662",
+    "currency": "CHF",
+    "address": {
+        "city": "Aarau",
+        "street name": "Place de la Navigation",
+        "street number": 9,
+        "postal code": "5467"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 085 103 85 06",
+    "email_address": "elisabeth.gmur@lycos.ch"
+}

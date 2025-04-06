@@ -1,0 +1,17 @@
+{
+    "name": "Terpstra Van der Meer Dekkers",
+    "first_name": "Terpstra",
+    "middle_name": "Van der Meer",
+    "last_name": "Dekkers",
+    "passport_number": "QW2032208",
+    "currency": "EUR",
+    "address": {
+        "city": "Utrecht",
+        "street name": "Beethovenstraat",
+        "street number": 3,
+        "postal code": "0933 65"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "+31 06 98634030",
+    "email_address": "terpstra.dekkers@outlook.com"
+}

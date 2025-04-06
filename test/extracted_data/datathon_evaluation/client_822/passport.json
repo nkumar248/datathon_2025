@@ -1,0 +1,17 @@
+{
+    "first_name": "Céline",
+    "middle_name": "Gisèle",
+    "last_name": "Schneider",
+    "gender": "F",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1983-02-13",
+    "passport_number": "FY4929466",
+    "passport_mrz": [
+        "P<CHESCHNEIDER<<CÉLINE<GISÈLE<<<<<<<<<<<<<<<<",
+        "FY4929466CHE830213<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2020-06-08",
+    "passport_expiry_date": "2030-06-07"
+}

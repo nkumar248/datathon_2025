@@ -1,0 +1,91 @@
+{
+    "name": "Piirainen Paananen Voutilainen",
+    "address": {
+        "city": "Jyväskylä",
+        "street name": "Sörnäisten rantatie",
+        "street number": 10,
+        "postal code": "02109"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1966-05-08",
+    "nationality": "Finnish",
+    "passport_number": "CA0707295",
+    "passport_issue_date": "2017-05-23",
+    "passport_expiry_date": "2027-05-22",
+    "gender": "M",
+    "phone_number": "049 450 57 47",
+    "email_address": "piirainen.voutilainen@yahoo.com",
+    "marital_status": "divorced",
+    "secondary_school": {
+        "name": "Lahti Christian Institute",
+        "graduation_year": 1985
+    },
+    "higher_education": [
+        {
+            "university": "Lahti University of Applied Sciences",
+            "graduation_year": 1990
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1991,
+            "end_year": 1994,
+            "company": "Receptal Oy",
+            "position": "Research Scientist",
+            "salary": 36000
+        },
+        {
+            "start_year": 1995,
+            "end_year": 1998,
+            "company": "Finnish Red Cross Blood Service",
+            "position": "Biotech Startup Founder",
+            "salary": 59000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2001,
+            "company": "Finnish Red Cross Blood Service",
+            "position": "CEO",
+            "salary": 85000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2003,
+            "company": "Fimmic Oy",
+            "position": "Venture Capitalist",
+            "salary": 123000
+        },
+        {
+            "start_year": 2004,
+            "end_year": null,
+            "company": "Finnish Red Cross Blood Service",
+            "position": "Industry Leader",
+            "salary": 1095000
+        }
+    ],
+    "aum": {
+        "savings": 1980000,
+        "inheritance": 1580000,
+        "real_estate_value": 980000
+    },
+    "inheritance_details": {
+        "relationship": "mother",
+        "inheritance year": 2007,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 980000,
+            "property location": "Jyväskylä"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

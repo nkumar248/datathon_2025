@@ -1,0 +1,17 @@
+{
+    "name": "Ilona Daantje Krol",
+    "first_name": "Ilona",
+    "middle_name": "Daantje",
+    "last_name": "Krol",
+    "passport_number": "GT0365715",
+    "currency": "EUR",
+    "address": {
+        "city": "Leeuwarden",
+        "street name": "Koninginnegracht",
+        "street number": 16,
+        "postal code": "2677 44"
+    },
+    "country_of_domicile": "Netherlands",
+    "phone_number": "06 63871865",
+    "email_address": "ilona.krol@icloud.com"
+}

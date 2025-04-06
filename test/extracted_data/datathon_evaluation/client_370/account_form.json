@@ -1,0 +1,17 @@
+{
+    "name": "Fernández Martín Rodríguez",
+    "first_name": "Fernández",
+    "middle_name": "Martín",
+    "last_name": "Rodríguez",
+    "passport_number": "LK2963301",
+    "currency": "EUR",
+    "address": {
+        "city": "Seville",
+        "street name": "Calle de San Andrés",
+        "street number": 85,
+        "postal code": "04691"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 615 702 389",
+    "email_address": "fernandez.rodriguez@orange.es"
+}

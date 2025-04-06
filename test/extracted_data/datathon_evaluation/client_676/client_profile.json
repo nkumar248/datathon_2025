@@ -1,0 +1,94 @@
+{
+    "name": "Lang Schnell Reiter",
+    "address": {
+        "city": "Tulln an der Donau",
+        "street name": "Ringstraße",
+        "street number": 62,
+        "postal code": "0326"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1976-02-07",
+    "nationality": "Austrian",
+    "passport_number": "BH3834274",
+    "passport_issue_date": "2019-08-07",
+    "passport_expiry_date": "2029-08-06",
+    "gender": "M",
+    "phone_number": "685 643 7966",
+    "email_address": "lang.reiter@hotmail.com",
+    "marital_status": "single",
+    "secondary_school": {
+        "name": "BG/BRG Neusiedl am See",
+        "graduation_year": 1993
+    },
+    "higher_education": [
+        {
+            "university": "FH Joanneum University of Applied Sciences",
+            "graduation_year": 1985
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1999,
+            "end_year": 2001,
+            "company": "SAP Austria GmbH",
+            "position": "Software Developer",
+            "salary": 31000
+        },
+        {
+            "start_year": 2001,
+            "end_year": 2003,
+            "company": "Microsoft Austria GmbH",
+            "position": "Startup Founder",
+            "salary": 47000
+        },
+        {
+            "start_year": 2003,
+            "end_year": 2007,
+            "company": "Microsoft Austria GmbH",
+            "position": "CEO",
+            "salary": 70000
+        },
+        {
+            "start_year": 2007,
+            "end_year": null,
+            "company": "Cisco Systems Austria GmbH",
+            "position": "Venture Capitalist",
+            "salary": 736000
+        }
+    ],
+    "aum": {
+        "savings": 1130000,
+        "inheritance": 2610000,
+        "real_estate_value": 3083000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2015,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 1023000,
+            "property location": "Tulln an der Donau"
+        },
+        {
+            "property type": "condo",
+            "property value": 930000,
+            "property location": "Zwettl"
+        },
+        {
+            "property type": "condo",
+            "property value": 1130000,
+            "property location": "Kitzbühel"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria"
+    ],
+    "currency": "EUR"
+}

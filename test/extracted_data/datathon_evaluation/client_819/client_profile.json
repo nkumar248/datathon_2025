@@ -1,0 +1,74 @@
+{
+    "name": "Matilda Hanna Niemi",
+    "address": {
+        "city": "Kerava",
+        "street name": "Radiokatu",
+        "street number": 28,
+        "postal code": "30484"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1957-07-19",
+    "nationality": "Finnish",
+    "passport_number": "XI0289205",
+    "passport_issue_date": "2016-10-13",
+    "passport_expiry_date": "2026-10-12",
+    "gender": "F",
+    "phone_number": "+358 042 084 05 55",
+    "email_address": "matilda.niemi@dnainternet.fi",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Kirkkonummen lukio",
+        "graduation_year": 1977
+    },
+    "higher_education": [
+        {
+            "university": "Aalto University",
+            "graduation_year": 1967
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1981,
+            "end_year": 1986,
+            "company": "Nordea Bank ABp",
+            "position": "Investment Banker",
+            "salary": 44000
+        },
+        {
+            "start_year": 1986,
+            "end_year": 1989,
+            "company": "Handelsbanken plc",
+            "position": "Private Equity Investor",
+            "salary": 54000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 1993,
+            "company": "Handelsbanken plc",
+            "position": "Hedge Fund Manager",
+            "salary": 75000
+        },
+        {
+            "start_year": 1993,
+            "end_year": 2018,
+            "company": "Danske Bank A/S",
+            "position": "Venture Capitalist",
+            "salary": 854000
+        }
+    ],
+    "aum": {
+        "savings": 1660000,
+        "inheritance": 0,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {},
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Experienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland"
+    ],
+    "currency": "EUR"
+}

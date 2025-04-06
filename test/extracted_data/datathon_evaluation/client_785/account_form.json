@@ -1,0 +1,17 @@
+{
+    "name": "Ferrari Fantini Malatesta",
+    "first_name": "Fantini",
+    "middle_name": "Ferrari",
+    "last_name": "Malatesta",
+    "passport_number": "GR2930949",
+    "currency": "EUR",
+    "address": {
+        "city": "Siena",
+        "street name": "Via XX Settembre",
+        "street number": 100,
+        "postal code": "36247"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 322 9185704",
+    "email_address": "ferrari.malatesta@icloud.com"
+}

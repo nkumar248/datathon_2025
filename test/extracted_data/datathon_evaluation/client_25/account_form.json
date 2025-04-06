@@ -1,0 +1,17 @@
+{
+    "name": "Imke Henriette Zimmermann",
+    "first_name": "Imke",
+    "middle_name": "Henriette",
+    "last_name": "Zimmermann",
+    "passport_number": "JZ6792795",
+    "currency": "EUR",
+    "address": {
+        "city": "Heidelberg",
+        "street name": "Rathausstraße",
+        "street number": 21,
+        "postal code": "98917"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "0907 860545",
+    "email_address": "imke.zimmermann@hotmail.com"
+}

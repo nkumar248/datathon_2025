@@ -1,0 +1,17 @@
+{
+    "first_name": "David",
+    "middle_name": "Fournier",
+    "last_name": "Nicolas",
+    "gender": "M",
+    "country": "France",
+    "country_code": "FRA",
+    "nationality": "French",
+    "birth_date": "1988-02-13",
+    "passport_number": "FZ4441836",
+    "passport_mrz": [
+        "P<FRANICOLAS<<DAVID<FOURNIER<<<<<<<<<<<<<<<<<",
+        "FZ4441836FRA880213<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-01-27",
+    "passport_expiry_date": "2032-01-26"
+}

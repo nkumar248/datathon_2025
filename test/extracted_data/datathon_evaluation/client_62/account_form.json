@@ -1,0 +1,17 @@
+{
+    "name": "Burkart Roth Kaufmann",
+    "first_name": "Burkart",
+    "middle_name": "Roth",
+    "last_name": "Kaufmann",
+    "passport_number": "RF3600903",
+    "currency": "CHF",
+    "address": {
+        "city": "Lugano",
+        "street name": "Bärenplatz",
+        "street number": 58,
+        "postal code": "7659"
+    },
+    "country_of_domicile": "Switzerland",
+    "phone_number": "+41 009 030 68 96",
+    "email_address": "burkart.kaufmann@hotmail.com"
+}

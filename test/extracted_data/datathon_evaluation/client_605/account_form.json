@@ -1,0 +1,17 @@
+{
+    "name": "Nicolas Marchand",
+    "first_name": "Nicolas",
+    "middle_name": "",
+    "last_name": "Marchand",
+    "passport_number": "DM7929307",
+    "currency": "EUR",
+    "address": {
+        "city": "Murcia",
+        "street name": "Calle de la Universidad",
+        "street number": 14,
+        "postal code": "50382"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 651 217 922",
+    "email_address": "nicolas.marchand@gmail.es"
+}

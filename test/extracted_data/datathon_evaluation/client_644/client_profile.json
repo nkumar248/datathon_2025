@@ -1,0 +1,94 @@
+{
+    "name": "Alma Laura Mikkelsen",
+    "address": {
+        "city": "Varde",
+        "street name": "Krimsvej",
+        "street number": 82,
+        "postal code": "2565"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1972-01-12",
+    "nationality": "Danish",
+    "passport_number": "IM2464363",
+    "passport_issue_date": "2019-07-25",
+    "passport_expiry_date": "2029-07-24",
+    "gender": "F",
+    "phone_number": "07 66 65 36",
+    "email_address": "alma.mikkelsen@dk-hostmaster.dk",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Odense Katedralskole",
+        "graduation_year": 1991
+    },
+    "higher_education": [
+        {
+            "university": "International Business Academy (IBA)",
+            "graduation_year": 1980
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1995,
+            "end_year": 1996,
+            "company": "Rockwool International A/S",
+            "position": "Plant Manager",
+            "salary": 243000
+        },
+        {
+            "start_year": 1996,
+            "end_year": 1997,
+            "company": "FLSmidth & Co. A/S",
+            "position": "Operations Director",
+            "salary": 371000
+        },
+        {
+            "start_year": 1999,
+            "end_year": 2004,
+            "company": "FLSmidth & Co. A/S",
+            "position": "CEO",
+            "salary": 1104000
+        },
+        {
+            "start_year": 2005,
+            "end_year": null,
+            "company": "FLSmidth & Co. A/S",
+            "position": "Chairman",
+            "salary": 4867000
+        }
+    ],
+    "aum": {
+        "savings": 8610000,
+        "inheritance": 19790000,
+        "real_estate_value": 5360000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2008,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1210000,
+            "property location": "Varde"
+        },
+        {
+            "property type": "villa",
+            "property value": 1810000,
+            "property location": "Silkeborg"
+        },
+        {
+            "property type": "house",
+            "property value": 2340000,
+            "property location": "Greve"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Steiner Binder",
+    "first_name": "Steiner",
+    "middle_name": "",
+    "last_name": "Binder",
+    "passport_number": "UB8479318",
+    "currency": "EUR",
+    "address": {
+        "city": "Steinbach am Attersee",
+        "street name": "Liechtensteinstraße",
+        "street number": 3,
+        "postal code": "2135"
+    },
+    "country_of_domicile": "Austria,Belgium",
+    "phone_number": "++39 603 254 7855",
+    "email_address": "steiner.binder@magenta.at"
+}

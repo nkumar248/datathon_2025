@@ -1,0 +1,84 @@
+{
+    "name": "Gabriella Adèle Vandenberghe",
+    "address": {
+        "city": "Mechelen",
+        "street name": "Rue de la Régence",
+        "street number": 93,
+        "postal code": "1691"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1957-09-10",
+    "nationality": "Belgian",
+    "passport_number": "LL6542165",
+    "passport_issue_date": "2020-12-28",
+    "passport_expiry_date": "2027-12-27",
+    "gender": "F",
+    "phone_number": "0448 385 013",
+    "email_address": "gabriella.vandenberghe@skynet.be",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Koninklijk Atheneum Anderlecht",
+        "graduation_year": 1976
+    },
+    "higher_education": [
+        {
+            "university": "Vesalius College",
+            "graduation_year": 1981
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1981,
+            "end_year": 1985,
+            "company": "Petercam SA",
+            "position": "Financial Advisor",
+            "salary": 37000
+        },
+        {
+            "start_year": 1985,
+            "end_year": 1988,
+            "company": "KBC Private Banking NV",
+            "position": "Portfolio Manager",
+            "salary": 56000
+        },
+        {
+            "start_year": 1990,
+            "end_year": 2018,
+            "company": "KBC Private Banking NV",
+            "position": "Wealth Manager",
+            "salary": 531000
+        }
+    ],
+    "aum": {
+        "savings": 1060000,
+        "inheritance": 0,
+        "real_estate_value": 3658000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "house",
+            "property value": 1698000,
+            "property location": "Mechelen"
+        },
+        {
+            "property type": "flat",
+            "property value": 980000,
+            "property location": "Geel"
+        },
+        {
+            "property type": "condo",
+            "property value": 980000,
+            "property location": "Ostend"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Austria",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Haider Hofer Schmidt",
+    "address": {
+        "city": "Schwechat",
+        "street name": "Kaiserebersdorf",
+        "street number": 91,
+        "postal code": "0074"
+    },
+    "country_of_domicile": "Austria",
+    "birth_date": "1989-07-03",
+    "nationality": "Austrian",
+    "passport_number": "ZH6608805",
+    "passport_issue_date": "2018-01-17",
+    "passport_expiry_date": "2028-01-16",
+    "gender": "M",
+    "phone_number": "+43 902 795 7912",
+    "email_address": "haider.schmidt@upc.at",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Theresianum",
+        "graduation_year": 2009
+    },
+    "higher_education": [
+        {
+            "university": "Kunstuniversität Linz",
+            "graduation_year": 2014
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2013,
+            "end_year": 2025,
+            "company": "Swarovski AG",
+            "position": "Assistant Designer",
+            "salary": 81000
+        }
+    ],
+    "aum": {
+        "savings": 90000,
+        "inheritance": 660000,
+        "real_estate_value": 2972000
+    },
+    "inheritance_details": {
+        "relationship": "grandfather",
+        "inheritance year": 2020,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 852000,
+            "property location": "Schwechat"
+        },
+        {
+            "property type": "flat",
+            "property value": 840000,
+            "property location": "Mödling"
+        },
+        {
+            "property type": "house",
+            "property value": 1280000,
+            "property location": "Stockerau"
+        }
+    ],
+    "investment_risk_profile": "High",
+    "investment_horizon": "Long-Term",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "Austria"
+    ],
+    "currency": "EUR"
+}

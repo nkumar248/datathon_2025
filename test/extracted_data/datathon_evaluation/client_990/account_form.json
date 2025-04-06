@@ -1,0 +1,17 @@
+{
+    "name": "Petra Heidi Fischer",
+    "first_name": "Petra",
+    "middle_name": "Heidi",
+    "last_name": "Fischer",
+    "passport_number": "CM9139033",
+    "currency": "EUR",
+    "address": {
+        "city": "Hallein",
+        "street name": "Franz-Josef-Kai",
+        "street number": 75,
+        "postal code": "4830"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 286 281 4613",
+    "email_address": "petra.fischer@yahoo.com"
+}

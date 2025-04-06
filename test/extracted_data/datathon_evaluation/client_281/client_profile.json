@@ -1,0 +1,97 @@
+{
+    "name": "Ellen Camilla Kristensen",
+    "address": {
+        "city": "Helsingør",
+        "street name": "Gyldenløvesgade",
+        "street number": 1,
+        "postal code": "8357"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1960-12-10",
+    "nationality": "Danish",
+    "passport_number": "IA3186785",
+    "passport_issue_date": "2024-04-02",
+    "passport_expiry_date": "2034-04-01",
+    "gender": "F",
+    "phone_number": "+45 78 16 45 03",
+    "email_address": "ellen.kristensen@cybercity.dk",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Herning Gymnasium",
+        "graduation_year": 1980
+    },
+    "higher_education": [
+        {
+            "university": "Technical University of Denmark (DTU)",
+            "graduation_year": 1984
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1985,
+            "end_year": 1990,
+            "company": "FLSmidth & Co. A/S",
+            "position": "Plant Manager",
+            "salary": 393000
+        },
+        {
+            "start_year": 1991,
+            "end_year": 1995,
+            "company": "Velux A/S",
+            "position": "Operations Director",
+            "salary": 410000
+        },
+        {
+            "start_year": 1997,
+            "end_year": 1998,
+            "company": "Rockwool International A/S",
+            "position": "CEO",
+            "salary": 546000
+        },
+        {
+            "start_year": 2000,
+            "end_year": 2003,
+            "company": "Velux A/S",
+            "position": "Chairman",
+            "salary": 860000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2021,
+            "company": "Rockwool International A/S",
+            "position": "Conglomerate Owner",
+            "salary": 6486000
+        }
+    ],
+    "aum": {
+        "savings": 10210000,
+        "inheritance": 0,
+        "real_estate_value": 4945000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1003000,
+            "property location": "Helsingør"
+        },
+        {
+            "property type": "villa",
+            "property value": 1782000,
+            "property location": "Silkeborg"
+        },
+        {
+            "property type": "house",
+            "property value": 2160000,
+            "property location": "Skanderborg"
+        }
+    ],
+    "investment_risk_profile": "Considerable",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

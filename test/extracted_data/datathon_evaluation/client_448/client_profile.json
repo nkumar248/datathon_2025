@@ -1,0 +1,64 @@
+{
+    "name": "Guillaume Legrand Pierre",
+    "address": {
+        "city": "Copenhagen",
+        "street name": "Vestergade",
+        "street number": 100,
+        "postal code": "2334"
+    },
+    "country_of_domicile": "Denmark",
+    "birth_date": "1995-11-03",
+    "nationality": "French",
+    "passport_number": "SC9285148",
+    "passport_issue_date": "2018-07-10",
+    "passport_expiry_date": "2028-07-09",
+    "gender": "M",
+    "phone_number": "+45 03 62 74 47",
+    "email_address": "guillaume.pierre@siminn.dk",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Lycée Polyvalent François Mauriac",
+        "graduation_year": 2014
+    },
+    "higher_education": [
+        {
+            "university": "École des Beaux-Arts de Paris",
+            "graduation_year": 2018
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2019,
+            "end_year": 2023,
+            "company": "TV 2 Danmark A/S",
+            "position": "Journalist",
+            "salary": 29000
+        },
+        {
+            "start_year": 2024,
+            "end_year": 2025,
+            "company": "TV 2 Danmark A/S",
+            "position": "Editor",
+            "salary": 42000
+        }
+    ],
+    "aum": {
+        "savings": 20000,
+        "inheritance": 8640000,
+        "real_estate_value": 0
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Inexperienced",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Denmark"
+    ],
+    "currency": "DKK"
+}

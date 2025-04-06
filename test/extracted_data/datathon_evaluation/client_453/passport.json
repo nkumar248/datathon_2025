@@ -1,0 +1,17 @@
+{
+    "first_name": "Consuelo",
+    "middle_name": "África",
+    "last_name": "Vázquez",
+    "gender": "F",
+    "country": "Spain",
+    "country_code": "ESP",
+    "nationality": "Spanish",
+    "birth_date": "1962-06-16",
+    "passport_number": "BC9033627",
+    "passport_mrz": [
+        "P<ESPVÁZQUEZ<<CONSUELO<ÁFRICA<<<<<<<<<<<<<<<<",
+        "BC9033627ESP620616<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2019-08-25",
+    "passport_expiry_date": "2029-08-24"
+}

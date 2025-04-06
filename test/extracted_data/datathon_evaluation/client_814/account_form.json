@@ -1,0 +1,17 @@
+{
+    "name": "Andrea Suárez",
+    "first_name": "Andrea",
+    "middle_name": "",
+    "last_name": "Sánchez",
+    "passport_number": "EU1071985",
+    "currency": "EUR",
+    "address": {
+        "city": "Málaga",
+        "street name": "Calle de la Paz",
+        "street number": 3,
+        "postal code": "90283"
+    },
+    "country_of_domicile": "Spain,France",
+    "phone_number": "+34 668 610 969",
+    "email_address": "andrea.suarez@gmail.es"
+}

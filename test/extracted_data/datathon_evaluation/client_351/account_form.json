@@ -1,0 +1,17 @@
+{
+    "name": "Josefine Melanie Fischer",
+    "first_name": "Josefine",
+    "middle_name": "Melanie",
+    "last_name": "Fischer",
+    "passport_number": "MA8275446",
+    "currency": "EUR",
+    "address": {
+        "city": "Ried im Innkreis",
+        "street name": "Liechtensteinstraße",
+        "street number": 16,
+        "postal code": "7343"
+    },
+    "country_of_domicile": "Austria",
+    "phone_number": "+43 685 104 9332",
+    "email_address": "josefine.fischer@aon.at"
+}

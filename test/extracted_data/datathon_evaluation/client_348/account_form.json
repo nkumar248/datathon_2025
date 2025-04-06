@@ -1,0 +1,17 @@
+{
+    "name": "Maja Lena Koller",
+    "first_name": "Maja",
+    "middle_name": "Lena",
+    "last_name": "Koller",
+    "passport_number": "LL1997814",
+    "currency": "EUR",
+    "address": {
+        "city": "Ancona",
+        "street name": "Via Ugo Bassi",
+        "street number": 71,
+        "postal code": "98665"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 322 1127232",
+    "email_address": "maja.koller@infinito.it"
+}

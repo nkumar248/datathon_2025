@@ -1,0 +1,17 @@
+{
+    "name": "Janssens Peters Michiels",
+    "first_name": "Janssens",
+    "middle_name": "Peters",
+    "last_name": "Michiels",
+    "passport_number": "AU5045416",
+    "currency": "EUR",
+    "address": {
+        "city": "Liège",
+        "street name": "Avenue Louise",
+        "street number": 31,
+        "postal code": "5241"
+    },
+    "country_of_domicile": "Belgium",
+    "phone_number": "+32 0450 158 582",
+    "email_address": "janssens.michiels@outlook.com"
+}

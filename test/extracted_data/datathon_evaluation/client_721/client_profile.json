@@ -1,0 +1,80 @@
+{
+    "name": "Sanders Raes Vandenberghe",
+    "address": {
+        "city": "Wavre",
+        "street name": "Rue des Champs-Élysées",
+        "street number": 83,
+        "postal code": "3049"
+    },
+    "country_of_domicile": "Belgium",
+    "birth_date": "1974-08-20",
+    "nationality": "Belgian",
+    "passport_number": "MR6101033",
+    "passport_issue_date": "2022-09-10",
+    "passport_expiry_date": "2029-09-09",
+    "gender": "M",
+    "phone_number": "+32 0426 733 447",
+    "email_address": "sanders.vandenberghe@hotmail.com",
+    "marital_status": "widowed",
+    "secondary_school": {
+        "name": "Lycee Royal Athenee Vauboisy",
+        "graduation_year": 1993
+    },
+    "higher_education": [
+        {
+            "university": "KU Leuven",
+            "graduation_year": 1998
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1999,
+            "end_year": 2003,
+            "company": "Asco Industries NV",
+            "position": "Aerospace Engineer",
+            "salary": 42000
+        },
+        {
+            "start_year": 2004,
+            "end_year": 2025,
+            "company": "Sabca SA",
+            "position": "Program Manager",
+            "salary": 158000
+        }
+    ],
+    "aum": {
+        "savings": 270000,
+        "inheritance": 2010000,
+        "real_estate_value": 4910000
+    },
+    "inheritance_details": {
+        "relationship": "father",
+        "inheritance year": 2006,
+        "profession": "Hedge Fund Manager"
+    },
+    "real_estate_details": [
+        {
+            "property type": "flat",
+            "property value": 769000,
+            "property location": "Wavre"
+        },
+        {
+            "property type": "villa",
+            "property value": 2560000,
+            "property location": "Binche"
+        },
+        {
+            "property type": "villa",
+            "property value": 1581000,
+            "property location": "Namur"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Short",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Advisory",
+    "preferred_markets": [
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,77 @@
+{
+    "name": "Seppälä Mattila Piirainen",
+    "address": {
+        "city": "Imatra",
+        "street name": "Unioninkatu",
+        "street number": 48,
+        "postal code": "60789"
+    },
+    "country_of_domicile": "Finland",
+    "birth_date": "1958-01-13",
+    "nationality": "Finnish",
+    "passport_number": "VM3057311",
+    "passport_issue_date": "2016-12-23",
+    "passport_expiry_date": "2026-12-22",
+    "gender": "M",
+    "phone_number": "043 921 95 08",
+    "email_address": "seppala.piirainen@dnainternet.fi",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Kirkkonummen lukio",
+        "graduation_year": 1977
+    },
+    "higher_education": [
+        {
+            "university": "University of Turku",
+            "graduation_year": 1982
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 1982,
+            "end_year": 1983,
+            "company": "Radisson Blu Hotels",
+            "position": "Hotel Manager",
+            "salary": 36000
+        },
+        {
+            "start_year": 1984,
+            "end_year": 2018,
+            "company": "Sokos Hotels",
+            "position": "General Manager",
+            "salary": 415000
+        }
+    ],
+    "aum": {
+        "savings": 810000,
+        "inheritance": 0,
+        "real_estate_value": 2702000
+    },
+    "inheritance_details": {},
+    "real_estate_details": [
+        {
+            "property type": "townhouse",
+            "property value": 1022000,
+            "property location": "Imatra"
+        },
+        {
+            "property type": "townhouse",
+            "property value": 870000,
+            "property location": "Pori"
+        },
+        {
+            "property type": "condo",
+            "property value": 810000,
+            "property location": "Lappeenranta"
+        }
+    ],
+    "investment_risk_profile": "Low",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Finland",
+        "Belgium"
+    ],
+    "currency": "EUR"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Matilda Heta Tolvanen",
+    "first_name": "Matilda",
+    "middle_name": "Heta",
+    "last_name": "Tolvanen",
+    "passport_number": "TU6626590",
+    "currency": "EUR",
+    "address": {
+        "city": "Vantaa",
+        "street name": "Meritullinkatu",
+        "street number": 26,
+        "postal code": "83035"
+    },
+    "country_of_domicile": "Finland,Germany",
+    "phone_number": "047 586 58 70",
+    "email_address": "matilda.tolvanen@dnainternet.fi"
+}

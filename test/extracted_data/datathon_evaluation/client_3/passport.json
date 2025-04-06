@@ -1,0 +1,17 @@
+{
+    "first_name": "Rizzo",
+    "middle_name": "",
+    "last_name": "Landi",
+    "gender": "M",
+    "country": "Italy",
+    "country_code": "ITA",
+    "nationality": "Italian",
+    "birth_date": "1985-04-23",
+    "passport_number": "JL2474960",
+    "passport_mrz": [
+        "P<ITALANDI<<RIZZO<<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+        "JL2474960ITA850423<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2022-04-14",
+    "passport_expiry_date": "2032-04-13"
+}

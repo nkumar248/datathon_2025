@@ -1,0 +1,17 @@
+{
+    "name": "González Martín Suárez",
+    "first_name": "González",
+    "middle_name": "Martín",
+    "last_name": "Suárez",
+    "passport_number": "CX8362395",
+    "currency": "EUR",
+    "address": {
+        "city": "Las Palmas de Gran Canaria",
+        "street name": "Calle de la Paz",
+        "street number": 30,
+        "postal code": "45643"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "600 620 015",
+    "email_address": "gonzalez.suarez@terra.es"
+}

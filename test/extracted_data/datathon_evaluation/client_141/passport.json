@@ -1,0 +1,17 @@
+{
+    "first_name": "Kaufmann",
+    "middle_name": "Furrer",
+    "last_name": "Burkart",
+    "gender": "M",
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "nationality": "Swiss",
+    "birth_date": "1956-01-06",
+    "passport_number": "KY3102319",
+    "passport_mrz": [
+        "P<CHEBURKART<<KAUFMANN<FURRER<<<<<<<<<<<<<<<<",
+        "KY3102319CHE560106<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+    ],
+    "passport_issue_date": "2017-12-08",
+    "passport_expiry_date": "2027-12-07"
+}

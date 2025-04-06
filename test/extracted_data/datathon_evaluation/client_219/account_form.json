@@ -1,0 +1,17 @@
+{
+    "name": "Friis Madsen Krog",
+    "first_name": "Friis",
+    "middle_name": "Madsen",
+    "last_name": "Krog",
+    "passport_number": "IX6559859",
+    "currency": "EUR",
+    "address": {
+        "city": "Oviedo",
+        "street name": "Plaza del Ayuntamiento",
+        "street number": 64,
+        "postal code": "06482"
+    },
+    "country_of_domicile": "Spain",
+    "phone_number": "+34 648 942 128",
+    "email_address": "friis.krog@telefonica.es"
+}

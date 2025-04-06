@@ -1,0 +1,73 @@
+{
+    "name": "Castro Ramos Hernández",
+    "address": {
+        "city": "Málaga",
+        "street name": "Passeig Marítim",
+        "street number": 71,
+        "postal code": "82676"
+    },
+    "country_of_domicile": "Spain",
+    "birth_date": "1991-04-27",
+    "nationality": "Spanish",
+    "passport_number": "IL0149700",
+    "passport_issue_date": "2019-05-28",
+    "passport_expiry_date": "2029-05-27",
+    "gender": "M",
+    "phone_number": "612 540 353",
+    "email_address": "castro.hernandez@vodafone.es",
+    "marital_status": "married",
+    "secondary_school": {
+        "name": "Instituto de Educación Secundaria IES Pablo Neruda Las Palmas de Gran Canaria",
+        "graduation_year": 2010
+    },
+    "higher_education": [
+        {
+            "university": "University of Barcelona",
+            "graduation_year": 2014
+        },
+        {
+            "university": "Complutense University of Madrid",
+            "graduation_year": 2020
+        }
+    ],
+    "employment_history": [
+        {
+            "start_year": 2016,
+            "end_year": null,
+            "company": "Tuenti Technologies S.L.",
+            "position": "Software Developer",
+            "salary": 31000
+        }
+    ],
+    "aum": {
+        "savings": 30000,
+        "inheritance": 720000,
+        "real_estate_value": 1968000
+    },
+    "inheritance_details": {
+        "relationship": "grandmother",
+        "inheritance year": 2015,
+        "profession": "Real Estate Developer"
+    },
+    "real_estate_details": [
+        {
+            "property type": "condo",
+            "property value": 1048000,
+            "property location": "Málaga"
+        },
+        {
+            "property type": "condo",
+            "property value": 920000,
+            "property location": "Santa Cruz de Tenerife"
+        }
+    ],
+    "investment_risk_profile": "Moderate",
+    "investment_horizon": "Medium",
+    "investment_experience": "Expert",
+    "type_of_mandate": "Discretionary",
+    "preferred_markets": [
+        "Spain",
+        "Switzerland"
+    ],
+    "currency": "EUR"
+}

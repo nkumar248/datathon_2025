@@ -1,0 +1,17 @@
+{
+    "name": "Gabriella Rizzo",
+    "first_name": "Gabriella",
+    "middle_name": "",
+    "last_name": "Rizzo",
+    "passport_number": "YW9991271",
+    "currency": "EUR",
+    "address": {
+        "city": "Vicenza",
+        "street name": "Via Giulia",
+        "street number": 14,
+        "postal code": "60252"
+    },
+    "country_of_domicile": "Italy",
+    "phone_number": "+39 394 7032540",
+    "email_address": "gabriella.rizzo@wind.it"
+}

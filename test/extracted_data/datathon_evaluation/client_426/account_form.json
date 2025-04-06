@@ -1,0 +1,17 @@
+{
+    "name": "Hanna Lilli Schäfer",
+    "first_name": "Hanna",
+    "middle_name": "Lilli",
+    "last_name": "Schäfer",
+    "passport_number": "LC4370433",
+    "currency": "EUR",
+    "address": {
+        "city": "Essen",
+        "street name": "Bismarckallee",
+        "street number": 26,
+        "postal code": "27435"
+    },
+    "country_of_domicile": "Germany",
+    "phone_number": "9464 081432",
+    "email_address": "hanna.schafer@t-online.de"
+}
